@@ -1,0 +1,65 @@
+ p  a href="https:  blog.emojipedia.org correcting-the-record-on-the-first-emoji-set " title="Emoji Wrap Podcast with Jeremy Burge"  span class="emoji" ❌  span  A correction on the first emoji set  span class="emoji" ✔️  span   a   p 
+ p A koala emoji, a native Australian marsupial that lives in the trees. Known for sleeping and eating the leaves of the eucalyptus tree.  p 
+ p 
+ em Koala  em  was approved as part of  a href=" unicode-6.0 " Unicode 6.0  a  in 2010
+and added to  a href=" emoji-1.0 " Emoji 1.0  a  in 2015.
+  p 
+ p  span class="emoji" 🐨  span  Koala Face  p 
+ p class="version-name"  a href=" apple ios-12.1 " iOS 12.1  a   p 
+ p class="version-name"  a href=" apple ios-10.2 " iOS 10.2  a   p 
+ p class="version-name"  a href=" apple ios-6.0 " iOS 6.0  a   p 
+ p class="version-name"  a href=" apple ios-5.1 " iOS 5.1  a   p 
+ p class="version-name"  a href=" apple ios-4.0 " iOS 4.0  a   p 
+ p class="version-name"  a href=" apple iphone-os-2.2 " iPhone OS 2.2  a   p 
+ p class="version-name"  a href=" google android-9.0 " Android 9.0  a   p 
+ p class="version-name"  a href=" google android-8.0 " Android 8.0  a   p 
+ p class="version-name"  a href=" google android-7.0 " Android 7.0  a   p 
+ p class="version-name"  a href=" google android-5.0 " Android 5.0  a   p 
+ p class="version-name"  a href=" google android-4.4 " Android 4.4  a   p 
+ p class="version-name"  a href=" google android-4.3 " Android 4.3  a   p 
+ p class="version-name"  a href=" microsoft windows-10-october-2018-update " Windows 10 October 2018 Update  a   p 
+ p class="version-name"  a href=" microsoft windows-10-anniversary-update " Windows 10 Anniversary Update  a   p 
+ p class="version-name"  a href=" microsoft windows-10 " Windows 10  a   p 
+ p class="version-name"  a href=" microsoft windows-8.1 " Windows 8.1  a   p 
+ p class="version-name"  a href=" microsoft windows-8.0 " Windows 8.0  a   p 
+ p class="version-name"  a href=" samsung one-ui-1.0 " One UI 1.0  a   p 
+ p class="version-name"  a href=" samsung experience-9.0 " Experience 9.0  a   p 
+ p class="version-name"  a href=" samsung touchwiz-7.1 " TouchWiz 7.1  a   p 
+ p class="version-name"  a href=" samsung touchwiz-7.0 " TouchWiz 7.0  a   p 
+ p class="version-name"  a href=" samsung touchwiz-2.0 " TouchWiz Nature UX 2  a   p 
+ p class="version-name"  a href=" whatsapp 2.19.62 " 2.19.62  a   p 
+ p class="version-name"  a href=" whatsapp 2.17 " 2.17  a   p 
+ p class="version-name"  a href=" twitter twemoji-11.3 " Twemoji 11.3  a   p 
+ p class="version-name"  a href=" twitter twemoji-1.0 " Twemoji 1.0  a   p 
+ p class="version-name"  a href=" facebook 3.0 " 3.0  a   p 
+ p class="version-name"  a href=" facebook 2.0 " 2.0  a   p 
+ p class="version-name"  a href=" facebook 1.0 " 1.0  a   p 
+ p class="version-name"  a href=" emojione 4.5 " 4.5  a   p 
+ p class="version-name"  a href=" emojione 4.0 " 4.0  a   p 
+ p class="version-name"  a href=" emojione 3.1 " 3.1  a   p 
+ p class="version-name"  a href=" emojione 3.0 " 3.0  a   p 
+ p class="version-name"  a href=" emojione 2.2 " 2.2  a   p 
+ p class="version-name"  a href=" emojione 2.0 " 2.0  a   p 
+ p class="version-name"  a href=" emojione 1.0 " 1.0  a   p 
+ p class="version-name"  a href=" emojidex 1.0.34 " 1.0.34  a   p 
+ p class="version-name"  a href=" emojidex 1.0.33 " 1.0.33  a   p 
+ p class="version-name"  a href=" emojidex 1.0.14 " 1.0.14  a   p 
+ p class="version-name"  a href=" messenger 1.0 " 1.0  a   p 
+ p class="version-name"  a href=" lg g5 " G5  a   p 
+ p class="version-name"  a href=" lg g3 " G3  a   p 
+ p class="version-name"  a href=" htc sense-7 " Sense 7  a   p 
+ p class="version-name"  a href=" mozilla firefox-os-2.5 " Firefox OS 2.5  a   p 
+ p class="version-name"  a href=" softbank 2014 " 2014  a   p 
+ p class="version-name"  a href=" softbank 2008 " 2008  a   p 
+ p class="version-name"  a href=" softbank 2006 " 2006  a   p 
+ p class="version-name"  a href=" softbank 2004 " 2004  a   p 
+ p class="version-name"  a href=" softbank 2001 " 2001  a   p 
+ p class="version-name"  a href=" softbank 2000 " 2000  a   p 
+ p class="version-name"  a href=" au-kddi type-f " Type F  a   p 
+ p class="version-name"  a href=" au-kddi type-d-3 " Type D-3  a   p 
+ p class="version-name"  a href=" au-kddi type-d-2 " Type D-2  a   p 
+ p class="version-name"  a href=" au-kddi type-d-1 " Type D-1  a   p 
+ p All emoji names are  a href=" faq " official character and or CLDR names  a  and  a href=" emoji " title="😃 Every Emoji by Codepoint" code points  a  listed as part of the  a href="https:  en.wikipedia.org wiki Unicode_Standard" Unicode Standard  a . Additional descriptions are copyright © Emojipedia. Emoji images displayed on Emojipedia are copyright © their respective creators, unless otherwise noted.  p 
+ p Emojipedia® is a voting member of the  a href="https:  en.wikipedia.org wiki Unicode_Consortium" Unicode Consortium  a .  p 
+ p Emojipedia® is a registered trademark of Emojipedia Pty Ltd; Apple® is a registered trademark of Apple Inc; Microsoft® and Windows® are registered trademarks of Microsoft Corporation; Google® and Android™ are registered trademarks or trademarks of Google Inc in the United States and or other countries. EmojiOne™ images provided by EmojiOne.  p 
+ p Follow Emojipedia on  a href="https:  twitter.com emojipedia" rel="me" Twitter  a ,  a href="https:  www.facebook.com Emojipedia " rel="me" Facebook  a ,  a href="https:  www.instagram.com emojipedia " rel="me" Instagram  a  or  a href="http:  micro.blog emojipedia" rel="me" Micro.blog  a .  p 

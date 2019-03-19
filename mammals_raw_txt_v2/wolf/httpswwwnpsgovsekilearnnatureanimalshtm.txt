@@ -1,0 +1,55 @@
+ p Sequoia and Kings Canyon National Parks have an impressive elevation range from the low foothills to the Sierra Nevada peaks, and provide habitat for a diversity of animals.   p 
+ p  span style="line-height: 1.42857;" Below are highlights of animals you can find at different elevation zones of the parks, and links to learn more about park animals.  span   p 
+ p class="subheading" Foothills  p 
+ p In the low-elevation foothills, summers are hot and dry and winters are mild. You will find oak woodlands, dense chaparral shrubs, and riverside vegetation like California sycamores, willows and cottonwoods. A number of animals live in this area year-round, while some only winter or breed here. Local species include the gray fox, bobcat, striped and spotted skunks, black bear, woodrat, pocket gopher, white-footed mouse, California quail, scrub jay, lesser goldfinch, wrentit, acorn woodpecker, gopher snake, California kingsnake, striped racer, western whiptail lizard, and the California newt.   p 
+ p class="subheading" Montane Forests and Meadows  p 
+ p In the low to mid-montane elevations are mixed forests of pine, incense-cedar, fir, and scattered groves of giant sequoia provide. Further upslope, grow pure stands of magnificent red fir and lodgepole pine forest. Scattered meadows are lush with many kinds of flowers in the summer. Winters are typically snowy. Year-round and seasonal residents include the chickaree, gray squirrel, golden-mantled ground squirrel, mule deer, black bear, mountain lion, and a variety of birds. Resident birds include western tanager, violet-green swallow, white-throated swift, Wilson's warbler, olive-sided flycatcher, hermit thrush, western bluebird, and pileated woodpecker. Reptiles are not common, but occasionally mountain kingsnake, rubber boa, western fence lizard, and alligator lizard can be seen.    p 
+ p class="subheading" Subalpine and Alpine Areas  p 
+ p The high country is a land of lakes, meadows, some open forest, and miles of granite. Mammals are less common here, and food is scarce. Mammals inhabiting these high Sierra landscapes include the marmot, pika, and white-tailed jack rabbit. Birds include the Clark's nutcracker, mountain bluebird, American pipit, and gray-crowned rosy finch. In this region, you may also be lucky enough to find a mountain yellow-legged frog or a Sierra Nevada bighorn sheep, both endangered species for which recovery efforts are underway.  p 
+ p class="Feature-description" Fourteen species of amphibians and 11 species of fish live in these parks, including the California newt. Photo by Tony Caprio.  p 
+ p class="Feature-description" More than 200 species of birds nest, stopover during migration, or live year-round in these parks. Photo by Gary Lindquist.  p 
+ p class="Feature-description" These parks host 72 species of mammals, including the pika. Photo: © Isaac Chellman.  p 
+ p class="Feature-description" These parks are home to 21 species of reptiles, including the western pond turtle. Photo by Erik Meyer.  p 
+ p class="Feature-description" Learn more about efforts to restore endangered Sierra Nevada bighorn sheep. Bighorn ram photo by David Graber.  p 
+ p class="Feature-description" Learn more about the restoration of endangered mountain yellow-legged frogs in these parks.  p 
+ p class="subheading" More Information  p 
+ p Use the NPSpecies tool below to get park animal or plant checklists. Be aware that  species lists and taxonomy are dynamic and some of the lists in this database may need to be updated.  p 
+ p  strong Occurrence  strong   p 
+ p Occurrence values are defined below. One or more  a class="linktext" href="#OccurrenceTags" Occurrence Tags  a  may be associated with each Occurrence value.  p 
+ p  strong style="color: #5E7630;" Present:  strong  Species occurs in park; current, reliable evidence available.  p 
+ p  strong style="color: #5E7630;" Probably Present:  strong  High confidence species occurs in park but current, verified evidence needed.  p 
+ p  strong style="color: #5E7630;" Unconfirmed:  strong  Species is attributed to park but evidence is weak or absent.  p 
+ p  strong style="color: #5E7630;" Not In Park:  strong  Species is not known to occur in park.  p 
+ p  strong  a name="OccurrenceTags"   a Occurrence Tags  strong   p 
+ p  strong style="color: #5E7630;" Adjacent:  strong  Species is known to occur in areas near to or contiguous with park boundaries.  p 
+ p  strong style="color: #5E7630;" False Report:  strong  Species was reported to occur within the park, but current evidence indicates the report was based on misidentification, a taxonomic concept no longer accepted, or other similar problem of error or interpretation.  p 
+ p  strong style="color: #5E7630;" Historical:  strong  Species' historical occurrence in park is documented. Assigned based on judgment as opposed to determination based on age of the most recent evidence.  p 
+ p  strong Abundance  strong   p 
+ p  strong style="color: #5E7630;" Abundant:  strong    p 
+ p  strong style="color: #5E7630;" Common:  strong    p 
+ p  strong style="color: #5E7630;" Uncommon:  strong    p 
+ p  strong style="color: #5E7630;" Rare:  strong    p 
+ p  strong style="color: #5E7630;" Occasional:  strong    p 
+ p  strong style="color: #5E7630;" Unknown:  strong  Abundance unknown  p 
+ p  strong Nativeness  strong   p 
+ p  strong style="color: #5E7630;" Native:  strong  Species naturally occurs in park or region.  p 
+ p  strong style="color: #5E7630;" Non-native:  strong  Species occurs on park lands as a result of deliberate or accidental human activities.  p 
+ p  strong style="color: #5E7630;" Unknown:  strong  Nativeness status is unknown or ambiguous.  p 
+ p The  strong style="color: #5E7630;" Checklist  strong  contains only those species that are designated as "present" or "probably present" in the park.  p 
+ p The  strong style="color: #5E7630;" Full List  strong  includes all the checklist species in addition to species that are unconfirmed, historically detected, or incorrectly reported as being found in the park. The full list also contains species that are "in review" because their status in the park hasn't been fully determined. Additional details about the status of each species is included in the full list.  p 
+ p The checklist will almost always contain fewer species than the full list.  p 
+ p  span id="npsSpeciesTableLoaded"   span  a href="#" class="modalDefinitions" id="modalDefinitions" style="display:none;" tabindex="6" Species attribute definitions  a   p 
+ p  br Visit  a href="https:  irma.nps.gov NPSpecies " id="NPSpeciesLink" target="_blank" tabindex="6" NPSpecies  a  for more comprehensive information and advanced search capability. Have a suggestion or comment on this list?  a href="https:  irma.nps.gov NPSpecies Suggest" id="NPSpeciesContactLink" target="_blank" tabindex="7" Let us know  a .  p 
+ p style="text-align:right;" Last updated: June 18, 2018  p 
+ p class="adr" 
+ span itemprop="streetAddress" class="street-address" 
+47050 Generals Highway
+  span 
+ br 
+ span  span itemprop="addressLocality" Three Rivers  span ,  span itemprop="addressRegion" class="region" CA  span 
+ span itemprop="postalCode" class="postal-code" 93271       span 
+  span 
+  p 
+ p  span itemprop="telephone" class="tel" 
+(559) 565-3341  span 
+  p 

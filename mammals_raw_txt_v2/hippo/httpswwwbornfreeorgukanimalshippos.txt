@@ -1,0 +1,76 @@
+ p Hippos are amphibious, spending their days in water – rivers, lakes, wetlands and muddy wallows – and emerging at sunset to feed.   p 
+ p A hippo’s skin must remain moist, as it will crack if exposed to the air and sun for long periods. They secrete an oily red liquid from subdermal glands which is thought to function as a sunscreen, antibiotic and insect repellent.    p 
+ p Fights for possession of a territory can be fierce and hippos may inflict considerable injuries with their huge canines, though minor conflicts are often settled by threat displays such as the "yawn".   p 
+ p Hippos are sociable and live in herds ranging from the tens to a hundred. Females usually give birth to a single baby every other year and lactation can extend for 18 months or longer.   p 
+ p  em *International Union for Conservation of Nature is the world’s main authority on the conservation status of species  em   p 
+ p Vulnerable  p 
+ p 115,000-130,000 ⚫  p 
+ p Herbivorous – grass, shoots and flowers  p 
+ p Wetland habitats including rivers, lakes and mangrove swamps  p 
+ p Throughout sub-Saharan Africa  p 
+ p The primary threats to hippo survival are poaching, for their ivory canine teeth and meat, and loss of habitat due to human settlement, deforestation and pollution.    p 
+ p A reliance on fresh water habitats puts hippos in direct conflict with increasing human populations, primarily due to water diversion for agricultural and building development in proximity to wetland areas.  p 
+ p    p 
+ p The primary threats to hippo survival is poaching for their ivory canine teeth. As a result of the Elephant Ivory Ban we could see poachers target hippos as an alternative source of ivory.  p 
+ p  a class="button success large" href=" ivory-trade" IVORY TRADE  a   p 
+ p    p 
+ p class="h2 black background text-white" UPDATE DIRECT TO YOUR INBOX  p 
+ p Sign up to get the latest Born Free news about our work and how you can help, delivered straight to your inbox.  p 
+ p class="h3 with-icon header-mb"  i class="fas fa-rss"   i  NEWS  p 
+ p 
+             a :href="props.record.uri" v-text="props.record.name"   a  br 
+             span v-text="props.record.excerpt"   span 
+          p 
+ p class="h3 with-icon header-mb"  i class="fab fa-twitter"   i  SOCIAL MEDIA  p 
+ p class="header-mb" FOLLOW US ON  p 
+ p 
+                © 2019 - Born Free Foundation br 
+                Broadlands Business Campus, Langhurstwood Road br 
+Horsham, West Sussex, RH12 4QP br 
+ br 
+The Born Free Foundation is a registered charity. br 
+(Charity Number: 1070906). Registered as a company limited by guarantee (Number 03603432) (England &amp; Wales). br 
+Registered office: Broadlands Business Campus, RH12 4QP
+              p 
+ p 
+
+        
+             a href=" contact" 
+                Contact
+              a  |
+        
+             a href=" annual-reports" 
+                Annual Reports
+              a  |
+        
+             a href=" report-animal-suffering" 
+                Captive Animal Report Form
+              a  |
+        
+             a href=" faqs" 
+                FAQs
+              a  |
+        
+             a href=" privacy-policy" 
+                Privacy Policy
+              a  |
+        
+             a href=" data-policy" 
+                Data Policy
+              a  |
+        
+             a href=" terms-and-conditions" 
+                Terms &amp; Conditions
+              a  |
+        
+             a href=" sitemap" 
+                Sitemap
+              a  |
+        
+             a href=" careers" 
+                Careers
+              a 
+        
+      p 
+ p 
+                Website by  PMW               p 

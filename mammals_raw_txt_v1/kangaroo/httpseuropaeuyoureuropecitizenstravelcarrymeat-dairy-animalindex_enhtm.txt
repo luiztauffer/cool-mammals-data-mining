@@ -1,0 +1,16 @@
+ p Available languages:  button title="Close this menu" id="eu-close-languages-menu" ✖  button 
+  p 
+ p There are no general restrictions on carrying any of these products if you are travelling within the EU, since all EU countries have to respect strict common veterinary standards. The same applies if you are travelling to or from Andorra, Liechtenstein, Norway, San Marino or Switzerland.  p 
+ p Some restrictions may apply in case of localised animal-disease outbreaks.  p 
+ p 
+ br  If you are arriving in the  a id="link-abbr-ID0ECJAC" href="#abbr-ID0ECJAC" class="abbr" title="In this case, the 28 EU member states + Iceland, Liechtenstein and Norway" EU  a , from a country not mentioned above, you may not bring with you any meat or dairy products without official veterinary documentation. This is  a data-linkid="2689" href="http:  ec.europa.eu food animals animalproducts personal_imports_en" title="to prevent serious animal diseases" to prevent serious animal diseases  a  from being brought into the EU.  p 
+ p You are, however, allowed to bring in powdered infant milk, baby food and foods required for medical reasons - subject to some restrictions. You are also allowed to bring in limited quantities - for personal consumption - of other animal products including fish products, snails and honey.  p 
+ p Travellers arriving in the EU from  strong the Faeroe Islands, Greenland and Iceland  strong  may bring small quantities of meat and dairy products for personal consumption.  p 
+ p 
+    Get in touch with specialised assistance services
+    p 
+ p 
+ span class="url-help-advice"  a href="http:  ec.europa.eu eu-rights enquiry-complaint-form home" title="Get advice on your EU rights   Solve problems with a public body" data-linkid="35224" Get advice on your EU rights   Solve problems with a public body  a   span 
+  p 
+ p class="status" Thank you for taking part in our survey!  p 
+ p class="mandatory" mandatory field  p 

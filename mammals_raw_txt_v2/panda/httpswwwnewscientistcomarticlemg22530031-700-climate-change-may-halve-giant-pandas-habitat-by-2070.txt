@@ -1,0 +1,32 @@
+ p class="header-promotion__sub-title"  a href=" sign-up " class="header-promotion__sub-title-link" Sign up to our daily email newsletter  a   p 
+ p class="header-meganav__footer-secondary-links"  a href=" registration " Sign up for free  a  span class="divider" |  span  a href=" educational-access " Educational access  a   p 
+ p class="header-meganav__blurb" A selection of top articles hand-picked by our editors available only to registered users.  p 
+ p class="header-meganav__blurb" Check your subscription package, update your details, renew or upgrade.  p 
+ p class="header-meganav__footer-secondary-links"  a href=" activate-subscription " Activate subscription  a   p 
+ p  figure class="img-800  case5"  img src="http:  www.newscientist.com wp-content uploads 2015 01 mg22530031.700-1_800.jpg" class="img-800 wp-image-2014996" alt="On the bamboo trail " title="On the bamboo trail "  div class="image-details"  figcaption class="wp-caption-text" On the bamboo trail  figcaption  p class="credit" (Image: Tim Davis Corbis)  p   div   figure 
+  p 
+ p class="credit" (Image: Tim Davis Corbis)  p 
+ p GIANT pandas, prepare to move out. Shifting these creatures to distant reserves may be essential if they are to survive the likely impacts of climate change.  p 
+ p Pandas are well known for their pernickety bamboo diet and lacklustre sex lives. Wild populations have been reduced to a tiny gene pool and are under new pressure from the explosive growth in road-building in China. Taking these factors into account, Ming Xu of Rutgers University in New Brunswick, New Jersey, and colleagues have modelled how pandas’ geographical range could be further affected by climate change.  p 
+ p They found that even the most conservative scenarios, which foresee an average of 1 °C warming globally by 2100, could result in habitat suitable for pandas more than halving by 2070 (Biological Conservation,  a href="http:  doi.org xz7" doi.org xz7  a ). To make matters worse, panda populations could also become more fragmented. Xu’s analysis predicts that the average size of panda habitats would decrease by about 19 per cent. That means small groups, such as the 29 animals that live in the Daxiang mountains of south-west China, could become cut off from the rest of the population and face a greater risk of dying out.
+                      p 
+ p 
+                          p 
+ p On the upside, Xu predicts that some areas to the north of the pandas’ current mountainous homelands could become suitable. Planting bamboo there now could prime them for panda relocation in the future.  p 
+ p class="print-headline"  i This article appeared in print under the headline “Climate change bears down on hapless pandas”  i   p 
+ p More on these topics:   p 
+ p class="magazine-issue-text" 
+                                    Magazine issue
+                                     a href=" issue 3003 " 
+                                        3003
+                                      a 
+                                    , published 10 January 2015
+                                  p 
+ p class="previous" Previous article  p 
+ p class="previous-article-title" 
+                                                    Feedback: Mindlessness for health
+                                                  p 
+ p class="next" Next article  p 
+ p class="next-article-title" 
+                                                    Booze binge has immediate effect on immune system
+                                                  p 

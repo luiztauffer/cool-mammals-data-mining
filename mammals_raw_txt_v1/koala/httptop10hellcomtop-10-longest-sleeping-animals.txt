@@ -1,0 +1,47 @@
+ p class="postmetadata" Posted by  a href="http:  top10hell.com author admin " title="Posts by admin" rel="author" admin  a  on 7 23 12 • Categorized as  a href="http:  top10hell.com category animals " title="View all posts in Animals" rel="category tag" Animals  a   p 
+ p We could survive longer without food than we could without sleep. Average person spends a third of his life sleeping. That’s 25 years or even more! Sleep is very important for healthy life. People whose normal nightly sleep duration is either very short (less than 4 hours) or very long (more than 9 or 10 hours) have a higher than average risk of dying prematurely. But that doesn’t apply for animals. Their sleeping time is very different. The most sleepiest animal in the world can sleep about 22 hours (out of 24) and animal that sleeps the least (giraffe) only 1.9 hours. That’s a huge difference. Below are 10 animals (including human) that require longest sleeping hours per day.  p 
+ p   img class="alignleft size-full wp-image-101" title="sleeping-squirrel" src="http:  top10hell.com wp-content uploads 2012 07 sleepingsquirrel.jpg" border="0" alt="bikes-in-china" width="575" height="384"   span style="font-size: xx-small" (Image credits:  a href="http:  www.flickr.com photos darrenbohn " target="_blank" darrenbohn  a )  span 
+  p 
+ p   img title="sleeping-treeshrew" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="431" alt="sleeping-treeshrew" src="http:  top10hell.com wp-content uploads 2012 07 sleepingtreeshrew.jpg" width="575" border="0"   span style="font-size: xx-small" (Image credits:  a href="http:  www.flickr.com photos joachim_s_mueller " target="_blank" joachim_s_mueller  a )  span 
+  p 
+ p   img title="sleeping-tiger" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="431" alt="sleeping-tiger" src="http:  top10hell.com wp-content uploads 2012 07 sleepingtiger.jpg" width="575" border="0"   span style="font-size: xx-small" (Image credits:  a href="http:  www.flickr.com photos maarjaara " target="_blank" maarjaara  a )  span 
+  p 
+ p   img title="sleeping-baby" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="382" alt="sleeping-baby" src="http:  top10hell.com wp-content uploads 2012 07 sleepingbaby.jpg" width="575" border="0"   span style="font-size: xx-small" (Image credits:  a href="http:  www.flickr.com photos lisarosariophotography " target="_blank" lisarosariophotography  a )  span 
+  p 
+ p   img title="night-monkey" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="482" alt="night-monkey" src="http:  top10hell.com wp-content uploads 2012 07 nightmonkey.jpg" width="575" border="0"   span style="font-size: xx-small" (Image credits:  a href="http:  www.flickr.com photos steveharris " target="_blank" steveharris  a )  span 
+  p 
+ p   img title="sleeping-python" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="420" alt="sleeping-python" src="http:  top10hell.com wp-content uploads 2012 07 sleepingpython.jpg" width="575" border="0"   span style="font-size: xx-small" (Image credits:  a href="http:  www.flickr.com photos jasonpratt " target="_blank" jasonpratt  a )  span 
+  p 
+ p   img title="sleeping-opossum" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="383" alt="sleeping-opossum" src="http:  top10hell.com wp-content uploads 2012 07 sleepingopossum.jpg" width="575" border="0"   span style="font-size: xx-small" (Image credits:  a href="http:  www.flickr.com photos ce_matin_un_lapin " target="_blank" ce_matin_un_lapin  a )  span 
+  p 
+ p   img title="sleepy-giant-armadillo" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="383" alt="sleepy-giant-armadillo" src="http:  top10hell.com wp-content uploads 2012 07 sleepygiantarmadillo.jpg" width="575" border="0"   span style="font-size: xx-small" (Image credits:  a href="http:  www.flickr.com photos jelleyman " target="_blank" elleyman  a )  span 
+  p 
+ p   img title="sleeping-brown-bat" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="431" alt="sleeping-brown-bat" src="http:  top10hell.com wp-content uploads 2012 07 sleepingbrownbat.jpg" width="575" border="0"   span style="font-size: xx-small" (Image credits:  a href="http:  www.flickr.com photos driggs " target="_blank" driggs  a )  span 
+  p 
+ p   img title="sleeping-koala" style="border-top-width: 0px; display: inline; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px" height="431" alt="sleeping-koala" src="http:  top10hell.com wp-content uploads 2012 07 sleepingkoala.jpg" width="575" border="0"   span style="font-size: xx-small" (Image credits:  a href="http:  www.flickr.com photos edwin11 " target="_blank" edwin11  a )  span 
+  p 
+ p 
+     input type="text" name="author" id="author" value="" size="22" tabindex="1" 
+     label for="author" 
+    Name        (
+    required    )
+          label 
+    p 
+ p 
+     input type="text" name="email" id="email" value="" size="22" tabindex="2" 
+     label for="email" 
+    Email        (
+    required    )
+          label 
+    p 
+ p 
+     input type="text" name="url" id="url" value="" size="22" tabindex="3" 
+     label for="url" 
+    Website      label 
+    p 
+ p 
+     textarea name="comment" id="comment" cols="10" rows="10" tabindex="4"   textarea 
+    p 
+ p 
+     input name="submit" type="submit" id="submit" class="button" tabindex="5" value="Submit Comment" 
+    p 

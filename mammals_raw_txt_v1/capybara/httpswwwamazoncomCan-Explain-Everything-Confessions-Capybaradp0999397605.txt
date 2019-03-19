@@ -1,0 +1,20 @@
+ p class="kcpAppWidgetDetailDesc" Enter your mobile number or email address below and we'll send you a link to download the free Kindle App. Then you can start reading Kindle books on your smartphone, tablet, or computer - no Kindle device required.   p 
+ p class="kcpAppWidgetHeader"      p 
+ p id="kcpAppDownloadMessage" style="margin: 0px;" To get the free app, enter your mobile phone number.  p 
+ p class="a-text-center" 
+             span id="followErrorClose" class="a-button a-button-base"  span class="a-button-inner"  input data-action="closeErrorDialog" class="a-button-input a-declarative" type="submit" aria-labelledby="followErrorClose-announce"  span id="followErrorClose-announce" class="a-button-text" aria-hidden="true" 
+                OK
+              span   span   span 
+          p 
+ p Is there a 100-pound semi-aquatic South American rodent in your kitchen?  p 
+ p I am Dobby the Capybara, I live in the suburbs, and this is my story. Royalty is automatic among the world's largest rodents, but I am The Prince. Read the highly opinionated record of my downfall from pampered pet to grubby, corn-obsessed middle age.  p 
+ p This isn't "How to Capybara" anything, and the facts are a little bit mixed up. If you are interested in wild capybaras, don't look here! I can tell you what's in my refrigerator, though, and where the off-limits birdseed is. I also discuss visitor expectations, explain discreet coprophagy techniques, and offer advice on forays into forbidden parts of the house. Grab a highlighter and take notes in case there is a poop quiz!  p 
+ p "This book would be easier to digest if the pages were made out of kale." -- JoeJoe the Capybara, reddit  p 
+ p    p 
+ p "Ridiculous book about capybaras. All lies. The part about Caplin is okay." -- Mudskipper Rous, ROUS Foundation Advocate  p 
+ p    p 
+ p "Dobby isn't my type. What a grubber! I'll take a litter of puppies any day." -- Cheesecake, Capybara Nanny; Rocky Ridge Rescue, Arkansas  p 
+ p    p 
+ p "Dobby is a little bit country; Romeo &amp; Tuff'n are a little bit Rock and Roll!" -- Romeo and Tuff'n, Headliner Capybaras, Las Vegas, Nevada  p 
+ p class="nav_p nav-bold" There's a problem loading this menu right now.  p 
+ p class="nav_p"  a href=" gp prime" class="nav_a" Learn more about Amazon Prime.  a   p 

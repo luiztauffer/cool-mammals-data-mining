@@ -1,0 +1,8 @@
+ p 
+				 span At Sedgwick County Zoo, the natural world   span   span comes to life with each step you take.  span 			  p 
+ p class="p1"  span class="s1" From colossal elephants to majestic lions to playful otters and everything in between, we’re home to more than 3,000 animals across nearly 400 different species.   span   p 
+ p class="p1"  span class="s1" Every habitat provides a wealth of opportunities to learn more about our living planet and the creatures that call it home. We’re sure you’ll discover something new with every visit!   span 
+	      p 
+ p 
+					    Our monthly e-newsletter holds a fun assortment of announcements, discounts, and news so you can stay up to date with Sedgwick County Zoo.
+				      p 

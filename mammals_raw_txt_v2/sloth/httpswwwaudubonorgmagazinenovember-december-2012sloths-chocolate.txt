@@ -1,0 +1,31 @@
+ p class="deck" 
+    Shade-grown crops like cacao are a boon for sloths.    p 
+ p  strong Membership benefits include one year of  em Audubon   em magazine  strong  and the latest on birds and their habitats. Your support helps secure a future for birds at risk.  p 
+ p Go ahead—call sloths chocoholics. The slow-moving mammals have a penchant for cacao plantations, new research shows.  p 
+ p  a href="http:  forest.wisc.edu pauli-jonathan-current-faculty-profile" target="_blank" Jonathan Pauli  a  and  a href="http:  labs.russell.wisc.edu peery zach-peery " target="_blank" Zach Peery  a , wildlife ecologists at the  a href="http:  www.wisc.edu " target="_blank" University of Wisconsin-Madison  a , have been studying  a href="http:  www.britannica.com EBchecked topic 710966 brown-throated-three-toed-sloth" target="_blank" brown-throated three-toed  a  and  a href="http:  www.britannica.com EBchecked topic 764078 Hoffmanns-two-toed-sloth" target="_blank" Hoffmann's two-toed  a  (above) sloths at a Costa Rican cacao plantation. Rather than clear-cutting the land, the trees, whose seeds are used to make chocolate, grow in the shade beneath the rainforest canopy.  p 
+ p The pair has found that sloths are abundant on the cacao farm but not on neighboring lands where farmers grow bananas and pineapples or raise cattle and where there is far less shade. "The sloths don't use the areas where the monocultures of bananas and pineapple are," Pauli says. "It's just not suitable habitat for them."  p 
+ p The finding lends strong credence to their theory that well-managed shade-grown crops like cacao might be key for maintaining biodiversity in the tropics. Other research shows that shade-grown coffee, for instance, provides sanctuary for neotropical migratory birds such as  a href="http:  birds.audubon.org species golwar1" target="_blank" golden-winged  a  and  a href="http:  www.allaboutbirds.org guide Kentucky_Warbler lifehistory" target="_blank" Kentucky warblers  a .  p 
+ p The researchers hope to compare the cacao plantation sloths to those in larger, more intact rainforest habitat. They also want to understand whether the animals can disperse—there are many narrow stretches of rainforest along the country's rivers—thus allowing them to mix with other populations and avoid inbreeding.  p 
+ p Meanwhile, the scientists are studying these elusive mammals' behavior with the aid of radio collars and DNA samples. They've learned, for instance, that male territorial boundaries overlap and that the brown two-toed sloths are promiscuous. "They're rather cryptic animals," Pauli says. "They can be hard to detect."  p 
+ p What's easy to sniff out, however, is that the smell of conservation success for sloths has a chocolatey aroma.  p 
+ p  em This article originally ran in the November-December issue as, "Slow Food."   em   p 
+ p  span The Bureau of Land Management has released a leasing plan to sell out the heart of the Arctic Refuge to oil companies.  span   p 
+ p Let us send you the latest in bird and conservation news.   p 
+ p    p 
+ p Visit your local Audubon center, join a chapter, or help save birds with your state program.  p 
+ p class="mailing-list-caption"  em Our email newsletter shares the latest programs and initiatives.  em   p 
+ p Audubon protects birds and the places they need, today and tomorrow.  p 
+ p 
+          National Audubon Society           span class="footer-copyright-links" 
+ span class="footer-copyright-links" 
+       a href=" terms-use" Legal Notices  a        a href="http:  audubon.org privacy-policy" Privacy Policy  a        a href=" contact-us" Contact Us  a     span 
+  span 
+          p 
+ p class="days-wrapper"  span class="timer-days"   span  Days  p 
+ p class="hours-wrapper"  span class="timer-hours"   span  Hours  p 
+ p class="minutes-wrapper"  span class="timer-minutes"   span  Minutes  p 
+ p class="seconds-wrapper"  span class="timer-seconds"   span  Seconds  p 
+ p class="timer-text" A  strong $320,000  strong  Donation Match Expires Soon!  p 
+ p class="last-chance-text" A  strong $80,000  strong  Donation Match Expires Soon!!  p 
+ p class="honest-approach-text" Audubon is a nonprofit organization committed to protecting birds and the places they need.  We rely on our members for support.  strong You can help us by making a donation today.  strong   p 
+ p class="urgent-threat-text" We're in a race against time — to give birds a fighting chance in a rapidly changing world.   strong Your support will hellp secure the future for birds at risk from climate change, habitat loss, and other threats.  strong   p 

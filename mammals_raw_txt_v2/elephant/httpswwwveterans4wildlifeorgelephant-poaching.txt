@@ -1,0 +1,103 @@
+ p class="" data-reactid=".7.0.1.0:$0"  span style="font-size: 12pt;"  strong  span class="fast-facts__facts__key" data-reactid=".7.0.1.0:$0.0" Common Name:   span   strong African Elephant  span   p 
+ p class="fast-facts__facts__scientific-name" data-reactid=".7.0.1.0:$1"  span style="font-size: 12pt;"  strong  span class="fast-facts__facts__key" data-reactid=".7.0.1.0:$1.0" Scientific Name:   span   strong Loxodonta africana  span   p 
+ p class="" data-reactid=".7.0.1.0:$2"  span style="font-size: 12pt;"  strong  span class="fast-facts__facts__key" data-reactid=".7.0.1.0:$2.0" Type:   span   strong Mammals  span   p 
+ p class="" data-reactid=".7.0.1.0:$3"  span style="font-size: 12pt;"  strong  span class="fast-facts__facts__key" data-reactid=".7.0.1.0:$3.0" Diet:   span   strong Herbivores  span   p 
+ p class="" data-reactid=".7.0.1.0:$4"  span style="font-size: 12pt;"  strong  span class="fast-facts__facts__key" data-reactid=".7.0.1.0:$4.0" Group Name:   span   strong Herd  span   p 
+ p class="" data-reactid=".7.0.1.0:$5"  span style="font-size: 12pt;"  strong  span class="fast-facts__facts__key" data-reactid=".7.0.1.0:$5.0" Average Lifespan in the Wild:   span   strong Up to 70 years  span   p 
+ p class="" data-reactid=".7.0.1.0:$6"  span style="font-size: 12pt;"  strong  span class="fast-facts__facts__key" data-reactid=".7.0.1.0:$6.0" Size:   span   strong Height at the shoulder, 8.2 to 13 ft  span   p 
+ p class="" data-reactid=".7.0.1.0:$7"  span style="font-size: 12pt;"  strong  span class="fast-facts__facts__key" data-reactid=".7.0.1.0:$7.0" Weight:   span   strong 2.5 to 7 tons  span   p 
+ p class="" data-reactid=".7.0.1.0:$7" style="text-align: center;"  strong African Elephant (Loxodonta africana)  strong  img src=" GetImage.aspx?IDMF=d646a0d3-a0b3-4900-8d52-06ab7d540488&amp;w=692&amp;h=174&amp;src=mc" alt="" title="" class="mediaImage" style="display: block; margin-left: auto; margin-right: auto;"  span   img src=" GetImage.aspx?IDMF=dafc1230-1c6e-4b6d-a097-03e4c0803b67&amp;w=400&amp;h=451&amp;src=mc" alt="Map of Africa- Where African Elephants are Found" title="Map of Africa- Where African Elephants are Found" class="mediaImage" style="display: block; margin-left: auto; margin-right: auto;"   span  span style="font-size: 12pt;"   span   p 
+ p class="" data-reactid=".7.0.1.0:$7" style="text-align: justify;"  span style="font-size: 12pt;" The African Elephant is the world's largest living animal and is listed as Vulnerable on the IUCN Red List of Threatened Species™ with only around 415 000 remaining. They are found across much of sub- Saharan Africa, but its populations are becoming increasingly fragmented. The two primary factors behind the decline of African elephants – demand for ivory and changes in land-use – still pose a serious threat to the species today with an estimated 20 000 African Elephant being killed every year.   span   p 
+ p class="" data-reactid=".7.0.1.0:$7" style="text-align: justify;"  span style="font-size: 12pt;" Despite a ban on international trade in ivory, African elephants are still being poached in large numbers. Tens of thousands of elephants are being killed every year for their ivory tusks. The ivory is often carved into ornaments and jewellery – Asia being the single biggest consumer market for such products. Insufficient anti-poaching capacity, weak law enforcement and corruption undermine efforts to stop the poaching and trafficking in most countries  span   p 
+ p class="" data-reactid=".7.0.1.0:$7" style="text-align: justify;"  span style="font-size: 12pt;" Unfortunately, most elephant habitat still extends outside protected areas, and the rapid growth of human populations and the extension of agriculture into rangelands and forests, formerly considered unsuitable for farming, mean that elephant habitat is continuing to be lost. As such, man and elephant are increasingly coming into conflict with one another and, as history has shown, wildlife conservation is a distant concern in such situations.  span   p 
+ p class="" data-reactid=".7.0.1.0:$7" style="text-align: center;"  strong  a href=" protect" class="cta-button donate" What We're Doing to Help  a   strong   p 
+ p class="" data-reactid=".7.0.1.0:$7" style="text-align: center;"  span class="mceNonEditable" data-mce-contenteditable="false"  script src=" baseui v2_4 js donationamounts.js"   script 
+
+	 div class="quickGivingPanel" 
+	 fieldset class="selectDonationAmount" 
+	 span Please select a donation amount:  em class="alert" *  em   span 
+	
+	 div class="formQuestion donationAmount donationAmount10 donationSelected" onclick="defaultDonationPicked(this)"                             
+	 input checked type="radio" id="donationAmount7e6e9b7d-9ee9-4cf9-801f-2392171d295d1" name="amount7e6e9b7d-9ee9-4cf9-801f-2392171d295d" value="10" aria-checked="false" tabindex=""  !--Switch 'aria-checked' to "true" if input is checked-- 
+	 label class="checkboxRadio" for="donationAmount7e6e9b7d-9ee9-4cf9-801f-2392171d295d1" 
+		 strong class="donationAmountFigure" £10  strong  
+		
+		 span class="donationAmountDescription" Could buy a ranger a Medkit  span 
+	  label 
+	  div 
+
+	 div class="formQuestion donationAmount donationAmount25" onclick="defaultDonationPicked(this)"                             
+	 input type="radio" id="donationAmount7e6e9b7d-9ee9-4cf9-801f-2392171d295d2" name="amount7e6e9b7d-9ee9-4cf9-801f-2392171d295d" value="25" aria-checked="false" tabindex=""  !--Switch 'aria-checked' to "true" if input is checked-- 
+	 label class="checkboxRadio" for="donationAmount7e6e9b7d-9ee9-4cf9-801f-2392171d295d2" 
+		 strong class="donationAmountFigure" £25  strong  
+		
+		 span class="donationAmountDescription" Could buy a ranger a pair of boots  span 
+	  label 
+	  div 
+
+	 div class="formQuestion donationAmount donationAmount50" onclick="defaultDonationPicked(this)"                             
+	 input type="radio" id="donationAmount7e6e9b7d-9ee9-4cf9-801f-2392171d295d3" name="amount7e6e9b7d-9ee9-4cf9-801f-2392171d295d" value="50" aria-checked="false" tabindex=""  !--Switch 'aria-checked' to "true" if input is checked-- 
+	 label class="checkboxRadio" for="donationAmount7e6e9b7d-9ee9-4cf9-801f-2392171d295d3" 
+		 strong class="donationAmountFigure" £50  strong  
+		
+		 span class="donationAmountDescription" Could pay for three days training for a ranger  span 
+	  label 
+	  div 
+
+	 div class="formQuestion donationAmount donationAmount100" onclick="defaultDonationPicked(this)"                             
+	 input type="radio" id="donationAmount7e6e9b7d-9ee9-4cf9-801f-2392171d295d4" name="amount7e6e9b7d-9ee9-4cf9-801f-2392171d295d" value="100" aria-checked="false" tabindex=""  !--Switch 'aria-checked' to "true" if input is checked-- 
+	 label class="checkboxRadio" for="donationAmount7e6e9b7d-9ee9-4cf9-801f-2392171d295d4" 
+		 strong class="donationAmountFigure" £100  strong  
+		
+		 span class="donationAmountDescription" Could deploy a veteran for a week to train, support and mentor rangers  span 
+	  label 
+	  div 
+
+	 div class="formQuestion donationAmount donationAmountOther" onclick="otherClicked(this)" 
+	 label for="donationAmountOther"  strong class="donationAmountFigure" Other  strong   label 
+	 input type="number" title="Other amount" id="donationAmountOther" min="1" onclick="otherClicked(this)" oninput="this.value = this.value &lt; Number(this.min) ? '' : this.value; " onchange="otherChanged(this)" pattern="(d{3})([.])(d{2})" tabindex="" value="" autocomplete="off" 
+	  div 
+
+	 span Set up a regular payment  span 
+						 input type="checkbox" class="regularPayment"  a class="button donateBtn" href=" donate donate-now" onclick="return donateParams(this)" role="button" Donate  a 
+
+	  fieldset 
+	  div   span   p 
+ p class="publishDatesWrapper" 
+				 strong Published:  strong  
+				 time id="time" datetime="2017-03-23" 23 sup rd  sup  March, 2017  time 
+			  p 
+ p id="updatedDateWrapper" class="updatedDateWrapper" 
+                 strong Updated:  strong 
+                 time id="UpdateTime"  span 15 sup th  sup  February, 2019  span   time 
+              p 
+ p class="publishAuthorWrapper" 
+				 strong Author:  strong 
+				 span   span 
+			  p 
+ p For me it all started with an email from the Veterans for Wildlife team on Christmas Eve, asking if I would potentially be available to travel to Cameroon in February to deliver law enforcement training to Rangers in that country.  p 
+ p In February 2019, Michael deployed as the Lead Instructor for a Veterans for Wildlife team tasked with delivering basic law enforcement training in Cameroon.  p 
+ p South African Police Service (SAPS) Officers and South African National Parks (SANParks) Rangers, supported by Veterans for Wildlife volunteers, have in the past two weeks arrested 12 people linked to poaching in the Kruger National Park (KNP).  p 
+ p The South African National Parks (SANParks) today announced the arrest of two Skukuza based Field Rangers on suspicion of being involved in rhino poaching. A heavy calibre firearm, ammunition and poaching related equipment was confiscated.  p 
+ p Today there are just 7,100 cheetahs left in the wild, that’s down from an estimated 14,000 cheetahs in 1975 when researchers made the last comprehensive count of the animals across the African continent. Perhaps unsurprisingly, humans are the main reason that cheetahs are in peril.  p 
+ p Today, the African Wild Dog is listed as an Endangered species as African Wild Dog population numbers have been rapidly declining, particularly in recent years. There are thought to be approximately 6 600 individuals left roaming sub-Saharan Africa today, with numbers still declining.  p 
+ p One rhino is killed every eight hours for its horn which on the black market is more expensive than gold or cocaine, gram for gram. In South Africa alone, which is home to the worlds largest population of rhino, 1054 rhino were poached in 2016.  p 
+ p Pangolins are the most trafficked animal in the world with scientists estimating that over one million pangolins have been poached from the wild and illegally traded in the past decade. All eight species of Pangolin are classified by the IUCN as threatened with extinction.  p 
+ p Pangolins are the most trafficked animal in the world with scientists estimating that over one million pangolins have been poached from the wild and illegally traded in the past decade. All eight species of Pangolin are classified by the IUCN as threatened with extinction.  p 
+ p An Elephant is killed every 15 minutes with around 90% of African Elephants being wiped out in the last century. Elephants are being poached at a greater rate than they are reproducing, meaning the species could be extinct in the next decade.  p 
+ p Today, the African Wild Dog is listed as an Endangered species as African Wild Dog population numbers have been rapidly declining, particularly in recent years. There are thought to be approximately 6 600 individuals left roaming sub-Saharan Africa today, with numbers still declining.  p 
+ p Veterans for Wildlife is an international charity committed to the protection of wildlife and the world’s critically endangered species. By deploying highly skilled and experienced former service personnel, Veterans for Wildlife aims to play a critical role in conservation and the ongoing prevention of wildlife crime.  p 
+ p One rhino is killed every eight hours for its horn which on the black market is more expensive than gold or cocaine, gram for gram. In South Africa alone, which is home to the worlds largest population of rhino, 1054 rhino were poached in 2016.  p 
+ p According to new plans announced today, the UK is seeking to impose a wholesale ban on the trade in ivory. Such action is extremely welcomed by Veterans for Wildlife, our supporters and of course the countless other individuals and entities dedicated to the protection of elephant as well as other vulnerable species.  p 
+ p Protect, educate, empower! The reasons to volunteer with Veterans for Wildlife are many and manifest. So why not join the team today?  p 
+ p If you feel you meet the veteran volunteer criteria and would like to be considered for a future volunteer position, please fill out the volunteer application form.  p 
+ p To be eligible for a deployable volunteer role with Veterans for Wildlife, prospective candidates need to meet certain experience as well as health and safety requirements.  p 
+ p With stunning scenery, friendly people, great food and wine and an abundance of wildlife South Africa is a safari-goer’s paradise.
+
+However, it’s the very fact that South Africa has been so successful in years gone by protecting its populations of rhinoceros (it has the largest concentration of rhinos in the world), elephants and other endangered game that makes it a target for poachers.  p 
+ p The team have completed their first project in Cameroon. A major success and the team now recoup back to base and s…  a href="https:  t.co BMV2fp1GSF" target="_blank" https:  t.co BMV2fp1GSF  a   p 
+ p  a href="https:  twitter.com CO1RMP" target="_blank" @CO1RMP  a   a href="https:  twitter.com 1RegtRMP" target="_blank" @1RegtRMP  a  This is very welcoming news! Capacity and prosecution are two points of weakness that need much m…  a href="https:  t.co wtXGu6JN8F" target="_blank" https:  t.co wtXGu6JN8F  a   p 
+ p South African Police Service (SAPS) Officers and South African National Parks (SANParks) Rangers, supported by Vete…  a href="https:  t.co gNNASXd8Cn" target="_blank" https:  t.co gNNASXd8Cn  a   p 
+ p Veterans for Wildlife would like to contact you occasionally by post, email, phone or SMS about our latest news, fundraising activities, events, and products and services. For more information please see our Privacy Policy.  p 
+ p © Copyright 2018 Veterans for Wildlife. All rights reserved.  p 
+ p Veterans for Wildlife is a registered charity in England and Wales (1167815), as well as a registered Public Benefit Organisation in South Africa as Veterans for Wildlife South Africa (930058096)  p 

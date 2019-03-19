@@ -1,0 +1,261 @@
+ p  a name="TopOfPage"   a 
+  p 
+ p align="center" 
+ a href="t0750e0n.htm#TopOfPage"  img src="back.gif" width="43" height="35" alt="Previous Page" border="0"   a 
+ a href="t0750e00.htm#Contents"  img src="toc.gif" width="43" height="35" alt="Table of Contents" border="0"   a 
+ a href="t0750e0p.htm#TopOfPage"  img src="next.gif" width="43" height="35" alt="Next Page" border="0"   a 
+  p 
+ p  a href="t0750e0o.htm#3.16.1%20hydrochaeris%20hydrochaeris%20(capybara)" 3.16.1 Hydrochaeris 
+    hydrochaeris (capybara)  a  br 
+     a href="t0750e0o.htm#3.16.2%20agouti%20paca%20(paca)" 3.16.2 Agouti paca (paca)  a  br 
+     a href="t0750e0o.htm#3.16.3%20dasyprocta%20(agouti)" 3.16.3 Dasyprocta (agouti)  a  br 
+     a href="t0750e0o.htm#3.16.4%20myocastor%20coypus%20(nutria%20or%20coypu)" 3.16.4 Myocastor 
+    coypus (nutria or coypu)  a    p 
+ p Neotropical hystricognaths and caviomorphs, 126 species according to Mares and Ojeda (361), occupy a vast range of ecological niches and habitats. Some reach considerable sizes, and they constitute a major and highly specific item among the Latin American game animals, particularly in their contribution to the diet.
+  p 
+ p Cavies (genus  u Cavia  u ), captive-bred since pre-Colombian times, are a valuable source of proteins, particularly for people living in the Andean region from southern Colombia to southern Peru (108). There are also prospects for captive breeding of  u Kerodon  u  (30, 325). Spiny rats (genus  u Proechimys  u ), usually the most abundant medium-sized rodent in tropical forests (175, 180), are eaten by certain indigenous and rural peoples, but we lack specific data on the subject.
+  p 
+ p Some rodent species contribute little to the diet due to their limited distribution, scarcity, and or restrictions due to cultural patterns of consumption. The most important Latin American species economically and in terms of food are  u Hydrochaeris hydrochaeris, Agouti paca, Dasyprocta  u  spp. and  u Myocastor coypus.  u   p 
+ p  u Vernacular names:  u  Cabiai (Cayenne), capybara (Brazil), carpincho (Argentina, Uruguay), chiguire, piropiro (Venezuela), chigüiro (Colombia), kapoewa (Suriname), poncho (Panama, Colombia), ronsoco (Peru).
+  p 
+ p  u Geographical variation and distribution:  u  This genus is distributed east of the Andes from the Panama Canal region to northern Colombia and Venezuela, Uruguay, and Buenos Aires province in Argentina. The Panamanian capybara is recognized as a distinct species:  u H. isthmius,  u  ranging from Panama to the Lake Maracaibo basin in Venezuela and smaller in size (409). The South American capybara ( u H. hydrochaeris)  u  varies somewhat in size from place to place but the descriptions of subspecies are of dubious validity (409).
+  p 
+ p  u Elevational range:  u  Capybara are lowland-dwellers but can occasionally be found at higher altitudes and up to 1 300 m in Venezuela (440).
+  p 
+ p  u Size and weight:  u  The capybara is the world's largest rodent. With no sexual dimorphism as to size and a total adult length of 100-135 cm it reaches heights of 50-60 cm at the withers and average weights of 50 kg, though the weight can drop by an average 4 kg during the dry season in Venezuela (440). The maximum weights in Venezuela are 65 kg, in Uruguay 73 kg and in Brazil 91 kg (409). The average weight of a wild herd of 63 animals of all ages was 30 kg (440). The Panamanian capybara's top weight is 28 kg (581).
+  p 
+ p  b Table 26. The main Latin American game rodents  b 
+  p 
+ p align="CENTER"  b Genus  b   p 
+ p align="CENTER"  b Vernacular name  b   p 
+ p align="CENTER"  b Weight (kg)  b   p 
+ p align="CENTER"  b Distribution  b   p 
+ p align="CENTER"  b Habits or habitat  b   p 
+ p align="CENTER"  b Use or products  b   p 
+ p  i Coendou  i  (prehensile-tailed  p 
+ p puerco espín  p 
+ p align="CENTER" 3-4  p 
+ p From southern Mexico to southern Brazil and northern Argentina  p 
+ p arboreal  p 
+ p meat  p 
+ p  i Cavia  i  (cavies)  p 
+ p cuy, curí, préa  p 
+ p align="CENTER" 0.4-0.7  p 
+ p From Venezuela and Colombia to Central  p 
+ p open areas  p 
+ p meat  p 
+ p Argentina  p 
+ p  i Kerodon  i  (mocó)  p 
+ p moco  p 
+ p align="CENTER" 0.9-0.1  p 
+ p Eastern central Brazil  p 
+ p rocky areas  p 
+ p meat  p 
+ p  i Hydrochaeris  i  (capybara)  p 
+ p capybara  p 
+ p align="CENTER" 20-60  p 
+ p From Panama to Uruguay and northern Argentina  p 
+ p semi-aquatic  p 
+ p hides, meat  p 
+ p  i Dynomis  i  (pacarana)  p 
+ p pacarana  p 
+ p align="CENTER" 10-15  p 
+ p From Venezuela to Bolivia  p 
+ p forest-dwelling  p 
+ p meat  p 
+ p  i Agouti  i  (pacas)  p 
+ p paca, lapa, tepezquintle  p 
+ p align="CENTER" 6-10  p 
+ p From southeastern Mexico to Paraguay and southern Brazil  p 
+ p forest-dwelling  p 
+ p meat  p 
+ p  i Dasyprocta  i  (agouti)  p 
+ p agoutie, cutia  p 
+ p align="CENTER" 3-5  p 
+ p From southeastern Mexico to southern Brazil and northern Argentina  p 
+ p forest-dwelling  p 
+ p meat  p 
+ p  i Myoprocta  i  (acouchi)  p 
+ p cotiara  p 
+ p align="CENTER" 0.7-1  p 
+ p Southern Colombia and Venezuela, Ecuador, Peru, northern Brazil  p 
+ p forest-dwelling  p 
+ p meat  p 
+ p  i Lagostomus  i  (plains viscacha)  p 
+ p viscacha, pampeana  p 
+ p align="CENTER" 7  p 
+ p From Paraguay to southern Argentina  p 
+ p open areas  p 
+ p meat, hides  p 
+ p  i Lagidium  i  (mountain viscacha)  p 
+ p viscacha de montaña  p 
+ p align="CENTER" 1.0-1.6  p 
+ p From Andean Peru to Tierra del Fuego  p 
+ p Andean  p 
+ p meat, hides  p 
+ p  i Chinchilla  i  (chinchilla)  p 
+ p chinchilla  p 
+ p align="CENTER" 0.5-1.1  p 
+ p Southern Peru, Bolivia, northern Argentina and Chile  p 
+ p Andean  p 
+ p hides  p 
+ p  i Myocastor  i  (nutria or coypu)  p 
+ p coipo  p 
+ p align="CENTER" 6-9  p 
+ p From southern Brazil and Bolivia to Tierra del Fuego  p 
+ p semi-aquatic  p 
+ p hide (meat)  p 
+ p  i Capromys  i  (hutias)  p 
+ p hutia  p 
+ p align="CENTER" 4-7  p 
+ p Cuba  p 
+ p forest-dwelling  p 
+ p meat  p 
+ p  u Habitat:  u  Capybara are found in a great variety of habitats from forest and brushland to swamps, brackish mangrove areas and open savannah, but they are restricted to the proximity of water, with peak population densities occurring in the floodplain savannahs of the llanos, the Pantanal de Mato Grosso and the province of Mesopotamia in Argentina. Local abundance and micro-distribution are affected by the water regime, the availability of pasture, the inter-related habitat components of water, dry ground on which to rest, grass and natural shelter, and hunting intensity. Capybara are tolerant of modified environments and can benefit from a habitat managed for agricultural and livestock production (8, 272, 440, 446, 522).
+  p 
+ p  u Abundance:  u  Abundance varies from one place to the next: in favourable habitats shared with cattle densities can be as high as 50 km sup 2  sup . Peaks of 200-350 km sup 2  sup  have been found in the Llanos de Apure, Venezuela (272, 409, 440, 446). Figures of 10 km sup 2  sup  have been cited for the Llanos de Guárico, Venezuela (174), and 3.2 and 14.8 in the Pantanal de Mato Grosso in Brazil (7, 522). Capybara are mostly, however, fairly scarce. There are no data on abundances in wild areas.
+  p 
+ p  u Behaviour:  u  The capybara is a peaceful, gregarious, sedentary animal that lives in family groups of 2 to 30. Group size varies by season, habitat conditions and population density (7, 33, 272, 356, 440, 522). The home range of capybara groups can be anywhere from 10 to 200 ha, but they may emigrate seasonally for lack of water.
+  p 
+ p Capybara like to graze in the afternoon, after 4 or 5 p.m., and in the early hours of the night, but they may be active at any hour, particularly during the rainy season (33, 272, 440). Highly persecuted capybara, however, will become strictly nocturnal and very shy. Their gregarious, sedentary, diurnal habit is a plus factor for extensive management, whereas their dominance hierarchies can generate problems in confinement (142, 462, 555).
+  p 
+ p  u Feeding habits:  u  The capybara is a selective grazer (240), feeding on short and medium-length grasses in the Venezuelan llanos, particularly in wet and flooded areas. Prominent plant species in the diet are  u Hymenachne amplexicaulis, Leersia hexandra  u  and  u Panicum iaxum  u  in the rainy season, and  u Reimarochloa, Paratheria, Sporobolus indicus  u  and  u Axonopus   u spp. in the dry season. They eat  u Paspalum fasciculatum  u  in the flood savannah. Cyperaceae are important at the close of the rainy season, whereas dicotyledon consumption is negligible (185, 239, 240, 440). Daily consumption is an estimated 70 g of dry matter per unit of metabolic weight (kg sup 0.75  sup ). The apparent digestibility of natural grasses is approximately 52 percent (442). The capybara diet in wooded areas is not known.
+  p 
+ p  u Reproduction:  u  Capybara can reproduce year-round but in seasonal habitats the peak of sexual activity coincides with the onset of the rains, which is April-July in the llanos. Since the gestation period is 5 months (264, 343, 636), the peak birth period falls at the end of the rainy season (33, 440, 442). In unusually favourable habitats and in captivity there may be two litters per year (440, 462). Litter size at birth varies from 1 to 8, averaging 4 in the llanos (343, 440). The precocious neonates weigh in at an average 1.5 kg. The average rate of population growth ( u r  u ) in a farm in the Venezuelan Llanos was 0.42 per year, producing a sustained harvest rate of 0.34 (446).
+  p 
+ p  u Growth and age:  u  The young grow at a rate of 60-100 g day depending on the diet and age. In the first year of life they gain 22-25 kg and by the age of two weigh 35-40 kg. Sexual maturity is generally at 18 months, but under exceptional conditions females can breed at the age of one year (33, 440, 442, 636). An estimate of relative capybara age can be made by examining advancing ossification in the cranial sutures and humerus (440). The record longevity in captivity is 12 years (138).
+  p 
+ p  u Mortality:  u  There is a high rate of neonate mortality from depredation by birds ( u Polyborus plancus  u  and  u Coragyps atratus  u ), particularly in open habitats, and from spectacled caiman ( u Caiman crocodilus  u ), native carnivores and dogs (271, 312, 440). Post-natal mortality is high even in captivity at around 40-50 percent (462, 636). Bigger capybara are preyed upon by felines (495, 524) and stray dogs (312, 356, 440). Mortality from hunting is responsible for local extinctions or scarcity in many localities. Trypanosomiasis ( u T. cruzi  u ) can become an additional major cause of mortality (524), particularly where the conditions of the habitat are precarious.
+  p 
+ p  u Hunting  u : Both professional capybara hide hunters "carpincheros" and subsistence hunters, who frequently hunt along the forest rivers, may use dogs to drive capybara to shore or into the water where they can be shot or harpooned. Capybara are also hunted at night with lanterns on rivers from canoes or they may be caught in pitfalls dug along their characteristic pathways (42, 192, 297, 324, 342). Often, capybara killed on the shore fall into the water, but they float to the surface after 20 minutes or so because of the fermentation gases produced in the digestive tract (440).
+  p 
+ p Capybara are hunted commercially in the llanos of Colombia and Venezuela during the dry season (January to March) on the open savannah, where they can be located, rounded up and driven by mounted hunters to a pre-arranged spot where helpers then surround the herd and slaughter the adults with clubs. In some spots they may slaughter as many as 200 animals a day. The animals are either gutted in the field or transported to a camp or slaughterhouse (440, 442, 446).
+  p 
+ p  u Products:  u  In South America capybara are mostly hunted for their hides and sporadically for their meat, either for home consumption or for trade (21, 408, 446, 473, 545). Capybara are commercially hunted on the llanos for their meat. The dried salted meat is in great demand in some Venezuelan cities during the Easter Lenten period (272, 440, 448). Capybara oil extracted from the subcutaneous fat is highly esteemed as a popular medicine in southern South America (446, 473).
+  p 
+ p To skin the carcass, a ventral cut is made and the bones carefully removed, a laborious process as the meat tends to adhere to the hide. After removing the subcutaneous fat with a spoon, the hides are salted (297, 440) or hung unsalted in the shade to dry (342). The cured hides are used to make gloves, belts, leather jackets, handbags, harnesses and saddles which are in great demand in southern South America. The raw hides are an important export item (Tables 16-18).
+  p 
+ p In Venezuela, commercial hunters whose target is the meat only occasionally conserve the hides for sale. Export leather prices in the 1970s were about US$ 2 per unit (297, 334) whereas Ojeda and Mares (451) give a figure of US$ 11 per unit. The price of cured hides in Argentina in 1987 was US$ 20 m sup 2  sup  (446). The hunters were paid only a bare subsistence wage (192, 297, 324).
+  p 
+ p Capybara meat is not eaten in many areas, in some cases because of the flavour of the meat and in others because it is believed to cause skin diseases (32, 230). It is probably considered a second-class meat throughout most of the capybara's range, or perhaps only the meat of young animals will be eaten (21, 42, 342, 476, 477, 545, 321). For their size and relative abundance, however, capybaras may be a more important item in the diet of marginal rural communities than appears at first sight. The meat is used for sausage-making in Argentina and Uruguay (342, 408); recent trials in Venezuela have shown aptitudes for a variety of industrial uses (28, 239).
+  p 
+ p The traditional way of processing of capybara meat in the Colombian and Venezuelan llanos is to salt and dry it. The carcass is first skinned and then all meat is separated from the skeleton in one piece, washed thoroughly to eliminate the blood, drained and then abundantly covered with coarse salt. The fresh boneless meat is folded in a pile for about 12 hours and then hung to dry on poles in the sun. Often, at the very end of the drying process the meat is laid out to sun-dry on the savannah vegetation. Once the process is completed, the remaining subcutaneous fat and haematomas are removed with a spoon, leaving the final product ready for transport to market. The entire process takes from 10 to 15 days. The final product (the slab) is whitish in colour, much like salted cod. The fresh slab represents some 39 percent of the live weight and the dried slab about 17 percent, with a proportionately larger yield for larger animals (440).
+  p 
+ p  u Management:  u  The capybara is a grazer, sedentary, prolific, abundant in suitable habitats and fairly tolerant of hunting where dense plant cover is available. This holds out interesting prospects for rational management and harvesting of the species for meat and leather (21, 239, 448). Capybara hunting is currently either regulated or proscribed in most Latin American countries. In Venezuela where there is a tradition of harvesting the animal for meat, commercial hunting is allowed in accordance with the following principles: 1) the management units are the livestock farms of the llanos region; 2) licences are granted only to owners with exploitable populations on their farms; 3) the harvest quotas are established on the basis of population sizes on each farm, determined by officials of the Ministry of the Environment; 4) a harvest rate of about 30 percent is applicable, which experience since 1968 has shown will maintain a fairly stationary population; 5) the minimum weight is 35 kg; 6) each slab of meat is marked with a safety seal indicating the point of origin and facilitating controls; 7) a bill of lading is required for transporting the product to market; 8) fees are levied during transfer by the National Guard and occasionally in the market-place.
+  p 
+ p From 1979-1984 some 56 to 106 licences were granted each year, about 75-89 percent actually resulting in capybara capture, for a total harvest rate of some 60 000-80 000 per year (Table 15). Subsequently, however, populations fell so much that the Ministry of the Environment enacted a much more restrictive policy. The potential annual production of capybara in Venezuela is thought to be 360 000-540 000 (385). Capybara hunting seems to have little appeal for sport hunters, and there is not much demand for special licences for this pursuit (448).
+  p 
+ p  u Captive breeding:  u  Captive breeding of capybara appears very promising. The sociable and group habits of the animal, and its tolerance of high population densities, rapid adjustment to confinement, litter precocity and good survivorship of weaned young all militate in favour of management (8, 462, 555, A. Lavorenti, pers. com.). Additionally, industrializing capybara meat and hide production would require a continual supply of the raw material, which harvesting wild populations in the dry season would not permit.
+  p 
+ p The Institute of Livestock Production of the Faculty of Agronomy at the Universidad Central de Venezuela has a real backlog of expertise in intensive capybara production (462). The Institute maintains permanent breeding groups of one adult male with several females, and larger groups of young animals. Pregnant females are transferred to a maternity pen when they are ready to give birth. After weaning their offspring at the age of 5 weeks, they rejoin the breeding group. The introduction of an adult animal extraneous to the group will solicit aggressive behaviour and often mean the death of the newcomer. Sosa Burgos (555) found the optimum group size to be 7 to 8 adults in a 30 m sup 2  sup  corral. The corrals are provided with forage, a pool and some shade: the stable diet is green forage ( u Pennisetum purpureum  u ), supplemented by a protein-rich concentrate. The calving interval per female under this intensive breeding system was 176 days, litter size 3.7, neonate mortality 43 percent, and the weight gain of growing animals as much as 127 g day (462). For more details see references 8, 220, 432, 475, 555, 636. The experience acquired confirms the viability of intensive breeding but data are still lacking on the economic returns.
+  p 
+ p An intensive breeding trial in 5 ha flood savannah meadows gave optimum carrying rates of 1.6-3 ha, with a net annual productivity of 27 kg ha (442). Breeding at higher densities seemed unsustainable, as the grasses were trampled during the flood period.
+  p 
+ p Economically speaking, the cost of fencing is the limiting factor in extensive capybara breeding. In all likelihood, larger tracts of 1 000 ha or more that included a mosaic of floodplains, raised areas, clumps of woodland and bodies of water would substantially improve the cost benefit ratio. Medium-scale production systems should be tested as their development would be of particular benefit to rural people in the region.  p 
+ p  u Vernacular names:  u  Cibnut (Belize), conejo pintado (Panama), quanta (Ecuador), guagua (Colombia), hee (Suriname), jochi pintado (Bolivia), lapa (Venezuela), iappe (Trinidad), majáz (Peru), paca (Argentina, Brazil), tepezcuintle (Costa Rica, Guatemala, Mexico).
+  p 
+ p  u Geographical variation and distribution:  u  Paca are distributed from southeastern Mexico (San Luís Potosí) to Peru, Bolivia, Paraguay, southern Brazil, northeastern Argentina and, east of the Andes, from Ecuador to the island of Trinidad. There are 5 recognized subspecies; 2 in Central America (353) and 3 in South America (92). The main subspecies throughout the range is  u Agouti paca paca.  u 
+  p 
+ p  u Elevational range:  u  From sea level to roughly 2 300 m (402); the record elevation is 3 000 m (245).
+  p 
+ p  u Size and weight:  u  The total adult length is 65-82 cm for males and 60-70 cm for females with weights of 6-10 kg and, occasionally, up to 12 kg (402). The average weight of pacas killed in the wild, including subadults, is about 7 kg (543). The average weight of 47 pacas in the collection of the Rancho Grande Biological Station in Venezuela was also 7 kg, with a standard deviation of 1.85 kg.
+  p 
+ p  u Habitat:  u  The extremely broad ecological range of this forest-dwelling species includes all types of forests: hot and moist, montane, deciduous and swamp forests, including brackish swamp and Moriche palm forests; secondary wooded vegetation or scrub forest; and cultivated patches in wooded areas. It prefers the vicinity of watercourses but, as a burrowing animal, cannot inhabit heavily flooded areas (66, 126, 141, 134, 330, 382, 402, 490). It also avoids highly arid and high montane areas where it is replaced by a related species  u Agouti taczanowskii.  u 
+  p 
+ p  u Abundance:  u  Paca may be locally abundant but estimating the population levels of this nocturnal forest-dweller is laborious - and the results are probably fairly inexact. Statistical estimates from Barro Colorado Island in Panama cite 26 km sup 2  sup  (208 kg km sup 2  sup ) (175). Densities of 18 km sup 2  sup  in Guatopo National Park in the pre-montane humid forest of Venezuela have been cited, and a total of 12 km sup 2  sup  in dry tropical forest areas of the Llanos de Guárico (174). Collett (126) calculated the density in wooded habitats on the Colombian llanos at 84-93 km sup 2  sup . All figures, however, are from densely populated protected areas propitious to the species, and therefore not at all representative of the general situation in the paca's range, throughout which hunting intensity varies considerably.
+  p 
+ p  u Behaviour:  u  These nocturnal, terrestrial, sedentary and solitary animals occasionally live in pairs and are apparently territorial (61, 174, 546). They remain inactive during the day in their underground burrows or in the hollows of fallen trees in swampy areas; during the night they follow their own pathways through the forest in search of fruit and seeds. They are apparently not shy by nature but do become very cautious and furtive when pursued, taking refuge in water, dense vegetation or their burrows. They are quite aggressive with their conspecifics and with agoutis - although in the wild they have little contact with agoutis, following different cycles of daily activity (126, 546).
+  p 
+ p  u Feeding habits:  u  Pacas feed on a great variety of tree fruits and seeds (126, 223, 330, 402, 546, 548). They seem to be quite unselective and the main food in their diet may vary from one place to the next. They frequent areas with trees in fruit, sometimes piling it in specific areas or eating-places, but do not bury fruit as agoutis do. When fruit is scarce they round out their diet with shoots and leaves, sometimes helping themselves to various crops.
+  p 
+ p Smythe (546, 548) postulates that the seasonal scarcity of fruit (November to January in Panama) is a major limiting factor for wild populations, whereas Collett (126) estimated that fruit supplies in the Colombian llanos were basically satisfactory year-round. It is worth emphasizing that the paca shares this food resource with other major species such as agoutis, peccaries, deer, spiny rats ( u Proechimys  u  spp.) and the arboreal frugivores.
+  p 
+ p  u Reproduction:  u  Collett (126) believes that sexual maturity occurs at the end of the first year of life when females attain weights of 6.5 kg and males 7.5 kg. In the population studied by this author in Colombia, there was uniform breeding throughout the year and 61 percent of the females collected were pregnant, all with a litter of one. He estimated an interval of 191 days between births, which would mean 1.9 births per female per year.
+  p 
+ p Matamoros' study of paca breeding in Costa Rica (367, 369) showed an average interval of 172 days between births with a minimum of 97 and a maximum of 268. This would mean 2.1 annual births per female of which only one out of 21 produced twins. Lander (330) thought that the gestation period was 118 days but Matamoros (368, 370) reported 4 intervals of 97-101 days between births, which would imply a shorter gestation and post-partum oestrus. The precocious newborn paca weigh anywhere from 450-800 g (126, 330), the average being 650 g, and the average length 23 cm (368). The lactation period which lasts three months overlaps the female's new pregnancy (126, 368, 402).
+  p 
+ p  u Growth and age:  u  The litters grow rapidly reaching a weight of 4 kg in three months and 6 kg in six months, reaching adult size in one year (126, 300). Adult age can be determined by examining the periodic growth lines in the cementum of the molars, from which the age structure and survival rate of adults (80 percent per year) can be established; the maximum longevity is thought to be 12.5 years in the wild (126, 330).
+  p 
+ p  u Hunting:  u  Pacas are mainly hunted at night with electric lanterns from boats or canoes along the shores of rivers, on foot along the forest trails, or from a blind located near a feeding area or salt-lick. Hunting along rivers is probably the most common method in scantly populated areas but it does require a certain amount of water and good visibility along the shoreline. One hindrance of hunting on land is the crackle of leaf litter underfoot during the dry season. Dogs are primarily used during the daytime; the dogs find the inhabited burrows and catch or kill the animal as it flees its burrow to make for a body of water or to try to dig a new burrow (32, 42, 126, 379, 402, 447). Traps are also used and professional hunters, in particular, tend to favour live-trapping methods.
+  p 
+ p  u Products:  u  Of all wild and domestic species in Latin America, paca meat is considered the most exquisite. It is nutritionally very important in many rural communities and there is also a great demand in urban centres (79, 234, 238, 294, 402, 621). This has spurred commercial hunting, as the paca is a high-priced luxury item, viz. Bs. 100 (US$ 3) per kg of live weight in Venezuela (130) and 40 Trinidad dollars per pound on the island of Trinidad (Ramdial, pers. com.).
+  p 
+ p The calorific value of paca meat is very high (1 620 cal kg raw weight (278)), due to the amount of reserve fat present during the rainy season (548). Because the paca is a very thin-skinned animal, it is usually prepared with the skin on, and first scalded so that the fur can be scraped off.
+  p 
+ p  u Management:  u  The paca, unquestionably one of the most valuable game species of Latin America, deserves to be carefully managed. Although tolerant of a certain amount of environmental modification, extensive deforestation is restricting its habitat. There are probably no major problems with subsistence hunting in underpopulated areas because access is so difficult. Such areas can function as sites for restocking pacas in places where anthropogenic intervention is more intense (126). Subsistence hunting (and particularly commercial hunting) in the more accessible rural areas is thought to have drastically reduced population levels, however. This rodent, with its low reproductive capacity, cannot tolerate high rates of harvesting (126, 402, 490). If population shrinkage is to be halted or reversed, strict compliance with protectionist measures already enacted in various countries will be essential, particularly to eradicate commercial-level poaching. Experimental management will need to be combined with research in areas under special regime.
+  p 
+ p  u Captive breeding:  u  The value of the meat has spurred efforts to launch captive breeding (1, 61, 330, 367, 404, 432), usually on a small scale (Matamoros (367) in Costa Rica found from 3 to 11 animals in 7 very differently designed breeding facilities).
+  p 
+ p Matamoros (op. cit.) designed corrals with earthen floors and 1 m cement walls topped by an additional metre of chicken-wire, 2.2 x 2.2 m in area, with a drinking and bathing pool 0.5 x 0.8 m, and a board-covered burrow area 0.6 x 1.6 m. Pacas will accept a wide variety of food but their territorial habits, aggressive behaviour and nervousness can seriously hinder management. The best results with breeding in these pens were apparently achieved with one pair but groups of one male and several females were also successful. Infanticide was rather frequent in this last case, however. It would be advisable to remove the female when she is about to give birth, and reunite her afterwards with the male during post-partum oestrus (367, 369).
+  p 
+ p Regardless of these problems, the high commercial and nutritional value of pacas, their quick growth during the first year, the ready availability of cheap feed such as slightly damaged fruits and vegetables, the fact that there is a popular tradition of captive breeding and the possibility of selecting for genetic traits favourable to captive breeding all suggest that small-scale paca breeding would be of great interest and socio-economic value. Thorough investigation and experimentation is certainly indicated.  p 
+ p  u Vernacular names:  u  Acure, picure (Venezuela), agoutie (Trinidad), añuje (Peru), cotia, cutia (Brazil), cotuza (Guatemala), guatín (Colombia), guaqueque (Mexico), guatuza (Costa Rica) jochi Colorado (Bolivia), konkoni (Suriname), ñeque (Panama).
+  p 
+ p  u Geographical variation and distribution:  u  The genus  u Dasyprocta  u  is found in southeastern Mexico (Veracruz), Paraguay, southern Brazil, northeastern Argentina, east of the Andes, and in Trinidad and certain other Caribbean islands. The colour of the pelt varies greatly and there are differences in size as well from one region to the next among the recognized 11 species (285). The most widely distributed are  u D. punctata.  u  (Central America through the Andean region to northern Argentina),  u D. fuliginosa  u  from northern Amazonia and Peru to Suriname,  u D. leporina  u  from Venezuela to eastern and Amazonian Brazil (latitude Rio de Janeiro), and  u D. azarae  u  of Paraguay in southern Brazil and northeastern Argentina.
+  p 
+ p  u Elevational range:  u  From sea level up to about 2 000 m (245).
+  p 
+ p  u Size and weight:  u  Size and weight vary by species and area, with no apparent sexual dimorphism. Total adult length ranges from 50 to 65 cm and adult weight from 3.0 to 4.5 kg (441, 546, 604).
+  p 
+ p  u Habitat:  u  These forest-dwelling species can be found in all types of tropical, montane and secondary forests, and even swamp forests and isolated pockets of savannah woodland, preferably in the vicinity of water, and in cultivated patches (66, 134, 336, 441, 541, 546, 547). The availability of fruit appears to be a key factor in habitat quality for  u Dasyprocta   u  (547).
+  p 
+ p  u Abundance:  u  Agoutis are the most common medium-sized rodent in many woodland areas. Eisenberg (175) reports densities of 46 km sup 2  sup  (92 kg km sup 2  sup ) on Barro Colorado Island in Panama; 63 km sup 2  sup  in Guatopo National Park, Venezuela, and 40 km sup 2  sup  in a deciduous forest area in the Llanos de Guárico, Venezuela. Glanz (233) estimated  u Dasyprocta  u  density on Barro Colorado Island in 1977-1978 at 100 km sup 2  sup . As these figures are all estimates from protected areas, they do, of course, reflect peak densities. Cant (100) reported 7-9 km sup 2  sup  in Guatemala. The prominence of agoutis in the hunting statistics is one indication of their relative abundance.
+  p 
+ p  u Behaviour:  u  Agoutis are diurnal or crepuscular and are most active in the morning and in the late afternoon after 4 p.m., but some authors (17, 182, 258, 336, 382) report that they become nocturnal when heavily persecuted. These shy animals are quick to flee when they sense danger.
+  p 
+ p Smythe (546, 547) in his studies of  u D. punctata  u  in Panama shows that agoutis normally live in permanent pairs in 2- to 3-hectare territories with fixed sleeping and eating areas and pathways, becoming both more active and more aggressive when food is scarce. When food is plentiful, they cache large quantities of fruits and seeds for the lean season, thus promoting seed dispersal as a by-product.
+  p 
+ p  u Feeding habits:  u  Agoutis feed on a wide range of fruits and tree seeds in the underbrush, occasionally varying their diet with forbs, shoots, and crops such as maize and cassava (382, 432, 541, 546). The seasonal scarcity of fruit acts to keep populations down, particularly the subadults which do not possess territories with caches of buried seeds.
+  p 
+ p  u Reproduction:  u  Agoutis breed year-round (336, 382, 441, 546, 547, 604). The gestation period is 105-120 days (214, 386, 510) with oestrus lasting an average 34 days (625). Vergara (604) believes that there is no post-partum oestrus and that agoutis breed twice a year. Litter size is 1 to 3 with 2 litters per year as a general rule (382, 386, 441, 546, 604). The very precocious young are suckled for about two months (604). They grow fast, reaching sexual maturity at 6 to 9 months, depending largely on the level of nutrition (546, 547, 604).
+  p 
+ p  u Mortality:  u  Subadult mortality on Barro Colorado Island was 70 percent during the season when fruit was scarce, but a bare 5 percent when fruit was plentiful (547). The main predators of the agouti are the felids,  u Nasua,  u  and the larger raptors (17, 182, 547).
+  p 
+ p  u Hunting:  u  Agoutis frequently feature in the list of subsistence hunting game animals (Tables 5 and 9), particularly when the larger game animals are scarce. The hunters post themselves around areas where fruit fall is heavy or where there are crops that agouti like to raid. Agoutis are also hunted with dogs which drive them into burrows or hiding areas. They may also be lured by whistling through a leaf (66, 182, 258, 332, 441). The hunters usually remove the anal scent gland from their kill so as not to spoil the taste of the meat.
+  p 
+ p  u Products:  u  Agouti meat is of good quality but not as tasty as paca and there is no discernible commercial use, although it appears regularly as a protein source in many rural communities.
+  p 
+ p  u Management:  u  Agoutis require a wooded habitat but are quite tolerant of modified environments such as secondary forest-cum-cropland, and may raid cultivated fruit trees such as mangoes. They also seem to be fairly tolerant of hunting, indicating good prospects for management, particularly in modified (though not deforested) environments. Smythe (548) gave a meat production estimate of 4.5 kg ha in moist forests in Panama. The species is also thought to be a good potential bushmeat producer in Venezuela (385). If agouti are to be managed, mechanisms will be needed to reduce hunting intensity, particularly the extremely effective use of dogs in hunting. Only thus can acceptable levels of population be maintained.
+  p 
+ p  u Captive breeding:  u  Captive breeding of agoutis in the tropics has been quite successful (432), and the animals are sometimes kept as pets. Vergara (605) suggests commercial breeding, and describes what facilities would be needed. The agouti male's intolerance of rival males and of the offspring is an obstacle to captive breeding. This smaller, less valuable species would not be as lucrative as paca.  p 
+ p  u Vernacular names:  u  Coipo (Argentina, Chile), nutria (Argentina, Brazil, Paraguay, Uruguay), quiyá (Argentina), ratao do banhado (Brazil).
+  p 
+ p  u Geographical variation and distribution:  u  Coypu are confined to the southern part of South America. There are three subspecies:  u Myocastor coypus coypus  u  of central Chile,  u M  u .  u c  u .  u bonariensis  u  of southeastern Brazil (Rio Grande do Sul), northern and central Argentina, Paraguay and Uruguay, and  u M  u .  u c  u .  u melanops  u  of southern Chile and Argentina (92, 194, 324, 366, 419).
+  p 
+ p  u Elevational range:  u  Coypu are usually found from sea level to low altitudes (194).
+  p 
+ p  u Size and weight:  u  Coypus are not sexually dimorphic. Adult lengths vary from 70 to 110 cm, one third of which is the tail, and weigh 5 to 9 kg or occasionally more.
+  p 
+ p  u Habitat:  u  This amphibious temperate and subtropical rodent lives in freshwater and brackish swamps, marshes, lagoons, and along the shores of rivers and creeks and flooded areas, generally preferring calm backwaters with abundant emerging vegetation.
+  p 
+ p The coypu excavates burrows in sloping banks but may also build floating nests of reeds and other aquatic plants. It can move quickly on land but is not found more than 150 m from the shore (93, 194, 302, 324, 419, 536, 579).
+  p 
+ p  u Abundance:  u  In the right habitat (83, 338) coypu can be very abundant (up to 25 ha), but excessive hunting has shrunk local populations in many places. Torres (579) reports from a swamp area of Rocha, Uruguay, that 1.2 coypu ha were harvested in a habitat believed capable of carrying some 40 ha.
+  p 
+ p  u Behaviour:  u  Coypu spend most of the day in their nests or burrows, becoming active in the twilight and at night. They live in family groups or hierarchically stratified colonies. They move and feed mainly in the water where they build floating platforms they use as dining areas and resting sites. They trample fixed pathways through the water vegetation and the shores, which makes them easy to trap. Though sedentary, the subadults, particularly, may disperse to new areas. Hearing and touch are the most highly developed senses: tactile perception, in particular, is aided by the long vibrissae (194, 536, 537).
+  p 
+ p  u Feeding habits:  u  Coypu eat the stems, roots, tubers and leaves of a number of aquatic and shoreline plants. They vary their diet in different places and at different times depending on what plants are available and the stage of the growing cycle. In one estuary in central Chile, grasses and Cyperaceae ( u Scirpus californicus, Typha angustifolia, Eleocharis, Juncus. Holcus, Anthoxantum,  u  etc.) made up the staple diet, which expanded to include leaves during the summer. Roots predominated in the winter. In contrast, in a freshwater lagoon in the same area,  u Limnobium stoloniferum,  u  a floating plant, was the main item on the diet, followed in importance by various grasses and terrestrial and aquatic reeds. The animals ate more stems in the winter and more leaves in the summer (419).
+  p 
+ p In the United States, where 18 states have substantial wild populations of coypus that escaped from fur farms or were deliberately introduced, the diet mainly features Cyperaceae and grasses ( u Scirpus olneyi, Spartania synosuroides, Eleocharis palustris, Phragmites comunis, Hydrocotyle),  u  abundant in swampy areas. Often, however, the preferred plants (percent consumption percent availability) are the less abundant species (114, 338, 534, 633).
+  p 
+ p Estimated daily consumption is 1.2-1.7 kg (194). Because coypu consume such a large proportion of the lower stems, roots and tubers, particularly during the lean season, introduced coypu can cause the destruction of forage plants and, at high population densities, degrade plant cover (114, 338, 633). On the other hand, with their voracious appetites they can help to control aquatic weeds such as  u Eichchornia crassipes  u  (83, 194, 424).
+  p 
+ p  u Reproduction:  u  Coypu are sexual mature at the age of 3 to 7 months (194, 428, 633). They exhibit induced ovulation, are promiscuous, and generally copulate in the water. The gestation period lasts from 128 to 138 days, with litter size ranging from 1 to 13 but usually 4 to 6 (83, 173, 194, 302, 428, 633). Litter size increases as the female matures and decreases if the habitat is degraded. The precocious neonates weigh from 180 to 300 grams and are suckled up to the age of 6 to 10 weeks (194, 338, 428, 633). Post-partum oestrus occurs 48 hours after birth. Breeding appears to be continuous with an average 2.5 litters per year (83, 173, 194, 428, 633).
+  p 
+ p  u Hunting:  u  In the past, both campesinos and indigenous peoples hunted coypu with dogs, clubbing or shooting the animals at bay (93, 194). The usual technique now is to set traps along coypu pathways. This is considered a fairly efficient but fairly unselective method (194, 338, 366, 473, 579). Coypu-trapping becomes the main economic activity for many rural people during the hunting season.
+  p 
+ p  u Products:  u  Coypu skins (called nutria in the trade) are in high demand for the fur industry. The meat, formerly important in the indigenous diet, is now only occasionally eaten by people or used to feed dogs (194, 473, 579).
+  p 
+ p The value of a nutria pelt ranges from 5 to 18 US dollars. Argentina annually exports from 1 to 2.5 million nutria pelts and Uruguay 200-600 000: part of the Argentinian exports come from captive breeding establishments. The pelts of coypu hunted illegally in southern Brazil come on the black market through Uruguay or Argentina (362, 473, 579). Coypu hunting offers employment and income to marginal rural populations and raw material for the fur industry, giving the species a certain socio-economic importance (191, 194).
+  p 
+ p  u Management:  u  Coypu is traditionally the main fur species in southern South America. The hunting season is also the cool season when the pelt is at its best. Commercial export quotas and licences are granted to rural landowners who in turn contract the hunters. Though coypu have a high reproductive capacity and are very adaptable, they are scarce in many regions, presumably from overhunting (194, 451, 579). Based on a recent study in Uruguay, Torres (579) proposes a set of recommendations for coypu management: 1) shorter hunting periods (45 days) to avoid over-exploitation; 2) a minimum size limit of 60 cm for the skins; 3) no hunting in low-density areas to allow the population to recover; 4) simplifying the commercial side to benefit the hunter.
+  p 
+ p True regulation of minimum size is difficult because traps do not discriminate by size. Coypu meat consumption should be encouraged to increase the contribution of this valuable species (191, 194).
+  p 
+ p  u Captive breeding:  u  Coypu have been reared in semi-captivity (in fenced areas of natural habitat) since the 1920s, or in dedicated breeding establishments. The high demand for nutria pelts in the 1930s spurred the development of nutria breeding in Argentina, southern Brazil, United States and Europe. Coypu adapt to and breed well in captivity. The recommended feed is green vegetation such as grasses and alfalfa, maize and other vegetables. Intensive breeding with permanent breeding groups of 3 to 4 females and one male in small corrals, and larger group pens for the care and fattening of subadults up to commercial size (138, 228, 432), is one solution. The pelts of captive-bred nutria are usually quite different in colour from wild nutria pelts. Whether or not captive breeding is profitable depends very much on the whims of fashion, this being what determines world market prices for furs.
+  p 
+ p align="center" 
+ a href="t0750e0n.htm#TopOfPage"  img src="back.gif" width="43" height="35" alt="Previous Page" border="0"   a 
+ a href="#TopOfPage"  img src="top.gif" width="43" height="35" alt="Top of Page" border="0"   a 
+ a href="t0750e0p.htm#TopOfPage"  img src="next.gif" width="43" height="35" alt="Next Page" border="0"   a 
+  p 

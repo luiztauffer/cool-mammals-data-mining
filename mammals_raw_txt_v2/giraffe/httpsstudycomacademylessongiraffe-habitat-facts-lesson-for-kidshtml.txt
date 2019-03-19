@@ -1,0 +1,63 @@
+ p Linda has taught elementary, middle and high school. She has a master's degree in English.  p 
+ p class="nowrap" style="font-style: italic" Want to watch this again later?  p 
+ p  span class="nowrap" Log in or sign up to add this  span   span class="nowrap" lesson to a Custom Course.  span   p 
+ p class="nowrap"  a href=" academy login.html" data-cname="cust_courses_lesson_cta_login" test-id="cust_courses_lesson_cta_login" Login  a   span style="padding: 0 1em; font-size: smaller" or  span   a data-toggle="modal" href="#partialRegFormModal" data-cname="cust_courses_lesson_cta_register" test-id="cust_courses_lesson_cta_register" class="open-reg-form" Sign up  a   p 
+ p You know giraffes for their long necks, but did you know their necks allow them to find food that no one else can get to? Giraffes are  b herbivores  b , or animals that eat only plant life. They especially like to eat acacia, a thorny, shrub-like tree, but they also will eat leaves from tall trees that only they can reach with their long necks. Because giraffes are the tallest animals in the world, they have little competition for sky-high food sources. It would be like having access to an ice cream sundae that only you could reach!   p 
+ p In order to get the food they need, giraffes have to live in a habitat that meets certain conditions, such as having tall trees and plenty of space. You might be surprised to learn that although giraffes often eat leaves from tall trees, they do not like to live in most forests. Forests are too crowded with trees. In a congested forest, a giraffe can't see in all directions to spot predators like humans, lions, and crocodiles from far off. So giraffes make their homes in wide open grasslands, or  b savannas  b , which are grassland areas with some trees. Giraffes do inhabit certain forests, but only those that have a lot of open space.   p 
+ p Giraffes are native to Africa, particularly the area south of the Sahara Desert. It gets really hot on those dry savannas. Imagine for a moment how awkward it would be for you to drink water from the ground while still standing. Now imagine how awkward that would be if you were a giraffe! That's one reason giraffes don't drink water very often, even in a hot climate. In fact, giraffes can go longer without water than camels can!   p 
+ p While giraffes do drink water when it is available, they only drink it once every few days. You would get very thirsty waiting that long to drink, but giraffes can wait because they get a lot of water from the plant life they eat. However, when they do drink water, watch out - they can drink up to twelve gallons at a time.   p 
+ p class="actionMessage" Get access risk-free for 30 days,
+			 br just create an account.  p 
+ p  em No obligation, cancel anytime.  em   p 
+ p  em Select a subject to preview related courses:  em   p 
+ p Giraffes and their habitats are becoming endangered as the years go by. In Africa, even though it's against the law, hunters prey on giraffes for their meat, skin, and other body parts. These illegal hunters are called  b poachers  b , and they often poach to acquire giraffe parts that are used in African tribal traditions and ceremonies.   p 
+ p In addition, the habitat of giraffes is also shrinking because loggers are cutting down trees that giraffes use for food. This reduces the giraffes' food supply. The good news is that some conservation organizations are working to relocate giraffes to new habitats to help them continue to reproduce. These groups are closely monitoring the giraffes' habitats to make sure they don't get corrupted by poachers and loggers.   p 
+ p Giraffes are  b herbivores  b  who don't have to drink water very often, and use their long necks to feed themselves on the dry  b savannas  b  where they live.  b Poachers  b  and loggers are harming giraffes and their habitats, but others are trying to help them survive. The giraffes' habitat needs to be conserved to keep them alive.  p 
+ p 
+				    span class="icon-unlock"   span 
+				   To unlock this lesson you must be a Study.com Member.
+				    br class="visible-xs" 
+
+				    a data-toggle="modal" href="#partialRegFormModal" data-cname="transcript_create_your_account" test-id="transcript_create_your_account" data-track-visible class="open-reg-form" Create your account  a 
+			     p 
+ p class="login-text" Already a member?  a data-cname="transcript_log_in" test-id="transcript_log_in" href=" academy login.html" Log In  a   p 
+ p class="login-text" 
+		Already registered?
+		
+		 a href=" academy login.html?cta=teacherPromo" class="standardLink" data-cname="teacher-promo-paywall__login" test-id="teacher-promo-paywall__login" 
+			Login here for access
+		  a 
+	  p 
+ p Did you know… We have over 160 college
+						courses that prepare you to earn
+						credit by exam that is accepted by over 1,500 colleges and universities. You can test out of the
+						first two years of college and save thousands off your degree. Anyone can earn
+						credit-by-exam regardless of age or education level.  p 
+ p To learn more, visit our  a href=" academy try earn-college-credit.html" data-cname="earning_credit_link" test-id="earning_credit_link" Earning Credit Page  a   p 
+ p Not sure what college you want to attend yet? Study.com has thousands of articles about every
+							imaginable degree, area of
+							study
+							and career path that can help you find the school that's right for you.  p 
+ p Get the unbiased info you need to find the right school.  p 
+ p Browse an area of study or degree level.  p 
+ p class="visible-xs"  span class="icon-arrow-left"   span  Back To Course  p 
+ p 
+							  span class="numChapters" 10  span  chapters |
+							  span class="numLessons" 360  span  lessons
+							 
+						  p 
+ p Next Lesson  p 
+ p ©  copyright 2003-2019 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		  p 
+ p Your Cart is Empty. Please Choose a Product.  p 
+ p Study.com video lessons have helped over  em class="red bold" 30 million  em 
+										students.  p 
+ p "I learned more in  em class="teal bold" 10 minutes  em  than 1 month of chemistry classes"  p 
+ p - Ashlee P.  p 
+ p "I aced the CLEP exam and earned  em class="green bold" 3 college credits!  em "  p 
+ p - Clair S.  p 
+ p test-id="testimonial_control_text" "The videos have changed the way I teach! The videos on Study.com accomplish in
+							 em class="red bold" 5 minutes  em  what would take me an entire class."  p 
+ p - Chris F.  p 

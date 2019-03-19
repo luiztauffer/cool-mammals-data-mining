@@ -1,0 +1,74 @@
+ p class="article-headline headline-default" data-v-5dcdb096 
+          Is the giant panda worth saving? China’s big profits have the answer
+          p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Hong Kong  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 China  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Asia  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 World  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Business  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Economy  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Tech  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Sport  p 
+ p class="channel-label__label-text label-text" data-v-6258e6a8 Channels  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 SCMP Editorials  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Opinion  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Harry's View  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Letters  p 
+ p class="list-group__list-item list-item" data-v-6258e6a8  a href=" author cliff-buddle" data-v-6258e6a8 
+                  Cliff Buddle
+                  a   p 
+ p class="list-group__list-item list-item" data-v-6258e6a8  a href=" author bernice-chan" data-v-6258e6a8 
+                  Bernice Chan
+                  a   p 
+ p class="list-group__list-item list-item" data-v-6258e6a8  a href=" author robert-delaney-us-bureau-chief" data-v-6258e6a8 
+                  Robert Delaney
+                  a   p 
+ p class="list-group__list-item list-item" data-v-6258e6a8  a href=" author cary-huang" data-v-6258e6a8 
+                  Cary Huang
+                  a   p 
+ p class="list-group__list-item list-item" data-v-6258e6a8  a href=" author yonden-lhatoo" data-v-6258e6a8 
+                  Yonden Lhatoo
+                  a   p 
+ p class="list-group__list-item list-item" data-v-6258e6a8  a href=" author alex-lo" data-v-6258e6a8 
+                  Alex Lo
+                  a   p 
+ p class="list-group__list-item list-item" data-v-6258e6a8  a href=" author tammy-tam" data-v-6258e6a8 
+                  Tammy Tam
+                  a   p 
+ p class="list-group__list-item list-item" data-v-6258e6a8  a href=" author luisa-tam" data-v-6258e6a8 
+                  Luisa Tam
+                  a   p 
+ p class="list-group__list-item list-item" data-v-6258e6a8  a href=" author wang-xiangwei" data-v-6258e6a8 
+                  Wang Xiangwei
+                  a   p 
+ p class="list-group__list-item list-item" data-v-6258e6a8  a href=" author ian-young" data-v-6258e6a8 
+                  Ian Young
+                  a   p 
+ p class="channel-label__label-text label-text" data-v-6258e6a8 Channels  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Politics  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Economics  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Opinion  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 People  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Health &amp; Environment  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Lifestyle &amp; Culture  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Explained  p 
+ p class="channel-label__label-text label-text" data-v-6258e6a8 Channels  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Fashion &amp; Beauty  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Travel &amp; Leisure  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Family &amp; Relationships  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Food &amp; Drink  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Health &amp; Wellness  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Entertainment  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Arts &amp; Culture  p 
+ p class="item-box__box-label box-label" data-v-6258e6a8 Gadgets  p 
+ p class="channel-label__label-text label-text" data-v-6258e6a8 Channels  p 
+ p class="channel-label__label-text label-text" data-v-6258e6a8 Channels  p 
+ p class="generic-article__summary--p content--p" data-v-4645fee0 data-v-32b05e1c Research is the first study quantifying the monetary returns of China’s panda protection programme  p 
+ p class="main-info__name" data-v-2b159ece  a href=" author alice-shen" data-v-2b159ece 
+            Alice Shen
+            a 
+              span class="main-info__position" data-v-2b159ece   span   p 
+ p class="last-update__published published" data-v-2b159ece Published: 4:01am, 4 Aug, 2018  p 
+ p class="last-update__updated updated" data-v-2b159ece Updated: 2:31pm, 6 Aug, 2018  p 
+ p class="top-picks-header" data-v-3ef48ecd TOP PICKS  p 
+ p data-v-42736822 Copyright © 2019 South China Morning Post Publishers Ltd. All rights reserved.  p 

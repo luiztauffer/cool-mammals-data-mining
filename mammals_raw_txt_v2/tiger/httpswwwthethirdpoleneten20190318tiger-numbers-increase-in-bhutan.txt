@@ -1,0 +1,60 @@
+ p   label Email:   label   input type="email" name="EMAIL" placeholder="your_email@samplemail.com" required   p 
+ p   input type="submit" value="Subscribe"   p 
+ p   label For more information about how we handle your data, please read our  a href="https:  www.thethirdpole.net privacy-notice " Privacy Notice  a   label   p 
+ p class="label" Select your language  p 
+ p As the world tries to double tiger number from where it was in 2010, Bhutan’s increase in tiger numbers shows that at least one country is doing well in this regard  p 
+ p A tiger walks majestically through Bhutan’s Royal Manas National Park [image courtesy: WWF Bhutan]  p 
+ p Nidup Gyeltshen; Dawa Gyelmo, March 18, 2019  p 
+ p Categories:  p 
+ p Tags:  p 
+ p Regions:  p 
+ p Topics:  p 
+ p Share this story  p 
+ p The number of tigers is slowly growing in the tiny Himalayan kingdom of Bhutan. New tiger photographs and pugmarks have emerged from different parts of the country, indicating an overall increase in their numbers.  p 
+ p The Royal Manas National Park, one of Bhutan’s oldest parks located in south central Bhutan, saw  a href="https:  www.worldwildlife.org stories doubling-tigers-in-bhutan-s-royal-manas-national-park" its tiger population double  a  from 10 to 22 tigers, between 2010 and 2016. A total of 90 camera stations, each with two cameras were installed across 1,300 square kilometers in Manas. According to latest data analysis, the number had increased to 28 tigers in the park by 2018, based on the same camera that had been used for earlier surveys.  p 
+ p id="caption-attachment-27022" class="wp-caption-text" Royal Manas National Park, Area and Location Map [image courtesy:  a href="http:  www.dofps.gov.bt ?page_id=296" Department of Forest and Park Services, Bhutan  a ]  p 
+ p According to the World Wildlife Fund Bhutan, 12 transboundary tigers have been recorded in the Transboundary Manas Conservation Area in 2015, an increase from just four tigers in 2011, according to the  a href="http:  www.wwfbhutan.org.bt ?271352 Tiger-numbers-increase-in-the-Transboundary-Manas-Area" latest report on tigers of Transboundary Manas Area  a .  p 
+ p Bhutan conducted its national tiger survey in 2014-15, which estimated 103 tigers. With the latest increase in their population, Bhutan is well poised to contribute to the global ambition of doubling tiger population by 2022.  p 
+ p  strong A multi-pronged approach  strong   p 
+ p Proper trans-boundary cooperation with India, anti-poaching, habitat conservation and awareness among farmers has paid off, along with the successful implementation of the Tiger Action Plan.  p 
+ p At home, the government has also stepped up its plans and policies to conserve tigers. Bhutan’s 12 sup th  sup  five year plan and the Bhutan for Life Initiative have set an ambitious target to increase tiger population by 20% in the next five years.  p 
+ p To improve tiger habitats, the 12 sup th  sup  five-year plan includes activities such as removal of invasive weeds, controlled burning, creation and maintenance of water holes and enriching plantation.  p 
+ p Another big initiative for the conservation of tigers in Bhutan was the establishment of the  a href="http:  www.kuenselonline.com bhutan-collars-tendrel-zangmo " National Tiger Center  a  last year in the southern district of Gelephu, which borders India, with its primary focus on the conservation of the iconic species.  p 
+ p Environmentalists and conservationists attribute the increase in tiger numbers to the environmental policies of the government, tolerance of farmers, and a commitment from the officials on the ground. Much of this rests on the historical and cultural value of tigers in Bhutan, which are considered symbols of luck in the predominantly Buddhist country. Tigers have featured in Buddhist literatures that date back to the 8th century.  p 
+ p One big advantage for Bhutan is habitat. Bhutan’s constitution mandates a minimum of 60% forest cover ( a href="http:  www.bbs.bt news ?p=67069" it was 71% in 2017  a ) while 51% of the country’s land is a mix of protected areas and biological corridors. Kuenley Tenzin, assistant program officer with WWF Bhutan, said Bhutan wants to not just save tigers, but to make it a safe haven for the endangered cat.  p 
+ p Tiger conservation is a top priority for Bhutan not just because of the iconic mammal, but also a measure of how the larger ecosystem is doing. A healthy number of tigers in the forests also work to keep a natural check on herbivores.  p 
+ p The overall tiger population in Bhutan is already fairly healthy. According to Tshering Tempa, program director of the National Tiger Center said, there are already at least 103 tigers in the country, but Bhutan’s forest could support between 200 to 250 tigers.  p 
+ p The previous national survey in 2015 found that tigers in Bhutan were mostly concentrated in certain areas in the country. Tigers from the northern parts of the country were not sighted in the south and vice-versa.  p 
+ p However, latest studies show that tigers have been moving across vast distances in Bhutan. In 2015, an adult male tiger spotted in the Manas National Park, in southern Bhutan, was sighted in northern Bhutan at an elevation of 4,000 meters.  p 
+ p Lethro, a senior forestry officer with the nature conservation division of the ministry of agriculture and forests, said this means that Bhutan’s biological corridors are well functioning. For tigers to move around freely there should also be uniform occupancy of prey across the country, and so the movement also indicates a healthy herbivore population.  p 
+ p Tiger density in Bhutan is higher in the south then in the north, but that is not because of a lack of proper habitat or prey in the north. The nature conservation department would be happy to see more tigers moving north. “Since tiger density is higher in the south, there are also risks of over population,” Lethro added.  p 
+ p  strong Poaching remains a threat  strong   p 
+ p Poaching is still considered one of the biggest threats to tigers in Bhutan. The same tiger that was spotted in northern Bhutan had later returned to Manas where Indian poachers killed it. Bhutanese officials were able to confirm this after examining the tiger’s stripes.  p 
+ p To reduce such instances, SMART (Special Monitoring and Reporting Tool) Patrolling is now being implemented throughout the country including in protected areas.  p 
+ p Sithup Lhendup said, most of the poaching incidences go unreported but the cases are very high. To curb poaching, synchronized patrolling with Indian counterparts has been initiated two years ago. “We have also increased the number of patrolling days to 20 days every month.”  p 
+ p  strong Transboundary and global cooperation  strong   p 
+ p A transboundary meeting between the Royal Manas National Park and Manas National Park India was held in 2008 to promote join anti-poaching program across the border to curb smuggling of timbers and wildlife trade. The workshop was regularised in 2012, and the number of stakeholders increased.  a href="http:  www.wwfbhutan.org.bt ?207900 " By 2013  a  there were 14 stakeholders from India (9 government agencies and 5 NGOs) and 10 stakeholders from Bhutan including WWF Bhutan.  p 
+ p Sithup Lhendup said Bhutan and India were cooperating at multiple levels, with research on development, with Indian NGOs such as Aranyak ecological society, and at the protection and preservation level with the Indian Manas Tiger Reserve. He said a joint patrolling is also carried out by both Indian and Bhutanese officials in the ground. Cooperation has significantly improved today, as there is no insurgency in Northeast unlike in the past, which has improved security, for both humans and wildlife.  p 
+ p id="caption-attachment-27021" class="wp-caption-text" Image courtesy:  a href="http:  tigers.panda.org tx2 " WWF  a   p 
+ p Bhutan is a member to the  a href="http:  tigers.panda.org tx2 " Tx2 Initiative  a  where 13 tiger-range countries have committed to double tiger population by 2022 from what it was in 2010. 2022 will the next Chinese Year of the Tiger.  p 
+ p As a member of the 13 tiger range countries, Bhutan’s conservation efforts and programs are well established. “We may not be able to double Bhutan’s tiger population, but will contribute significantly to the global effort.” Lethro said.  p 
+ p The world tiger population is today estimated at around 3,900.  p 
+ p Share this story  p 
+ p class="date" October 16, 2012  p 
+ p class="date" November 01, 2016  p 
+ p class="date" October 31, 2017  p 
+ p class="date" February 19, 2018  p 
+ p Thanking for wwf bhutan and member for this tiger data  p 
+ p class="comment-notes"  span id="email-notes" Your email address will not be published.  span  Required fields are marked  span class="required" *  span   p 
+ p class="comment-form-comment"  label for="comment" Comment  label  textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"   textarea   p 
+ p class="comment-form-author"  label for="author" Name  span class="required" *  span   label   input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"   p 
+ p class="comment-form-email"  label for="email" Email  span class="required" *  span   label   input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"   p 
+ p class="comment-form-url"  label for="url" Website  label   input id="url" name="url" type="text" value="" size="30" maxlength="200"   p 
+ p class="mc4wp-checkbox mc4wp-checkbox-wp-comment-form"  label  input type="checkbox" name="_mc4wp_subscribe_wp-comment-form" value="1" checked  span Sign me up for the newsletter!  span   label   p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Post Comment"   input type="hidden" name="comment_post_ID" value="27020" id="comment_post_ID"   input type="hidden" name="comment_parent" id="comment_parent" value="0"   p 
+ p class="akismet_comment_form_privacy_notice" This site uses Akismet to reduce spam.  a href="https:  akismet.com privacy " target="_blank" rel="nofollow noopener" Learn how your comment data is processed  a .  p 
+ p  Unless otherwise stated, this work is under Creative Commons'  a href="http:  creativecommons.org licenses by-nc-nd 2.0 uk " target="_blank" rel="noopener noreferrer" Attribution-NonCommercial-NoDerivs 2.0 England &amp; Wales License  a .  p 
+ p   label Email:   label   input type="email" name="EMAIL" placeholder="your_email@samplemail.com" required   p 
+ p   input type="submit" value="Subscribe"   p 
+ p   label For more information about how we handle your data, please read our  a href="https:  www.thethirdpole.net privacy-notice " Privacy Notice  a   label   p 
+ p This website is built on  a href="http:  wordpress.org" target="_blank" rel="external" WordPress  a  using the  a href="http:  github.com infoamazonia newsroom " target="_blank" rel="external" JEO Newsroom  a  theme  p 

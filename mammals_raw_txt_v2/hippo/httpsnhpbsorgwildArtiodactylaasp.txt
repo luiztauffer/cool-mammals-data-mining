@@ -1,0 +1,16 @@
+ p  strong  Kingdom:   strong  a href="animals.asp" Animalia  a  strong   br 
+                                    strong  strong  Phylum:  strong   a href="chordata.asp" Chordata  a  br 
+                                   strong  Class:  strong   a href="mammalia.asp" Mammalia  a   br 
+                                   strong  Order:  strong  Artiodactyla br 
+                                  p 
+ p  a href=" wild images bighornsheep7.jpg" rel="lightbox" title="The species in this order, like the bighron sheep, are herbivores and have an even number of toes.&lt;h4&gt;Image Credit: U.S. Fish and Wildlife&lt; h4&gt; " image="image1"   img src=" wild images bighornsheep7med.jpg" alt="Bighorn Sheep" hspace="6" height="262" width="364" align="right"   a There are about 220 species in this order in 10 families. The species in this order are  a href="herbivores.asp" herbivores  a  and have an even number of toes. Most of the artiodactyla have four-chamber stomachs.   p 
+ p Most of the species in this order live in open habitats like  a href="grasslands.asp" grasslands  a  and plains, but some live in forested areas. They are native to all of the continents except for Australia and Antarctica.   p 
+ p Species in this order include: pigs, hippos, giraffes, camels, sheep, goats, bison, cows, moose, deer, and pronghorns.  br 
+                     br 
+                    p 
+ p  strong   img src=" wild images arrow.gif" width="15" height="15"                            strong  a href="antilocapridae.asp" Antilocapridae  a    span (pronghorns) br 
+                            span  strong   img src=" wild images arrow.gif" width="15" height="15"     strong  a href="bovidae.asp" Bovidae  a   span (antelopes,  goats, sheep)  span                  br 
+                           strong   img src=" wild images arrow.gif" width="15" height="15"     strong  a href="camelidae.asp" Camelidae  a    span (camels, llamas)  span   br 
+                           strong   img src=" wild images arrow.gif" width="15" height="15"     strong  a href="cervidae.asp" Cervidae  a   span (deer, elk, moose)  span  br 
+                           strong   img src=" wild images arrow.gif" width="15" height="15"     strong  a href="giraffidae.asp" Giraffidae  a                             span (giraffes and okapis)  span  br                     
+                        p 

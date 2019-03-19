@@ -1,0 +1,233 @@
+ p class=""  a href="tel:+442072817788"  i class="fa fa-phone" aria-hidden="true"   i   span class="phone-no"   020 7281 7788  span    a   p 
+ p class=""  a href=" general enquiry.aspx"  i class="fa fa-envelope" aria-hidden="true"   i   span class="enquiryForm" Enquire  span    a   p 
+ p class="sans small" CLOSE  p 
+ p 
+                                                
+                                                 span id="ltlDescriptionText" A holiday designed just for you to suit your tastes and budget.  span 
+                                              p 
+ p 
+                                                
+                                                 span id="ltlDescriptionText" Join a convivial small group holiday to explore Costa Rica with an experienced and knowledgeable naturalist guide.  span 
+                                              p 
+ p 
+                                                
+                                                 span id="ltlDescriptionText" Take the family on a very special trip.  span 
+                                              p 
+ p 
+                                                
+                                                 span id="ltlDescriptionText" Costa Rica is a dream destination for a honeymoon with a difference.  span 
+                                              p 
+ p 
+                                                
+                                                 span id="ltlDescriptionText"   span 
+                                              p 
+ p 
+                                                
+                                                 span id="ltlDescriptionText" Read what our customers say about their trips to Costa Rica  span 
+                                              p 
+ p 
+                                                    
+                                                     span id="lblDescriptionText" Costa Rica from the Caribbean to the Pacific  span 
+                                                  p 
+ p 
+                                                    
+                                                     span id="lblDescriptionText" Visit Costa Rica's main wildlife locations.  span 
+                                                  p 
+ p 
+                                                    
+                                                     span id="lblDescriptionText" Make the most of a short visit to Costa Rica.  span 
+                                                  p 
+ p 
+                                                    
+                                                     span id="lblDescriptionText" Top wildlife experiences at the best hotels &amp; lodges  span 
+                                                  p 
+ p 
+                                                    
+                                                     span id="lblDescriptionText" Just the thing for a relaxing getaway or a honeymoon.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Action-packed for lively friends and families.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Step into the natural side of Costa Rica.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" A wonderful welcome by two special communities.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" An adventurous and very varied mini-expedition.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Costa Rica's classic highlights.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Lush, wild, remote.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Ranchlands, volcanoes and great beaches.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Explore undiscovered Costa Rica.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Go as you please at bargain prices outside the busiest time of year.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" An enthralling escorted tour with the accent on nature and wildlife.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Easily to add almost any holiday design here.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Excellent wildlife in the far southwest of Costa Rica  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" A well-nigh perfect itinerary for a trip dedicated to Costa Rica's birds.  span 
+                                                  p 
+ p class="sans small" CLOSE  p 
+ p 
+                                                
+                                              p 
+ p 
+                                                 span id="lblDescriptionText" Helpful advice and expert knowledge is just a phone call away.  span 
+                                              p 
+ p 
+                                                 span id="lblDescriptionText" Best times, busiest times, and times to avoid.  span 
+                                              p 
+ p 
+                                                 span id="lblDescriptionText" Lots of choices: stylish, rustic, urban, beach …  span 
+                                              p 
+ p 
+                                                 span id="lblDescriptionText" Four options for getting about in Costa Rica.  span 
+                                              p 
+ p 
+                                                 span id="lblDescriptionText" We can book your flights, or you could book your own if you prefer.  span 
+                                              p 
+ p 
+                                                 span id="lblDescriptionText" Combine a trip to Costa Rica with neighbouring Panama or Nicaragua.  span 
+                                              p 
+ p 
+                                                    
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Some of the best locations to experience lowland rainforest  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Ranchlands, quiet Pacific beaches and bustling resorts.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Dramatic volcanoes and cloud forest reserves  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" The heart of Costa Rica.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Costa Rica's lively capital city.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" A long sweep of coast with lots of variety.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Mountain peaks, paramo vegetation and high farmlands.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Dense forest, gorgeous bays, nature at its finest and wildest.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Costa Rica's long Caribbean coast has a quiet natural vibe.  span 
+                                                  p 
+ p 
+                                                    
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Glide along narrow river and creeks amid towering forests with plentiful wildlife.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Very dense lowland tropical forests with thick canopies and complex ecosystems.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Mountain forests, cool and moist, with orchids, birds and tree ferns.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Scarce in the tropics, forests bare of leaves in the dry season, with the potential for excellent widlife viewing.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Costa Rica's 4 species of monkey  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" No animal could seem more content with its existence then the sloth…  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" The emblem of Central America: the Resplendant Quetzal  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Costa Rica's colourful tree frogs and dart frogs are cute beyond belief.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" 5 of the world's 7 species of turtle nest in Costa Rica.  span 
+                                                  p 
+ p 
+                                                    
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Find your perfect beach.  span 
+                                                  p 
+ p 
+                                                     span id="lblDescriptionText" Costa Rica's 200 volcanoes include some of the most dramatic in the Americas.  span 
+                                                  p 
+ p class="bigintro" 
+                     span id="lblIntroduction" No animal could be better adapted to life in the tree-tops, or seem more admirably content with its existence than the sloth.  span 
+                  p 
+ p 
+                     span id="lblBody"  p class="intro" Sloths are cousins, not of monkeys, but of anteaters and armadillos, and all three are found only in the New World.  p  p Hanging upside down high in a tree, they reach out with sinuous arms to tear slowly but firmly at their favourite leaves.  p  p Like cows and sheep, they have several stomachs where the long process of digesting all that greenery can take place. Even so, there is not much energy to be had from such a diet, so the sloth doesn't waste any. Their movements are preternaturally slow, of course, and they like nothing better than sunbathing, especially in the morning, to warm their tummies and help speed their digestion.  p  p Amazingly, they are confident swimmers.  p  p Once a week they clamber down to the forest floor, poke a hole in the earth, make a discrete deposit, and slowly make their way back up.  p  p A howler monkey, whose diet is similar, would accomplish the equivalent task on the move, high in the trees (and will deliberately do so on your head if he doesn't like you). Why does the sloth go to all that bother?  p  p The answer seems to be that the sloth is doing some gardening. It doesn't roam far, spending its life on perhaps 40 individual trees, but takes about 10% of their output of leaves - a huge proportion. Mineral nutrients are hard to come by in the forest so by returning a proportion (perhaps as much as half) accurately to the roots the next leaf crop is given a boost.  p  p Yet another reason for admiring the sloth.  p   span 
+                  p 
+ p class="intro" Sloths are cousins, not of monkeys, but of anteaters and armadillos, and all three are found only in the New World.  p 
+ p Hanging upside down high in a tree, they reach out with sinuous arms to tear slowly but firmly at their favourite leaves.  p 
+ p Like cows and sheep, they have several stomachs where the long process of digesting all that greenery can take place. Even so, there is not much energy to be had from such a diet, so the sloth doesn't waste any. Their movements are preternaturally slow, of course, and they like nothing better than sunbathing, especially in the morning, to warm their tummies and help speed their digestion.  p 
+ p Amazingly, they are confident swimmers.  p 
+ p Once a week they clamber down to the forest floor, poke a hole in the earth, make a discrete deposit, and slowly make their way back up.  p 
+ p A howler monkey, whose diet is similar, would accomplish the equivalent task on the move, high in the trees (and will deliberately do so on your head if he doesn't like you). Why does the sloth go to all that bother?  p 
+ p The answer seems to be that the sloth is doing some gardening. It doesn't roam far, spending its life on perhaps 40 individual trees, but takes about 10% of their output of leaves - a huge proportion. Mineral nutrients are hard to come by in the forest so by returning a proportion (perhaps as much as half) accurately to the roots the next leaf crop is given a boost.  p 
+ p Yet another reason for admiring the sloth.  p 
+ p class="small" 
+                             span Let us know what kind of trip to Costa Rica you are most interested in, and when you are thinking of travelling. 
+Our travel experts know Costa Rica exceptionally well, and will be delighted to offer some initial ideas and advice, and to develop a more detailed design for your holiday as your ideas evolve.
+You can order a copy of our special 'Costa Rica, Panama &amp; Nicaragua' brochure here.  span 
+                          p 
+ p class="smaller" Call us on 020 7281 7788 ( Mon-Fri 9:15-5:45). Or we'd be happy to call you back.  p 
+ p class="x-small grey mt-5" 
+                    Your personal information will be kept safe and never passed to others. 
+                    You will receive an email acknowledgement and our occasional email newsletter from which you may unsubscribe at any time.
+                  p 
+ p class="sans small" 
+                        Here’s what our clients say about their experiences of
+                 span id="Label1" Costa Rica  span 
+                        with Geodyssey.
+                      p 
+ p 
+                                 span id="lblHolidayReview" The tour was impeccably organised. It all went smoothly, the guides were terrific. Thank you for making our honeymoon so special. We loved it all.  span 
+                              p 
+ p class="about mt-10" 
+                        Geodyssey brings you an exclusive selection of thoughtfully designed holidays in amazing locations throughout our destinations
+                            in Latin America and the Caribbean.
+                      p 
+ p class="about" 
+                        Our holidays focus on what is natural, authentic, comfortable, stylish and affordable, and on what works best in each country.
+                      p 
+ p class="about" 
+                        Our tailor-made holidays are individually designed by our experienced team on the
+                            basis of in-depth knowledge, a real enthusiasm for our destinations, and a desire to make sure we get it right for each
+                            and every customer.
+                      p 
+ p class="about" 
+                        All the land-based holidays on this website are exclusive to Geodyssey. 
+                      p 
+ p class="about" 
+                        All our customers have  a href=" general protection.aspx"  strong 100% financial protection  strong   a .
+                      p 
+ p class="about" 
+                        Geodyssey is an independent company managed by its owners, based in London, founded in 1993. 
+                      p 
+ p class="coreg" 
+                        Geodyssey Ltd is registered in England no 02782574 at 116 Tollington Park London N4 3RB
+                      p 

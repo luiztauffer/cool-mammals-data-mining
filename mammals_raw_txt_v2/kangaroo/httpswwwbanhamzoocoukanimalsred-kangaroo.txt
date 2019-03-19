@@ -1,0 +1,25 @@
+ p class="sign" Opening times  p 
+ p We are open until  p 
+ p  span 4PM  span today  p 
+ p class="pin" Find us  p 
+ p Sat Nav: NR16 2HE,
+Kenninghall Road  p 
+ p  a href="https:  www.google.com maps dir Current+Location NR16%202HE,%0D%0AKenninghall%20Road" target="_blank" View Map  a   p 
+ p Red kangaroos are marsupials (pouched mammals) and are the largest of all the kangaroo species.  p 
+ p Size: Head-body length - 85-160cm, Tail - up to 120cm br 
+Weight: Up to 95kg  p 
+ p Red kangaroos live in grassland, semi-desert and desert areas in Australia.  p 
+ p Red kangaroos are herbivores eating mainly grass. Kangaroos have front teeth in both the upper and lower jaw, so they can crop grass more closely than sheep, which only have lower front teeth.  p 
+ p A young red kangaroo (joey) is born after 33 days, measuring just 2 cm (3 4 inch). It spends the next 8 months in the mother's pouch and continues to suckle for a further 6 months after leaving the pouch.  p 
+ p The red kangaroo is not considered endangered. The population is currently stable and widely distributed, and they are found in a number of protected areas.  p 
+ p class="latinName" Cynomys ludivicianus  p 
+ p class="latinName" Dasyprocta azarae  p 
+ p class="latinName" Suricata suricatta  p 
+ p class="latinName" Ailurus fulgens  p 
+ p CHIRP br 
+ROAR br 
+OR SQUAWK...  p 
+ p KEEP UP TO DATE WITH THE LATEST NEWS...  p 
+ p  a href=" newsletter-subscription " class="button" Sign Up  a   p 
+ p class="footerTerms" ©2019 The Zoological Society of East Anglia Limited. Registered In England - Company Number 08250951. Registered Charity in England and Wales no. 1150158. Registered Office: The Grove, Kenninghall Road, Banham, Norfolk, NR16 2HE.  p 
+ p class="footerCredit"  a href="http:  www.creativesponge.co.uk" Site by Creative Sponge  a   p 

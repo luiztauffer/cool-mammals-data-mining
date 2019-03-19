@@ -1,0 +1,35 @@
+ p style="margin-bottom: 0px; font-weight: bold; color: #355673; text-align: center; font-size: 10px; text-transform: uppercase;" ADVERTISEMENT  p 
+ p class="cta-header"  em SCIENCE NEWS  em  NEEDS YOU  p 
+ p class="cta-line1"  strong Support nonprofit journalism  strong   p 
+ p class="cta-line2"  strong Subscribe now  strong   p 
+ p class="cta-join-link"  strong  a href="https:  www.sciencenews.org subscription?utm_source=sciencenews&amp;utm_medium=cta&amp;utm_campaign=sn-cta-needsyou&amp;tfa_3134=sn-cta-needsyou" target="_blank" SUBSCRIBE  a   strong   p 
+ p 
+ style type="text css" 
+ !-- *--  ![CDATA[ *   !--* 
+body.front.node-type-section-front
+.block-boxes-hero_box
+#node-openpublish-article-194453
+div.field-name-field-op-caption,
+body.page-node-194453
+.field-name-field-op-caption {visibility: hidden;}
+
+ *--  !]] * 
+  style   p 
+ p In the March 16  i SN  i : Disappearing Bering Sea ice, nanohealers, the world's largest bee, pollen’s beautiful physics, a tiny  i T. rex  i  relative, testing Ebola drugs in Congo and more.   p 
+ p Capybaras, giant rodents from South America, are sometimes kept as pets. But some animals have escaped their owners, or been set free, and they may have established a breeding population in Florida.  p 
+ p Masaki Tokutomi Flickr ( a href="https:  creativecommons.org licenses by-nc 2.0 " CC-BY-NC 2.0  a )  p 
+ p Capybaras, giant rodents native to South America, could become Florida’s next big invasive species, a biologist  a href="http:  www.animalbehaviorsociety.org abs_online core_routines view_abstract_no.php?show_close_window=yes&amp;abstractno=471" warned  a  August 3 in Columbia, Mo., at the  a href="http:  www.animalbehaviorsociety.org 2016 " 53rd Annual Conference of the Animal Behavior Society  a .  p 
+ p “Capybaras have been introduced to northern Florida,” said Elizabeth Congdon of Bethune-Cookman University in Daytona Beach, Fla. And there are enough similarities to  a href="https:  www.invasivespeciesinfo.gov aquatics nutria.shtml" nutria  a  — large invasive rodents that have caused havoc in many states — to warrant a closer look at the South American newcomers.  p 
+ p There are currently about 50 capybara loose in northern Florida. Now, that may not seem like an invasion, and it’s not — yet. But these animals are the world’s largest rodent, growing to 50 kilograms or more. In the wild, the semiaquatic animals live in social groups in forests where they can be near bodies of water, such as rivers, lakes or swamps. They are herbivores that can subsist on a wide variety of vegetation, from grass to tree bark. And they reproduce at a fair pace, producing an average of four, and up to eight, pups per litter.  p 
+ p Most people wouldn’t look at those characteristics and think “I want to own one of those animals,” but some have. Capybaras are one of the many exotic creatures that people have tried to turn into pets. (Owning one is legal in some states.) But the animals  a href="http:  articles.latimes.com 2011 aug 18 local la-me-0818-capybara-20110818" can get loose  a , or people may purposely release them when they no longer want to own a giant rodent.  p 
+ p A capybara (or 50) loose in the countryside or city is not automatically an invasive species. The difference between an invasive and a nonnative exotic is  a href="https:  www.invasivespeciesinfo.gov whatis.shtml" whether an organism is causing environmental or economic harm, or harm to human health  a .  p 
+ p Congdon and her undergraduate students have been studying the potential for capybaras to make that transition from exotic to invasive, and they have been looking for similarities to nutria. Those large rodents were first imported to the United States in the early 1900s; the animals were farmed for their fur in Louisiana. But they escaped — some were also purposely released as weed mitigators — and quickly established themselves in Louisiana’s many swamps. Efforts to control the animals, such as hunting, have largely failed.  p 
+ p Nutria, which are smaller than capybaras, reproduce at about the same rate as the giant rodents. But one of the things that have made nutria such a menace — their propensity to dig into riverbanks, levees and other places that can cause problems when the ground disintegrates — appears to be a trait they don’t share with capybaras.  p 
+ p While coyotes and dogs are know to hunt nutria, it appears that nothing in the United States, other than a human, is big enough to kill a capybara. No animals here are equivalent to the capybara’s natural South American predators, which include anacondas, puma and jaguar, Congdon noted.  p 
+ p The state of Florida says only that a breeding population of capybaras “ a href="http:  myfwc.com wildlifehabitats nonnatives mammals capybara " may exist  a ,” but Congdon is pretty sure that there is one. In 1995, five animals escaped from a wildlife facility near Gainesville, and they are probably at least part of the source of those 50 capybaras now living in Florida. “Several sightings suggest they have been breeding,” Congdon said, including the finding of a juvenile capybara. Given the similarities to the nutria, and the ability of capybaras to adapt to a variety of habitats, including cities, “they might be able to make a go of it in the United States,” Congdon concluded.  p 
+ p But Congdon isn’t advocating that wildlife managers kill all the capybaras in Florida. The animals represent “an opportunity to study the process of invasion,” she said. Plus, a population in Florida would be a lot easier for her to access than the one she studied in Venezuela as a gradate student. “We want to keep them from spreading,” she said, “but can we please not kill them all so I can study them?”  p 
+ p class="mc-form-message" 
+                            Get  span style="font-style: italic" Science News  span  headlines by e-mail.
+                          p 
+ p  a href="http:  societyforscience.disqus.com ?url=https%3A%2F%2Fwww.sciencenews.org%2Fblog%2Fwild-things%2Fcapybaras-may-be-poised-be-florida%25E2%2580%2599s-next-invasive-rodent%3Fmode%3Dblog%26context%3D116" View the discussion thread.  a   p 
+ p  span class="copy-text" 1719 N Street, N.W. , Washington, D.C. 20036  span  span class="sep" |  span  span class="copy-text" 202.785.2255  span  span class="sep" |  span  span class="copy-text" © Society for Science &amp; the Public 2000 - 2019. All rights reserved.   span   p 

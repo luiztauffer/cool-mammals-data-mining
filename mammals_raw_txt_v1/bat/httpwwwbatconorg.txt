@@ -1,0 +1,37 @@
+ p  a href="https:  twitter.com BatConIntl" target="_blank"  img src=" images twitter-top.png" alt="" style="float: left; border: 0; margin-left: 3px; margin-right: 6px;" align="left"   a 
+
+ a href="https:  www.facebook.com BatCon" target="_blank"  img src=" images fb-top.png" alt="" style="float: left; border: 0; margin-left: 3px; margin-right: 3px;" border="0"   a 
+
+ a href="https:  www.youtube.com user BatConservation" target="_blank"  img src=" images youtube-top.png" alt="" style="float: left; border: 0; margin-left: 6px; margin-right: 6px; margin-top: 2px; height: 21px;" align="left"   a 
+
+ a href="http:  www.linkedin.com company bat-conservation-international" target="_blank"  img src=" images linkedin-top.png" alt="" style="border: 0; float: left; margin-left: 5px; margin-right: 5px;"   a 
+
+ a href="https:  www.pinterest.com batconservation " target="_blank"  img src=" images pinterest-top.png" alt="" style="float: left; border: 0; margin-left: 3px; margin-right: 3px;" align="left"   a 
+  p 
+ p class="top-links" 		  p 
+ p  i Conserving the world's bats and their ecosystems to ensure a healthy planet  i   p 
+ p Bats are amazing animals that are important to ecosystems in the USA and worldwide.  Installing a bat house can provide a safe environment for hundreds of bats. Not sure where to start? BCI has loads of helpful tips and tricks, plus including easy-to-follow instructions to help make your property a haven for bats!     p 
+ p Want to get your yard ready for your friendly neighborhood bats?  p 
+ p Whether it’s to benefit from their pollination services and pest control, or to simply enjoy their nightly displays of aerial acrobatics, consider these three tips for attracting bats to your backyard.  p 
+ p Become a BCI member today and receive a free subscription to our award-winning BATS Magazine. Published three times a year, BATS Magazine is the perfect way to stay in the know about the amazing world of bats!   p 
+ p  a href=" donate"  img src=" images dontrio.png" alt="Donate to BCI" width="100%" style="border-radius: 3px 3px 0 0"   a  br   a href=" joinus"  img src=" images mmtrio.png" alt="Join or Renew" width="100%"   a  br   a href=" adopt"  img src=" images adopttrio.png" alt="Adopt a Bat" width="100%"   a  br   a href=" index.php membership-support support legacy"  img src=" images legacytrio.png" alt="Leave a Legacy" width="100%" style="border-radius: 0 0 3px 3px"   a   p 
+ p class="batmag_info" 
+			 img height="17" width="17" align="absmiddle" alt="view PDF" src=" components com_batmag images acro_icon.gif" 
+			 a href=" pdfs BATSmag BCI-014%20Issue%201%202019%20Final%20web.pdf" target="_new" View PDF version  a  br 
+		                                    			 a href=" tmp virtual BATS12019 index.php" target="_new" View Virtual Magazine  a  br 
+				  p 
+ p 
+	 a href="https:  www.supportbats.org" target="_blank"  img src=" images shopapp.jpg" alt="Shop BCI" class="img-responsive" style="border-width: 0px; border-style: solid; width: 100%;"   a 
+	 !-- a href="http:  www.batgoods.com" target="_blank"  img src=" images xbatgoodsnewlogolandingbanner.jpg" alt="Shop at Batgoods.com" class="img-responsive" style="border-width: 0px; border-style: solid; width: 100%;"     a --   p 
+ p style="margin-top: 50px;" 
+	 !-- a href=" resources media-education news-room gen-news 80-latest-news 997-bci-shoots-for-the-stars"  img src=" images charitynavblurb.jpg" alt="" class="img-responsive cke-resize" style="width: 100%;"     a  br    br   -- 
+	 a href="http:  www.earthshare.org " target="_blank"   img src=" images earthshare.png" alt="" width="100%" border="0"    a 
+  p 
+ p Sign up and receive timely bat updates  p 
+ p class="lead" Our mission is to conserve the world’s bats and their ecosystems to ensure a healthy planet.  p 
+ p Please join us or donate so our work can continue.  p 
+ p 
+	Copyright Bat Conservation International © 2019. All Rights Reserved. 
+Unless otherwise noted, all images are copyright © Merlin D. Tuttle and or © Bat Conservation International.
+  p 
+ p    p 

@@ -1,0 +1,46 @@
+ p id="refuge"  a href=" sacramento " title="Sacramento Fish and Wildlife Office" Sacramento Fish &amp; Wildlife Office  a  span id="refuge_state" Serving the people, conserving the fish, wildlife, and plants of California  span   p 
+ p 
+                         label class="accessibility" for="search-bar-input" Search  label 
+                         span class="input-wrapper" 
+                         input id="search-bar-input" class="search-bar-input" name="query" placeholder="Search" type="text" 
+                          span 
+                         input name="submit" class="search-bar-submit" src=" sacramento images global input_search.gif" alt="Submit search form" type="image" 
+                         input type="hidden" name="v:project" value="firstgov" 
+                         input type="hidden" name="affiliate" value="fws.gov" 
+                      p 
+ p Working to reduce the effects of contaminants and other stressful impacts on fish wildlife and their habitats and to plan, implement and monitor restoration projects so that fish and wildlife resources can be recovered.  p 
+ p Working to reduce the effects of contaminants and other stressful impacts on fish wildlife and their habitats and planning, implementing and monitoring restoration projects so that fish and wildlife resources can recover.  p 
+ p Reviews and commenting on State and Federal environmental documents, helping to minimize impacts on fish and wildlife species and their habitats.  p 
+ p Access data and maps for the Sacramento Fish and Wildlife Office’s jurisdiction. Data are suitable for direct input to GIS software that can analyze its meaning in the scientific, engineering, or business context for which the data were created.  p 
+ p Providing information and assistance to Congressional offices, other agencies, media outlets, and the general public about Service activities.  p 
+ p Endangered. This means that the species is in danger of dying out.  p 
+ p &gt;Giant kangaroo rats have sandy-colored fur. Their bellies are white. They have a white stripe across their hips. There is a tuft on the end of the tail.  p 
+ p Adults are 31-35 centimeters long. (About 13 inches) This includes a 16-19 cm tail. (About 7 inches.) They weigh 130-180 grams. (About 5 ½ ounces) They are the largest kangaroo rat.  p 
+ p Kangaroo rats are not what you think of as rats. They are not like common household rats.  p 
+ p Why "Kangaroo"? They hop on their hind feet like a kangaroo.  p 
+ p Mainly seeds. Also green plants and insects. They forage at night.  p 
+ p Kangaroo rats can survive without water. They convert seeds into water. They don't sweat or pant to keep cool. They live in burrows and come out at night. Their kidneys produce very little urine. Maybe we should call them "camel rats"!  p 
+ p Dry, sandy grasslands.  p 
+ p January to May. Litters average 3 babies.  p 
+ p Barn and Great-Horned Owls. Coyotes, Kit Foxes and Badgers. Rattlesnakes, Gopher Snakes, King Snakes and Coachwhips.  p 
+ p Western San Joaquin Valley, including the  a href="Images Carrizo_Plain_flowers_FWS_Zennerer.JPG" Carrizo  a  and Elkhorn Plains, and the Kettleman Hills.  p 
+ p Loss of habitat to agriculture. Only about 2% of the species' original habitat remains.  p 
+ p   a href="http:  www.cdpr.ca.gov docs es espdfs kratall.pdf" title="This URL links to a non-FWS website" target="_blank" Kangaroo Rats  a  (PDF 1.4MB) from the California Dept. of Pesticide Regulation. This publication is designed to help farmers avoid kangaroo rats. But it has lots of pictures and information.  p 
+ p Thelander, C. ed. 1994. Life on the edge: a guide to California's endangered natural resources. 
+        BioSystem Books. Santa Cruz, CA. p 72-73.  p 
+ p Photo credit: Photo at the top of the page - Tamara Nunes, Caltrans. Linked photo of the  a href="Images Carrizo_Plain_flowers_FWS_Zennerer.JPG" Carrizo Plain  a  - Adam Zennerer, U.S. Fish &amp; Wildlife Service.  p 
+ p Biologists call giant kangaroo rats  strong Dipodomys ingens  strong . Scientific names are in Latin or Greek.  p 
+ p Giant kangaroo rats are in the  strong Heteromyidae  strong  family.  p 
+ p Kangaroo rats are active at night. Scientists say they are  strong nocturnal  strong . Animals who are active during the day are called  strong diurnal  strong .  p 
+ p Please read our  a href="http:  www.doi.gov privacy_children.cfm" target="_blank" children's privacy statement  a .  p 
+ p  strong Amphibians &amp; Reptiles  strong   p 
+ p  strong Birds  strong   p 
+ p  strong Fishes  strong   p 
+ p  strong Invertebrates  strong   p 
+ p  strong Mammals  strong   p 
+ p  strong Plants  strong   p 
+ p  strong 8th Graders and older  strong   p 
+ p  strong Feedback  strong   p 
+ p  strong National Homework  strong   p 
+ p  strong  a href="http:  bensguide.gpo.gov " target="_blank" Ben's Guide to U.S. Government for Kids   a   strong   p 
+ p Last updated:  !-- #BeginDate format:Am1 -- November 29, 2017 !-- #EndDate --   p 

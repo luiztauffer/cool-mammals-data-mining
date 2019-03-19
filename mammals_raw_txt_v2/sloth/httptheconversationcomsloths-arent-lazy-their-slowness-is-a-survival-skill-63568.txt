@@ -1,0 +1,61 @@
+ p class="role" 
+      PhD Researcher, Swansea University
+      p 
+ p  span Becky Cliffe does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.  span   p 
+ p class="funding-statement"  a href=" institutions swansea-university-2638" Swansea University  a  provides funding as a member of The Conversation UK.  p 
+ p The Conversation UK receives funding from these organisations  p 
+ p  a href=" uk partners"  strong View the full list  strong   a   p 
+ p 
+       a class="license-logo" href="http:  creativecommons.org licenses by-nd 4.0 "  img src=" assets call-to-actions republish-ca547a7c5135cc6d1a28933dc8b6823c.png" alt="Republish"   a 
+      Republish our articles for free, online or in print, under Creative Commons licence.
+      p 
+ p Conventional wisdom has it that sloths are simple, lazy creatures that do very little other than sleep all day. Even the very name “sloth” in most languages translates as some version of “lazy”. It seems astonishing that such an animal survives in the wild at all.   p 
+ p In 1749, French naturalist Georges Buffon was the  a href="http:  theday.co.uk opinion why-i-believe-the-sloth-is-a-hero-of-evolution" first to describe the creature  a  in his encyclopedia of life sciences, saying:   p 
+ p Slowness, habitual pain, and stupidity are the results of this strange and bungled conformation. These sloths are the lowest form of existence. One more defect would have made their lives impossible.  p 
+ p Given such a precedent, it is of little surprise that sloths are subject to such profound speculation and misinterpretation, ranging  a href="http:  news.bbc.co.uk 1 hi sci tech 7396356.stm" from the benign  a  – that they sleep all day – to the creative anecdotes I regularly hear, such as: “Sloths are so stupid that they mistake their own arm for a tree branch”.   p 
+ p The truth is that sloths are incredibly slow movers, but for a very simple reason: survival. The fact that slow sloths have been on this planet for almost 64m years shows that they have a winning strategy. But in order to understand exactly what it is that makes them such slow movers, and why this works so well, we have to look at the biology of these unusual animals in more detail.  p 
+ p Three-toed sloths are indeed the  a href="http:  animals.nationalgeographic.com animals mammals three-toed-sloth " slowest-moving mammals  a  on the planet, but exactly how slow is slow? At the world’s  a href="http:  www.slothsanctuary.com " only sloth sanctuary  a  in Costa Rica, we have been monitoring the movement and activity patterns of wild sloths using  a href="http:  thefoundationforantarcticresearch.org index.php projects-2 dr-rory-wilson " small data loggers combined with tracking devices  a  inside  a href="http:  www.slothsanctuary.com research the-sloth-backpack-project " specially built “sloth backpacks”  a . We’ve found that, contrary to popular belief, sloths don’t actually spend inordinate amounts of time sleeping; they sleep for just eight to ten hours a day in the wild. They do move, but very slowly and always at the same, almost measured, pace.   p 
+ p Moving slowly unequivocally requires less energy than moving fast, and it is this principal that underlies the sloths’ unusual ecology.  p 
+ p Sloths are not the only creatures in the animal kingdom to adopt a slow pace. Cold-blooded ectotherms such as frogs and snakes, are commonly subject to enforced slow movement when faced with cold temperatures, due to their inability to regulate their own temperature independently of the environment. Just like any chemical reaction, cold muscles are slow muscles so cold reptiles are slow reptiles.   p 
+ p This is in stark contrast to most homeothermic mammals which maintain a stable, high core temperature via a process of  a href="http:  medical-dictionary.thefreedictionary.com adaptive+thermogenesis" adaptive thermogenesis  a , and are consequently able to move fast and effectively regardless of the ambient conditions. But this athletic ability comes at a cost: high body temperatures mean high metabolic rates, and somehow the energy bill must be paid using food.  p 
+ p So where do sloths fit into this dichotomy? They move slowly at all temperatures and, unsurprisingly, deviate from the typical homeothermic mammalian plan by operating at lower body temperatures than most mammals, while apparently having a reduced ability to thermoregulate. The average temperature of the three-toed sloth is  a href="https:  animalcorner.co.uk animals sloth " around 32.7℃  a  (91℉), compared to  a href="https:  www.urmc.rochester.edu encyclopedia content.aspx?ContentTypeID=85&amp;ContentID=P00866" humans’ 36.5℃ 97.8℉  a .  p 
+ p Much in the manner of ectotherms, sloths depend on  a href="http:  natureinstitute.org nature sloth.htm" behavioural and postural adjustments  a  to control their own heat loss and gain, showing daily core temperature fluctuations of up to 10℃. By perpetually moving slowly and partially departing from full homeothermy, sloths burn very little energy and are  a href="http:  www.scientificamerican.com article laid-back-sloths-are-the-masters-of-slow " able to function with the lowest metabolic rate  a  of any non-hibernating mammal, with estimates ranging from  a href="https:  www.jstor.org stable 1379840?seq=1#page_scan_tab_contents" 40–74% of the predicted value relative  a  to the sloth’s body mass.  p 
+ p As a result of all this,  a href="https:  www.researchgate.net publication 274384020_Sloths_like_it_hot_Ambient_temperature_modulates_food_intake_in_the_brown-throated_sloth_Bradypus_variegatus" sloths don’t need to acquire much energy  a  or to spend time looking for it. Both two and three-fingered sloths have a predominantly folivorous (leaf-based) diet, consuming material with a notably low caloric content. There are plenty of other mammals which specialise on a leaf-based diet, but usually these animals compensate for their low-calorie diet by consuming relatively large quantities of food. Fellow leaf-eating howler monkeys move at a normal pace but consume three times as many leaves per kilogram of body mass as sloths, digesting their foodstuff comparatively quickly.   p 
+ p Therein lies another sloth peculiarity: for the majority of mammals,  a href="http:  www.stufftoblowyourmind.com blog animal-fastest-digestive-system " digestion rate depends on body size  a , with larger animals generally taking longer to digest their food. Sloths appear to break this rule to an unprecedented extent. The  a href="http:  www.slothsanctuary.com research sloth-digestion " exact rate of digestion  a  remains unclear, but current estimations for the passage of food from ingestion to excretion range from 157 hours to a staggering 50 days (1,200 hours).  p 
+ p Unsurprisingly, the sloth’s four-chambered stomach is constantly full, and so more leaves can only be ingested when digesta leaves the stomach and enters the small intestine. Food intake and, critically, energy expenditure are likely limited by digestion rate and room in the stomach. Indeed, the abdominal contents of a sloth can account for up to 37% of their body mass.  p 
+ p All this points to an extraordinary lifestyle, with sloths living on a metabolic knife edge where minimal energy expenditure is finely balanced with minimal energy intake.  p 
+ p With their plethora of energy-saving adaptations, sloths physically don’t have the ability to move very fast. And with this, they do not have the capacity to defend themselves or run away from predators, as a monkey might. Instead, their survival is entirely dependent upon camouflage – a factor aided by their symbiotic relationship with  a href="http:  blogs.biomedcentral.com on-biology 2010 04 14 sloth-fur-has-symbiotic-relationship-with-green-algae " algae growing on their fur  a . Sloths’ main predators – big cats like jaguars, ocelots and birds such as harpy eagles – all primarily detect their prey visually, and it is likely that sloths simply move at a pace that doesn’t get them noticed.   p 
+ p The sloth life is certainly not the “lowest form of existence”, but as strategic as that of any other animal. They are energy-saving mammals taking life at a slow pace to avoid the rush and tumble for food, while subscribing the movement patterns that help them avoid being identified as prey. There must be a lesson somewhere in that for all of us.  p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events inofrugal-uk-6967" 
+           span class="name" Inofrugal UK  span 
+          —
+           span class="location" Cambridge, Cambridgeshire  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events britains-housing-crisis-designing-future-homes-and-cities-6751" 
+           span class="name" Britain's Housing Crisis - designing future homes and cities  span 
+          —
+           span class="location" Reading, Reading  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events karate-kid-vs-rocky-balboa-the-science-of-strength-and-power-6915" 
+           span class="name" Karate kid vs. Rocky Balboa: The science of strength and power  span 
+          —
+           span class="location" Cambridge, Cambridgeshire  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events depression-and-decolonisation-revisiting-the-1930s-in-the-british-and-french-caribbean-6686" 
+           span class="name" Depression and Decolonisation: Revisiting the 1930s in the British and French Caribbean  span 
+          —
+           span class="location" London, London, City of  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events beethoven-mayer-and-dvorak-royal-holloway-symphony-orchestra-6560" 
+           span class="name" Beethoven, Mayer and Dvořák: Royal Holloway Symphony Orchestra  span 
+          —
+           span class="location" Egham, Surrey  span 
+  a         p 
+ p class="copyright" 
+       span Copyright © 2010–2019  span  span class="comma" ,   span  span  a href=" uk who-we-are" The Conversation Trust (UK) Limited  a   span 
+      p 

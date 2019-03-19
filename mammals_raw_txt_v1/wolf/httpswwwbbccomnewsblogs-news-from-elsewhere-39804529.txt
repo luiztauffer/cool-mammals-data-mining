@@ -1,0 +1,29 @@
+ p class="twite__title" aria-hidden="true" Share this with  p 
+ p class="twite__channel-text" aria-hidden="true" Email  p 
+ p class="twite__channel-text" aria-hidden="true" Facebook  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Twitter  p 
+ p class="twite__channel-text" aria-hidden="true" Pinterest  p 
+ p class="twite__channel-text" aria-hidden="true" WhatsApp  p 
+ p class="twite__channel-text" aria-hidden="true" LinkedIn  p 
+ p class="twite__copy-text" Copy this link  p 
+ p class="twite__new-window" aria-hidden="true" These are external links and will open in a new window  p 
+ p class="story-body__introduction" Scientists in Denmark say that the country now has its first pack of wolves in over 200 years.  p 
+ p Wolves hadn't been seen in the country in two centuries until one was spotted in Jutland five years ago.  Since then, there have been concerns that male and female animals would meet and eventually mate,  a href="http:  cphpost.dk news denmark-has-its-first-wolf-pack.html" class="story-body__link-external" the Copenhagen Post  a  reports.   p 
+ p That now appears to have happened. DNA evidence from faeces has confirmed a female has settled in west Jutland, and CCTV images have shown a pair of wolves moving together in the region.  p 
+ p Speaking to  a href="http:  www.dr.dk nyheder viden naturvidenskab dna-fra-hunulv-beviser-ulvepar-har-slaaet-sig-ned-i-danmark" class="story-body__link-external" national broadcaster DR  a , Peter Sunde of Aarhus University said it would only be a matter of time before they mate.   p 
+ p "We expect that they will have cubs this year or the next," he said, pointing out that if it's the former, she's probably in a den tending to young, as wolves tend to breed in spring.  p 
+ p The fact that the pair have been spotted together probably shows that there aren't any pups yet, as the male would instead be hunting on its own, experts say.  p 
+ p Wolves only pair off for one reason,  a href="https:  www.b.dk nationalt forsker-der-vil-vaere-ulveflokke-i-danmark-inden-for-faa-aar" class="story-body__link-external" the Berlinsgke newspaper says  a  ominously, and that's to breed. It's thought the female is a recent immigrant from Germany's Schleswig-Holstein region, and travelled a distance of some 550km (340 miles) from its birthplace, the paper reports.  p 
+ p It's possible that more wolves will make the journey north from Germany in the coming years, but an attempt to conduct a census of wolf numbers in 2016 was  a href="http:  cphpost.dk news scientists-trying-to-determine-how-many-wolves-there-are-in-denmark-again.html" class="story-body__link-external" thwarted by inconclusive evidence  a .   p 
+ p It's thought there could be as many as 40 wolves in Denmark now, but experts aren't disclosing their locations as they fear public attention could scare the animals away.  p 
+ p The emergence of wolves in Denmark has become a cause for concern for farmers and animal breeders.   p 
+ p In February, there were appeals for action after a string of attacks on sheep in west Jutland  a href="https:  www.thelocal.dk 20170217 danish-farmers-call-for-help-as-wolf-attacks-rise" class="story-body__link-external" were blamed on the predators  a . Last month six deer were killed at a deer park  a href="https:  www.thelocal.dk 20170406 new-denmark-wolf-attack-six-deer-killed-at-west-jutland-farm" class="story-body__link-external" near a government-approved "wolf zone"  a .   p 
+ p  i Reporting by Alistair Coleman  i   p 
+ p  strong Next story:   strong  a href="http:  www.bbc.co.uk news blogs-news-from-elsewhere-39792062" class="story-body__link" Losing Kenyan candidates rush to stand as independents  a   p 
+ p  i Use #NewsfromElsewhere to stay up-to-date with our reports via   i  a href="https:  twitter.com search?q=%23NewsfromElsewhere&amp;src=typd" class="story-body__link-external" Twitter  a .  p 
+ p class="top-stories-promo-story__summary top-stories-promo-story__summary--none" German capital makes Women's Day a public holiday for the first time.  p 
+ p class="bold-image-promo__summary" Reports and analysis from TV, radio, web and print media around the world  p 
+ p class="bold-image-promo__summary" An instant guide to the history, politics and economics of countries and territories  p 
+ p class="bold-image-promo__summary" Answering life’s questions through daily features, quizzes and opinions.  p 

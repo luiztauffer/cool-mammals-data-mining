@@ -1,0 +1,123 @@
+ p audience="advanced intermediate"  span rank="Species" class="taxon-link rank-species" Hydrochoerus hydrochaeris  span  is a strictly South American rodent species. Its range extends throughout most of Brazil, Uruguay, Venezuela, and Columbia, south into the Argentinian pampas, and west to the Andes.  span class="citations"  ( a href="#1737c8fe4cdede779d9262ae0af8b18e" class="citation" "Capybara", 2001  a ;  a href="#d27d5aa64d18de06d79ac5af5019ea18" class="citation" "Capybara", 2002  a ;  a href="#245b7aaf0054a7783b2946f2942ff6e4" class="citation" "Capybara", 2009  a )  span   p 
+ p audience="advanced intermediate" Capybaras are found only in areas where water is easily accessible: flooded grasslands are a favored habitat, as are marsh edges and lowland forests where grazing is good and there is water year-round. However, they occupy a range of habitats, including dry forest, scrub, and grasslands throughout South America.  span class="citations"  ( a href="#1737c8fe4cdede779d9262ae0af8b18e" class="citation" "Capybara", 2001  a ;  a href="#245b7aaf0054a7783b2946f2942ff6e4" class="citation" "Capybara", 2009  a ;  a href="#5b9317451468ba2ce4ad13ccb92b7eb1" class="citation" Dunston and Gorman, 1998  a ;  a href="#6cb52158a8c11ac7685cf51dc649768e" class="citation" Wolff and Sherman, 2007  a )  span   p 
+ p audience="advanced intermediate" Capybaras are the largest of rodents, weighing from 35 to 66 kg and standing up to 0.6 meters at the shoulder, with a length of about 1.2 meters. Females of this species are slightly larger than males. Their fur is coarse and thin, and is reddish brown over most of the body, turning yellowish brown on the belly and sometimes black on the face. The body is barrel-shaped, sturdy, and tailless. The front legs are slightly shorter than the hind legs, and the feet are partially webbed. This, in addition to the location of the eyes, ears, and nostrils on top of the head, make capybaras well-suited to semi-aquatic life.  span class="citations"  ( a href="#1737c8fe4cdede779d9262ae0af8b18e" class="citation" "Capybara", 2001  a ;  a href="#d27d5aa64d18de06d79ac5af5019ea18" class="citation" "Capybara", 2002  a ;  a href="#245b7aaf0054a7783b2946f2942ff6e4" class="citation" "Capybara", 2009  a ;  a href="#5b9317451468ba2ce4ad13ccb92b7eb1" class="citation" Dunston and Gorman, 1998  a ;  a href="#6cb52158a8c11ac7685cf51dc649768e" class="citation" Wolff and Sherman, 2007  a )  span   p 
+ p audience="advanced intermediate" Capybaras are polygynous to promiscuous. Dominant males in social groups try to monopolize mating activity, but this can be nearly impossible, especially in larger groups. Little research has been done on female mate choice in capybaras, but females have been observed mating with both dominant and subordinate males.  span class="citations"  ( a href="#d27d5aa64d18de06d79ac5af5019ea18" class="citation" "Capybara", 2002  a ;  a href="#e72c2615d913f3b0fa6e8b216057dbb1" class="citation" Herrera and Macdonald, 1993  a )  span   p 
+ p audience="advanced intermediate" Capybaras breed throughout the year, with a peak in breeding activity at the beginning of the rainy season. When a female comes into estrus, a male will begin to follow her closely, sometimes for long periods of time, before mating occurs. During this time, the male is often driven off by a more dominant male, who then takes his place. Copulation occurs in the water and typically lasts only a few seconds, but a female usually copulates several times per estrus period. Young are born after 150 days, in litters ranging in size from 2 to 8.The young are precocial, beginning to stand and walk shortly after birth, and can graze within a week of being born. They are weaned at about 3 months old, during which time they suckle both from their own mother and the other females in the group, who are usually closely related.  span class="citations"  ( a href="#1737c8fe4cdede779d9262ae0af8b18e" class="citation" "Capybara", 2001  a ;  a href="#d27d5aa64d18de06d79ac5af5019ea18" class="citation" "Capybara", 2002  a ;  a href="#245b7aaf0054a7783b2946f2942ff6e4" class="citation" "Capybara", 2009  a ;  a href="#5b9317451468ba2ce4ad13ccb92b7eb1" class="citation" Dunston and Gorman, 1998  a ;  a href="#e72c2615d913f3b0fa6e8b216057dbb1" class="citation" Herrera and Macdonald, 1993  a ;  a href="#2ad8f4096a43b9533887867f55ec2aac" class="citation" Ojasti, 1968  a ;  a href="#6cb52158a8c11ac7685cf51dc649768e" class="citation" Wolff and Sherman, 2007  a )  span   p 
+ p audience="advanced intermediate" Young capybaras stay with their parents' group until they are about a year old. They nurse for the first three months of this time. Both before and after weaning, the young move around together in a creche, and some of the work of parenting (such as suckling and watching for danger) is shared among all adults in the group. During much of their first year of life, the young are small, slow, and easily tired, making them especially vulnerable to predators. The protection of their natal group is essential to staying alive. Little is known about individual parental care in capybaras, but it seems that, because of the precocial state of the young and the system of cooperative parenting, the time and resources spent by each parent after birth are minimal.  span class="citations"  ( a href="#d27d5aa64d18de06d79ac5af5019ea18" class="citation" "Capybara", 2002  a ;  a href="#245b7aaf0054a7783b2946f2942ff6e4" class="citation" "Capybara", 2009  a ;  a href="#6cb52158a8c11ac7685cf51dc649768e" class="citation" Wolff and Sherman, 2007  a )  span   p 
+ p audience="advanced intermediate" Capybaras live about 6 years on average (and as many as 10 years) in the wild and up to 12 years in captivity.  span class="citations"  ( a href="#1737c8fe4cdede779d9262ae0af8b18e" class="citation" "Capybara", 2001  a ;  a href="#d27d5aa64d18de06d79ac5af5019ea18" class="citation" "Capybara", 2002  a )  span   p 
+ p audience="advanced intermediate" Capybaras live in groups of around 10 adults of both sexes, although groups can range in size from 3 to 30 and larger aggregations often form around water resources during the dry season. Each group maintains and defends a territory that encompasses feeding and wallowing sites. Among males, there is a strict dominance hierarchy enforced by chasing and, rarely, fights. Group living appears to be extremely important to capybara survival—without a group, an individual is excluded from most grazing habitat and has no chance of finding a mate, so solitary capybaras are seldom found. Capybara society is relatively stable over the course of time: group membership changes rarely and a territory can be maintained by one group for over 3 years. Because of their large body size, capybaras are susceptible to heat stress. Activity is primarily crepuscular and the hottest part of the day is spent in the water. Capybaras are strong swimmers, helped by the fact that their bodies are only slightly denser than water. They seem to be just as at home in the water as on land.  span class="citations"  ( a href="#1737c8fe4cdede779d9262ae0af8b18e" class="citation" "Capybara", 2001  a ;  a href="#d27d5aa64d18de06d79ac5af5019ea18" class="citation" "Capybara", 2002  a ;  a href="#5b9317451468ba2ce4ad13ccb92b7eb1" class="citation" Dunston and Gorman, 1998  a ;  a href="#3b173a0dac0270849277d1fdde401893" class="citation" Herrera and Macdonald, 1989  a ;  a href="#e72c2615d913f3b0fa6e8b216057dbb1" class="citation" Herrera and Macdonald, 1993  a ;  a href="#5cb144b3e8041fecafe0327ddd754d5f" class="citation" Maldonado-Chaparro and Blumstein, 2008  a ;  a href="#6cb52158a8c11ac7685cf51dc649768e" class="citation" Wolff and Sherman, 2007  a )  span   p 
+ p audience="advanced intermediate" No information was found on home range sizes in capybaras.  p 
+ p audience="advanced intermediate" Vocalization appears to be very important in capybara groups, but the purpose of many of the sounds made is unknown. However, young vocalize almost constantly and vocal communication among adults is also common. Individuals bark to warn the group of danger, this often results in the whole group rushing into the relative safety of the water. Scent is also important, especially in mating and establishing dominance. Male capybaras have a bare lump on the top of the snout, known as the morillo gland, which secretes a white liquid. The scent of this liquid acts as an olfactory “fingerprint”, signaling the status of the individual. It is rubbed on trees or shrubs to mark territory, or smeared on the male’s body to advertise his status and willingness to mate. Both males and females have two glands on either side of the anus. The combination of chemicals in the liquid they secrete is also highly individualized and seems to be used to recognize group members and mark territory.  span class="citations"  ( a href="#1737c8fe4cdede779d9262ae0af8b18e" class="citation" "Capybara", 2001  a ;  a href="#d27d5aa64d18de06d79ac5af5019ea18" class="citation" "Capybara", 2002  a ;  a href="#e72c2615d913f3b0fa6e8b216057dbb1" class="citation" Herrera and Macdonald, 1993  a ;  a href="#5cb144b3e8041fecafe0327ddd754d5f" class="citation" Maldonado-Chaparro and Blumstein, 2008  a )  span   p 
+ p audience="advanced intermediate" Capybaras are grazers, feeding mainly on grasses and aquatic plants. Bark and fruit are consumed occasionally. They are also cophrophagous and spend part of each morning re-ingesting the previous day’s food.  span class="citations"  ( a href="#d27d5aa64d18de06d79ac5af5019ea18" class="citation" "Capybara", 2002  a ;  a href="#5b9317451468ba2ce4ad13ccb92b7eb1" class="citation" Dunston and Gorman, 1998  a ;  a href="#3b173a0dac0270849277d1fdde401893" class="citation" Herrera and Macdonald, 1989  a )  span   p 
+ p audience="advanced intermediate" Especially while young, capybaras are an important food source for many large predators, including  a class="taxon-link" href=" accounts Eunectes_murinus " anacondas  a ,  a class="taxon-link" href=" accounts Caiman_crocodilus " caimans  a ,  a class="taxon-link" href=" accounts Panthera_onca " jaguars  a , and humans. While grazing, they are constantly on the lookout for predators and give an alarm bark when one is spotted. They often hide in the water, with just their nostrils and eyes exposed, and can stay completely submerged for up to five minutes.  span class="citations"  ( a href="#1737c8fe4cdede779d9262ae0af8b18e" class="citation" "Capybara", 2001  a ;  a href="#245b7aaf0054a7783b2946f2942ff6e4" class="citation" "Capybara", 2009  a ;  a href="#3b173a0dac0270849277d1fdde401893" class="citation" Herrera and Macdonald, 1989  a ;  a href="#6cb52158a8c11ac7685cf51dc649768e" class="citation" Wolff and Sherman, 2007  a )  span   p 
+ p audience="advanced intermediate" In many parts of South America capybaras are the only large grazing species and can have a dramatic effect on the vegetation in an area. They are also mutualists or commensals with several types of birds which pick parasitic insects out of capybara fur or follow grazing capybaras and eat the insects they stir up from the grass. In addition, they are an important prey species for many different animals, as mentioned above.  span class="citations"  ( a href="#1737c8fe4cdede779d9262ae0af8b18e" class="citation" "Capybara", 2001  a ;  a href="#245b7aaf0054a7783b2946f2942ff6e4" class="citation" "Capybara", 2009  a ;  a href="#5b9317451468ba2ce4ad13ccb92b7eb1" class="citation" Dunston and Gorman, 1998  a ;  a href="#3b173a0dac0270849277d1fdde401893" class="citation" Herrera and Macdonald, 1989  a ;  a href="#bddfb871a80af45e9eeb21d509e03618" class="citation" Tomazzoni, et al., 2005  a ;  a href="#6cb52158a8c11ac7685cf51dc649768e" class="citation" Wolff and Sherman, 2007  a )  span   p 
+ p audience="advanced intermediate" Capybaras are hunted for their meat and leather, both of which are said to be very high-quality. Capybara meat is especially popular during Lent, the 40-day period prior to Easter, because it is approved by the Catholic church as an alternative to beef or pork. (Presumably, the semiaquatic habit of the capybara convinced early priests that it was similar to fish.) Large-scale ranching of capybaras has been proposed to curtail illegal hunting and the animals have proved easy to domesticate, at least in small numbers. In fact, capybaras are more efficient grazers than cattle or other introduced livestock and are already an important source of food for many local people.  span class="citations"  ( a href="#1737c8fe4cdede779d9262ae0af8b18e" class="citation" "Capybara", 2001  a ;  a href="#d27d5aa64d18de06d79ac5af5019ea18" class="citation" "Capybara", 2002  a ;  a href="#e5301750b692632ed2a2fe96698ec821" class="citation" Grant, 2009  a )  span   p 
+ p audience="advanced intermediate" Capybaras sometimes raid gardens or farms in search of food, such as melons, squashes, or grains. It has also been hypothesized that they are carriers of certain livestock diseases.  span class="citations"  ( a href="#1737c8fe4cdede779d9262ae0af8b18e" class="citation" "Capybara", 2001  a ;  a href="#5cb144b3e8041fecafe0327ddd754d5f" class="citation" Maldonado-Chaparro and Blumstein, 2008  a )  span   p 
+ p audience="advanced intermediate" The IUCN lists capybaras as a species of least concern, citing its large population, large distribution, and frequent occurrence within protected areas. However, some local populations are in decline due to over-hunting.  span class="citations"  ( a href="#1737c8fe4cdede779d9262ae0af8b18e" class="citation" "Capybara", 2001  a ;  a href="#25e4a58330db248305dd577bcf5bcd4c" class="citation" "IUCN Red List", 2008  a ;  a href="#e5301750b692632ed2a2fe96698ec821" class="citation" Grant, 2009  a )  span   p 
+ p Kathryn Frens (author), University of Michigan-Ann Arbor, Phil Myers (editor, instructor), Museum of Zoology, University of Michigan-Ann Arbor, Tanya Dewey (editor), Animal Diversity Web.   p 
+ p living in the southern part of the New World.  In other words, Central and South America.  p 
+ p align="center" 
+                           img alt="World Map" src=" images worldmap.2001.jpg" 
+                          p 
+ p uses sound to communicate  p 
+ p having body symmetry such that the animal can be divided in one plane into two mirror-image halves.  Animals with bilateral symmetry have dorsal and ventral sides, as well as anterior and posterior ends.  Synapomorphy of the Bilateria.  p 
+ p either directly causes, or indirectly transmits, a disease to a domestic animal  p 
+ p uses smells or other chemicals to communicate  p 
+ p helpers provide assistance in raising young that are not their own  p 
+ p an animal that mainly eats the dung of other animals  p 
+ p active at dawn and dusk  p 
+ p ranking system or pecking order among members of a long-term social group, where dominance status affects access to resources or mates  p 
+ p animals that use metabolically generated heat to regulate body temperature independently of ambient temperature.  Endothermy is a synapomorphy of the Mammalia, although it may have arisen in a (now extinct) synapsid ancestor; the fossil record does not distinguish these possibilities.  Convergent in birds.  p 
+ p an animal that mainly eats leaves.  p 
+ p A substance that provides both nutrients and energy to a living thing.  p 
+ p forest biomes are dominated by trees, otherwise forest biomes can vary widely in amount of precipitation and seasonality.  p 
+ p An animal that eats mainly plants or parts of plants.  p 
+ p offspring are produced in more than one group (litters, clutches, etc.) and across multiple seasons (or other periods hospitable to reproduction).  Iteroparous animals must, by definition, survive over multiple seasons (or periodic condition changes).  p 
+ p marshes are wetland areas often dominated by grasses and reeds.  p 
+ p having the capacity to move from one place to another.  p 
+ p specialized for swimming  p 
+ p the area in which the animal is naturally found, the region in which it is endemic.  p 
+ p chemicals released into air or water that are detected by and responded to by other animals of the same species  p 
+ p the kind of polygamy in which a female pairs with several males, each of which also pairs with several different females.  p 
+ p having more than one female as a mate at one time  p 
+ p rainforests, both temperate and tropical, are dominated by trees often forming a closed canopy with little light reaching the ground. Epiphytes and climbing plants are also abundant.  Precipitation is typically not limiting, but may be somewhat seasonal.  p 
+ p Referring to something living or located adjacent to a waterbody (usually, but not always, a river or stream).  p 
+ p communicates by producing scents from special gland(s) and placing them on a surface whether others can smell or taste them  p 
+ p scrub forests develop in areas that experience dry seasons.  p 
+ p remains in the same area  p 
+ p reproduction that includes combining the genetic contribution of two individuals, a male and a female  p 
+ p associates with others of its species; forms social groups.  p 
+ p a wetland area that may be permanently or intermittently covered in water, often dominated by woody vegetation.  p 
+ p uses touch to communicate  p 
+ p that region of the Earth between 23.5 degrees North and 60 degrees North (between the Tropic of Cancer and the Arctic Circle) and between 23.5 degrees South and 60 degrees South (between the Tropic of Capricorn and the Antarctic Circle).  p 
+ p Living on the ground.  p 
+ p defends an area within the home range, occupied by a single animals or group of animals of the same species and held through overt defense, display, or advertisement  p 
+ p the region of the earth that surrounds the equator, from 23.5 degrees north to 23.5 degrees south.  p 
+ p A terrestrial biome. Savannas are grasslands with scattered individual trees that do not form a closed canopy. Extensive savannas are found in parts of subtropical and tropical Africa and South America, and in Australia.  p 
+ p A grassland with scattered trees or scattered clumps of trees, a type of community intermediate between grassland and forest. See also Tropical savanna and grassland biome.  p 
+ p A terrestrial biome found in temperate latitudes (&gt;23.5° N or S latitude). Vegetation is made up mostly of grasses, the height and species diversity of which depend largely on the amount of moisture available. Fire and grazing are important in the long-term maintenance of grasslands.  p 
+ p uses sight to communicate  p 
+ p reproduction in which fertilization and development take place within the female body and the developing embryo derives nourishment from the female.  p 
+ p breeding takes place throughout the year  p 
+ p young are relatively well-developed when born  p 
+ p id="245b7aaf0054a7783b2946f2942ff6e4" 2009. "Capybara"
+         (On-line). Bristol Zoo Gardens. 
+    
+    Accessed 
+        April 12, 2009
+        at  tt  a href="http:  www.bristolzoo.org.uk learning animals mammals capybara" http:  www.bristolzoo.org.uk learning animals mammals capybara  a   tt .
+                
+      p 
+ p id="d27d5aa64d18de06d79ac5af5019ea18" 2002. Capybara. Pp. 382-384 in M Burton, R Burton,  eds.  span style="font-style: italic" International Wildlife Encyclopedia  span , Vol. 1, 3 Edition. Tarrytown, New York: Marshall Cavendish.   p 
+ p id="1737c8fe4cdede779d9262ae0af8b18e" 2001. Capybara. Pp. 678-681 in D Macdonald, S Norris,  eds.  span style="font-style: italic" The Encyclopedia of Mammals  span , Vol. 1, 3 Edition. London: The Brown Reference Group.   p 
+ p id="25e4a58330db248305dd577bcf5bcd4c" 2008. "IUCN Red List"
+         (On-line). 
+    
+    Accessed 
+        April 09, 2009
+        at  tt  a href="http:  www.iucnredlist.org " http:  www.iucnredlist.org   a   tt .
+                
+      p 
+ p id="5b9317451468ba2ce4ad13ccb92b7eb1" Dunston, N., M. Gorman. 1998.  span style="font-style: italic" Behavior and Ecology of Riparian Mammals  span . Cambridge: Cambridge University Press.   p 
+ p id="e5301750b692632ed2a2fe96698ec821" Grant, W. 2009. "Venezuela's Giant Rodent Cuisine"
+         (On-line). BBC News. 
+    
+    Accessed 
+        April 12, 2009
+        at  tt  a href="http:  news.bbc.co.uk 2 hi americas 7987587.stm" http:  news.bbc.co.uk 2 hi americas 7987587.stm  a   tt .
+                
+      p 
+ p id="e72c2615d913f3b0fa6e8b216057dbb1" Herrera, E., D. Macdonald. 1993. Aggression, dominance, and mating success among capybara males.  span style="font-style: italic" Behavior Ecology  span , 4: 2: 114-119.   p 
+ p id="3b173a0dac0270849277d1fdde401893" Herrera, E., D. Macdonald. 1989. Resource Utilization and Territoriality in Group-Living Capybaras (Hydrochoerus hydrochaeris).  span style="font-style: italic" Journal of Animal Ecology  span , 58:2: 667-679.   p 
+ p id="5cb144b3e8041fecafe0327ddd754d5f" Maldonado-Chaparro, A., D. Blumstein. 2008. Management implications of capybara social behavior.  span style="font-style: italic" Biological Conservation  span , 141: 8: 1945-1952.   p 
+ p id="2ad8f4096a43b9533887867f55ec2aac" Ojasti, J. 1968. Notes on the mating behavior of the capybara.  span style="font-style: italic" Journal of Mammalogy  span , 49: 3: 534-535.   p 
+ p id="bddfb871a80af45e9eeb21d509e03618" Tomazzoni, A., E. Pedo, S. Hartz. 2005. Feeding associations between capybaras and birds in the Lami Biological Reserve.  span style="font-style: italic" Revista Brasileira de Zoologia  span , 22:3: 712-716.   p 
+ p id="6cb52158a8c11ac7685cf51dc649768e" Wolff, J., P. Sherman. 2007.  span style="font-style: italic" Rodent Societies: An Ecological Monograph  span . Chicago: University of Chicago Press.   p 
+ p The Animal Diversity Web team is excited to announce ADW Pocket Guides!  p 
+ p 
+                   a href=" news 5009059054038197651 " Read more...  a 
+                  p 
+ p 
+        Help us improve the site by  strong  a href="https:  umichlsa.qualtrics.com SE ?SID=SV_8jhna9bCiMYhZKR" target="_blank" taking our survey  a   strong .
+        p 
+ p style="max-height: 35px" 
+                     label for="feature-list" class="offscreen" Search in feature  label 
+                     select size="1" name="feature" class="feature-list input-medium" id="feature-list" 
+                       option value="INFORMATION" Taxon Information  option 
+                       option value="COLLECTIONS" Contributor Galleries  option 
+                       option value="TOPICS" Topics  option 
+                       option value="CLASSIFICATION" Classification  option 
+                      select 
+                    p 
+ p class="content" To cite this page:
+        Frens, K. 2009. "Hydrochoerus hydrochaeris" (On-line), Animal Diversity Web. Accessed March 19, 2019 at https:  animaldiversity.org accounts Hydrochoerus_hydrochaeris   p 
+ p class="content"  strong Disclaimer:  strong 
+        The Animal Diversity Web is an educational resource  strong written largely by and for college students  strong . ADW doesn't cover all species in the world, nor does it include all the latest scientific information about organisms we describe. Though we edit our accounts for accuracy, we cannot guarantee all information in those accounts.  While ADW staff and contributors provide references to books and websites that we believe are reputable, we cannot necessarily endorse the contents of references beyond our control.
+        p 
+ p This material is based upon work supported by the
+             a href="https:  nsf.gov" National Science Foundation  a 
+            Grants DRL 0089283, DRL 0628151, DUE 0633095, DRL 0918590, and DUE 1122742. Additional support has come from the Marisla Foundation, UM College of Literature, Science, and the Arts, Museum of Zoology, and Information and Technology Services.
+            p 
+ p 
+            The ADW Team gratefully acknowledges their support.
+            p 

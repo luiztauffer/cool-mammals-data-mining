@@ -1,0 +1,30 @@
+ p style="font-family: Helvetica, Arial, sans-serif; margin:8px 0" 
+                         span style="font-size:112%;color:white;"   span 
+                        We use cookies to analyse how visitors use our website and to help us provide the best possible experience for users. View our  a href="http:  wwf.panda.org privacy " style="color:#A5D8D3;font-weight:bold;" Cookie Policy  a . ( a href="javascript:void(0)" id="cookie_closer" style="color:#A5D8D3;font-weight:bold;" I accept  a )
+                  p 
+ p class="font16 font-serif font8-xs" Tree kangaroos are unique macropods who have  adapted to a life in trees. Loss of habitat and uncontrolled hunting have forced many species close to extinction.  p 
+ p  a href="#help" What you can do  a   p 
+ p  img class="img-full-width" src="  d2ouvy59p0dg6k.cloudfront.net img tree_kangaroo_1_364785.jpg" alt=" rel=" facebook image scott savage http: title="Goodfellow's Tree Kangaroo (Dendrolagus goodfellowi)"  
+     i class="font-serif text-gray" © Scott Savage http:  www.flickr.com photos themachobox 4166033790   i   p 
+ p  br 
+ a onclick="_gaq.push(['_trackEvent','outgoing_links','Facebook'])" href="http:  wwf.panda.org facebook" target="_blank" style="padding: 0pt 2px;"   img width="38" height="38" border="0" src="http:  awsassets.panda.org img original facebook_small.png" style="vertical-align: middle; padding-bottom: 5px;" alt="Facebook"   a        a onclick="_gaq.push(['_trackEvent','outgoing_links','twitter'])" href="http:  wwf.panda.org twitter" target="_blank" style="padding: 0pt 2px;"   img width="38" height="38" border="0" src="http:  awsassets.panda.org img original twitter_small.png" style="vertical-align: middle; padding-bottom: 5px;" alt="Twitter"   a    a onclick="_gaq.push(['_trackEvent','outgoing_links','googleplus'])" href="http:  wwf.panda.org googleplus" target="_blank" style="padding: 0pt 2px;"  img width="38" height="38" border="0" src="http:  awsassets.panda.org img original google__small.png" style="vertical-align: middle; padding-bottom: 5px;" alt="Google Plus"   a      a onclick="_gaq.push(['_trackEvent','outgoing_links','youtube'])" href="http:  wwf.panda.org youtube" target="_blank" style="padding: 0pt 2px;"  img width="38" height="38" border="0" src="http:  awsassets.panda.org img original youtube_small.png" style="vertical-align: middle; padding-bottom: 5px;" alt="YouTube"   a      a onclick="_gaq.push(['_trackEvent','outgoing_links','flickr'])" href="http:  wwf.panda.org flickr" target="_blank" style="padding: 0pt 2px;"   img width="38" height="38" border="0" src="http:  awsassets.panda.org img original flickr_small.png" style="vertical-align: middle; padding-bottom: 5px;" alt="Flickr"   a        a onclick="_gaq.push(['_trackEvent','outgoing_links','vim'])" href="http:  wwf.panda.org vimeo" target="_blank" style="padding: 0pt 2px;"  img width="38" height="38" border="0" src="http:  awsassets.panda.org img original vimeo_small.png" style="vertical-align: middle; padding-bottom: 5px;" alt="Vimeo"   a   p 
+ p Tree kangaroo  p 
+ p class="font50 title text-uppercase font30-xs" Status  p 
+ p Least concern to critically endangered  p 
+ p class="title font50 text-uppercase font30-xs" Scientific Name  p 
+ p genus: Dendrolagus  p 
+ p class="title font50 text-uppercase font30-xs" How many?  p 
+ p There are 14 different species  p 
+ p class="title font30" Priority species  p 
+ p Tree kangaroos are a  a href=" knowledge_hub endangered_species " priority  species  a . WWF treats priority species as one of the most  ecologically, economically and or culturally important species on our  planet. And so we are working to ensure such species can live and thrive  in their natural habitats.  p 
+ p class="title font30 text-uppercase text-center" What is WWF doing?  p 
+ p  script type="text javascript" src="http:  wwfinternal.panda.org donations js donation_w.js"   script 
+  p 
+ p class="title font30 text-uppercase text-center" Did you know?  p 
+ p class="lead" The 14 species of tree kangaroo are:  p 
+ p class="title font30 text-uppercase text-center" Please Donate  p 
+ p Our work is only possible with your support.  br 
+ br 
+ a href=" how_you_can_help support_wwf donate ?src=left_col" class="button" Donate now  a   p 
+ p class="text-center font-serif intro"  i Building a future in which people live in harmony with nature.  i   p 
+ p © 2019 WWF - World Wide Fund For Nature span style="margin-left: 10px;" © 1986 Panda Symbol WWF – World Wide Fund For Nature (formerly World Wildlife Fund)  span  span style="margin-left: 10px;" ® “WWF” is a WWF Registered Trademark  span  span style="margin-left:10px;"   span   a href="https:  creativecommons.org licenses by-nc 4.0 deed.en" target="_blank" Creative Commons license  a .  p 

@@ -1,0 +1,24 @@
+ p 
+            We use cookies to improve your experience of this website. To find out more information about our cookies, please see our  a href="http:  www.belfastzoo.co.uk about-us Cookies.aspx" cookies policy  a .
+             input name="ctl00$AETag1$ctl00$ctl00$btnContinue" type="button" id="ctl00_AETag1_ctl00_ctl00_btnContinue" value="Continue" onclick="setCookieVal();" 
+          p 
+ p  strong Equus quagga boehmi  strong   p 
+ p The Grant’s zebra is perhaps one of the most striking and recognised African hooftstock. These herd animals are found throughout Africa and live in close groups called families or harems, which are led by a single male (also known as a stallion).  p 
+ p Grant’s zebras have long noses and, like many prey animals, their eyes are on the sides of their head which gives them a wider field of vision. If they see a predator approaching, Grant’s zebras will gather together so that the predator can only see a maze of stripes.  p 
+ p They share their enclosure with Rothschild's giraffe and ostrich, like they would in their savannah home.  p 
+ p  strong Habitat  br   strong Savannah and grasslands  p 
+ p  strong Diet  strong  - Herbivore br The Grant’s zebra eats grasses, leaves and twigs.  p 
+ p  strong Size  strong   br Zebras can measure 1.5 metres at the shoulder and weigh around 385 kilograms. br  br  strong Location  strong   br Grant’s zebras are found in the grasslands and shrubs of east and southern Africa.  p 
+ p  strong Conservation status  strong   br The IUCN does not believe that Grant’s zebras are facing a high risk of extinction at present. They are not listed by CITES.  p 
+ p  strong Threats  strong  br Conflict with humans is the biggest threat for Grant’s zebras. Their habitat is slowly being destroyed by the expansion of agriculture.  br   br  strong Current population  strong   br Although, the Grant’s zebra population has been reduced due to civil war and poaching, there is still believed to be 50,000 living in the wild.  p 
+ p  strong Zoo population  strong  br There are 680 Grant’s zebras living in zoos worldwide. There is currently no EEP.  p 
+ p  strong IUCN  strong  - International Union for Conservation of Nature  p 
+ p  strong CITES  strong  - Convention on International Trade in Endangered Species   p 
+ p  strong EEP  strong  - European Endangered Species Programme  p 
+ p Belfast Zoo  br 
+Antrim Road,  br 
+Belfast, BT36 7PN  p 
+ p Tel:  strong 028 9077 6277   strong  br 
+Email:  a href="mailto:info@belfastzoo.co.uk"  strong info@belfastzoo.co.uk  strong   a   p 
+ p  strong  a href="http:  www.belfastzoo.co.uk contact-us media media.aspx" Media  a    strong   p 
+ p ©Belfast City Council  p 

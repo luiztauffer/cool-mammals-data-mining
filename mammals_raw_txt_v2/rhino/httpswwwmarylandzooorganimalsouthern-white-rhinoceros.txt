@@ -1,0 +1,43 @@
+ p Tue., Mar. 19th  p 
+ p tabindex="0" class="sr-only" Open 10:00AM to 4:00PM  p 
+ p tabindex="-1" Open  p 
+ p tabindex="-1" Closed  p 
+ p Renovation update: Elephant Overlook is now closed and the lions are off-exhibit due to construction. The giraffes can still be seen inside Giraffe House. For more information about our exciting project, please visit:  a href="http:  www.marylandzoo.org africanjourney" http:  www.marylandzoo.org africanjourney  a   p 
+ p South Africa  p 
+ p Near Threatened  p 
+ p Herbivore - grasses  p 
+ p Diurnal  p 
+ p Captive: 40 yrs br 
+Wild: 35 yrs  p 
+ p Single young per birth  p 
+ p 118‑150 in (300‑380 cm)  p 
+ p Male: up to 6,000 lb (2,721 kg) br 
+Female: up to 4,500 lb (2,041 kg)  p 
+ p  span style="font-weight: 400;" There are two subspecies of white rhino. Southern white rhinos live almost exclusively in the country of South Africa. Northern white rhinos were formerly found in several countries in east and central Africa but are now critically endangered, teetering on the brink of extinction, with less than a handful living in a Kenyan wildlife reserve. Both subspecies inhabit grassland and savannah habitat. You can see southern white rhinos on exhibit at The Maryland Zoo in the  em African Journey  em  Watering Hole exhibit.  span   p 
+ p  span style="font-weight: 400;" Technically, white rhinos are not white. They got their name by mistake. In Afrikaans, a Dutch-based language spoken in many parts of southern Africa where the white rhino lives, the word for wide is “wiet.” Afrikaans speakers referred to the rhino as “wiet” because of its unusually wide, squared-off upper lip. When English speakers moved to South Africa, they apparently misinterpreted what Afrikaans speakers were saying. They thought that the Afrikaans speakers were calling the rhinos “white” when in fact they were saying “wide.”  span   p 
+ p  span style="font-weight: 400;" White rhinos are eating machines. They spend about half of their waking hours eating and the rest of the time resting or perhaps wallowing in mud holes. White rhinos are very large animals that must eat up to 120 pounds of grass per day to sustain themselves. They will drink whenever and wherever they can find water but can survive up to five days without it.  span   p 
+ p  span style="font-weight: 400;" A group of rhinos is called a “crash.”  Females and juveniles may be found in groups of more than a dozen animals.  Adult bulls are solitary animals that roam the savannah alone, seeking out females only to mate.  span   p 
+ p  span style="font-weight: 400;" If you’re a rhino and you know how to detect the signs, then you know when you’ve entered a dominant bull’s territory. He makes himself well known by marking his territory many different ways. He scrapes his horns on the ground and on bushes, he scrapes his hooves on the ground, he deposits urine and he deposits dung. Rhino dung is very hard to miss. It sits in large piles and a dominant bull may dot his territory with 20 to 30 piles to make sure that everyone gets his message. Subordinate males do not mark territory. Females have home ranges that may overlap but females are not aggressively territorial.  span   p 
+ p  span style="font-weight: 400;" All white rhinos impact the environment in which they live by grazing constantly (no need for lawnmowers when you have white rhinos around) and by spreading plant seeds. They graze on grasses, ingest seeds, move around their home range, and “spread” the seeds through their dung.  span   p 
+ p  span style="font-weight: 400;" Female white rhinos reach sexual maturity at about six years of age. A female will give birth to a single calf about once every two or three years. The mother will nurse her calf for up to one year, although gradual weaning begins naturally after the first few months. The calf will remain with its mother for at least two years, learning from her and benefiting from her protection. Mother rhinos guard their young aggressively and can be daunting, dangerous adversaries if challenged. When a female is ready to give birth again, she’ll chase her first calf off.  span  span style="font-weight: 400;"  br 
+  span   p 
+ p  span style="font-weight: 400;" A full-grown white rhino doesn’t get eaten by much of anything. It has little to fear in the way of predators. Young rhinos can be vulnerable to lion attack, although not when well protected by their mothers.  span   p 
+ p  span style="font-weight: 400;" At present, Northern white rhinos are critically endangered. As of 2005, Southern white rhinos were just as endangered; in fact, they faced immediate extinction. They have made a tremendous comeback, though, and are now the most plentiful species of the five extant rhino species.  span   p 
+ p  span style="font-weight: 400;" All rhinos are threatened by habitat loss and by poachers who are after their horns. Rhino horn has no known health benefits. Still, it is valued for its use in many traditional medicines in Africa and Asia. Some conservation groups have tried removing the horns of wild rhinos to protect them, but such efforts are rarely successful. Poachers will still kill the animals in order to avoid tracking them again.  span   p 
+ p tabindex="0" itemprop="name" The Maryland Zoo in Baltimore  p 
+ p tabindex="0" itemprop="streetAddress" One Safari Place  p 
+ p tabindex="0"  span itemprop="addressLocality" Baltimore  span ,  span itemprop="addressRegion" MD  span   span itemprop="postalCode" 21217  span   p 
+ p class="social" 
+						 a target="_blank" href="https:  www.facebook.com MarylandZoo"  span class="sr-only" Facebook - Opens in new window  span  i class="fab fa-facebook-square"   i   a 
+						 a target="_blank" href="https:  twitter.com marylandzoo"  span class="sr-only" Twitter - Opens in new window  span  i class="fab fa-twitter"   i   a 
+						 a target="_blank" href="https:  www.instagram.com marylandzoo"  span class="sr-only" Instagram - Opens in new window  span  i class="fab fa-instagram"   i   a 
+						 a target="_blank" href="https:  www.youtube.com user MarylandZooTV"  span class="sr-only" You Tube - Opens in new window  span  i class="fab fa-youtube"   i   a 
+					  p 
+ p  span tabindex="0" ©2019 The Maryland Zoo in Baltimore  span   br class="mobile"  i class="desktop" .  i   span tabindex="0" All Rights Reserved  span   i .  i   span tabindex="0"  a href="http:  www.missionmedia.com" target="_blank" Made @ MISSION  a   span   p 
+ p itemprop="telephone" 410-396-7102  p 
+ p  a href="mailto:mail@marylandzoo.org" itemprop="email" mail@marylandzoo.org  a   p 
+ p The Zoo's monthly newsletter and news updates.  p 
+ p The latest on endangered species and conservation efforts.  p 
+ p Discounts and news about special Zoo savings.  p 
+ p Exclusive member offers, news &amp; renewal information.  p 
+ p Special program information for teachers and instructors.  p 

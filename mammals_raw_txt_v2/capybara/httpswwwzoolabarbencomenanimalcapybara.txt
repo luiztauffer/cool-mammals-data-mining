@@ -1,0 +1,16 @@
+ p  strong The world’s largest rodent!  strong   p 
+ p The capybara looks like a giant guinea pig: it can grow to as much as 1.35 m in length and weigh 65 kg! Like all rodents, its long incisors keep growing throughout its life. It often goes into water, to get relief from the heat or to escape danger; it can remain underwater for up to 5 minutes. It has adapted to this environment: its feet are partly webbed and its eyes, ears and nostrils are near the top of its head, so it can see, hear and smell while it’s swimming! br 
+At La Barben, the capybaras live with the South American tapirs.  p 
+ p  strong Latin name:  strong   em Hydrochoerus hydrochaeris  em  br 
+ strong Class:   strong Mammalia br 
+ strong Order:  strong  Rodentia br 
+ strong Family:  strong  Cavidae br 
+ strong Size:  strong  1.10 – 1.30 m long br 
+ strong Weight:  strong  35 – 65 kg br 
+ strong Lifespan:  strong  10 to 12 years br 
+ strong Gestation:  strong  5 months br 
+ strong Number of young:  strong  2 to 8, 4 on average. br 
+ strong Habitat:  strong  swamp br 
+ strong Diet:  strong  herbivorous (frugivorous) br 
+ strong Distribution:  strong  northern and eastern South America br 
+ strong Conservation status:  strong  not at risk  p 

@@ -1,0 +1,33 @@
+ p class="twite__title" aria-hidden="true" Share this with  p 
+ p class="twite__channel-text" aria-hidden="true" Email  p 
+ p class="twite__channel-text" aria-hidden="true" Facebook  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Twitter  p 
+ p class="twite__channel-text" aria-hidden="true" Pinterest  p 
+ p class="twite__channel-text" aria-hidden="true" WhatsApp  p 
+ p class="twite__channel-text" aria-hidden="true" LinkedIn  p 
+ p class="twite__copy-text" Copy this link  p 
+ p class="twite__new-window" aria-hidden="true" These are external links and will open in a new window  p 
+ p class="story-body__introduction" A koala in Australia has been dubbed "Bear Grylls" after it was hit by a fast-moving car and survived when it got wedged in the car's front grill.  p 
+ p Loren Davis was driving at 100km h (62mph) on an expressway in Adelaide on Tuesday when she hit the koala as it was crossing the road.  p 
+ p Ms Davis only discovered what had happened to the animal when she reached home and inspected her car.  p 
+ p The koala only had minor abrasions and will be released into the wild soon.  p 
+ p "We're calling him Bear Grylls," said Ms Davis, whose choice of nickname was inspired by the British survival expert and television presenter.  p 
+ p Koalas, which are often mistaken for bears, are in fact marsupials.  p 
+ p Ms Davis told reporters that she had been driving down a dark stretch on the expressway and only saw the koala when her headlights illuminated it.  p 
+ p She said she could not change lanes nor brake because of traffic next to her and behind her, and had "no choice but to hit the koala".  p 
+ p She later pulled to one side to check but could not see the koala anywhere.  p 
+ p Ms Davis drove to her home about 10km away, "feeling upset that I'd killed a koala," she told the Australian Broadcasting Corporation (ABC).  p 
+ p "Once I got home and pulled into the garage I turned on the light to see the damage. I turned around, saw a koala and just screamed."  p 
+ p The koala was still conscious and growled as Ms Davis approached. She and her fiance finally pushed a blanket underneath its dangling arm so that it could push itself up and out of the grill.  p 
+ p Animal rescue volunteers later came by and took the animal for treatment. It is expected to be released soon.  p 
+ p Fauna Rescue co-ordinator Merridy Montarello told The Advertiser newspaper in Adelaide that it was a "very, very lucky koala".  p 
+ p "It's because of the particular size of it [that it survived]... It's just sat itself inside the car."  p 
+ p "Bear Grylls" is not the only koala to have a lucky escape on Australia's roads.  p 
+ p Another koala got stuck head-first in a car grill three weeks ago when it was hit on a road in another part of Adelaide,  a href="http:  www.abc.net.au news 2015-09-24 koala-gets-caught-in-car-grill-escapes-without-injury 6801570" class="story-body__link-external" reported ABC.  a   In 2011,  a href="http:  www.news.com.au national koala-survives-being-hit-at-100kmh-on-m1 story-e6frfkvr-1226160365095" class="story-body__link-external" a koala named Kenny  a  in Queensland also survived under similar circumstances.   p 
+ p In 2014 a koala named Timberwolf survived a 54.5 mile (88km) ride clinging to the bottom of a car, also in Queensland.  p 
+ p However, not all koalas are so lucky -  a href="http:  phys.org news 2015-04-smart-roads-koalas-traffic.html" class="story-body__link-external" according to some estimates  a , about 85% of koalas involved in road accidents may die from their injuries.  p 
+ p class="top-stories-promo-story__summary top-stories-promo-story__summary--none" The Boeing 737 Max-8 had 157 people on board, including Kenyans, Britons, Canadians and Americans.  p 
+ p class="heron__item-summary" Have you been getting these songs wrong?  p 
+ p class="heron__item-summary" What happens to your body in extreme heat?  p 

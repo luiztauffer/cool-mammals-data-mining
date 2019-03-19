@@ -1,0 +1,48 @@
+ p We've detected that JavaScript is disabled in your browser. Would you like to proceed to legacy Twitter?  p 
+ p class="NoScriptForm-buttonContainer"  button type="submit" class="EdgeButton EdgeButton--primary" Yes  button   p 
+ p class="ProfileHeaderCard-bio u-dir" dir="ltr" The official Twitter page for Animal Planet.  p 
+ p 
+        You can add location information to your Tweets, such as your city or precise location, from the web and via third-party applications. You always have the option to delete your Tweet location history.
+         a href="http:  support.twitter.com forums 26810 entries 78525" target="_blank" rel="noopener" Learn more  a 
+        p 
+ p class="copy-link-to-tweet-instructions" Here's the URL for this Tweet. Copy it to easily share with friends.  p 
+ p class="embed-tweet-instructions" Add this Tweet to your website by copying the code below.  a href="https:  dev.twitter.com web embedded-tweets" target="_blank" rel="noopener" Learn more  a   p 
+ p class="embed-video-instructions" Add this video to your website by copying the code below.  a href="https:  dev.twitter.com web embedded-tweets" target="_blank" rel="noopener" Learn more  a   p 
+ p class="embed-overlay-content" Hmm, there was a problem reaching the server.  button type="button" class="btn-link retry-embed" Try again?  button   p 
+ p class="embed-tweet-description" By embedding Twitter content in your website or app, you are agreeing to the Twitter  a href="https:  dev.twitter.com overview terms agreement" rel="noopener" Developer Agreement  a  and  a href="https:  dev.twitter.com overview terms policy" rel="noopener" Developer Policy  a .  p 
+ p class="UIWalkthrough-message" This timeline is where you’ll spend most of your time, getting instant updates about what matters to you.  p 
+ p class="UIWalkthrough-message" 
+    Hover over the profile pic and click the Following button to unfollow any account.
+    p 
+ p class="UIWalkthrough-message" 
+    When you see a Tweet you love, tap the heart — it lets  the person who wrote it know you shared the love.
+    p 
+ p class="UIWalkthrough-message" 
+    The fastest way to share someone else’s Tweet with your followers is with a Retweet. Tap the icon to send it instantly.
+    p 
+ p class="UIWalkthrough-message" 
+    Add your thoughts about any Tweet with a Reply. Find a topic you’re passionate about, and jump right in.
+    p 
+ p class="UIWalkthrough-message" 
+    Get instant insight into what people are talking about now.
+    p 
+ p class="UIWalkthrough-message" 
+    Follow more accounts to get instant updates about topics you care about.
+    p 
+ p class="UIWalkthrough-message" 
+    See the latest conversations about any topic instantly.
+    p 
+ p class="UIWalkthrough-message" 
+    Catch up instantly on the best stories happening as they unfold.
+    p 
+ p class="TweetTextSize TweetTextSize--jumbo js-tweet-text tweet-text" lang="en" data-aria-label-part="0" Meeting a sloth in its natural habitat is a dream!  a href=" PrincessCruises" class="twitter-atreply pretty-link js-nav" dir="ltr" data-mentioned-user-id="17207243"  s @  s  b PrincessCruises  b   a   p 
+ p class="TweetTextSize  js-tweet-text tweet-text" lang="en" data-aria-label-part="0" They seem a little creepy. Are they creepy in person?  p 
+ p class="TweetTextSize  js-tweet-text tweet-text" lang="en" data-aria-label-part="0" I feel like this is a direct quote from  a href=" IMKristenBell" class="twitter-atreply pretty-link js-nav" dir="ltr" data-mentioned-user-id="53297035"  s @  s  b IMKristenBell  b   a   p 
+ p class="empty-text" 
+
+          
+        p 
+ p  button type="button" class="btn-link back-to-top hidden" Back to top ↑  button   p 
+ p 
+      Twitter may be over capacity or experiencing a momentary hiccup.  a role="button" href="#" class="try-again-after-whale" Try again  a  or visit  a target="_blank" href="http:  status.twitter.com" rel="noopener" Twitter Status  a  for more information.
+      p 

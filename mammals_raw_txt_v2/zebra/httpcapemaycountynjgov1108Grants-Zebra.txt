@@ -1,0 +1,14 @@
+ p class="dropdown"  a href=" MyAccount ProfileCreate" role="button" class="myConnections" id="signedOutToolbarCreateProfileButton" Create an Account  a   span class="welcomeMessage" - Increase your productivity, customize your experience, and engage in information you care about.     span   p 
+ p  strong Latin Name:   strong  em Equus quagga  em   p 
+ p  strong Other Names:  strong  Common Zebra, Burchell's Zebra, Plains Zebra, Painted Zebra  p 
+ p  strong Habitat and Range:  strong  Grasslands and woodlands of east and southeast Africa.  p 
+ p  strong Captive Wild Lifespan:  strong  Captive around 40 years, wild up to 20 years  p 
+ p  strong Gestation:  strong  A calf is born around 345-390 days. Nearly 50% of wild calves are lost due to predation. Calves can run within an hour.  p 
+ p  strong Diet:  strong  Herbivore- high-crowned teeth allow them to eat coarser grasses than other hoofed animals cannot.  p 
+ p  strong Adaptations:  strong  With only two seasons, wet and dry, zebras migrate with the waters to find food. Each yearly migration can be over 700 miles. Stripes are what make this animal so recognizable, and they also tend to be the topic of debate among scientist. There are a lot of theories floating around as to the purpose of the stripes, some including a type of camouflage and others that deter bugs. Some Scientist believe the stripes confuse predators because they can't determine one individual from the next, while others believe and have even done studies that the stripes deter biting insects because the stripes disrupt the attractive pattern to insects.  p 
+ p  strong IUCN Status:  strong  Least Concern 2008.  p 
+ p  strong Conservation:  strong  They have no major threats, but habitat loss and over hunting have led to localized declines. While not specifically protected they are common in many national parks such as Kruger National Park and there for are protected.  p 
+ p  strong Did you Know:  strong  There are 3 different species of Zebra (Plains, Grevy's, and Mountain), and the main difference is in the stripes. Each species develops their stripes at different weeks in their embryonic development, which results in wider or smaller stripes in the animal.  p 
+ p  strong Here at the CMC Zoo:  strong  We have 3 residents zebras here, A stallion and 2 females. Ziggy our stallion was born in Michigan in 2012 and called our zoo home in 2018. Gracie was born here June 10th, 2003 and Gretta was born June 22, 2000.  p 
+ p  strong  br 
+  strong   p 

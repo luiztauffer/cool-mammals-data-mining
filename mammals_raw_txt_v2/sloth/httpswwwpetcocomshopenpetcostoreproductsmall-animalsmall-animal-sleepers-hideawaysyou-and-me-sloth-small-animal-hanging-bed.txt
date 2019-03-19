@@ -1,0 +1,62 @@
+ p class="text-x-small text-italic" Creating an account is easy! You'll be able to track orders, check Pals Rewards status and more!  p 
+ p class="text-large" You have no items in your cart.  p 
+ p class="text-center text-large text-dark" Featured Brands  p 
+ p class="text-center text-large text-dark" Featured Brands  p 
+ p class="text-white desktop-only" Get 17% off + free shipping on your order of $80+ | Promo code:  strong lucky17  strong   p 
+ p class="text-white mobile-only" Get 17% off + free shipping br 
+                on your order of $80+ | Promo code:  strong lucky17  strong   p 
+ p class="text-white desktop-only" 10% off your order when you buy online &amp; pick up in-store  p 
+ p class="text-white mobile-only" 10% off your order when you buy online br 
+                &amp; pick up in-store  p 
+ p class="text-white desktop-only" 20% Off Your First Repeat Delivery | Use Code  strong RDSAVE20  strong   p 
+ p class="text-white mobile-only" 20% Off Your First Repeat Delivery br 
+                Use Code  strong RDSAVE20  strong   p 
+ p class="text-white" style="line-height:1.6em;" Copy Promo Code: RDSAVE20  p 
+ p class="product-image_zoom" Roll over image to zoom  p 
+ p class="mobile-only product-mobile-image_zoom" Double tap image to zoom  p 
+ p class="white" style="font-size:1.3em;line-height:1.3em;" Have this item included  br once as part of your next  br scheduled delivery.  p 
+ p id="fixed-product-name" title="You &amp; Me Sloth Small Animal Hanging Bed" You &amp; Me Sloth Small Animal Hanging Bed  p 
+ p class="notice-box" id="inStoreNoticeBox"  strong Sold in stores only. Selection varies by store. Check your local store for availability.  strong  br 
+					
+					  p 
+ p class="col-12 col-center padding-top-md padding-bottom-md text-center" 
+							Thank you! We will notify you when this item is in stock.
+							 strong You &amp; Me Sloth Small Animal Hanging Bed  strong 
+							
+							  p 
+ p 
+					 The You &amp; Me Sloth Small Animal Hanging Bed is a suspended cozy loft in the shape of the tree dweller who loves to hit snooze. In addition to providing your ferret with a heightened space that's essential for their day-to-day fervor to explore, this hammock has a central pocket-style opening that calls for a hide-and-seek challenge, or a much-needed afternoon nap.
+					  p 
+ p Contents of the Swag Bag change monthly so you and your pet can be surprised. You can manage your Swag Bag delivery on the Repeat Delivery page in My Account.  p 
+ p class="text-x-small text-lighter" Sign up to receive updates, special offers, program communications and other information from Petco.  p 
+ p style="float:none;" ©2018 Petco Animal Supplies, Inc. All rights reserved.  p 
+ p class="hide" pop-up content starts  p 
+ p class="text-white padding-bottom-sm"  i class="icon-check-white"   i  On petco.com we'll match the online advertised price for these key competitors: chewy.com, petsmart.com, wag.com, walmart.com, target.com, amazon.com, and jet.com.  p 
+ p class="text-white padding-bottom-sm"  i class="icon-check-white"   i  Find a qualifying product. Make sure the product you would like to price match is identical to our competitor's product.  p 
+ p class="text-white"  i class="icon-check-white"   i  Call  strong 877-738-6742  strong  to request a price match.  p 
+ p class="hide" pop-up content ends  p 
+ p class="hide" pop-up content starts  p 
+ p class="text-white padding-bottom-sm"  strong Free Standard Shipping automatically applies to your qualifying minimum online purchase subtotal of $49. No promotion code necessary.  strong  Subtotal refers to amount of order before taxes and shipping. All Free Shipping is based on Standard Shipping rates. P.O. Boxes, Alaska Hawaii are based on USPS Priority Mail.  p 
+ p class="text-white padding-bottom-sm" Free Shipping Exclusions: Cat litter, dog litter, ice melter, wild bird food, live fish &amp; rock, aquatic gravel and accents; crickets, live food and frozen food; out-of-stock items, Donations, Petco or Unleashed by Petco Gift Cards and eGift Cards; items shipped through white glove delivery or LTL delivery; orders exceeding the maximum weight limit of 300 lbs.; and applicable taxes. Additional exclusions may apply and will be noted on the Product Detail page and or Shopping Cart.  p 
+ p class="text-white" Cat litter, dog litter, wild bird food, live &amp; frozen food and oversized items may incur an additional per-item shipping &amp; handling fee or surcharge. Additional fees may apply and will be noted on the Product Detail page and or Shopping Cart.  p 
+ p class="text-white" Shipping to Alaska, Hawaii, Puerto Rico, the Virgin Islands or P.O. Boxes will result in a surcharge. This is based on your default shipping address.  p 
+ p class="text-white padding-bottom-sm"  strong Did you know?  strong  Repeat Delivery orders always ship free.  a manual_cm_re="freeShip49-_-headerOffer-_-moreDetails" href=" shop en petcostore s repeat-delivery" aria-label="Learn more about free standard shipping with Repeat Delivery"  strong  u Learn More  u   strong   a   p 
+ p class="hide" pop-up content ends  p 
+ p class="hide" pop-up content starts  p 
+ p class="text-bold text-center" Sign up today &amp; receive  span style="color:#ee3524;" 20% off  span  your first order and these perks:  p 
+ p class="text-bold text-small text-dark margin-top-xsm margin-bottom-xsm" style="line-height:1.25em;" ALWAYS free shipping  p 
+ p class="text-light text-x-small" No promo code needed.  p 
+ p class="text-bold text-small text-dark margin-top-xsm margin-bottom-xsm" style="line-height:1.25em;" ALWAYS convenient  p 
+ p class="text-light text-x-small" Delivered on your schedule – change or cancel any time.  p 
+ p class="text-bold text-small text-dark margin-top-xsm margin-bottom-xsm" style="line-height:1.25em;" ALWAYS earn 5% back with Pals Rewards  p 
+ p class="text-light text-x-small" Automatically applies your rewards for even more savings.  p 
+ p class="margin-bottom-md text-center"  a href=" shop en petcostore s repeat-delivery" manual_cm_sp="footer-_-repeatdeliverymodal-_-learnmore" onclick="clickTrackLink(this);" Learn more about the program &gt;  a   p 
+ p class="hide" pop-up content ends  p 
+ p class="hide" pop-up content starts  p 
+ p class="hide" pop-up content ends  p 
+ p class="hide" pop-up content starts  p 
+ p class="hide" pop-up content ends  p 
+ p class="hide" pop-up content starts  p 
+ p class="hide" pop-up content ends  p 
+ p class="hide" pop-up content starts  p 
+ p class="hide" pop-up content ends  p 

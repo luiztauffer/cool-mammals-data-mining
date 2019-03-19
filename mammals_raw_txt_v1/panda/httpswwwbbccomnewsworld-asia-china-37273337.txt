@@ -1,0 +1,43 @@
+ p class="twite__title" aria-hidden="true" Share this with  p 
+ p class="twite__channel-text" aria-hidden="true" Email  p 
+ p class="twite__channel-text" aria-hidden="true" Facebook  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Twitter  p 
+ p class="twite__channel-text" aria-hidden="true" Pinterest  p 
+ p class="twite__channel-text" aria-hidden="true" WhatsApp  p 
+ p class="twite__channel-text" aria-hidden="true" LinkedIn  p 
+ p class="twite__copy-text" Copy this link  p 
+ p class="twite__new-window" aria-hidden="true" These are external links and will open in a new window  p 
+ p class="story-body__introduction" They're cute, they're cuddly and they've just been brought back from the brink of extinction.  p 
+ p We're talking about the giant panda, a global icon that's just been taken off the endangered list, largely due to Chinese conservation efforts. But how exactly did they do it?  p 
+ p China has been trying for years to increase the population of the giant panda.  p 
+ p The bears, China's national icon, were once widespread throughout southern and eastern China but, due to expanding human populations and development, are now limited to areas that still contain bamboo forests.  p 
+ p The success is due to Chinese efforts to recreate and repopulate bamboo forests.  p 
+ p Bamboo makes up some 99% of their diet, without which they are likely to starve.   p 
+ p Pandas must eat 12kg (26 lbs) to 38kg worth of bamboo each day to maintain their energy needs.   p 
+ p There are now an estimated total of 2,060 pandas, of which 1,864 are adults - a number which has seen their status changed from "endangered" to "vulnerable", on the International Union for Conservation of Nature (IUCN)'s Red List.  p 
+ p "It's all about restoring the habitats," Craig Hilton-Taylor, Head of the IUCN Red List, told the BBC.   p 
+ p "Just by restoring the panda's habitat, that's given them back their space and made food available to them."  p 
+ p A loss of habitats was what caused the number of pandas to drop to just over 1,200 in the 1980s, according to Mr Hilton-Taylor.  p 
+ p "You need to get the bamboo back and slowly the numbers will start to creep back," he said.   p 
+ p Ginette Hemley, senior vice-president for wildlife conservation at the World Wildlife Fund (WWF) agreed.  p 
+ p "The Chinese have done a great job in investing in panda habitats, expanding and setting up new reserves," said Ms Hemley. "They are a wonderful example of what can happen when a government is committed to conservation."  p 
+ p Yet this success could be short-lived.  p 
+ p Climate change is predicted to wipe out more than one-third of the panda's bamboo habitat in the next 80 years.  p 
+ p "With the change in climate, it's going to get too hot for the bamboo to grow," Mr Hilton-Taylor explained.   p 
+ p "Giant pandas are very dependent on bamboo for food and with a loss in bamboo, it's not looking very promising for them."  p 
+ p Many zoos and Chinese facilities have placed their bets on breeding giant pandas in captivity, sometimes using artificial insemination methods.   p 
+ p Baby giant panda twins were on Sunday born in an Atlanta zoo - their mother had been artificially inseminated.   p 
+ p "Having captive animals is like an insurance policy," said Mr Hilton-Taylor. "But you don't want to keep them in captivity forever."  p 
+ p The eventual goal of most captive-breeding programmes is to let the animals back into the wild eventually.  p 
+ p "There have been a couple of attempts to introduce pandas into the wild, but they haven't been successful," said Ms Hemley. "We're not out of the woods yet."  p 
+ p In 2007, the first captive-born giant panda ever released into the wild, Xiang Xiang, died after being beaten up by wild panda males.   p 
+ p The Tibetan antelope is another animal that has also been delisted on the IUCN's red list, yet more focus has been placed on the panda, which has come to be seen as an icon for animal protection efforts.  p 
+ p But what is it about the panda that's got us all cooing in unison?  p 
+ p "Their black and white markings and big black eye patches make them very charismatic. There's nothing like them in the world," Ms Hemley explained.   p 
+ p "A happy coincidence of their natural adaptations result in what humans perceive as cute, and a cute and cuddly face is a whole lot easier to love," said Dr Cheng Wen-Haur, Chief Life Sciences Officer and Deputy CEO of the Wildlife Reserves Singapore.   p 
+ p "In the words of Baba Dioum, in the end we will only conserve what we love."  p 
+ p class="top-stories-promo-story__summary top-stories-promo-story__summary--none" The Boeing 737 Max-8 had 157 people on board, including Kenyans, Britons, Canadians and Americans.  p 
+ p class="heron__item-summary" Have you been getting these songs wrong?  p 
+ p class="heron__item-summary" What happens to your body in extreme heat?  p 

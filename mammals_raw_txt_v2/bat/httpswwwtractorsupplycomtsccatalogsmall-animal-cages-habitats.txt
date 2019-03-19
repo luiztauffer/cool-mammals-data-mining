@@ -1,0 +1,45 @@
+ p class="mms_p" Your current shopping session will get automatically reset in  span id="overLayTimerCountdown"   span  seconds.
+	     	   br  If you are still active user then please click "NO"  p 
+ p 
+                   span class="font-bold" 
+                  Join the mailing list!
+                    span 
+                  Sign up today to get the latest on special sales and promotions from TSC.
+                 p 
+ p class="float_right green_txt" Sign In  p 
+ p class="float_right green_txt" Sign Out  p 
+ p class="px-10 my-5" You will be taken automatically  br to your search results.  p 
+ p class="mt-4 px-10" Click the microphone in the search bar to try again, or start typing your search term.  p 
+ p class="px-10 my-5" Your search results  br will display momentarily...  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p class="item_unavailable_text" Currently Unavailable  p 
+ p  strong To see the price:  strong  br 
+Depending on the manufacturer, you will need to add the item to your cart and perhaps begin the checkout process. You will not be required to complete the purchase. You can remove it from your cart at any time.  p 
+ p    p 
+ p  strong Why don't we show the price?  strong  br 
+
+Some manufacturers restrict how we may display prices. In some cases the manufacturer does not allow us to show you the price until further action is taken.  p 
+ p  strong To see the price:  strong  br 
+Depending on the manufacturer, you will need to add the item to your cart and perhaps begin the checkout process. You will not be required to complete the purchase. You can remove it from your cart at any time.  p 
+ p    p 
+ p  strong Why don't we show the price?  strong  br 
+
+Some manufacturers restrict how we may display prices. In some cases the manufacturer does not allow us to show you the price until further action is taken.  p 

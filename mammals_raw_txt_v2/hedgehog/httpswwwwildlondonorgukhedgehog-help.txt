@@ -1,0 +1,29 @@
+ p class="left light" 
+             a title="Go to the homepage" href=" " 
+             img src="https:  www.wildlondon.org.uk sites default files imagecache branding_left logo letterhead_sized_logo.png" alt="Site logo" title="London Wildlife Trust" width="62" height="85" class="imagecache imagecache-branding_left"           a 
+            London Wildlife Trust      p 
+ p 
+	 a href="https:  www.wildlondon.org.uk node 7714" Subscribe to our newsletter  a   p 
+ p class="photo page_image_large "  img src="https:  www.wildlondon.org.uk sites default files imagecache page_image_large main-photos hedgehog_credit_karen_adams.jpg" alt="Hedgehog in an Isleworth garden (credit Karen Adams)" title="Hedgehog in an Isleworth garden (credit Karen Adams)" class="imagecache imagecache-page_image_large"  span class="credit" Hedgehog in an Isleworth garden (credit Karen Adams)  span   p 
+ p class="intro" Hedgehogs are in decline, but there are many things we can do to help them  p 
+ p 
+	 a href="http:  www.wildaboutgardensweek.org.uk Downloads Hedgehog-16pp-Booklet-FINAL" target="_blank"  img alt="Download your free hedgehogs guide" src=" sites default files images Hedgehogs%20booklet.jpg" style="width: 120px; height: 171px; margin: 2px 30px; float: right;" title="Download your free hedgehogs guide"   a The Wildlife Trusts have produced a  a href="http:  www.wildaboutgardensweek.org.uk Downloads Hedgehog-16pp-Booklet-FINAL" target="_blank" booklet  a  that gives lots of useful advice about what you can do to help hedgehogs in your garden and in your community. To download your copy  a href="http:  www.wildaboutgardensweek.org.uk Downloads Hedgehog-16pp-Booklet-FINAL" target="_blank" click here  a .  p 
+ p 
+	In 2017 London Wildlife Trust launched a project called  a href="http:  www.wildlondon.org.uk hedgehog" target="_blank" Urban Urchins  a  which aims to map London's hedgehog population and promote awareness of their plight among Londoners. For more information  a href="http:  www.wildlondon.org.uk hedgehog" target="_blank" click here  a .  p 
+ p 
+	On this page we highlight some the problems – and solutions – to the decline of hedgehogs in London.  p 
+ p 
+	   p 
+ p 
+	We know that creating a city with healthy, connected wildlife habitats is the essential first step in helping our local hedgehog population recover. But we can't do it alone - everyone who lives in London has a part to play.  p 
+ p 
+	   p 
+ p 
+	A booklet explaining in more detail how to help hedgehogs can be  a href="http:  www.wildaboutgardensweek.org.uk Downloads Hedgehog-16pp-Booklet-FINAL" target="_blank" downloaded here  a .  p 
+ p 
+	   p 
+ p 
+	Unfortunately we are unable to help, but if you have found an injured hedgehog, or are concerned about a hedgehog which is out during the daytime, please contact the  a href="https:  www.britishhedgehogs.org.uk found-a-hedgehog " target="_blank" British Hedgehog Preservation Society  a  on 01584 890801.  p 
+ p class="slogan" Love London. Love Nature.  p 
+ p class="charity" London Wildlife Trust: Charity 283895. Company 1600379  p 
+ p class="creators"  a href="http:  www.precedent.co.uk" Website by Precedent  a   p 

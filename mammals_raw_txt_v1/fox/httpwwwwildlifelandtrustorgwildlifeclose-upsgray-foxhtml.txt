@@ -1,0 +1,49 @@
+ p 
+                 label for="top_resources_select" Resources For  label 
+                 select size="1" name="donate-menu" id="donate-menu" 
+                     option value="https:  secure.humanesociety.org site Donation2?df_id=1540&amp;1540.donation=form1&amp;s_src=webdn_topnavD1540" Become a Member  option 
+                     option value="http:  www.wildlifelandtrust.org how-you-can-help protect-your-land #" Create a Sanctuary  option 
+                     option value="http:  www.legacy.wildlifelandtrust.org" Create Your Legacy  option 
+                     option value="http:  www.wildlifelandtrust.org how-you-can-help volunteer " Volunteer  option 
+                     option value="http:  www.wildlifelandtrust.org wildlife " Learn About Wildlife  option 
+                     option value="http:  www.wildlifelandtrust.org wildlife living-with-wildlife " Living with Wildlife  option 
+                    option value="http:  www.wildlifelandtrust.org wildlife diy-activities " DIY for Kids  option 
+                  select 
+                 button type="submit" class="donate" onclick="document.location=document.getElementById('donate-menu').options[document.getElementById('donate-menu').selectedIndex].value;return false;" Go  button 
+              p 
+ p class="image"   img src="http:  www.wildlifelandtrust.org assets images 270x224slideshow gray-fox gray-fox-1.jpg"   p 
+ p class="caption" The gray fox  can be identified by its coat color which is silver-gray on its back and face, reddish on its legs and chest and white on its throat, mid-belly, and the insides of it legs.   p 
+ p class="image"   img src="http:  www.wildlifelandtrust.org assets images 270x224slideshow gray-fox gray-fox.jpg"   p 
+ p class="caption" Gray fox ranges from southern Canada into most of the United States and into Mexico, central America and parts of South America. 
+  p 
+ p class="image"   img src="http:  www.wildlifelandtrust.org assets images 270x224slideshow gray-fox gray-fox-2.jpg"   p 
+ p class="caption" Gray foxes are not observed as frequently as red foxes due to their reclusive nature and more nocturnal habits. Gray foxes tend to be active from the late evening hours until dawn.   p 
+ p class="image"   img src="http:  www.wildlifelandtrust.org assets images 270x224slideshow gray-fox gray-fox-harrison.jpg"   p 
+ p class="caption" The gray fox usually does not use an underground den but, instead, dens in dense brush, cavities in stumps and trees, rock crevices or under out-buildings such as barns and sheds.   p 
+ p class="image"   img src="http:  www.wildlifelandtrust.org assets images 270x224slideshow gray-fox gray-fox-portrait.jpg"   p 
+ p class="caption" Gray foxes will readily climb trees, jumping from branch to branch while hunting or for protection.   p 
+ p class="image"   img src="http:  www.wildlifelandtrust.org assets images 270x224slideshow gray-fox sleeping-fox.jpg"   p 
+ p class="caption" A gray fox eat rabbits, mice, voles, rabbits, chipmunks, squirrels, fruits, insects, birds and eggs, carrion, corn, amphibians and reptiles.  p 
+ p Gray foxes are small, secretive canines, and the only member of that family that can climb trees. They are sometimes mistaken for red foxes, because they have some reddish fur, but gray foxes are noticeably shorter-legged and have a black-tipped tail, instead of a white-tipped tail. They are found from southern Canada southward to Venezuela and Columbia, except in mountainous areas of northwestern United States, parts of the Great Plains, and the eastern coast of Central America.  p 
+ p Gray foxes are found in habitat with a combination of forest and brushy woodland. Like red foxes, they also live near farmlands bordered by woods and have adapted to living in close proximity to humans. In fact, being near us may reduce predation by coyotes and bobcats. They need to live near water, and they choose habitat with hollow trees or logs, rock crevices, or hillsides they can use for dens.  p 
+ p  strong 
+ p  strong Threats to their safety and wellbeing  strong   p 
+  strong 
+  p 
+ p  strong Threats to their safety and wellbeing  strong   p 
+ p Gray foxes have several predators, most notably coyotes, followed by bobcats, but great horned owls, golden eagles, and cougars also prey upon them. They are territorial among themselves, yet they may “time share” habitat with red foxes, enabling both species to make use of mutually desirable habitat with minimal conflict.  p 
+ p Gray foxes are not currently threatened as a species, but habitat loss requires them to adapt to living closer to human activity than they normally would. As individual animals, they are also at risk from trapping, hunting, and vehicle deaths. Most egregious, however, is the practice of  a href="http:  www.humanesociety.org issues fox_penning " target="_blank" fox penning  a , an indefensible and barbaric blood sport that The Humane Society of the United States is working to end. Fortunately, gray foxes living on the  a href="http:  www.wildlifelandtrust.org sanctuaries caplan-wildlife-sanctuary.html" target="_blank" Caplan Wildlife Sanctuary  a  in Mississippi, and on other HSWLT sanctuaries, will forever live on land where all commercial and recreational hunting and trapping are prohibited.  p 
+ p  strong 
+ p How they spend their time  p 
+  strong 
+  p 
+ p How they spend their time  p 
+ p Gray foxes are solitary most of the year, but while their kits are young both parents share in caring care for them. It is rare to catch more than a glimpse of a gray fox, though, because they are usually only out from dusk until dawn. They explore at a trotting pace, often through dense cover, pausing only to listen for prey or predators. Keen vision, hearing, and sense of smell help them hunt for cottontails, tree squirrels, voles, mice, wood rats, black rats, birds, amphibians, reptiles, and invertebrates. By adding fruit and mast to their diet in autumn, they become helpful as seed dispersers.  p 
+ p Sometimes a gray fox will rest on a high branch or in the crotch of a tree. To climb trees, they rotate their forearms, enabling them to hug the tree, while pushing upward with their hind legs. Once in the canopy, they are nimble enough to leap from branch to branch. Coming down is a bit trickier than going up… it’s either a slow and careful tail-first descent or, if the angle is not overly steep, a speedy headfirst downward run. A low center of gravity and four well-clawed feet make the latter option less scary than it sounds!  p 
+ p Receive our monthly br e-newsletter.  p 
+ p 
+                 input id="cons_email" class="required" onfocus="this.value=''" title="Email required" value="Enter Email" maxlength="255" name="cons_email" 
+                 input id="cons_zip_code" class="required" onfocus="this.value=''" title="Zip required" value="Enter Zip" maxlength="40" name="cons_zip_code" 
+                 button type="submit" id="ACTION_SUBMIT_SURVEY_RESPONSE" name="ACTION_SUBMIT_SURVEY_RESPONSE" Submit  button 
+              p 
+ p Coyotes will eat almost anything. They hunt rabbits, rodents, fish, frogs, and even deer. They also happily dine on insects, snakes, fruit, grass, and carrion.  p 

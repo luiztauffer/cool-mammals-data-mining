@@ -1,0 +1,8 @@
+ p It appears that you are trying to access our website from a location in the European Union, which enforces the  a href="https:  ec.europa.eu info law law-topic data-protection_en" General Data Protection Regulation (GDPR)  a . Unfortunately,
+                        because of this regulation we cannot provide access at this time. We appreciate your understanding.  p 
+ p Copyright ©
+                         script 
+                            var currentYear = new Date().getFullYear();
+                            document.write(currentYear);
+                          script 
+                        Newsday. All rights reserved.  p 

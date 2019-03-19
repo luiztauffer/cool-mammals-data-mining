@@ -1,0 +1,68 @@
+ p style="color:#9b9b9b;" class="full mobile-center" By The University of Western Australia  p 
+ p class="right" style="padding: 5px 10px;margin: 20px 0 0 0;border: 3px solid #28ab60;font-weight: 900;color: #28ab60;" Campaign Completed on  br  12-08-2015  p 
+ p class="shares-count-label" Total shares  p 
+ p class="text-light" style="margin-top: 2px !important;" {{ giver.full_name}}   p 
+ p style="float: right; margin-top: 2px !important; width: 100%; text-align: right;" ${{ giver.don_amount }}  p 
+ p class="team-member-name text-light" Gabriella Flacke  p 
+ p class="title title-tiny " style="margin-top:40px;color:#9b9b9b;"  Raised of
+        $ span class="camp_amount_pre" 16,500  span 
+      p 
+ p Join us as we help save the Pygmy Hippo.  Help support conservation research for this smaller hippo, an endangered species native to the rainforests of West Africa.  p 
+ p class="text-small" style="color:#9b9b9b;font-style:italic;margin-bottom:0px ;" 
+         i class="fa fa-user"   i  The University of Western Australia
+         i class="fa fa-map-marker"   i 
+         span class="city_pre" Perth, Western Australia, Australia  span 
+      p 
+ p class="perks__help"  span Perks  span   p 
+ p class="perk__description" Personalised 'Thank you' email  p 
+ p class="perk__meta-copy" 
+                        Est. Delivery Date: Jun 2015 br 
+                        8 claimed br 
+
+                                                    Unlimited left
+                                              p 
+ p class="perk__description" Acknowledgement for your funding contribution on my UWA website  p 
+ p class="perk__meta-copy" 
+                        Est. Delivery Date: June 2015 br 
+                        8 claimed br 
+
+                                                    Unlimited left
+                                              p 
+ p class="perk__description" Receive a 'Thank You' postcard from a pygmy hippo!  p 
+ p class="perk__meta-copy" 
+                        Est. Delivery Date: July-Aug 2015 br 
+                        7 claimed br 
+
+                                                    Unlimited left
+                                              p 
+ p class="perk__description" Receive an acknowledgement for your funding contribution in my thesis and receive a digital copy of the completed thesis.  p 
+ p class="perk__meta-copy" 
+                        Est. Delivery Date: July 2016 br 
+                        8 claimed br 
+
+                                                    Unlimited left
+                                              p 
+ p class="perk__description" As a thank you for sponsoring the dung analysis for half a hippo, receive a digital certificate with a photo of a pygmy hippo acknowledging your contribution to research and conservation of pygmy hippos.  p 
+ p class="perk__meta-copy" 
+                        Est. Delivery Date: July 2015 br 
+                        3 claimed br 
+
+                                                                                    25 left
+                                                                          p 
+ p class="perk__description" Receive a printed, signed certificate with a photo of a pygmy hippo, acknowledging your contribution to research and conservation of pygmy hippos, along with a stuffed hippo toy.  p 
+ p class="perk__meta-copy" 
+                        Est. Delivery Date: Nov 2015 br 
+                        1 claimed br 
+
+                                                                                    13 left
+                                                                          p 
+ p class="perk__description" As a thank you for supporting ongoing pygmy hippo research and project costs, choose any of the rewards listed above.
+Also, I will be happy to deliver a presentation about pygmy hippos to an organization of your choice. (Perth, Australia based only)  p 
+ p class="perk__meta-copy" 
+                        Est. Delivery Date: Nov 2015 br 
+                        3 claimed br 
+
+                                                    Unlimited left
+                                              p 
+ p class="full btm-margin" What the widget will look like:  p 
+ p class="full btm-margin" Copy and paste this code snipet into your website:  p 

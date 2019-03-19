@@ -1,0 +1,27 @@
+ p class="byline" data-link-name="byline" data-component="meta-byline"  span itemscope="" itemtype="http:  schema.org Person" itemprop="author" 
+ a rel="author" class="tone-colour" itemprop="sameAs" data-link-name="auto tag link" href="https:  www.theguardian.com profile patrickbarkham"  span itemprop="name" Patrick Barkham  span   a   span   p 
+ p class="content__dateline" aria-hidden="true" 
+ time itemprop="datePublished" datetime="2013-07-31T01:51:00+0100" data-timestamp="1375231860000" class="content__dateline-wpd js-wpd" 
+Wed 31 Jul 2013  span class="content__dateline-time" 01.51 BST  span 
+  time 
+ time datetime="2013-07-31T01:51:00+0100" data-timestamp="1375231860000" class="content__dateline-lm js-lm u-h" 
+First published on Wed 31 Jul 2013  span class="content__dateline-time" 01.51 BST  span 
+  time 
+  p 
+ p It is a prickly character with a voracious appetite, a passion for gardens and a noisy sex life, and now the hedgehog has been chosen as the best natural emblem for the British nation.  p 
+ p The insectivorous mammal, which has rapidly declined in numbers in recent years, surprisingly triumphed over the charismatic badger and the oak in a  a href="http:  www.discoverwildlife.com " title="" data-link-name="in body link" class="u-underline" BBC Wildlife Magazine  a  poll to find a national species for Britain.  p 
+ p The victory for the ultimate "underdog" – 42% of more than 9,000 votes cast were for the hedgehog – was welcomed by Ann Widdecombe, who is patron of the  a href="http:  www.britishhedgehogs.org.uk" title="" data-link-name="in body link" class="u-underline" British Hedgehog Preservation Society  a .  p 
+ p "I'm over the moon that the hedgehog came top in the BBC  a href="https:  www.theguardian.com environment wildlife" data-link-name="auto-linked-tag" data-component="auto-linked-tag" class="u-underline" Wildlife  a  poll. It is a quintessentially British creature," she said. "We all need to rally to help the species, which is declining at an alarming rate."  p 
+ p Despite being a nation of animal lovers with a key role in the emergence of the modern conservation movement in the western world, Britain does not have a designated national species, unlike many other countries, including Russia, Australia and South Africa.  p 
+ p In the poll to mark the 50th birthday of  a href="https:  www.theguardian.com media bbc" data-link-name="auto-linked-tag" data-component="auto-linked-tag" class="u-underline" BBC  a  Wildlife readers were asked to select a national symbol from 10 species nominated by wildlife charities, which included much-loved animals such as the otter, red squirrel and water vole, as well as plants, such as the bluebell, and birds, including the robin and swallow.  p 
+ p The magazine attracted accusations of "institutional vertebratism" for letting people vote for only one spineless creature – the seven-spot ladybird. Spectacular butterflies, such as the purple emperor, and the swallowtail, were omitted on the shortlist, along with the bumblebee. Also amphibians and reptiles, with no innings for frogs, toads, adders and great-crested newts.  p 
+ p "The token invertebrate in polls like this is invariably an insect, terrestrial and brightly coloured," said Sally-Ann Spence, who runs minibeast roadshows in Wiltshire.  p 
+ p "Yet of the known animal species on Earth just 4% are vertebrates. It's the invertebrates that are tirelessly recycling, fertilising, pollinating and purifying, and creating the food source at the base of myriad food webs. They deserve better."  p 
+ p The last time the magazine had an insect cover star was back in September 2009, when a painted lady butterfly did the honours.  p 
+ p Ben Hoare, features editor of BBC Wildlife Magazine, welcomed the hedgehog's victory and said the vertebrate-dominated shortlist reflected the tendency of society to overlook many invertebrates.  p 
+ p He said: "In a way it's a fair cop. Most people looking at the media are left with the impression that the only invertebrates are bees and colourful butterflies and beetles.  p 
+ p "All the other insects are very important but I'm not sure they make a good national symbol. Fur and feathers tend to win over creepy-crawlies."  p 
+ p For all the concern over badger culling and the disappearance of red squirrels, Hoare said the hedgehog was a worthy winner, a much-loved and much-missed creature whose population had  a href="https:  www.theguardian.com environment 2013 jan 29 hedgehog-population-dramatic-decline" title="" data-link-name="in body link" class="u-underline" halved to less than a million in Britain in the last 20 years  a .  p 
+ p Ever since Beatrix Potter's creation of  a href="http:  en.wikipedia.org wiki The_Tale_of_Mrs._Tiggy-Winkle" title="" data-link-name="in body link" class="u-underline" Mrs Tiggy-Winkle  a , the hedgehog has been seen as an industrious, friendly animal, qualities we might like to associate with Britishness. In reality, as well as having a colourful sex life, the hedgehog is an efficient hunter of small animals unpopular with gardeners and can eat 60g-80g (2oz-3oz) of slugs and snails a night.  p 
+ p "Of course we consider them to be friendly because we see them in our gardens," said Hoare.  p 
+ p "Nationally, we also tend to feel sorry for the underdog and seeing all those hedgehogs squashed on the roads probably makes us even more fond of them."  p 

@@ -1,0 +1,112 @@
+ p  b Wild:  b   span class="nowrap" 8 ( span class="nowrap" title="8"  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a   span )  span  br  b Tamed:  b   span class="nowrap" 20 ( span class="nowrap" title="2"  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a   span  × 10)  span 
+  p 
+ p  b Wild:  b  br Easy:  span class="nowrap" 3 ( span class="nowrap" title="3"  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Half_Heart.svg" class="image"  img alt="Half Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia 4 47 Half_Heart.svg?version=322b54519dd83ec216d1036d9874d2af" width="9" height="9"   a   span )  span  br Normal:  span class="nowrap" 4 ( span class="nowrap" title="4"  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a   span )  span  br Hard:  span class="nowrap" 6 ( span class="nowrap" title="6"  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a   span )  span  br  b Tamed:  b   br  span class="nowrap" 4 ( span class="nowrap" title="4"  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a   span )  span 
+  p 
+ p  b Adult:  b  br Height: 0.85 Blocks br Width: 0.6 Blocks br 
+ b Baby:  b  br Height: 0.425 Blocks br Width: 0.3 Blocks
+  p 
+ p On  a href=" Grass" title="Grass" grass  a , in  a href=" Forest" title="Forest" forest  a  and  a href=" Taiga" title="Taiga" taiga  a   a href=" Biome" title="Biome" biomes  a  and their variations br 
+  p 
+ p See  a href="#History" History  a 
+  p 
+ p None
+  p 
+ p Kill Adult: 1–3 br 
+Breeding: 1–7
+  p 
+ p  b  a href=" JE" class="mw-redirect" title="JE" JE  a   b : 95 br  b  a href=" BE" class="mw-redirect" title="BE" BE  a   b : 14
+  p 
+ p wolf
+  p 
+ p  b Wolves  b  are dog-like  a href=" Neutral_mob" class="mw-redirect" title="Neutral mob" neutral mobs  a  that can be  a href=" Tamed" class="mw-redirect" title="Tamed" tamed  a .
+  p 
+ p Wolves spawn naturally in normal  a href=" Forest" title="Forest" forests  a ,  a href=" Taiga" title="Taiga" taigas  a ,  a href=" Giant_Tree_Taiga" title="Giant Tree Taiga" giant tree taigas  a  and  a href=" Snowy_Taiga" title="Snowy Taiga" snowy taigas  a , along with all variants of these  a href=" Biome" title="Biome" biomes  a  (with the exception of  a href=" Flower_forest" class="mw-redirect" title="Flower forest" flower forests  a ), in packs of up to 4.
+  p 
+ p Wolves only spawn naturally in  a href=" Taiga" title="Taiga" taiga  a   a href=" Biome" title="Biome" biomes  a  and  a href=" Snowy_taiga" class="mw-redirect" title="Snowy taiga" snowy taiga  a  biomes, but not in giant tree taiga biomes. 16.6% will be babies. They require light level of 7 or above to spawn.
+  p 
+ p Naturally-spawned wolves are untamed, and will become hostile if attacked by the  a href=" Player" title="Player" player  a .
+  p 
+ p Wolves drop 3  a href=" Experience" title="Experience" experience  a  when killed by a  a href=" Player" title="Player" player  a  or another tamed wolf.
+  p 
+ p Wolves can exhibit three different states depending on how the user interacts with them:
+  p 
+ p A wolf will become hostile towards a  a href=" Player" title="Player" player  a  or other  a href=" Mob" title="Mob" mob  a  that attacks it, unless the attacker is the wolf's owner or is otherwise on the same  a href=" Team" class="mw-redirect" title="Team" team  a , and will also cause nearby wild wolves and standing tamed wolves (in a 33×33×21 cuboid centered on the attacked wolf) to become hostile towards the attacker.
+  p 
+ p Skeletons and their  a href=" Skeleton#Variants" title="Skeleton" variants  a ,  a href=" Fox" title="Fox" foxes  a , baby  a href=" Turtle" title="Turtle" turtles  a  and passive  a href=" Rabbit" title="Rabbit" rabbits  a  will actively avoid wolves,  a href=" Killer_rabbit" class="mw-redirect" title="Killer rabbit" killer rabbits  a  will attack them and  a href=" Sheep" title="Sheep" sheep  a  will ignore them beyond their normal running after being damaged. 
+  p 
+ p In the  a href=" Legacy_Console_Edition" title="Legacy Console Edition" Legacy Console Edition  a , the  a href=" Player" title="Player" player  a  can have 1-8 wolves‌ sup class="nowrap" [ i  span title="This statement only applies to the Xbox 360, PlayStation 3, and Wii U editions of Minecraft"  a href=" Xbox_360_Edition" title="Xbox 360 Edition" Xbox 360  a ,  a href=" PlayStation_3_Edition" title="PlayStation 3 Edition" PlayStation 3  a , and  a href=" Wii_U_Edition" title="Wii U Edition" Wii U  a  editions only  span   i ]  sup  or 1-16 wolves‌ sup class="nowrap" [ i  span title="This statement only applies to the Xbox One, PlayStation 4, and Nintendo Switch editions of Minecraft"  a href=" Xbox_One_Edition" title="Xbox One Edition" Xbox One  a ,  a href=" PlayStation_4_Edition" title="PlayStation 4 Edition" PlayStation 4  a , and  a href=" Nintendo_Switch_Edition" title="Nintendo Switch Edition" Nintendo Switch  a  editions only  span   i ]  sup .
+  p 
+ p In other editions, the player can have as many wolves as they want.
+  p 
+ p Wolves are 0.85 blocks tall, and baby wolves are 0.425 blocks tall.
+The textures of the wolves will be tinted dark gray once submerged.
+  p 
+ p Standing tamed wolves will wander randomly when near their owner, but will follow if more than 10 blocks away and will teleport to a nearby free block (if any) if more than 12 blocks away. Besides making travel easier, teleporting can be used to rescue them from  a href=" Lava" title="Lava" lava  a ,  a href=" Water" title="Water" water  a  or pits. Wolves will appear to shake off water after  a href=" Swimming" title="Swimming" swimming  a .
+  p 
+ p Tamed wolves will appear to shiver when it is raining and they are not covered by a roof.
+  p 
+ p Tamed wolves will teleport to their owner, if they are more than 12 blocks away, with a few caveats.
+  p 
+ p A wolf will  b not  b  teleport:
+  p 
+ p A wolf can be tamed by feeding it  a href=" Bone" title="Bone" bones  a . Once tamed, a wolf will not accept any more bones. Note that the number of bones required is random – each bone has a ⅓ chance of taming the wolf. sup id="cite_ref-3" class="reference"  a href="#cite_note-3" [3]  a   sup  If the wolf is tamed, it will get a red collar and (if not  a href=" Swimming" title="Swimming" swimming  a ) the wolf will sit down. Currently, there is no limit sup id="cite_ref-4" class="reference"  a href="#cite_note-4" [4]  a   sup  to the number of wolves the  a href=" Player" title="Player" player  a  can tame.
+ span id="Health"   span 
+A wolf's tail will rise and lower depending on its  a href=" Health" title="Health" health  a . The exact health of an individual wolf can be determined by measuring the angle between its hind legs and tail. The angle indicates the percentage of health that the wolf has. When tamed wolves have low health (below  span class="nowrap" 10 ( span class="nowrap" title="10"  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a   span )  span ), they will whine as an indicator. Wild wolves have a maximum health of  span class="nowrap" 8 ( span class="nowrap" title="8"  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a   span )  span , so their tails will always remain significantly lower than those of tamed wolves. Tamed wolves can be healed by feeding them any sort of meat other than fish; listed below, this will restore as much of the wolf's health as the same food would restore hunger points when eaten by the player.
+  p 
+ p  span id="Foods_used_for_healing_and_breeding_wolves"   span 
+  p 
+ p In  a href=" Bedrock_Edition" title="Bedrock Edition" Bedrock Edition  a , raw or cooked  a href=" Cod" title="Cod" cod  a   a href=" Salmon" title="Salmon" salmon  a  can also be used.
+  p 
+ p Puppies have only  span class="nowrap" 8 ( span class="nowrap" title="8"  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a   span )  span  health when born, but their  i maximum  i  health is the same as an adult's -  span class="nowrap" 20 ( span class="nowrap" title="2"  a href=" File:Heart.svg" class="image"  img alt="Heart.svg" src="https:  gamepedia.cursecdn.com minecraft_gamepedia a a7 Heart.svg?version=119f8ffe903289923507500d7a85e6c2" width="9" height="9"   a   span  × 10)  span , and they can be raised to full health by feeding them any meat listed above or using  a href=" Splash_potion" class="mw-redirect" title="Splash potion" splash potions  a  of healing. Note that wolves do not get  a href=" Hunger" title="Hunger" food poisoning  a , so they can freely eat  a href=" Rotten_flesh" class="mw-redirect" title="Rotten flesh" rotten flesh  a  or  a href=" Raw_chicken" class="mw-redirect" title="Raw chicken" raw chicken  a . Feeding a tamed wolf which is already at full health will usually start the " a href=" Breeding" title="Breeding" love mode  a " animation.
+  p 
+ p A tamed wolf's collar color can be changed by  span class="explain" title="Defaults to right click" using  span  a  a href=" Dye" title="Dye" dye  a  on the wolf.
+  p 
+ p Wolves can be bred, if tamed and at full  a href=" Health" title="Health" health  a , through the use of any type of meat listed above.
+  p 
+ p The growth of baby wolves can be slowly accelerated using any type of meat. Each use takes 10% off the remaining time to grow up.
+  p 
+ p The behavior of puppies is the same as tamed wolves. The appearance of the pups differs, however, as they have large heads, similar to the offspring of  a href=" Pig" title="Pig" pigs  a ,  a href=" Cow" title="Cow" cows  a ,  a href=" Sheep" title="Sheep" sheep  a ,  a href=" Chicken" title="Chicken" chickens  a   a href=" Breeding" title="Breeding" and so on  a .
+  p 
+ p Breeding two wolves that recognize someone else as an owner will cause the puppy to also be owned by the owner of the original two wolves. If two tamed wolves with different owners are bred, the puppy will be owned by the owner of the wolf bred last.
+  p 
+ p Wolves have entity data associated with them that contain various properties of the mob.
+  p 
+ p Issues relating to "Wolf", "Wolves", or "Dog" are maintained on the  a href=" Bug_tracker" title="Bug tracker" bug tracker  a . Report issues  a target="_self" rel="nofollow" class="external text" href="https:  bugs.mojang.com issues ?jql=project%20in%20%28MC%2C%20MCPE%2C%20MCCE%29%20and%20%28resolution%20is%20empty%20or%20resolution%20in%20%281%2C%202%2C%206%29%29%20and%20%28summary%20~%20%22Wolf%22%20or%20summary%20~%20%22Wolves%22%20or%20summary%20~%20%22Dog%22%29%20order%20by%20resolution%20desc" there  a .
+  p 
+ p Official wolf artwork.
+  p 
+ p The first screenshot of wolves. sup id="cite_ref-8" class="reference"  a href="#cite_note-8" [8]  a   sup 
+  p 
+ p The second screenshot of wolves. Here,  a href=" Jeb" class="mw-redirect" title="Jeb" Jeb  a  implemented sitting and has a new texture. sup id="cite_ref-9" class="reference"  a href="#cite_note-9" [9]  a   sup 
+  p 
+ p A wolf shaking off  a href=" Water" title="Water" water  a  droplets after a  a href=" Swimming" title="Swimming" swim  a .
+  p 
+ p A pack of wolves hunting a  a href=" Cow" title="Cow" cow  a  on command.
+  p 
+ p A wolf stuck inside a  a href=" Tree" title="Tree" tree  a  after teleporting.
+  p 
+ p A hostile wolf shaking off water droplets after a swim.
+  p 
+ p Wolves having a darker texture when they are  a href=" Swimming" title="Swimming" swimming  a  or when it's  a href=" Rain" title="Rain" raining  a .
+  p 
+ p A pack of wolves locking a sheep under a tree (bug).
+  p 
+ p Tamed wolves with  a href=" Dye" title="Dye" dyed  a  collars.
+  p 
+ p A wild baby wolf that can only be spawned by a wolf  a href=" Spawn_egg" class="mw-redirect" title="Spawn egg" spawn egg  a .
+  p 
+ p An adult wolf fighting  a baby wolf.
+  p 
+ p A wolf killing a  a href=" Sheep" title="Sheep" sheep  a .
+  p 
+ p Three tamed wolves teleported within a  a href=" Grass_path" class="mw-redirect" title="Grass path" grass path  a  in a  a href=" Taiga" title="Taiga" taiga  a   a href=" Village" title="Village" village  a . Only their ears can be seen.
+  p 
+ p Two wolves sitting in a  a href=" Boat" title="Boat" boat  a .
+  p 
+ p A hostile wolf looking and running at the  a href=" Player" title="Player" player  a .
+  p 
+ p A burning tamed wolf.
+  p 
+ p  br 
+  p 
+ p  span id=".5B.5BEntity.7CEntities.5D.5D"  b  a href=" Entity" title="Entity" Entities  a   b   span   p 

@@ -1,0 +1,97 @@
+ p  a href=".. index.html"   Home 
+    a   p 
+ p  a href=".. ApplicationMain.html"   Application Forms  a   p 
+ p  a href=".. instructions ObtainPermit.html"   How to Obtain a Permit  a   p 
+ p  a href=".. ImportExport ImportExport.html"   Do I need a Permit?  a   p 
+ p  a href=".. ltr ltr.html"   Laws Treaties Regulations  a   p 
+ p  a href=".. PoliciesHandbooks PoliciesHandbooks.html"   Policies Handbooks  a   p 
+ p  a href=".. RelatedSites RelatedSites.html"   Related Sites  a   p 
+ p The following alphabetical index is to help 
+                      you quickly find the answer to general permit questions.The keywords 
+                        lead you to frequently asked questions and their answer, as well 
+                        as links to fact sheets and specific web pages.
+                p 
+ p  b ALPHABETICAL INDEX:  b   p 
+ p  b [ a href="FaqA.html" A  a ] [ a href="FaqB.html" B  a ] [ a href="FaqC.html" C  a ]  
+                [ a href="FaqD.html" D  a ]  [ a href="FaqE.html" E  a ]  [ a href="FaqFGH.html" F G H  a ]  
+                [ a href="FaqLM.html" L M  a ]  [ a href="FaqNOPQ.html" N O P Q  a ]  
+                [ a href="FaqR.html" R  a ]  [ a href="FaqS.html" S  a ]  [ a href="FaqTUVWXYZ.html" T U V W X Y Z  a ]  b   p 
+ p    p 
+ p style="LINE-HEIGHT: 12pt"  b Keyword 
+                      – I J K  b   p 
+ p  strong Question Answer Fact  strong   p 
+ p  strong Iguanas, Pet  strong   p 
+ p class="MsoHeading8"  strong Do I need a permit 
+                      to import or export my pet green iguana?  strong   All species 
+                      of iguanas in the genus  i Iguana  i  are listed in CITES Appendix II.  
+                      (Note that some other iguanas, including the ground iguanas ( i Cyclura  i  spp.), are listed in Appendix I and under the ESA.  If your iguana 
+                      is not in the genus  i Iguana  i , check the  u  a href=".. SpeciesLists SpeciesLists.html" lists  a   u  to see how it is protected.)    p 
+ p  strong Import  strong   p 
+ p  a href="https:  www.fws.gov migratorybirds mbpermits importexport.htm" Migratory 
+                      Bird Import Information  a   p 
+ p  a href="http:  international.fws.gov permits import.html"    a  a href="https:  www.fws.gov le ImpExp CommWildlifeImportExport.htm" Information 
+                          on Commercially Importing and Exporting Wildlife  a    p 
+ p style="LINE-HEIGHT: 12pt"  strong Incidental 
+                      Take – Wildlife (ESA)  strong   p 
+ p  a href="http:  endangered.fws.gov hcp index.html" Permits for Habitat 
+                      Conservation Plans  a   p 
+ p style="LINE-HEIGHT: 12pt"  b Incidental 
+                      Take – Plants (ESA)  b   p 
+ p style="LINE-HEIGHT: 12pt"  b Are incidental 
+                      take permits needed for ESA-listed plants?    b There are no Federal 
+                      prohibitions under the ESA for the take of listed plants on nonfederal 
+                      lands, unless taking of those plants is in violation of state law. Before 
+                      the FWS issues a permit, however, the effects of the permit on listed 
+                      plants must be analyzed.   p 
+ p class="MsoHeading7"  strong Injured Birds  strong   p 
+ p  a href="https:  www.fws.gov migratorybirds FAQS FAQ0.htm" FAQs  a    p 
+ p  strong  a name="Ivory"   a Ivory (Import) br 
+                      strong   p 
+ p The United States generally prohibits the 
+                      importation of ivory. Don’t bring home raw ivory or ivory jewelry, 
+                      carvings, or figurines made from the tusks of either African or Asian 
+                      elephants. Avoid raw or carved ivory from the teeth or tusks of walruses, 
+                      whales, narwhals, and seals. If you have questions about importing specific 
+                      ivory, contact the Division of Law Enforcement.  p 
+ p  strong Ivory, Fossilized Walrus (Export)  strong   p 
+ p To export raw fossilized walrus ivory obtained 
+                      from the wild, complete form  a href="https:  www.fws.gov forms 3-200-27.pdf" 3-200-27  a  and submit the application to the address located on the form.  p 
+ p  strong Ivory, Mastodon  strong   p 
+ p This species is extinct, as such no permit 
+                      is required to import or export ivory from this species.  p 
+ p  strong Ivory, Pre-Convention and or Antique 
+                      (Export)  strong   p 
+ p To export pre-Convention pre-Act ivory, complete 
+                      form  a href="https:  www.fws.gov forms 3-200-23.pdf" 3-200-23  a  and 
+                      submit the application to the address located on the form. For additional 
+                      information on Asian elephant ivory, refer to the Asian elephant ivory  a href="https:  www.fws.gov international DIC species ase pdf as.pdf" fact sheet  a  .  p 
+ p  strong Ivory, Sport-hunted Trophy  strong   p 
+ p Sport-hunted trophies containing ivory tusks 
+                      may be imported into the U.S. by the hunter from certain countries (see 
+                      form  a href="https:  www.fws.gov forms 3-200-19.pdf" 3-200-19  a .) 
+                      Such tusks may never be  font color="#FF0000" sold or  font  re-exported 
+                      from the U.S.  p 
+ p  strong Ivory, Walrus (Alaska Native handicrafts, 
+                      Export)  strong   p 
+ p For personal, non-commercial export of authentic 
+                      Alaska Native handicrafts, CITES certificates may be required by country 
+                      of import. Refer to  a href="http:  alaska.fws.gov fisheries" FWS Alaska 
+                        Fisheries &amp; Ecological Services  a  or contact the Division of Management 
+                      Authority for more information.  p 
+ p style="LINE-HEIGHT: 12pt"  b Kangaroo  b   p 
+ p style="LINE-HEIGHT: 12pt"  b Do I need a 
+                      permit to import, export, or re-export kangaroo hides or hide products?    b The eastern gray kangaroo ( i Macropus   i giganteus) and red kangaroo 
+                      ( i M. rufus  i ) are not listed under CITES or the ESA.  Other 
+                      species of kangaroos, rat-kangaroos, tree kangaroos, and wallabies may 
+                      be  u  a href=".. SpeciesLists SpeciesLists.html" listed  a   u .  Click 
+                      here for a fact sheet on  u  a href="https:  www.fws.gov international DMA_DSA CITES pdf cpc.pdf" CITES  a   u  and  u  a href="https:  www.fws.gov international DMA_DSA pdf esa.pdf" ESA  a   u .   p 
+ p  strong CITES:  strong    Convention on International Trade in Endangered Species br 
+                   strong BGEPA:  strong  Bald and Golden Eagle Protection Act  br 
+                   strong ESA:  strong       Endangered Species Act br 
+                   strong MBTA:  strong    Migratory Bird Treaty Act  br 
+                   strong MMPA:  strong   Marine Mammal Protection Act  br 
+               strong WBCA:  strong     Wild Bird Conservation Act   p 
+ p align="left" For additional information, visit the Fish and Wildlife Service's  a href="https:  www.fws.gov faq " Frequently Asked Questions  a  web site.   p 
+ p class="muted credit" Last updated: 
+     !-- #BeginDate format:Am1 -- July 21, 2017 !-- #EndDate -- 
+      p 

@@ -1,0 +1,95 @@
+ p Oops. A firewall is blocking access to Prezi content. Check out  a href="https:  prezi.com support article troubleshooting general-advice-on-firewalls-and-security-settings-relating-to-prezi " this article  a  to learn more or contact your system administrator.  p 
+ p class="prezi-subtitle"  img style="width:25px;height:25px" src="https:  assets.prezicdn.net assets-versioned landingdjango-versioned 1273-9029ce87272e92151ca166c289b1b100b0716645 common img 1.png"  Send the link below via email or IM  p 
+ p class="prezi-subtitle"  img style="width:25px;height:25px" src="https:  assets.prezicdn.net assets-versioned landingdjango-versioned 1273-9029ce87272e92151ca166c289b1b100b0716645 common img 2.png"  Present to your audience  p 
+ p class="alert alert-danger" 
+    Do you really want to delete this prezi?
+  p 
+ p 
+    Neither you, nor the coeditors you shared it with will be able to recover it again.
+  p 
+ p class="clearfix"  a class="btn btn-primary" id="confirmdelete" Delete  a  a class="btn pull-right" id="canceldelete" href="javascript:void(0);" Cancel  a   p 
+ p 
+                                    Please  a data-action="click" data-object="landing-login-to-comment" href=" login ?next= p4xfxjnppfuu " log in  a  to add your comment.
+                                  p 
+ p  a data-action="click" data-object="landing-report-abuse" id="report" Report abuse  a   p 
+ p  a href="https:  prezi.com user bunulm-fz2od " 
+            More prezis by author
+          a   p 
+ p See more  a href=" explore staff-picks " popular  a  or the  a href=" latest " latest  a  prezis  p 
+ p class="footer-title small caps bold" Prezi  p 
+ p class="footer-title small caps bold" Company  p 
+ p class="footer-title small caps bold" Languages  p 
+ p class="footer-title small caps bold" Support  p 
+ p class="footer-title small caps bold" Blog  p 
+ p class="semi-bold small text-gray-3" 8 March 2019  p 
+ p class="semi-bold small text-gray-3" 25 February 2019  p 
+ p class="semi-bold small text-gray-3" 28 January 2019  p 
+ p class="small text-gray-3" © 2019 Prezi Inc.
+                         span  a href=" terms-of-use ?click_source=logged_element&amp;page_location=footer&amp;element_type=link&amp;element_text=terms" class="terms" Terms  a  &amp;  a href=" privacy-policy ?click_source=logged_element&amp;page_location=footer&amp;element_type=link&amp;element_text=privacy_policy" class="terms" Privacy Policy  a   span   p 
+ p class="panel-title bold" 
+                
+    Prezi
+
+              p 
+ p class="panel-title bold" 
+                
+    Infogram
+
+              p 
+ p class="panel-title bold" 
+                
+    Company
+
+              p 
+ p class="panel-title bold" 
+                
+    Support
+
+              p 
+ p class="panel-title bold" Languages  p 
+ p class="small text-gray-3" © 2019 Prezi Inc.
+                          a href=" terms-of-use ?click_source=logged_element&amp;page_location=footer_mobile&amp;element_type=link&amp;element_text=terms" class="terms" Terms  a  &amp;  a href=" privacy-policy ?click_source=logged_element&amp;page_location=footer&amp;element_type=link&amp;element_text=privacy_policy" class="terms" Privacy Policy  a   p 
+ p class="clearfix"  a class="btn btn-primary" id="download-btn" href="javascript:void(0);" Download  a  a class="btn pull-right" onclick="closeOverlay();return false;" href="javascript:void(0);" Cancel  a   p 
+ p Creating downloadable prezi, be patient.  p 
+ p class="clearfix"  a onclick="closeOverlay(); return false;" class="btn pull-right" href="javascript:void(0);" Close  a   p 
+ p class="clearfix"  a class="bttn mid desc-submit" href="javascript:void(0);"  em   em  span Done  span   a   p 
+ p ${comment}  p 
+ p  cite Mackenzie Green  cite 
+                        on
+                         time datetime="${date}" ${date}  time   p 
+ p ${description}  p 
+ p class="alert alert-danger" 
+            Do you really want to delete this prezi?
+          p 
+ p 
+            Neither you, nor the coeditors you shared it with will be able to recover it again.
+          p 
+ p class="clearfix"  a class="btn btn-primary" id="confirmdelete" Delete  a  a class="btn pull-right" id="canceldelete" href="javascript:void(0);" Cancel  a   p 
+ p id="block_embed_dimensions" class="clearfix"  label for="embed-width" id="lb_embed_with" 
+                Width:
+                 input class="span1" id="embed-width" type="text" name="" value="550" 
+                pixels
+              label  label for="embed-height" id="lb_embed_height" 
+                Height:
+                 input class="span1" id="embed-height" type="text" name="" value="400" 
+                pixels
+              label   p 
+ p  label for="nav-free"  input checked id="nav-free" type="radio" name="navigation" value=""  Let viewers pan &amp; zoom freely
+              label   p 
+ p  label for="nav-constrain"  input id="nav-constrain" type="radio" name="navigation" value="" Constrain to simple back and forward steps
+              label   p 
+ p class="email_button clearfix"  a class="btn btn-primary" href="javascript:void(0);" id="ln_copy_embedcode" onclick="return false;" Copy code to clipboard  a   p 
+ p class="email_to"  label  span To:  span  input class="textfield" id="${send_email_form}_recipient" type="text" name="recipient" value=""   label   p 
+ p class="email_note"  label  span Add a personal note:  span 
+                        &lt;textarea class="textfield" id="note" name="message"&gt;&lt; textarea&gt;
+                      label  label ${note}  label   p 
+ p class="email_button clearfix"  a class="btn btn-primary" href="javascript:void(0);" id="${send_email_link}" Send email  a   p 
+ p class="alert alert-success" ${message}  p 
+ p class="clearfix"  a class="btn" href="javascript:void(0);" onclick="closeOverlay();return false;" Close  a   p 
+ p class="email_to"  label  span To:  span  em   em   label   p 
+ p class="email_note"  label  span Add a personal note:  span 
+                    &lt;textarea class="textfield" id="note" name="message"&gt;&lt; textarea&gt;
+                  label  label ${note}  label   p 
+ p class="email_button clearfix"  a class="btn btn-primary" id="${send_to_group_btn_id}" Send to group  a   p 
+ p Send this link to let others join your presentation:  p 
+ p class="buttons"  a class="btn btn-primary" id="btn_start_presenting" Start presenting  a  a class="btn pull-right" onclick="closeOverlay();return false;" Close  a   p 

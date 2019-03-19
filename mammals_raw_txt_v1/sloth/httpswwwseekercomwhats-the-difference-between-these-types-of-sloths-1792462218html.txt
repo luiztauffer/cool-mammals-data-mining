@@ -1,0 +1,16 @@
+ p class="subtitle__text" 
+            There are two-toed sloths, and there are three-toed sloths. Other than the number of toes, what is the difference between these animals?          p 
+ p class="body-text__paragraph-text font--body has-spacing" 
+                     strong Read More: br   strong  a href="http:  www.arkive.org pygmy-three-toed-sloth bradypus-pygmaeus " Pygmy three-toed sloth  a  br "With only a small population confined to a single tiny island off the coast of Panama, the pygmy three-toed sloth (Bradypus pygmaeus) is the most endangered of all Xenarthra."                  p 
+ p class="body-text__paragraph-text font--body has-spacing" 
+                     a href="http:  animals.pawnation.com species-sloth-4919.html" The Species Of Sloth  a  br  "The six different species of sloth inhabit the same sort of environment -- the tropical forests of South America -- and display similar behavior."                  p 
+ p class="body-text__paragraph-text font--body has-spacing" 
+                     a href="http:  www.macalester.edu ~montgomery TwoToedSloth.html" Hoffman's Two-Toed Sloth  a  br  "Hoffman's two-toed sloth is found in South and Central American countries including: Bolivia, Brazil, Colombia, Ecuador, Guyana, Nicaragua, Panama, Peru, and Venezuela. They are most prevalent in the Amazon Rainforest Basin of central Brazil and Peru."                  p 
+ p class="body-text__paragraph-text font--body has-spacing" 
+                     a href="http:  animals.nationalgeographic.com animals mammals three-toed-sloth " Three-Toed Sloths  a                   p 
+ p class="body-text__paragraph-text font--body has-spacing" 
+                     a href="https:  www.worldwildlife.org species sloth" Sloth  a  br  "Sloths-the sluggish tree-dwellers of Central and South America-spend their lives in the tropical rain forests."                  p 
+ p class="body-text__paragraph-text font--body has-spacing" 
+                     a href="http:  www.worldanimalfoundation.net f Sloth.pdf" Sloth Fact Sheet  a  br  "Sloths are medium-sized South American mammals belonging to the families Megalonychidae and Bradypodidae, part of the order Pilosa."                  p 
+ p class="body-text__paragraph-text font--body has-spacing" 
+                     a href="http:  news.softpedia.com news You-Did-Not-Know-All-This-About-Sloths-73848.shtml" Why Sloths Are Special  a  br  "Sloths are solitary and arboreal (tree dwellers) mammals. Today, there are 2 genera of sloths: three toed sloths (Bradypus) and two toed sloths (Choelepus), each one in its own family (thus, not so closely related). All sloths have three digits on the rear limbs and three, respectively two, in the two genera, as their names point."                  p 

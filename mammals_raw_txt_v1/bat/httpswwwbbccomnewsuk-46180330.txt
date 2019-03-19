@@ -1,0 +1,29 @@
+ p class="twite__title" aria-hidden="true" Share this with  p 
+ p class="twite__channel-text" aria-hidden="true" Email  p 
+ p class="twite__channel-text" aria-hidden="true" Facebook  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Twitter  p 
+ p class="twite__channel-text" aria-hidden="true" Pinterest  p 
+ p class="twite__channel-text" aria-hidden="true" WhatsApp  p 
+ p class="twite__channel-text" aria-hidden="true" LinkedIn  p 
+ p class="twite__copy-text" Copy this link  p 
+ p class="twite__new-window" aria-hidden="true" These are external links and will open in a new window  p 
+ p class="story-body__introduction" A Briton has died after contracting rabies while on holiday in Morocco, health officials have said.  p 
+ p Public Health England said the victim became infected after being bitten by a cat.  p 
+ p PHE  a href="https:  www.gov.uk government news public-health-england-warns-travellers-of-rabies-risk" class="story-body__link-external" issued a reminder to travellers  a  to avoid coming into contact with animals when in rabies-affected countries.  p 
+ p Rabies is not found in wild or domestic animals in the UK, but five Britons became infected between 2000 and 2017 after "animal exposures abroad".  p 
+ p Some species of bats in the UK can carry a rabies-like virus.  p 
+ p  a href="http:  www.who.int news-room fact-sheets detail rabies" class="story-body__link-external" According to the World Health Organization  a , the disease occurs in more than 150 countries and causes tens of thousands of deaths every year, mainly in Asia and Africa.   p 
+ p It says in up to 99% of cases, domestic dogs are responsible for the transmission of the virus to humans.    p 
+ p The  a href="https:  www.gov.uk government publications rabies-risks-by-country rabies-risks-in-terrestrial-animals-by-country#high-risk-countries" class="story-body__link-external" UK government says  a  north African countries such as Morocco, Algeria and Tunisia are among 139 nations where there is a high risk.  p 
+ p PHE did not release further details about the Briton's death.  p 
+ p It said that while there was no risk to the wider public, as a precautionary measure, health workers and close contacts of the person who died were being assessed and offered vaccination if necessary.  p 
+ p Rabies is a viral infection that affects the brain and central nervous system. It is passed on through bites and scratches from an infected animal.  p 
+ p There are no documented instances of it being transmitted via human to human contact.   p 
+ p Dr Mary Ramsay, head of immunisations at PHE, said: "This is an important reminder of the precautions people should take when travelling to countries where rabies is present."  p 
+ p The last recorded rabies case in Britain was in 2012, after a UK resident was bitten by a dog in south Asia.  p 
+ p Source: Public Health England World Health Organization  p 
+ p class="top-stories-promo-story__summary top-stories-promo-story__summary--none" The Boeing 737 Max-8 had 157 people on board, including Kenyans, Britons, Canadians and Americans.  p 
+ p class="heron__item-summary" Have you been getting these songs wrong?  p 
+ p class="heron__item-summary" What happens to your body in extreme heat?  p 

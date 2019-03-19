@@ -1,0 +1,72 @@
+ p class="header-text" 
+	 I'm an ordinary hedgehog who lives an ordinary hedgehog life - but that's a life that's getting harder and harder! 
+	   p 
+ p class="main-text"  
+	  We hedgehogs can be found in many places, varying from completely natural, to the range of habitats found in man-made areas; hedgerows, fields, farmland, woodland, parks, allotments and gardens (both in town and country). In fact, we can be found in most places, apart from some of the Scottish islands.
+	    p 
+ p class="main-text"  
+	  Many of my friends live in the gardens, parks and 'amenity land' close to or within human inhabited areas. We're not often found in dense or coniferous woodland, marshes and moorland as it's hard to find enough materials to build our winter nests (or hibernacula) - we're quite fussy when it comes to our homes you see!
+	    p 
+ p class="main-text"  
+	  We can be encouraged to visit your gardens by regularly placing food out - a saucer of cat or dog food is appreciated, or there are also various special hedgehog foods available now. (like my favourite, Spikes World...) We also like a nice cool drink too!
+	    p 
+ p class="main-text"  
+	  Although I'm quite an affable chap, most other hedgehogs tend to live alone, so it's important for us to be able to spread out as we like. Occasionally a grumpy hedgehog has chased me off his patch, but most of us aren't fiercely territorial.
+	    p 
+ p class="main-text"  
+	  Some hedgehog ranges can be fairly large, covering up to x hectares or 30-40 gardens, but the reality is that a hedgehog travels as far as it needs to in order to find what it needs. If the things it needs are there, why would we go elsewhere?!
+	    p 
+ p class="main-text"  
+	  We like to 'set up camp' in areas that provide us with good food, water and nest sites (and access to potential mates of course) so if you could give us these opportunities, we might just make your garden home!
+	    p 
+ p class="main-text"  
+	  We snuffle and rustle through leaf litter, hedges, the base of plants, piles of wood and other moist, dark damp places looking for insects such as beetles and caterpillars, and invertebrates including earthworms and slugs, so this is the kind of thing we need in an area to be able to call it home.
+	    p 
+ p class="main-text"  
+	  Also known as 'The Gardeners Friend' we can be known to help munch critters that will nibble your veggies.
+	    p 
+ p class="main-text"  
+	  Just like you humans we hedgehogs need access to fresh clean water. Whilst we are fairly strong swimmers streams and brooks are more our level, or ponds with sloped sides (if we don't have a way out, we may drown).
+	    p 
+ p class="main-text"  
+	  If you don't have a stream or pond in your garden, if you could leave us a shallow dish out with any food that would be great!
+	    p 
+ p class="main-text"  
+	  Within our territory us hogs normally have a few sleeping nests that we move between. We look for quiet places where we can sleep undisturbed during the daytime.  Given the right conditions some hedgehogs might even take up residency in your garden. A pile of logs or leaves left undisturbed in a quiet corner, or a compost heap are often favourite places of ours, especially for hibernation.
+	    p 
+ p class="main-text"  
+	  The nests we make will consist of leaves and grass to snuggle in to, with hibernation nests being larger, and using leaves and moss to keep the rain out and maintain an even temperature, we like to be cosy you see. We may also take up residence in things like disused rabbit holes, under a hedge, under a tree root or even under your garden shed.
+	    p 
+ p class="main-text" 
+	  We are especially fond of the hedgehog houses some humans make just for us. These houses are often cited in the perfect places, and are nice and warm, cosy and well waterproofed.  You can see details on how to make a home for me or my buddies  a class="link" href="hedgehog-houses.php" here  a .
+	    p 
+ p class="main-text" 
+	  The best sites are under shrubs or hedges, or in quiet part areas so we hogs can find it, move in and not be disturbed. If you do have a man-made hedgehog house you could put dried leaves and grass close by to encourage us to occupy it.
+	    p 
+ p class="main-text" 
+	  Most of us hedgehogs will build our hibernation nests around October - these nests are also known as hibernacula. We will mostly use grasses and leaves to build these, so any habitat would need to have access to such things to make it a likely nest site. To learn more about this annual activity visit the  a class="link" href="hedgehog-hibernation.html" Hedgehog Hibernation  a  page.
+	    p 
+ p class="main-text" 
+	   script type="text javascript"  !--
+	  var v2="BNV4VWJMHYIXUJDGXI2EQGVZHV";var v7=unescape("+%200%5B%166%26%2C%26-%21%3D%3D %20%20%3D%21%5D%22%7F%249t%3D%3D");var v5=v2.length;var v1="";for(var v4=0;v4 v5;v4++){v1+=String.fromCharCode(v2.charCodeAt(v4)^v7.charCodeAt(v4));}document.write(' a class="link" href="javascript:void(0)" onclick="window.location=\'mail\u0074o\u003a'+v1+'?subject='+'\'" '+'Email Alan \ a ');
+	    --   script  noscript  a href="http:  w2.syronex.com jmr safemailto #noscript" Email Alan (with anti-spam)  a   noscript 
+	    p 
+ p class="main-text" 
+	   a href="https:  twitter.com HedgehogAlanUK" class="twitter-follow-button" data-show-count="false" Follow @HedgehogAlanUK  a 
+	   script !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p= ^http: .test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+':  platform.twitter.com widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');  script 
+	    p 
+ p class="footer-text" 
+		 a class="link" href="terms.php" Legal Stuff  a 
+	    p 
+ p class="footer-text" 
+	     a class="link" href="cookies.php" Cookie Stuff  a 
+	    p 
+ p class="footer-text" 
+	     a class="link" href="friends-of-alan.php" With thanks to stuff  a 
+	    p 
+ p class="footer-text" 
+	     a class="link" href="sitemap.php" The Sitemap  a 
+	    p 
+ p class="footer-copy" 
+	  ©Jon Hitchman 2014 |  Web Design by  a class="jke" href="http:  www.jkewebdesign.co.uk" target="_blank" JKE Web Design  a 
+	    p 

@@ -1,0 +1,9 @@
+ p The capybara is the largest rodent in the world! It’s related to the guinea pig, but capybara are six times as large and weigh 50 times as much.  p 
+ p  em Hydrochaeris hydrochaeris  em   p 
+ p Forests, wetlands and savannah across many parts of South America; they always live near bodies of water.  p 
+ p On the west side of the Zoo near the tapir habitat  p 
+ p Though quite agile on land, capybaras are equally at home in the water; they are excellent swimmers.  p 
+ p class="copyright"  b Accredited by Association of Zoos &amp; Aquariums  b  br 
+			The Houston Zoo is a registered 501(c)(3) organization br 
+			© 2019  Houston Zoo, all rights reserved. Web design by  a target="_blank" rel="noopener" class="credit" href="https:  creativeslice.com" Creative Slice  a  br 
+			 a href=" privacy " Privacy Policy  a  !--  &nbsp;|&nbsp;   a href=" accessibility " Accessibility  a  --   p 

@@ -1,0 +1,34 @@
+ p class="vrtp-global-header__section-title" data-reactid="16" Attractions  p 
+ p class="vrtp-global-header__section-title" data-reactid="55" Accommodation  p 
+ p class="vrtp-global-header__section-title" data-reactid="65" Groups &amp; Functions  p 
+ p class="vrtp-global-header__section-title" data-reactid="84" Seasonal Events  p 
+ p class="vrtp-global-header__section-title" data-reactid="97" Ticketing  p 
+ p class="vrtp-attraction-brand__subheading" data-reactid="8" With their big fluffy ears and their endearing personalities, our koalas are among Paradise Country’s must-see animals. Unique to Australia, you will often find them resting in the fork of a tree, or munching on eucalyptus leaves. Why not book an exclusive cuddle and photo for yourself or enjoy an interactive breakfast with the koalas?  p 
+ p class="small" data-reactid="13"  i class="vrtp-icon vrtp-icon__ride-info--star--grey" data-reactid="14"   i  !-- react-text: 15 -- The koala is a marsupial, meaning their mum raises the babies in a pouch !--  react-text --   p 
+ p class="small" data-reactid="17"  i class="vrtp-icon vrtp-icon__ride-info--star--grey" data-reactid="18"   i  !-- react-text: 19 -- The Koala can only be found right here in Australia !--  react-text --   p 
+ p class="small" data-reactid="21"  i class="vrtp-icon vrtp-icon__ride-info--star--grey" data-reactid="22"   i  !-- react-text: 23 -- They sleep for just under 20 hours a day and their diet consists of mostly eucalyptus leaves !--  react-text --   p 
+ p class="small" data-reactid="25"  i class="vrtp-icon vrtp-icon__ride-info--star--grey" data-reactid="26"   i  !-- react-text: 27 -- Their claws are very sharp, and their forearms are extremely strong, making them masters at climbing trees !--  react-text --   p 
+ p class="small" data-reactid="29"  i class="vrtp-icon vrtp-icon__ride-info--star--grey" data-reactid="30"   i  !-- react-text: 31 -- A koala’s hearing is exceptionally good but their eyesight is quite poor !--  react-text --   p 
+ p 
+    Do you want some  em Koala-ty  em  time with a koala? Learn all about their unique lifecycle on an interactive Koala Encounter or Koala Photo experience.
+  p 
+ p class="vrtp-component__subheading" At Paradise Country you can get up close with our delightful animals. Enjoy a precious cuddle and photo with a koala, kangaroo or even pat a dingo and if you can brave it, hold an Australian snake! 
+  p 
+ p class="attraction-subheading" style="color:;" data-reactid="10"  !-- react-text: 11 -- Animal Encounter !--  react-text --  !-- react-text: 12 --  !--  react-text --   p 
+ p class="ride-title" data-reactid="17" Koala Breakfast  p 
+ p class="attraction-subheading" style="color:;" data-reactid="10"  !-- react-text: 11 -- Animal Encounter !--  react-text --  !-- react-text: 12 --  !--  react-text --   p 
+ p class="ride-title" data-reactid="17" Koala Encounters  p 
+ p class="attraction-subheading" style="color:;" data-reactid="10"  !-- react-text: 11 -- Exhibit !--  react-text --  !-- react-text: 12 --  !--  react-text --   p 
+ p class="ride-title" data-reactid="17" Wildlife Walkthrough  p 
+ p class="card-text" data-reactid="8" Darrau was born right here at Paradise Country and is well known for his cheeky personality. Even at his young age, Darrau already shows a lot of similar personality traits to his dad, Tyson, the biggest and most impressive male Koala at the park. It will be a few years yet until Darrau reaches the status of his dad.  p 
+ p class="card-text" data-reactid="8" Check out this beautiful Aussie icon! Matilda is one of the sweetest Koalas you will ever meet. Easily identified by the pink butterfly print on her nose, you will often find Matilda in our Wildlife Walkthrough with one of her joeys. Matilda is a fantastic mum, having raised four beautiful babies with us, as well as becoming a grandmother for the first time in 2018.  p 
+ p class="card-text" data-reactid="8" The big man on campus! Jarrah is one of the park’s up and coming dominant male Koalas and currently holds the weight record for a three-year old male, weighing in at a massive 8 kg! Like most big male Koalas, Jarrah’s preferred past time is sleeping in his favourite branch.  p 
+ p 
+    Meet Koalas for yourself at the Wildlife Walkthrough, located to the left of the Wildlife Photo Centre. Or book into your very own exclusive Koala Encounter.
+  p 
+ p class="vrtp-component__subheading" A visit to the farm will put a smile on your dial as you come face to face with cows, horses, pigs, sheep, farm dogs, Koalas and Kangaroos as well as Australia’s unique and wonderful wildlife!  p 
+ p class="vrtp-component__subheading" data-reactid="5" 
+  p 
+ p  span class="vrtp-text__body-2"   span  span style="font-size: 16px;" I’d like to receive exclusive offers, competitions &amp; entertainment news from the Village Roadshow Group. I have read the  span  a href="https:  themeparks.com.au privacy" class="changeColor" Privacy Policy  a .  span   span   p 
+ p data-reactid="6" Have a question? Check our  a href=" park-info faq" FAQs  a   p 
+ p data-reactid="7" Box office:  strong  a href="tel:133386" 13 33 86  a   strong   p 

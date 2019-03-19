@@ -1,0 +1,191 @@
+ p class="popup__text-subheader popup__text-subheader--newsletter" Subscribe to our Science Newsletter to explore the wide worlds of science, health and technology.  p 
+ p Thank you. Please check your inbox to confirm.  p 
+ p class="post__byline-name" 
+                 a class="post__byline-name-unhyphenated" href="https:  www.pbs.org newshour author julia-griffin" itemscope itemtype="https:  schema.org Person" itemprop="author" 
+                     span itemprop="name" Julia Griffin  span 
+                  a 
+                 a class="post__byline-name-hyphenated" href="https:  www.pbs.org newshour author julia-griffin" 
+                    Julia Griffin
+                  a 
+              p 
+ p Long before Spanish Conquistadors and Christopher Columbus returned to Europe with stories of blood-sipping bats, European communities were telling tales of undead monsters called vampires.  p 
+ p But the vampire bat itself is hardly the agent of evil its association with Dracula would suggest. Here are seven things you may not have known about these creatures.   p 
+ p  iframe src="https:  www.youtube.com embed pk2brNQxQxY" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"   iframe  br 
+ strong Not all bats are vampire bats.  strong   p 
+ p Only three of the more than 1,300 bat species in the world are vampire bats: the common ( em Desmodus rotundus  em ), the white-winged ( em Diaemus youngi  em ) and hairy-legged ( em Diphylla ecaudata  em ) vampire bats.  p 
+ p Residing in Central and South America, these are also the only bats who consume blood — and only blood — for food and water. And because of their high protein diet, vampire bat researchers can locate roosts by the pungent ammonia aroma produced by their feces.  p 
+ p  strong The bats were named after vampires, not the other way around  strong .  p 
+ p Vampire mythologies existed in various cultures around the world long before before vampire bats got their name.  p 
+ p Former bat researcher Micaela Jemison, who heads up communications for Bat Conservation International, recently traveled to the historic Transylvania region in Romania. “Rather than Dracula, people worried about the dead rising and haunting people,” she said, adding that people would open graves and put a stake through the hearts of dead bodies or cover faces, if the corpses were suspected of “causing trouble.”  p 
+ p Vampire bats were first officially described in scientific literature in  a href="http:  www.jstor.org stable 3503895?origin=crossref&amp;seq=1#page_scan_tab_contents" 1810  a  and documented by  a href="http:  www.turtlereader.com authors charles-darwin the-voyage-of-the-beagle-day-6-of-167 " Darwin in 1839  a , but it was the 1897 release of Bram Stoker’s Dracula that solidified a relationship between vampires and bats in western culture.  p 
+ p  strong Humans aren’t their first choice for a meal.  strong   p 
+ p Vampire bats can feed on almost any type of animal. According to  a href="https:  socialbat.org " Gerald Carter  a , a vampire-bat scientist with Smithsonian’s Tropical Research Institute, they bite porcupines, armadillos,  a href="https:  socialbat.org 2013 09 26 what-animals-will-a-vampire-bat-feed-on-you-might-be-surprised " snakes  a ,  a href="http:  www.int-res.com abstracts meps v360 p285-289 " sea lions  a  and even  a href="http:  www.bbc.co.uk nature 21534299" penguins  a . But for the most part, they stick to livestock and birds. The common vampire bat tends to feed off mammals like cows, pigs and horses, while white-winged and hairy-legged vampire bats primarily feed on birds like sleeping chickens.  p 
+ p class="wp-caption-text" A pair of white-winged vampire bats feed on the foot of a chicken. Photo courtesy Bat Conservation International J. Scott Altenbach  p 
+ p That said, vampire bites will take a bite out of humans if given the chance. But such instances are rare. Sleep outdoors in vampire bat territory, and your limbs are fair game. “I know someone who was fed on by a vampire bat and wasn’t aware of it,” said Carter. “She just woke up and found a little bloody mark on her foot.”  p 
+ p Since they only consume about a tablespoon of blood, an adult human is more than capable of surviving a vampire bat feeding. But Carter highly recommends getting a rabies shot, should you discover you’ve become a meal.  p 
+ p  strong They don’t  em suck  em  blood.  strong   p 
+ p Given their association with Nosferatu and his friends, it’s commonly thought that vampire bats suck blood. In reality, they lap it up like a cat. Vampire bats – if successful in their hunt – make a painless incision near an artery using their sharp teeth and then let the blood trickle out into a pool before licking it up.  p 
+ p Jemison suggest rethinking the vampire and vampire bat analogy. “It actually would be like Dracula biting your big toe while you’re asleep,” she said. “He wouldn’t be going for your jugular. It would be a little bit like a foot fetish, to be honest.”  p 
+ p  strong Vampire bat spit keeps the blood flowing.  strong   p 
+ p A protein in vampire bat saliva acts as an anticoagulant that prevents the blood of the prey from clotting and sealing up the wound. Similar substances have been documented in leeches and blood-sucking insects like mosquitoes. This protein is appropriately called “ a href="https:  en.wikipedia.org wiki Draculin" Draculin  a ” and has been targeted as a potential treatment for stroke patients, Carter said.  p 
+ p  strong Vampire bats have special skills.  strong   p 
+ p Vampire bats have evolved a variety physical abilities to aid in the hunt for food. Infrared perception in their nose acts like a heat-seeking sensor that allows the bats to find blood vessels near the surface of their host’s skin.  p 
+ p “They are also seeing the world through sound,” Carter said. “They have echolocation, so they send out a sort of sonar so they can navigate in the absolute dark.”  p 
+ p And while bats are the only mammals with the ability to fly, vampire bats are the only animals whose ancestors lost and re-evolved the ability to run. While other bats awkwardly navigate flat surfaces, the common vampire bat can motor along on their thumbs, wrists and legs at more than three feet per second. It’s a particularly useful skill considering it is a necessity to sneak up on sleeping prey in order to eat.  p 
+ p  strong They have complex social relationships.  strong   p 
+ p Vampire bats evolved complex social relationships similar to humans, primates and dolphins. They form friendship-like grooming associations with other bats in their roost, but Carter is particularly fascinated by their food-sharing relationships.  p 
+ p “[Vampire bats] don’t put on fat. They don’t store energy, and they can starve if they miss just two meals,” he said. “But other bats in their roost will often regurgitate their blood meals just as a mother bird might regurgitate food to its nestlings.”  p 
+ p Carter’s research has shown the food-sharing ties go beyond family members. “Individuals that you fed in the past will come back and feed you in the future, so the bats have a social safety net that they can rely on when they have failed to get food.”  p 
+ p class="post__hero-caption" 
+                 svg class="svg"  use xlink:href="#arrow-left"   use   svg  span Left:  span 
+                A common vampire bat leaps on the ground. Photo courtesy Bat Conservation International Merlin Tuttle
+      p 
+ p class="post__byline-name" 
+                 a class="post__byline-name-unhyphenated" href="https:  www.pbs.org newshour author julia-griffin" itemscope itemtype="https:  schema.org Person" itemprop="author" 
+                     span itemprop="name" Julia Griffin  span 
+                  a 
+                 a class="post__byline-name-hyphenated" href="https:  www.pbs.org newshour author julia-griffin" 
+                    Julia Griffin
+                  a 
+              p 
+ p Julia Griffin is senior coordinator of digital video at PBS NewsHour where she oversees the daily production of video content for the organization’s website and social media platforms. She is also the lead producer of the NewsHour Shares broadcast series.   p 
+ p class="ad__label" 
+     span Support Provided By:  span 
+     a href="https:  help.pbs.org support solutions articles 5000677869" target="_blank" rel="noopener" Learn more  a 
+  p 
+ p class="subscribe__box-graph" Subscribe to Here’s the Deal, our politics newsletter for analysis you won’t find anywhere else.  p 
+ p Thank you. Please check your inbox to confirm.  p 
+ p class="lp__title" Additional Support Provided By:  p 
+ p 
+                                         span class="link-list__cta" Watch  span 
+                                         span class="link-list__date" Mar 09  span 
+                     a href="https:  www.pbs.org newshour show water-costs-balloon-in-cities-along-the-great-lakes"  span Water costs balloon in cities along the Great Lakes  span   a 
+                  p 
+ p 
+                                         span class="link-list__cta" Watch  span 
+                                         span class="link-list__date" Mar 07  span 
+                     a href="https:  www.pbs.org newshour show what-the-firestorm-over-rep-omars-remarks-says-about-anti-semitism-in-america"  span What the firestorm over Rep. Omar’s remarks says about anti-Semitism in America  span   a 
+                  p 
+ p 
+                                         span class="link-list__cta" Read  span 
+                                         span class="link-list__date" Mar 10  span 
+                     a href="https:  www.pbs.org newshour world no-survivors-157-dead-after-ethiopian-airlines-flight-crashes-after-takeoff"  span No survivors, 157 dead after Ethiopian Airlines flight crashes after takeoff  span   a 
+                  p 
+ p 
+                                         span class="link-list__cta" Watch  span 
+                                         span class="link-list__date" Mar 08  span 
+                     a href="https:  www.pbs.org newshour show shields-and-gerson-on-democrats-bigotry-resolution-trump-investigations"  span Shields and Gerson on Democrats’ bigotry resolution, Trump investigations  span   a 
+                  p 
+ p 
+                                         span class="link-list__cta" Watch  span 
+                                         span class="link-list__date" Mar 06  span 
+                     a href="https:  www.pbs.org newshour show what-a-broad-bipartisan-public-lands-bill-means-for-the-american-wilderness"  span What a broad, bipartisan public lands bill means for the American wilderness  span   a 
+                  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour world" World  a 
+                         span Mar 10  span 
+          p 
+ p class="card-sm__byline"  span By  span  Christopher Bodeen, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour nation" Nation  a 
+                         span Mar 10  span 
+          p 
+ p class="card-sm__byline"  span By  span  Verena Dobnik, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour world" World  a 
+                         span Mar 10  span 
+          p 
+ p class="card-sm__byline"  span By  span  Elias Meseret, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour politics" Politics  a 
+                         span Mar 09  span 
+          p 
+ p class="card-sm__byline"  span By  span  Andrew Taylor, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour politics" Politics  a 
+                         span Mar 09  span 
+          p 
+ p class="card-sm__byline"  span By  span  Lisa Mascaro, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour world" World  a 
+                         span Mar 09  span 
+          p 
+ p class="card-sm__byline"  span By  span  Philip Issa, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour world" World  a 
+                         span Mar 09  span 
+          p 
+ p class="card-sm__byline"  span By  span  Saleh Mwanamilongo, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour politics" Politics  a 
+                         span Mar 09  span 
+          p 
+ p class="card-sm__byline"  span By  span  Paul J. Weber, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour politics" Politics  a 
+                         span Mar 09  span 
+          p 
+ p class="card-sm__byline"  span By  span  Elliot Spagat, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour science" Science  a 
+                         span Mar 09  span 
+          p 
+ p class="card-sm__byline"  span By  span  Deepa Burman, Hiren Muzumdar, The Conversation  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour world" World  a 
+                         span Mar 09  span 
+          p 
+ p class="card-sm__byline"  span By  span  Christopher Torchia, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour world" World  a 
+                         span Mar 08  span 
+          p 
+ p class="card-sm__byline"  span By  span  Courtney Vinopal  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour politics" Politics  a 
+                         span Mar 08  span 
+          p 
+ p class="card-sm__byline"  span By  span  Matthew Daly, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour nation" Nation  a 
+                         span Mar 08  span 
+          p 
+ p class="card-sm__byline"  span By  span  Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour nation" Nation  a 
+                         span Mar 08  span 
+          p 
+ p class="card-sm__byline"  span By  span  Tom James, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour nation" Nation  a 
+                         span Mar 08  span 
+          p 
+ p class="card-sm__byline"  span By  span  Brian Witte, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour health" Health  a 
+                         span Mar 08  span 
+          p 
+ p class="card-sm__byline"  span By  span  Gillian Flaccus, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour nation" Nation  a 
+                         span Mar 08  span 
+          p 
+ p class="card-sm__byline"  span By  span  Jay Reeves, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour politics" Politics  a 
+                         span Mar 08  span 
+          p 
+ p class="card-sm__byline"  span By  span  Robert Burns, Associated Press  p 
+ p class="card-sm__meta" 
+                                             a href="https:  www.pbs.org newshour world" World  a 
+                         span Mar 08  span 
+          p 
+ p class="card-sm__byline"  span By  span  Rachel Lerman, Aya Batrawy, Associated Press  p 
+ p class="footer__legal" © 1996 - 2019 NewsHour Productions LLC. All Rights Reserved.  p 
+ p class="footer__header" Sections  p 
+ p class="footer__header" About  p 
+ p class="footer__header footer__header--tight" Stay Connected  p 
+ p class="footer__subscribe-header" Subscribe to ‘Here's the Deal,’ our politics newsletter  p 
+ p Thank you. Please check your inbox to confirm.  p 
+ p class="footer__donate-text" Learn more about Friends of the NewsHour.  p 
+ p class="footer__sub-lp-header" Support for NewsHour Provided By  p 

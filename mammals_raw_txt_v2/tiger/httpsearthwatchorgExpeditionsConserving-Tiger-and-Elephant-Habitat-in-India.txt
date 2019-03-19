@@ -1,0 +1,43 @@
+ p Researchers are working in northern India to help communities to conserve the habitat and peacefully co-exist with tigers and elephants.   p 
+ p class="no-side-margin" style="font-weight: bold;font-size: 14px;margin-bottom: 10px;" Have a question?  p 
+ p How would you prefer us to contact you?  p 
+ p style="font-size:95%" 
+  br      
+ span id="dnn_ctr25517_View_radContactType" class="normalRadioButton ctype_required_validation"  input id="dnn_ctr25517_View_radContactType_0" type="radio" name="dnn$ctr25517$View$radContactType" value="Email"  label for="dnn_ctr25517_View_radContactType_0" By Email  label  input id="dnn_ctr25517_View_radContactType_1" type="radio" name="dnn$ctr25517$View$radContactType" value="Phone"  label for="dnn_ctr25517_View_radContactType_1" By Phone  label   span 
+
+
+  p 
+ p class="first" Growing populations of tigers and elephants often move outside of their protected reserves, where they can come into conflict with humans. How can researchers protect these important species while supporting local communities?  p 
+ p Tigers and elephants are protected within nature reserves in India. However, due in part to their growing population in the Corbett landscape in northern India, many have ventured beyond the boundaries of the reserves, crossing through forest patchesand local villages on their way to reach nearby forested areas. As they pass through these areas, known as “corridors,” they can come into conflict with humans and their livestock.  p 
+ p The Corbett landscape is famous for its vast numbers of tigers and elephants, which play an important role both ecologically and economically, as they are responsible for much of the eco-tourism in the region. With the growing population of these animals, incidents of human-wildlife conflict will only increase in the coming years. You will help researchers to assess the perceptions and needs of the local communities, as well as trial strategies to further strengthen local support, such as by testing methods to reduce crop damage.   p 
+ p Join researchers of The Corbett Foundation to support the long-term conservation of tigers and elephants in northern India.  p 
+ p Tiger and elephant conservation plays an important role in protecting natural resources, which local communities depend on for their livelihoods.  p 
+ p class="first" Much of the research on the welfare and conservation of tigers and elephants in the Corbett landscape has been done inside the reserve. This will be one of the first studies to look at human-wildlife conflict outside of the boundaries of the protected reserve, while working in collaboration with community members.  p 
+ p Researchers in Ramnagar Forest Division and Terai-West Forest Division in Uttarakhand have already been working with local communities to collect data on the relationship between humans, wildlife, and ecosystems in the region. You will help researchers to collect data that will further elucidate these relationships and test strategies to reduce conflict between tigers, elephants, and humans.   p 
+ p class="caption" Community engagement is critical to finding ways to reduce human-wildlife conflict.  p 
+ p Results from this project will feed into the management plan of the administrative units of the forest department in the Corbett landscape, which will help to conserve tigers and elephants outside of the reserve while protecting the needs of the communities.  p 
+ p The study area of Ramnagar Forest Division and Terai-West Forest Division in Uttarakhand is located approximately 250 kilometers from New Delhi and is part of the famous Corbett landscape. Located within this region, the Corbett Tiger Reserve has one of the highest densities of tigers in the world and is one of the most widely visited parks in the country. The area is comprised of tropical mixed deciduous forests with flat and gentle terrain.  p 
+ p This is a summary:  p 
+ p When you arrive, the researchers will provide you with information on studying tiger and elephant species, assessing the local habitat, as well as interacting with communities. Field work includes:  p 
+ p Note: Field conditions and research needs can lead to changes in the itinerary and activities. We appreciate your cooperation and understanding.  p 
+ p class="caption" Field teams assess the habitat of tigers and elephants in the region.  p 
+ p Dr. Harendra Singh Bargali is working in collaboration with local communities in northern India to study the interaction between tigers, elephants, and humans to aid conservation efforts and support the economic welfare of the communities.     p 
+ p class="read-more" 
+    
+     a id="dnn_ctr25535_View_hlLeadScientistsPageLink" href="https:  earthwatch.org Scientific-Research Our-Scientists Harendra-Singh-Bargali" READ MORE +  a 
+      p 
+ p Volunteers will stay in shared rooms in local hotels near the field station. Traditional Indian meals will be served at local restaurants. Vegetarian meals can be accommodated.   p 
+ p class="caption" Your temporary home in Uttarakhand, India.  p 
+ p Please review this expedition. You may only review expeditions you have been on. br 
+You must be logged in to write a review.  p 
+ p class="participation theme-color" Have you been on this expedition?  p 
+ p class="no-side-margin" style="font-weight: bold;" Have a question?  p 
+ p id="comment-content-org"     p 
+ p id="selected-post-action-bar" 
+        
+          p 
+ p  Please  a id="dnn_ctr25518_CommentsAndQuestionsView_hflogin" href="https:  earthwatch.org LOGIN-TO-MY-EARTHWATCH?returnurl=%2fExpeditions%2fConserving-Tiger-and-Elephant-Habitat-in-India%23comments" login  a  to post a comment or question.  p 
+ p class="expedition-teaser" Help conserve wildlife within the Amazon Basin, while seeking pink river dolphins, primates, macaw, caiman, giant river otters, piranha and exotic fish.  p 
+ p class="expedition-teaser" How can we keep shark and ray populations strong? Find answers while exploring some of the world’s most beautiful reefs.  p 
+ p class="expedition-teaser" What can we learn about Italy’s ancient people from the ruins they left along the coast of Tuscany? Help us dust off clues.  p 
+ p class="expedition-teaser" Scientists expect to observe the greatest effects of global warming in the Arctic. But what, exactly, will these effects be?  p 

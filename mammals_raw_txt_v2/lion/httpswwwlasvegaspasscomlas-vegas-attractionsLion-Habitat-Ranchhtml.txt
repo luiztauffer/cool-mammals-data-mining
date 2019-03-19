@@ -1,0 +1,10 @@
+ p class="header_reviews"  strong Independent reviews  strong   img src=" images stars-5.png" alt="5 Stars" onclick="javascript:window.open('https:  uk.trustpilot.com review www.lasvegaspass.com');"   span style="display: none;" Based on 0 independent customer Reviews  span   p 
+ p  strong Free entry to the Lion Habitat Ranch br   strong Normal Ticket Price: Adult: $25.00  p 
+ p If you like big cats then the Lion Habitat Ranch is a truly unique experience! The home of the original MGM lions, the Lion Ranch is owned by cat enthusiast Keith Evans who brought his lions to the hotel for 15 years. Now, they all live in one place, in their very own 8.5 acre ranch where they can romp, play and groom each other in their pack of 40.  p 
+ p Visitors can see the beautiful animals roaming free with their cubs and learn everything you need to know about lions through fascinating exhibitions and if you time it right, you can even see a feeding or join in some play time!  p 
+ p  strong Note: Opening hours depend on weather so please phone ahead to check.  strong   p 
+ p    p 
+ p class="up_next_line" see the:  a href=".. las-vegas-attractions " full list of attractions included  a   p 
+ p Loading Map - Please wait...  p 
+ p itemprop="address" 382 Bruner Ave Henderson, Nevada 89044  p 
+ p  span itemprop="telephone" (702)-595-6666  span   p 

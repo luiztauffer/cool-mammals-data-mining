@@ -1,0 +1,8 @@
+ p class="edition-picker__radio-button-label" Set edition preference:  p 
+ p class="edition-picker__radio-button-label" Set edition preference:  p 
+ p class="edition-picker__radio-button-label" Set edition preference:  p 
+ p class="metadata__byline"  span class="metadata__byline__author" By  a href=" profiles john-d-sutter" John D. Sutter  a , CNN  span   p 
+ p class="update-time" Updated 1629 GMT (0029 HKT) December 12, 2016  p 
+ p Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.  p 
+ p class="zn-body__paragraph"  q class="el-editorial-note" John D. Sutter is a columnist for CNN Opinion who focuses on climate change and social justice. Follow him on  a href="https:  twitter.com jdsutter status 686572637582168068" target="_blank" Snapchat  a ,  a href="https:  www.facebook.com jdsutter" target="_blank" Facebook  a  and  a href="http:  tinyletter.com jdsutter" target="_blank" email  a . This story is part of CNN's " a href="http:  cnn.com vanishing" Vanishing  a " series. Learn more about the sixth extinction and  a href="http:  www.cnn.com 2016 12 12 world sutter-vanishing-help index.html" get involved  a .  q   p 
+ p class="zn-body__paragraph speakable"  cite class="el-editorial-source"  (CNN)  cite It's the  a href="http:  wwf.panda.org about_our_earth species giraffe_intro " target="_blank" tallest land-based mammal in the world  a .   p 

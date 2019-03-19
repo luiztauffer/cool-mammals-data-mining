@@ -1,0 +1,36 @@
+ p id="breadcrumbs"  span xmlns:v="http:  rdf.data-vocabulary.org #"  span typeof="v:Breadcrumb"  a href="https:  conservationvolunteers.com.au " rel="v:url" property="v:title" Home  a  »  span rel="v:child" typeof="v:Breadcrumb"  a href="https:  conservationvolunteers.com.au what-we-do " rel="v:url" property="v:title" What We Do  a  »  span rel="v:child" typeof="v:Breadcrumb"  a href="https:  conservationvolunteers.com.au what-we-do threatened-species " rel="v:url" property="v:title" Threatened Species  a  »  span class="breadcrumb_last" Tree Kangaroo  span   span   span   span   span   p 
+ p High in the treetops of tropical Far North Queensland lives a remarkable creature, the tree kangaroo. Once common throughout the Atherton Tablelands and Daintree Rainforest, the tree kangaroo is now in danger due to large-scale habitat loss for agriculture and urban development, resulting in fragmented landscapes and the need for tree kangaroos to travel across the ground where they fall prey to dogs and cars. In addition, scientists believe that this species is under threat from predicted climatic changes, which will affect important tree kangaroo habitat.  p 
+ p class="wp-caption-text" Hanging on for survival – Lumholtz Tree-kangaroo  p 
+ p Conservation Volunteers Australia is collaborating with local partners, including the Tree Kangaroo &amp; Mammal Group, James Cook University, Queensland Parks &amp; Wildlife, TERRAIN NRM, and the Wet Tropics Management Authority to restore critical habitat and provide vital rainforest linkages throughout their range.  p 
+ p Through the  strong Wild Futures  strong  program, Conservation Volunteers Australia is implementing a number of practical conservation activities linked to vital habitat restoration for tree kangaroos, including:  p 
+ p These conservation endeavours will increase their resilience to climate change affects and deforestation by providing critical habitat and important corridors of rainforest for them to travel safely across the landscape in order to find food, avoid predators, and to breed, thereby increasing population numbers and success.  p 
+ p YOU can assist with this valuable program and together we can ensure that this unique species has a Wild Future!  p 
+ p  b Together we are the difference …   b   p 
+ p Help us to monitor and protect this amazing mound maker by donating to support our tree kangaroo recovery program. Together we can ensure that the tree kangaroo doesn’t disappear from the landscape forever!  We need your continued support to safeguard their survival and their habitats along with other species across the country  –  b donate to help today!  b   p 
+ p  a class="btn btn-default btn-lg btn-block  " href=" donate" rel="" target="_self" Donate  a   p 
+ p Would you like to give the Tree-kangaroo a wild future? You can do so by donating through our secure online system.  p 
+ p  a class="btn btn-default btn-lg btn-block  " href=" get-involved volunteer" rel="" target="_self" Volunteer  a   p 
+ p By volunteering on one of our field projects, you can make a practical contribution and help give the Tree-kangaroo a wild future.  p 
+ p Our work to help save the tree kangaroo is supported by the following organisations and individuals including:  a href="http:  www.tree-kangaroo.net " The Tree Kangaroo and Mammal Group  a .  p 
+ p Find out more about  a href=" partnerships become-a-partner" becoming a partner  a  with Conservation Volunteers.  p 
+ p For more information on how you can help the tree kangaroo  a href="http:  conservationvolunteers.com.au contact-us" contact us  a   p 
+ p  img src=" wp-content uploads 2015 11 map-ausnz.png" alt="Map of Australia and New Zealand - search for conservation volunteering opportunities" usemap="#cvsearchmap" width="350" height="260"  map name="cvsearchmap"  
+ area alt="Western Australia" coords="112,39,113,153,82,168,47,177,28,169,17,108,23,84,77,50,100,32" shape="poly" href="https:  bookings.conservationvolunteers.org book search?submitted=1&amp;projectSearch_region_1=22&amp;projectSearch_requiredVacancies=1" 
+ 
+ area alt="Northern Territory" coords="168,48,168,109,113,109,113,39,122,16,162,15" shape="poly" href="https:  bookings.conservationvolunteers.org book search?submitted=1&amp;projectSearch_region_1=15&amp;projectSearch_requiredVacancies=1" 
+ 
+ area alt="South Australia" coords="184,197,184,109,114,110,113,152" shape="poly" href="https:  bookings.conservationvolunteers.org book search?submitted=1&amp;projectSearch_region_1=19&amp;projectSearch_requiredVacancies=1" 
+ 
+ area alt="Queensland" coords="193,8,236,76,263,104,264,127,184,129,184,108,168,108,169,50" shape="poly" href="https:  bookings.conservationvolunteers.org book search?submitted=1&amp;projectSearch_location=queensland&amp;projectSearch_requiredVacancies=1" 
+ 
+ area alt="New South Wales" coords="242,193,227,182,208,183,185,166,185,129,265,127" shape="poly" href="https:  bookings.conservationvolunteers.org book search?submitted=1&amp;projectSearch_region_1=14&amp;projectSearch_requiredVacancies=1" 
+ 
+ area alt="Victoria" coords="202,205,185,198,186,167,208,183,228,183,242,194,218,206" shape="poly" href="https:  bookings.conservationvolunteers.org book search?submitted=1&amp;projectSearch_region_1=21&amp;projectSearch_requiredVacancies=1" 
+ 
+ area alt="Tasmania" coords="208,218,231,219,230,242,219,244,212,236" shape="poly" href="https:  bookings.conservationvolunteers.org book search?submitted=1&amp;projectSearch_region_1=20&amp;projectSearch_requiredVacancies=1" 
+ 
+ area alt="NZ North Island" coords="309,138,316,178,324,195,341,175,344,163" shape="poly" href="https:  bookings.conservationvolunteers.org book search?submitted=1&amp;projectSearch_region_1=25&amp;projectSearch_requiredVacancies=1&amp;projectSearch_location=north%20island" 
+ 
+ area alt="NZ South Island" coords="308,184,317,188,319,197,311,213,288,239,275,243,269,228" shape="poly" href="https:  bookings.conservationvolunteers.org book search?submitted=1&amp;projectSearch_region_1=26&amp;projectSearch_requiredVacancies=1&amp;projectSearch_location=south%20island" 
+   map   p 
+ p Join over 30,000 people in our supporter network and receive our free eNews with the latest in volunteer projects, competitions and events.  p 

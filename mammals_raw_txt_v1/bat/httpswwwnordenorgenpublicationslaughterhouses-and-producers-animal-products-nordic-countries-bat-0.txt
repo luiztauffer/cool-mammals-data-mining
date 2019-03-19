@@ -1,0 +1,39 @@
+ p class="menu-description" News from the Nordic Council and the Nordic Council of Ministers.  p 
+ p class="menu-description" In this section, you can see what is happening in Nordic co-operation.  p 
+ p class="menu-description" Information and resources for the press and media.  p 
+ p class="menu-description" Get insight into areas where the Nordic countries work together.  p 
+ p class="menu-description" Keep up with the latest Nordic initiatives and campaigns.  p 
+ p class="menu-description" Get insight into the Nordic Council and the Nordic Council of Ministers’ international activities.  p 
+ p class="menu-description" The Literature Prize, the Children and Young People’s Literature Prize, the Music Prize, the Film Prize, and the Environment Prize.  p 
+ p class="menu-description" Here you can gain insight into current issues under consideration by the Nordic Council as well as look at closed cases.  p 
+ p class="menu-description" Download free publications from the Nordic Council, Nordic Council of Ministers and associated organisations.  p 
+ p class="menu-description" Facts and statistics about the Nordic Region and the Nordic countries.  p 
+ p class="menu-description" Find useful information about the Nordic Region and each of its countries here.  p 
+ p class="menu-description" State of the Nordic Region 2018  presents facts and figures from the Nordic countries on core socioeconomic areas.  p 
+ p class="menu-description" In this section, you can search for images with a Nordic theme.  p 
+ p class="menu-description" Help and advice for anyone looking for information about working, studying, or running a business in another Nordic country.  p 
+ p class="menu-description" Search our funding schemes, calls to tender and procurement contracts to find the funding option that best suits your project.  p 
+ p class="menu-description" Descriptions, guidelines and specifications for the Nordic Council and Nordic Council of Ministers' graphic profile.  p 
+ p class="menu-description" The Nordic Council of Ministers’ publication strategy and guidelines for the production of Nordic reports and publications.  p 
+ p class="menu-description" News from the Nordic Council and the Nordic Council of Ministers.  p 
+ p class="menu-description" In this section, you can see what is happening in Nordic co-operation.  p 
+ p class="menu-description" Information and resources for the press and media.  p 
+ p class="menu-description" Get insight into areas where the Nordic countries work together.  p 
+ p class="menu-description" Keep up with the latest Nordic initiatives and campaigns.  p 
+ p class="menu-description" Get insight into the Nordic Council and the Nordic Council of Ministers’ international activities.  p 
+ p class="menu-description" The Literature Prize, the Children and Young People’s Literature Prize, the Music Prize, the Film Prize, and the Environment Prize.  p 
+ p class="menu-description" Here you can gain insight into current issues under consideration by the Nordic Council as well as look at closed cases.  p 
+ p class="menu-description" Download free publications from the Nordic Council, Nordic Council of Ministers and associated organisations.  p 
+ p class="menu-description" Facts and statistics about the Nordic Region and the Nordic countries.  p 
+ p class="menu-description" Find useful information about the Nordic Region and each of its countries here.  p 
+ p class="menu-description" State of the Nordic Region 2018  presents facts and figures from the Nordic countries on core socioeconomic areas.  p 
+ p class="menu-description" In this section, you can search for images with a Nordic theme.  p 
+ p class="menu-description" Help and advice for anyone looking for information about working, studying, or running a business in another Nordic country.  p 
+ p class="menu-description" Search our funding schemes, calls to tender and procurement contracts to find the funding option that best suits your project.  p 
+ p class="menu-description" Descriptions, guidelines and specifications for the Nordic Council and Nordic Council of Ministers' graphic profile.  p 
+ p class="menu-description" The Nordic Council of Ministers’ publication strategy and guidelines for the production of Nordic reports and publications.  p 
+ p class="node-subtitle" 
+             span class="field field--name-field-subtitle field--type-string field--label-hidden" – a questionnaire approach on Best Available Technique  span 
+
+            p 
+ p The Nordic Council and the Nordic Council of Ministers | Nordens Hus | Ved Stranden 18, 1061 Copenhagen K, Denmark |  a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="94f98e88-188e-48ab-8bb6-f9ce3796dc35" href=" en information contacts" title="Contacts" Contact information  a  |  a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0745c835-c0fd-4d13-842a-e6c2879408c0" href=" en information website-nordenorg" title="The website norden.org" About this website  a  |   a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d7473fd8-3610-406c-a03e-a0395bdfeaa9" href=" is information foroyar-i-nordurlendskum-samstarvi" title="Føroyar í norðurlendskum samstarvi"  span  span  span  span  span  span  span  span Upplýsingar á føroyskum  span   span   span   span   span   span   span   span   a   p 

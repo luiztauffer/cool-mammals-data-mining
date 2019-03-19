@@ -1,0 +1,24 @@
+ p class="site-title no-margin"  span The Fox Project  span  img src="http:  foxproject.org.uk wp-content themes thefoxproject images thefoxproject-full.png" width="266" height="auto" class="white-logo"   p 
+ p class="text-bold" We do not receive financial support from national or local government. We rely entirely on donations from our supporters.  p 
+ p class="no-margin text-primary text-bold" Chris Packham, Patron  p 
+ p 
+                       a href="http:  foxproject.org.uk " 
+                         img src="http:  foxproject.org.uk wp-content themes thefoxproject images thefoxproject-full.png" width="240" height="auto" 
+                        a 
+                      p 
+ p Broadwater Forest Wildlife Hospital, br 
+                      Fairview Lane, br 
+                      Tunbridge Wells, br 
+                      Kent, br 
+                      TN3 9LU
+                      p 
+ p  strong Admin office:  a href="tel:01892%20824111" 01892 824111  a   strong   p 
+ p  strong Mobile ambulance:  a href="tel:01892%20731565" 01892 731565  a   strong   p 
+ p  a href="mailto:fox@foxproject.org.uk"  strong fox@foxproject.org.uk  strong   a   p 
+ p  strong Admin office  strong  br 
+                    Monday &amp; Tuesday: 9am - 12pm br 
+                    Wednesday: 2pm - 5pm br 
+                    Thursday &amp; Friday: 9am - 3pm  p 
+ p  strong Mobile ambulance  strong  br 
+                    9am - 9pm Daily  p 
+ p class="half-inner-leader-for-small-up half-inner-trailer-for-medium-up no-margin" © 2019 The Fox Project | All Rights Reserved  p 

@@ -1,0 +1,50 @@
+ p id="country-name" 
+
+
+
+ 
+ 
+ 
+ 
+
+  p 
+ p    p 
+ p  a class="current" href="http:  www.hsi.org " title="English" English  a  |  a href="http:  www.hsi.org portuguese " title="Portugese" Português  a  br  a href="http:  www.hsi.org spanish " title="Spanish" Español  a  |  a href="http:  www.hsi.org french francais.html" title="French" Français  a   p 
+ p class="date"  May 10, 2011   p 
+ p class="author" 
+    
+Humane Society International Europe
+
+  
+  p 
+ p class="caption" Mink. Tom Tietz  p 
+ p The European Union is one of the world’s largest producers of factory farmed fur. In 2015 alone, around 42.6 million mink, 2.7million foxes, 155,000 raccoon dogs, and 206,000 chinchillas were killed for fur in the EU.  p 
+ p More than a dozen countries across the EU have  a href="http:  www.hsi.org world united_kingdom work fur facts fur-farming-bans.html" full or partial bans on fur farming  a . However fur farming can still be found in countries such as Belgium, Finland, France, Germany, Greece, Italy, Latvia, Lithuania, Netherlands and Poland.  p 
+ p The main species farmed in Europe are mink and fox, and these are still essentially wild animals.  p 
+ p As the European Commission’s Scientific Committee on Animal Health and Animal Welfare (SCAHAW) concluded in its 2001 report, "The Welfare of Animals Kept for Fur Production":  p 
+ p “...these species, in comparison with other farm animals, have been subjected to relatively little active selection, except with respect to fur characteristics. There has thus been only a limited amount of selection for tameness and adaptability to captive environments.”  p 
+ p Mink and fox are carnivores, predators and highly inquisitive, active animals, with complex social lives. Unlike most other types of farm animals, who tend to be flock or herd species, mink are solitary by nature. Mink and fox are territorial and, in the wild, go to great lengths to defend their territories. These animals are unsuited to farming conditions and especially intensive breeding and rearing in confinement.  p 
+ p Kept in small, wire cages, animals on fur farms have been found to exhibit stereotypical behaviour. Footage from investigations of fur farms situated in the European Union, such as Denmark, Finland, Poland, France and Czech Republic, suggests that such abnormal behaviours, such as pacing along the cage wall, repetitive circling nodding of the head, etc.) as well as self-mutilation (i.e. sucking or biting of the animal’s tail fur, or other parts of their pelts) are prevalent on EU fur factory farms.  p 
+ p The methods used to kill fur animals also leave much to be desired.  p 
+ p Mink, for example, are generally gassed to death after being placed one after the other in killing boxes.Carbon monoxide (either pure source or associated with other gases) is the most widely used technique for killing mink. EU legislation continues to permit the use of gas produced from engine exhaust, despite scientific evidence which shows that even filtered exhaust gases induce unconsciousness in mink more slowly than pure CO, while first provoking excitation and convulsions.  p 
+ p EU legislation also continues to allow the use of carbon dioxide as a manner of killing mink. The aversiveness of carbon dioxide and the practical difficulties in achieving reliable high concentration of gas in the killing chamber make CO2 an unpalatable and unacceptable method for killing mink in groups. Semi-aquatic and highly evolved physiologically to hold their breath, mink are able to detect a lack of oxygen in their blood and are prone to hypoxia, which means that they can suffer particularly during gassing.  p 
+ p Finally, anal electrocution is also a permitted means of killing animals on factory fur farms and is used primarily to kill foxes. However, electrocution requires considerable restraint, and use of electrodes inserted into orifices. If cardiac arrest is caused without first inducing unconsciousness, there is potential for the animal to experience severe pain and distress.  p 
+ p There is no specific EU legislation providing detailed animal welfare requirements for the keeping of animals for fur production.  p 
+ p Fur factory farms are covered by Council Directive 98 58 EC, which lays down the general minimum requirements for the protection of all animals kept for farming purposes. According to this Directive, EU Member States may maintain or apply stricter provisions than those laid down in this legislation, thus creating the possibility for individual countries to restrict or prohibit the keeping of animals for fur production.  p 
+ p Help us protect animals in the UK, in Europe and around the world
+					 a href="https:  donate.hsi.org ea-action action?ea.client.id=104&amp;ea.campaign.id=17381&amp;currency=GBP&amp;country=GB&amp;utm_campaign=uk-fur&amp;ea.tracking.id=web-uk-fur-donate-button" Donate  a 
+				  p 
+ p class="type" 
+                Issue
+                p 
+ p class="type" News: Press Release  p 
+ p class="date"  November 23, 2018   p 
+ p class="type" News: Press Release  p 
+ p class="date"  September 6, 2018   p 
+ p class="type" News: Press Release  p 
+ p class="date"  July 25, 2018   p 
+ p class="more-link"  a href="http:  www.hsi.org news related_news.html?related_animal=121646609&amp;related_issue=123785963" class="more" View more related content  a   p 
+ p Thanks for joining our online community!  p 
+ p class="copyright" © 2019 Humane Society International  p 
+ p class="fineline-statement" For information, questions or to donate: From North America, call 866-614-4371. From elsewhere, please use  a href="http:  www.hsi.org forms contact.html" this form  a .  p 
+ p class="tax-statement" Contributions to Humane Society International are tax-deductible to the extent permitted by law in your country. HSI's tax identification number is 52-1769464. Donations made from the UK: HSI UK is registered in England and Wales as charity number 1098925, company number 4610194. Donations made from the Netherlands: HSI UK is regarded as an  a href="http:  www.hsi.org world united_kingdom hsi_uk_dutch_anbi_status.html" target="_blank" ANBI Charity  a  under Dutch Fiscal Number 8241.63.072. Donations made in Canada: donations to HSI Canada are not tax-deductible. Non-profit organizations in Canada that lobby to change government policy are generally denied charitable status.  p 

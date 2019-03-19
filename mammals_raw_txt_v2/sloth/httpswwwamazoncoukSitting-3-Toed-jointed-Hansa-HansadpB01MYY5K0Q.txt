@@ -1,0 +1,11 @@
+ p class="a-spacing-small a-size-small a-color-secondary" 
+        Find answers in product info, Q&amp;As, reviews
+        p 
+ p class="a-spacing-base a-spacing-top-base a-color-error askError askBadQuestionError" 
+                Please make sure that you've entered a valid question.  You can edit your question or post anyway.
+                p 
+ p Hand-finished by Hansa artists.;Animal measures 13.39x12.6x11.81 inches.;Comes with a Toys that Teach tag describing in detail the animal's habitat, lifestyle, gestation period, care of their young and eating habits.;See item description below for further details.
+				    	
+					  p 
+ p class="nav_p nav-bold" There's a problem loading this menu at the moment.  p 
+ p class="nav_p"  a href=" gp prime" class="nav_a" Learn more about Amazon Prime.  a   p 

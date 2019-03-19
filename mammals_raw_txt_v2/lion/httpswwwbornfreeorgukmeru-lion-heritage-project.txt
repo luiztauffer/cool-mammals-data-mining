@@ -1,0 +1,65 @@
+ p  strong LOCATION:  strong   a href=" kenya" Kenya  a   p 
+ p  strong ACTIONS:   strong Tracking and monitoring lions; deploying de-snaring teams and working with communities to nurture tolerance and implement mitigation measures to reduce human-wildlife conflict  p 
+ p Lion numbers in Africa have collapsed by 30-50% in the last 20 years. In 2011, no more than 32,000 lions were thought to exist, although some research puts the figure considerably lower than this. There are a variety of reasons for this dramatic decline, but significantly, lions are losing habitat, resulting in increased conflict with local communities, especially those with livestock-based livelihoods living in or adjacent to lion habitats.  p 
+ p Kenya’s lions occur across an estimated 19% of the country including significant areas outside of formally protected sites such as National Parks and Nature Reserves. In 2013, best estimates from the Kenya Wildlife Service suggested that roughly 2,000 lions remained. It is therefore vital that effective conservation solutions are implemented, especially in collaboration with local communities and with the participation of the Kenya Wildlife Service (KWS).  p 
+ p Since 2014, Born Free has returned to its roots in the Meru-Kora landscape – where Elsa was released - with the long-term objective of safe-guarding the lion population there. In 2016, Born Free and KWS conducted a survey to estimate the size of the lion population. The survey estimated as many as 79 lions may be living in or around Meru. The results of the survey form an important baseline for monitoring the population as conservation actions continue to be implemented.  p 
+ p class="h2 black background text-white" UPDATE DIRECT TO YOUR INBOX  p 
+ p Sign up to get the latest Born Free news about our work and how you can help, delivered straight to your inbox.  p 
+ p class="h3 with-icon header-mb"  i class="fas fa-rss"   i  NEWS  p 
+ p 
+             a :href="props.record.uri" v-text="props.record.name"   a  br 
+             span v-text="props.record.excerpt"   span 
+          p 
+ p class="h3 with-icon header-mb"  i class="fab fa-twitter"   i  SOCIAL MEDIA  p 
+ p class="header-mb" FOLLOW US ON  p 
+ p 
+                © 2019 - Born Free Foundation br 
+                Broadlands Business Campus, Langhurstwood Road br 
+Horsham, West Sussex, RH12 4QP br 
+ br 
+The Born Free Foundation is a registered charity. br 
+(Charity Number: 1070906). Registered as a company limited by guarantee (Number 03603432) (England &amp; Wales). br 
+Registered office: Broadlands Business Campus, RH12 4QP
+              p 
+ p 
+
+        
+             a href=" contact" 
+                Contact
+              a  |
+        
+             a href=" annual-reports" 
+                Annual Reports
+              a  |
+        
+             a href=" report-animal-suffering" 
+                Captive Animal Report Form
+              a  |
+        
+             a href=" faqs" 
+                FAQs
+              a  |
+        
+             a href=" privacy-policy" 
+                Privacy Policy
+              a  |
+        
+             a href=" data-policy" 
+                Data Policy
+              a  |
+        
+             a href=" terms-and-conditions" 
+                Terms &amp; Conditions
+              a  |
+        
+             a href=" sitemap" 
+                Sitemap
+              a  |
+        
+             a href=" careers" 
+                Careers
+              a 
+        
+      p 
+ p 
+                Website by  PMW               p 

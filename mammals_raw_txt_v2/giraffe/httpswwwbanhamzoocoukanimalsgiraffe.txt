@@ -1,0 +1,24 @@
+ p class="sign" Opening times  p 
+ p We are open until  p 
+ p  span 4PM  span today  p 
+ p class="pin" Find us  p 
+ p Sat Nav: NR16 2HE,
+Kenninghall Road  p 
+ p  a href="https:  www.google.com maps dir Current+Location NR16%202HE,%0D%0AKenninghall%20Road" target="_blank" View Map  a   p 
+ p There is only one species of giraffe, but many subspecies. Their closest relative is the okapi, found in the African forests.  p 
+ p Size: Height - 4.3 - 5.5m br 
+Weight: 550 - 1930kg  p 
+ p Giraffe are found on the dry savannahs of Africa south of the Sahara.  p 
+ p Giraffes are browsers mainly feeding on Acacia trees. Giraffes drink regularly when water is available, but can go for long periods without drinking.  p 
+ p After a pregnancy of around 14 to 15 months, a single calf is born. They are 6 feet (1.8m) tall and able to walk within one  hour of birth.  p 
+ p Giraffe have recently been classed as ‘Vulnerable’, as their wild population has dropped by up to 40% in just 30 years. Habitat loss and degradation are major threats, along with hunting for their meat and hide.  Thankfully many giraffe do occur in protected areas and there is a successful captive breeding programme.  p 
+ p class="latinName" Equus grevyi  p 
+ p class="latinName" Pudu puda  p 
+ p class="latinName" Camelus bactrianus  p 
+ p CHIRP br 
+ROAR br 
+OR SQUAWK...  p 
+ p KEEP UP TO DATE WITH THE LATEST NEWS...  p 
+ p  a href=" newsletter-subscription " class="button" Sign Up  a   p 
+ p class="footerTerms" ©2019 The Zoological Society of East Anglia Limited. Registered In England - Company Number 08250951. Registered Charity in England and Wales no. 1150158. Registered Office: The Grove, Kenninghall Road, Banham, Norfolk, NR16 2HE.  p 
+ p class="footerCredit"  a href="http:  www.creativesponge.co.uk" Site by Creative Sponge  a   p 

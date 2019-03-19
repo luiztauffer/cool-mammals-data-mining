@@ -1,0 +1,31 @@
+ p Species Code: VUVU  p 
+ p  b Legend:  b  br 
+ img src=".. images legend_core.jpg" border="1" valign="middle" vspace="5"  = Core Habitat br 
+ img src=".. images legend_peripheral.jpg" border="1" valign="middle" vspace="5"  = Marginal Habitat  p 
+ p  strong Breeding Range Map  strong  br 
+
+The green area shows the predicted habitats for breeding  strong only  strong . The habitats were 
+
+identified using 1991 satellite imagery, other datasets and experts throughout the state, as part of the Washington Gap Analysis 
+
+Project.  p 
+ p  a href="WA_red_fox_nm.jpg" target="_blank" Click to enlarge distribution map  a   p 
+ p  a href="http:  wdfw.wa.gov conservation gap gapdata mammals gifs vuvu.gif" target="_blank" Map with historical museum records  a   p 
+ p This species is indigenous in the central and east Cascades and has been introduced in other parts of the state. The indigenous population tend to favor the drier mid-elevation forests of east-side forests of Grand Fir, Douglas-fir, and Ponderosa Pine along with subalpine meadows and parkland. The introduced populations throughout the state seem to be tied to low elevations around farms and other developed areas. Both populations avoid the mid-elevation forest of the western slope of the Cascades. So the introduced populations west of the Cascades and the indigenous foxes are separated by the dense, moist forests of Western Hemlock and Douglas-fir.
+  p 
+ p 
+Oak, Ponderosa Pine, Douglas-fir, Grand Fir, the Puget Trough zones, Subalpine Fir, Western Hemlock, Interior Western Hemlock, Interior Redcedar, and Alpine Parkland were core areas. The steppe zones in which the species occurs were core except for the Central Arid Steppe.
+  p 
+ p 
+Good habitats in forested zones were low-density development, agriculture, water, wetlands (except estuaries), and non-forested. Open forest was good in the drier zones and only adequate in the wetter zones. In the steppe zones, good habitats were low-density development, irrigated agriculture, water wetlands and all forested.
+  p 
+ p 
+The introduced and indigenous foxes may have different habitat requirements, since they, at least currently, inhabit different parts of the state. The map does not distinguish between the two.
+  p 
+ p  font size="2" Translated from the Washington Gap Analysis Mammal Volume by Dave Lester 
+
+ br Webpage designed by Dave Lester  font 
+
+
+
+  p 

@@ -1,0 +1,32 @@
+ p 
+                     strong JavaScript seems to be disabled in your browser.  strong  br 
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                  p 
+ p Save up to 20% with a href=" petbarn-repeat-delivery"  strong  Repeat delivery  strong   a   p 
+ p  a href=" click-and-collect%20"  strong Click and Collect  strong   a  in 60 minutes  p 
+ p  a href=" delivery-information"  strong Metro Delivery  strong   a  $4.95  p 
+ p class="cart-empty" 
+                You have no items in your shopping cart.              p 
+ p Dog poo chart: From runny poo to hard poo  p 
+ p Why super premium dog food is worth it  p 
+ p What should my cat’s poo look like?  p 
+ p What to feed cats: The best cat food  p 
+ p How to maintain your aquarium  p 
+ p How can I tell if my fish tank water is healthy?  p 
+ p Why pellets are better for your bird  p 
+ p Bird care for beginners  p 
+ p Live food options for reptiles  p 
+ p How to care for baby Bearded Dragons  p 
+ p Feeding baby herbivores  p 
+ p How to care for your pet mouse  p 
+ p  a class="join-now-btn" onclick="NS.cookie.create('fflPopup', true); return true;" href=" loyalty-program" Join Now  a   p 
+ p Call us on  p 
+ p class="contact-no"  span class="show-for-large-up" 1300 655 896  span   a class="show-for-medium-down" href="tel:1300655896" 1300 655 896  a   p 
+ p Email us at  p 
+ p class="email"  a href="mailto:info@petbarn.com.au" target="_top" info@petbarn.com.au  a   p 
+ p Monday to Friday 8am - 7pm br Saturday &amp; Sunday 9am - 5pm br  small AEST AEDT  small   p 
+ p Call us on  p 
+ p class="contact-no"  span class="show-for-large-up" 1300 655 896  span   a class="show-for-medium-down" href="tel:1300655896" 1300 655 896  a   p 
+ p Email us at  p 
+ p class="email"  a href="mailto:info@petbarn.com.au" target="_top" info@petbarn.com.au  a   p 
+ p Monday to Friday 8am - 7pm br Saturday &amp; Sunday 9am - 5pm br  small AEST AEDT  small   p 
+ p © 2019 Petbarn. All Rights Reserved  p 

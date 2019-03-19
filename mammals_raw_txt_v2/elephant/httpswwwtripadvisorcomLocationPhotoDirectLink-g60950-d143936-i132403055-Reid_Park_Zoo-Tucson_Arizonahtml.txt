@@ -1,0 +1,12 @@
+ p Reid Park Zoo is a hidden gem, nestled in the center of Tucson, and is...   p 
+ p Reid Park Zoo is a hidden gem, nestled in the center of Tucson, and is the perfect place to enjoy time outside while discovering the wonders of wildlife.  p 
+ p class="partial_entry" 
+This zoo is a small zoo located in Reid Park. I like that it is cozy and clean, that you can take your time and meander through it and see every animal exhibit in about 3 to 4 hours.
+But don't let the zoo being small fool you. It is one of the better zoos we visit. Their animal habitats...
+ span class="partnerRvw" 
+ span class="taLnk hvrIE6 tr272197947 moreLink ulBlueLinks" onclick="      ta.util.cookie.setPIDCookie(4443); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_272197947'), 'review_272197947', '1', 4443);
+  " 
+More    span 
+ span class="ui_icon caret-down"   span 
+  span 
+  p 

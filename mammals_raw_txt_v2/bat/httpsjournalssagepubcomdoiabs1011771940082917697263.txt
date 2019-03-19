@@ -1,0 +1,43 @@
+ p style="text-align: center;"  span style="font-family: arial, helvetica, sans-serif; font-size: medium;" You can be signed in via any or all of the methods shown below at the same time.  span   p 
+ p Sign in here to access free tools such as favourites and alerts, or to access personal subscriptions  p 
+ p 
+      p 
+ p style="text-align:left;margin:5px 0" I don't have a profile  p 
+ p class="signed-as" I am signed in as:  p 
+ p With my free profile I can:  p 
+ p If you have access to journal content via a university, library or employer, sign in here  p 
+ p class="signed-as" I am signed in via:  p 
+ p With institutional access I can:  p 
+ p If you have access to journal via a society or associations, read the instructions below  p 
+ p Access to society journal content varies across our titles.  p 
+ p If you have access to a journal via a society or association membership, please browse to your society journal, select an article to view, and follow the instructions in this box.  p 
+ p Contact us if you experience any difficulty logging in.  p 
+ p style="text-align:left" Some society journals require you to create a personal profile, then activate your society account  p 
+ p class="signed-as" I am signed in via:  p 
+ p With society access I can:  p 
+ p style="text-align: center;"  span style="font-family: arial, helvetica, sans-serif; font-size: small; text-align: center;" Need Help?   span  a href=" page help home" style="font-family: arial, helvetica, sans-serif; font-size: small; text-align: center;" Contact SAGE  a   p 
+ p You are adding the following journals to your email alerts  p 
+ p Contents  p 
+ p 
+        If you have the appropriate software installed, you can download article citation data to the citation manager of your choice. Simply select your manager software from the list below and click on download.
+      p 
+ p 
+        If you have the appropriate software installed, you can download article citation data to the citation manager of your choice. Simply select your manager software from the list below and click on download.
+      p 
+ p double-click to add edit rich text ...  p 
+ p double-click to add edit rich text ...  p 
+ p class="noteLabel" All fields are required  p 
+ p id="access-sharing-off" class="" Access sharing is not available  p 
+ p double-click to add edit rich text ...  p 
+ p Accept terms and conditions  p 
+ p class="noteLabel" All fields are required  p 
+ p View permissions information for this article
+      p 
+ p Explore More  p 
+ p The Brazilian savanna (Cerrado) is a biodiversity hotspot with high deforestation rates that lead to extensive habitat changes, especially around protected areas (PAs). In our study, we analyzed how bats are affected by habitat changes comparing assemblages inside and outside Cerrado PAs. We compared diversity patterns of bats in relation to species composition, number of captured bats, as well as body condition and reproductive condition in cerrado  i sensu stricto  i  (s.s.) and gallery forests. From September 2007 to June 2008, we captured 495 bats belonging to 25 species, 4 families, and 6 foraging guilds. When comparing captured bats inside and outside PAs, we found different patterns for both habitats, but with no differences in species richness for both habitats in relation to habitat perturbation. In relation to the degree of preservation, bat assemblages tend to be dissimilar between cerrado  i s.s.  i  and similar between gallery forests. Besides that, in cerrados  i s.s.  i , bats are less captured, or negatively affected, by habitat disturbance outside PAs; while in gallery forests, they are positively affected. Likewise, some bat species in gallery forests present higher body condition and more reproductive individuals outside PAs. Finally, we suggest that the intense habitat change in cerrado  i s.s.  i  does cause negative effects on bats, while the positive effects found in degraded gallery forests may be due to the higher resource availability derived mainly from pioneer plants. Therefore, the presence of both nectarivorous bats in cerrado  i s.s.  i  and frugivorous bats in gallery forests can be considered good indicators for habitat disturbance.  p 
+ p 
+      p 
+ p Click the button below for the full-text content  p 
+ p 请点击以下获取该全文  p 
+ p class="ppv-text" 24 hours online access to download content  p 
+ p class="note" If you have an individual subscription to this content, or if you have purchased this content through  i Pay Per Article  i  within the past 24 hours, you can gain access by logging in with your username and password here:  p 

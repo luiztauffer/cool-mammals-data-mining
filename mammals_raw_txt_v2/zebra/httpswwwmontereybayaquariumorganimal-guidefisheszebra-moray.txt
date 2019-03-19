@@ -1,0 +1,27 @@
+ p class="exhibit-status" 
+           strong On Exhibit:   strong  a href="https:  www.montereybayaquarium.org animals-and-exhibits exhibits splash-zone-and-penguins" Splash Zone &amp; Penguins  a 
+  p 
+ p  em Gymnomuraena zebra  em   p 
+ p  a href="https:  www.montereybayaquarium.org animals-and-exhibits animal-guide fishes" Fishes  a   p 
+ p crabs and other crustaceans, clams and other molluscs, sea urchins  p 
+ p to 5 feet (1.5 m)  p 
+ p other moray eels and ribbon eels; Family: Muraenidae  p 
+ p  a href="https:  www.montereybayaquarium.org animals-and-exhibits animal-guide habitat coral-reefs" Coral Reefs  a   p 
+ p Red Sea to Panama to the Hawaiian Islands  p 
+ p Shy and retiring, zebra morays hole up in crevices and under ledges on the wave-swept outer edges of coral reefs. At night they come out to hunt, prowling the reefs in search of crabs, clams and other hard-shelled prey. Their teeth tell the tale of their diet. While some morays have sharp, pointed teeth for grabbing and holding on to fishes and other slippery prey, zebra morays have flat, platelike teeth, perfect for crunching hard shells.  p 
+ p Coral reefs around the world are in danger. Silt (fine soil) smothers coral when it washes off the land from farm fields, roads and building sites. More towns and resorts near shore mean more sewage, oil and chemicals in the water. Global warming and changes in weather patterns create conditions that corals can't survive.  p 
+ p Tucked into crevices with only their heads sticking out, moray eels look menacing as they constantly open and close their mouths. But they're not making threats, that's just how they breathe.  p 
+ p style="margin: -5px 0 15px 0; font-size: .75em; line-height: 1.4em;" The Monterey Bay Aquarium is a 501(c)3 non-profit organization. Tax ID# span style="color: #fff;" -  span 94 span -  span 2487469.  p 
+ p class="about" 
+           a href="https:  www.montereybayaquarium.org about" title="About Us" About Us  a 
+   a href="https:  www.montereybayaquarium.org about contact-us" title="Contact Us" Contact Us  a 
+   a href="https:  www.montereybayaquarium.org about job-opportunities" title="Jobs" Jobs  a 
+   a href="https:  www.montereybayaquarium.org support-us volunteer" title="Volunteer" Volunteer  a 
+   a href="https:  www.montereybayaquarium.org about internships" title="Internships" Internships  a 
+   a class="external" href="http:  newsroom.montereybayaquarium.org " title="Newsroom" Newsroom  a 
+   a href="https:  www.montereybayaquarium.org about privacy-policy" title="Privacy Policy" Privacy Policy  a 
+   a href="https:  www.montereybayaquarium.org about terms-of-use" title="Terms of Use" Terms of Use  a 
+
+ 
+        p 
+ p class="copyright" © 2019 Monterey Bay Aquarium Foundation  p 

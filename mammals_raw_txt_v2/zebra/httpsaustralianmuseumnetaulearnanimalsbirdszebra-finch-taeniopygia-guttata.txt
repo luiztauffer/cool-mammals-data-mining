@@ -1,0 +1,38 @@
+ p class="nav-section-description__text" 
+                                                                        In this section, find out everything you need to know about visiting the Museum, how to get here and the extraordinary exhibitions on display. Check out the 'What's on' calendar of events, workshops, free tours and education programs.
+                                                                      p 
+ p class="nav-section-description__text" 
+                                                                        In this section, there's a wealth of information about our collections of scientific specimens and cultural objects. Come and explore what our researchers, curators and education programs have to offer!
+                                                                      p 
+ p class="nav-section-description__text" 
+                                                                        In this section, explore all the different ways you can be a part of the Museum's groundbreaking research, as well as come face-to-face with our dedicated staff. Join us, volunteer and be a part of our journey of discovery!
+                                                                      p 
+ p With a time-span of 70 to 80 days from hatching to becoming sexually active, the Zebra Finch is one of the fastest maturing bird species recorded.  p 
+ p Zebra Finches are mainly grey, with characteristic black 'tear drop' eye stripes and 'zebra like' black and white barring on the rump and upper tail. The throat and upper breast are pale grey, with fine black barring, and there is a broad black band on upper chest. The sides of the belly are chestnut with many white spots. The remainder of the belly and the undertail are white. The male is distinguished from the female by its orange chestnut cheek patches, a character that gave the species the alternative name of Chestnut-eared Finch. Both sexes have red eyes and bill. The legs and feet are orange yellow. Young are similar in plumage to the female, except that the clear black and white markings of the head are absent. The eyes are grey-brown and the bill is black.  p 
+ p Zebra Finches are most commonly found in the drier areas of Australia, living year round in social flocks of up to 100 or more birds. They can be found in a variety of habitats, mainly dry wooded grasslands, bordering watercourses.  p 
+ p Zebra Finches are the most common and widespread of Australia's grassfinches, found across the Australian mainland, with the exception of Cape York Peninsula and some coastal areas. They are also found in Timor and the Lesser Sunda Islands.  p 
+ p Zebra Finches feed in large flocks on fallen or ripening grass seeds. Insects may be taken at any time of the year, but are particularly favoured when feeding young. Feeding takes place on the ground, and, unlike some other grassfinches, birds never pull seed heads down with their feet.  p 
+ p The most common calls are a loud nasal "tiah", often given in flight, and a soft "tet tet" in close contact.  p 
+ p Zebra Finches pair for life. The female alone selects the nest site, but both birds care for the eggs and young. The male gathers almost all the nesting material, with which the female constructs the loose dome-shaped nest. Birds have also been reported to nest in hollows in the ground, although this behaviour is uncommon.  p 
+ p The introduction of artificial dams and water tanks has actually increased the Zebra Finch's natural range, as the birds need to drink on a regular basis.  p 
+ p class="content-card__teaser" This week we show footage of Marlin, whales and seals feeding. There is also great footage of sharks and an Oilfish from the Coral Sea.  p 
+ p class="content-card__teaser" A photographer's notes from a survey for the conservation of Australian robins in western NSW.  p 
+ p class="content-card__teaser" Zebrafish, Girella zebra (Richardson, 1846)  p 
+ p class="content-card__teaser" Zebra Shark, Stegostoma fasciatum (Hermann, 1783)  p 
+ p class="content-card__teaser" This week we look at the toxin glands of a Southern Peacock Sole.  We find out what it is like to be stung by a Demon Stinger and try to digest the image of a fish that bit off more than it could chew.  In all, over 60 pages were moved over to the new site.  p 
+ p class="content-card__teaser" It was a 'week of sharks'.  The highlight was the addition of some quite disturbing images of a White Shark being 'strangled' by a plastic packing strap.  Other less upsetting images, including two of Galapagos Sharks, were also added to the site.  Thank you as always to all of you  p 
+ p class="content-card__teaser" Sedimentary rocks are classified according to the predominant grain size present, as well as by their mineral content.  p 
+ p class="content-card__teaser" Mark is no longer bobbing around the Kermadec Islands (half way between New Zealand and Tonga), he's arrived back on land. I'm sure he'll have some amazing stories to share with us all. Until then here are two great fish videos and a picture we were able to get our hands on thanks to the Auckland  p 
+ p class="content-card__teaser" Since I last posted to Fish Bits, I have participated in an amazing fieldtrip to the Kermadec Islands. I returned earlier this week and have now resumed adding content to the fish site.  p 
+ p class="content-card__teaser" Zebra Seahorse, Hippocampus zebra Whitley, 1964  p 
+ p class="content-card__teaser" The second missive from journalist Jo Stewart, who is documenting the work of our science team in the Simpson Desert.  p 
+ p class="acknowledgement__text" 
+                            The Australian Museum respects and acknowledges the Gadigal people of the Eora Nation as the First Peoples and Traditional Custodians of the land and waterways on which the Museum stands. br 
+                            — br 
+                            We acknowledge Elders past, present and emerging. br 
+                             small class="acknowledgement__disclaimer" This website may contain names, images and voices of deceased Aboriginal and Torres Strait Islander peoples.  small 
+                          p 
+ p class="footer__text" Receive the latest news on events, exhibitions, science research and special offers.  p 
+ p class="footer__text" 
+                                    Login to purchase tickets and manage your museum membership.
+                                  p 

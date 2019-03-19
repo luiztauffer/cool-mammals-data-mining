@@ -1,0 +1,41 @@
+ p class="hidden-xs" News you can trust  p 
+ p  strong 11°C  strong  |  span class="Temp" 1°C  span   p 
+ p class="WeatherFind"  a href=" news weather " 5 day span class="hidden-sm HideWeather"  forecast  span  i class="fa fa-angle-right" aria-hidden="true"   i   a   p 
+ p   a href=" " class="first"  i class="fa fa-home icon-2x"   i  Home  a   i class="fa fa-angle-right"   i    a href=" romney-marsh " Romney Marsh  a   i class="fa fa-angle-right"   i    a href=" romney-marsh news " News  a   i class="fa fa-angle-right"   i   Article  p 
+ p class="ArticleDate"  strong class="hidden-xs" Published:  strong  00:01, 18 March 2019  p 
+ p class="ArticleDate"  |  strong Updated:  strong  07:19, 18 March 2019  p 
+ p Developers are being driven batty by a protected species roosting in the rafters of former pubs earmarked for homes.  p 
+ p Bats, which have the highest level of protection, have been discovered in two dilapidated pubs in Lydd: the Bridge Inn and Royal Mail.  p 
+ p It means developers' plans to transform the abandoned buildings into apartments have been met with fierce resistance by the district council.  p 
+ p Stephen Komolafe this week unveiled plans to transform the Bridge Inn, in Station Road, into three homes.  p 
+ p Also known as the Bridge Tavern, the bar is one of Romney Marsh’s 17 recorded lost pubs and closed in 2015, according to public records.  p 
+ p Folkestone and Hythe District Council officer Robert Allan has poured cold water on the proposals, arguing the site could still be used as a pub.  p 
+ p Mr Allan, who will recommend planning chiefs to throw out the plans, argued the proposed layout was shoddy and future residents would suffer “poor amenities” should building commence.  p 
+ p Mr Komolafe's plans, previously given the nod by Lydd Town Council, could also harm protected wildlife, Mr Allan’s report added.  p 
+ p It says: “Bat droppings were recorded within the loft space and that there are suitable features for roosting bats on all elevations of the building.  p 
+ p “There is a need for an emergency survey to be carried out to fully assess the presence of bats within the site.  p 
+ p “These surveys are required to fully assess how bats are utilising the building and to consider the impact that the proposed development will have on protected species when determining the planning application.  p 
+ p He added: “No details of proposed mitigation have been provided and it cannot be concluded measures are being taken to minimise the impact on protected species.”  p 
+ p Bats are protected by the Wildlife and Countryside Act 1981 because of their specific roosting requirements.  p 
+ p Disturbing the animal, or so much as obstructing a roost, is a criminal offence.  p 
+ p Indeed, Natural England must be told of proposed action likely to disturb the animals or their roosts.  p 
+ p Abba Holdings, ran by Karen Komolafe, prepared a design and access statement on behalf of Mr Komolafe, who lives in Dickleburgh, south Norfolk.  p 
+ p “The Inn was not a financial success and it was put on the market in 2015.  p 
+ p "It was marketed as a growing concern for more than three years but did not receive any interest.  p 
+ p “The applicant wishes to convert the inn into three dwellings,” it says.  p 
+ p The plans will go before Folkestone council’s planning committee on Tuesday.  p 
+ p Nature expert Owen Leyshon, from the Romney Marsh Countryside partnership said the abandoned pub is an ideal spot for the animals to breed.  p 
+ p “There are a number of bat species found on the marsh including the pipestrelle, long eared, daubenton and serotine bats.  p 
+ p “Grey crested newts, badgers and bats are heavily protected and give developers the headaches.  p 
+ p “In Lydd there is an amazing habitat around the town and to the back on farm land.  p 
+ p “Bats need to roost and prefer roosting in older buildings where they can be left safe and in peace.  p 
+ p "Many bats feed over the lake in Jury’s Gap and will travel from their roosting spots in the urban area."  p 
+ p  a href="javascript:%20void(0);" id="commentsLoginLink"  i class="fa fa-caret-right"   i  Register or log in via Facebook, Twitter, LinkedIn, Google+ or your KentOnline account to post comments.  a   p 
+ p   a href=" _api transfer transfer forgotten-password ?ReturnUrl= romney-marsh news bats-threaten-to-thwart-flats-plan-200814 " rel="nofollow" class="recoverPassword" Forgotten Password?  a  a href=" _api transfer transfer forgotten-username ?ReturnUrl= romney-marsh news bats-threaten-to-thwart-flats-plan-200814 " rel="nofollow" class="recoverUsername" Forgotten Username?  a    p 
+ p Don't have an account? Please  a href=" _api transfer transfer register ?ReturnUrl= romney-marsh news bats-threaten-to-thwart-flats-plan-200814 " class="register" Register  a  first!  p 
+ p The KM Group does not moderate comments.  a href=" terms house-rules " target="_blank" Please click here for our house rules.  a   p 
+ p People who post abusive comments about other users or those featured in articles will be banned.  p 
+ p Thank you. Your comment has been received and will appear on the site shortly.  p 
+ p  strong Terms of Comments  strong  br We do not actively moderate, monitor or edit contributions to the reader comments but we may intervene and take such action as we think necessary,  a href=" terms house-rules " target="_blank" please click here for our house rules.  a  If you have any concerns over the contents on our site, please either register those concerns using the report abuse button,  a href=" contact-us " target="_blank" contact us here  a , email  a href="mailto:multimediadesk@thekmgroup.co.uk" target="_blank" multimediadesk@thekmgroup.co.uk  a  or call  a href="tel:01634%20227989" 01634 227989  a .  p 
+ p class="SiteLink"  a href=" news live-news " See all Kent Travel News i class="fa fa-angle-right" aria-hidden="true"   i   a   p 
+ p © KM Group 2019  p 

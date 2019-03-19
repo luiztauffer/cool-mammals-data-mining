@@ -1,0 +1,46 @@
+ p Macropus giganteus  p 
+ p  strong KINGDOM  strong   p 
+ p Animalia  p 
+ p  strong PHYLUM  strong   p 
+ p Chordata  p 
+ p  strong CLASS  strong   p 
+ p Mammalia  p 
+ p  strong ORDER  strong   p 
+ p Diprotodontia  p 
+ p  strong FAMILY  strong   p 
+ p Macropodidae  p 
+ p  strong GENUS  strong   p 
+ p Macropus  p 
+ p  strong SPECIES  strong   p 
+ p giganteus  p 
+ p Species status information sourced from the International Union for Conservation of Nature (IUCN) Red List.  p 
+ p Eastern Grey Kangaroos stand anywhere from 80-180cm tall, and have a long (up to 120cm) thick tail that assists them in balancing and jumping, as well as fighting. Eastern Grey Kangaroos have soft, thick fur that ranges from light grey to dark grey-brown in colour, and large feet with 3 toes each. Their snout is usually fairly narrow but squared. Males can weigh more than 60kgs, with females much smaller at just over 30kgs. Eastern Grey Kangaroos can jump horizontally 9m at a time at full speed, which is up to 65km per hour.  p 
+ p Eastern Grey Kangaroos are found between inland plains and coastal areas where the rainfall is more than 250mm annually, in habitats ranging from semi-arid mallee scrub through to lush woodland forests.    p 
+ p Eastern Grey Kangaroos are herbivorous, grazing on grass and shrubs in the early morning and evening.  p 
+ p Eastern Grey Kangaroos are a social animal, living in “mobs” with one dominant male, a few adult females, and several juvenile males and females. Males will fight for dominance in a mob, with the loser left to find another mob or remain subordinate in his current mob. Dominant males will mate with the adult females in their mob, and each female who falls pregnant will give birth to a jellybean-sized joey 33-38 days later. The joey will develop in the mother’s pouch for 6 months, and by 8 months is hopping around near its mother, jumping into the pouch only when there is danger or when it is cold. By 12-15 months old, the joey is too big for the mother’s pouch, and the mother will stop letting the joey in. By this time she will often have another joey in the pouch feeding.    p 
+ p Macropus rufus  p 
+ p  strong KINGDOM  strong   p 
+ p Animalia  p 
+ p  strong PHYLUM  strong   p 
+ p Chordata  p 
+ p  strong CLASS  strong   p 
+ p Mammalia  p 
+ p  strong ORDER  strong   p 
+ p Diprotodontia  p 
+ p  strong FAMILY  strong   p 
+ p Macropodidae  p 
+ p  strong GENUS  strong   p 
+ p Macropus  p 
+ p  strong SPECIES  strong   p 
+ p M. rufus  p 
+ p Species status information sourced from the International Union for Conservation of Nature (IUCN) Red List.  p 
+ p The Red Kangaroo is the largest living marsupial, featuring a black and white mark on the sides of the muzzle and a white facial stripe reaching from the corner of the mouth to the ear. Males are larger than females, and can reach a height of up to 2 metres; however generally Red Kangaroos average between 1.5 metres and 1.7 metres in height.  p 
+ p  span style="font-size: 1em; line-height: 1.42857;" The Red Kangaroo's fur is typically reddish-brown in colour and quite velvety. The strong muscular tails can reach a length of 100cm and are used for balance. Their forelimbs are shorter than the long hind feet which are powerfully built, allowing the Red Kangaroo to travel at speeds exceeding 60 kilometres per hour.  span   p 
+ p The Red Kangaroo is found over most of Central Australia, in arid regions and are the most abudantly encountered species.  They prefer sparsely tree populated areas, preferring to seek shelter from the sun under tall shrubs.  In the height of Summer however, they will seek the shelter of trees along creek lines.   p 
+ p The Red Kangaroo is herbivorous, grazing on grass and shrubs in the early morning and evening.  They have adapted well to the arid regions of central Australia and are able to survive on a limited water supply when green forage is available.  p 
+ p Red Kangaroos are social animals and move around in groups or 'mobs', which generally include one dominant male, a few adult females, and several juvenile males and females. Mobs will move where food is available but adults will typically return to a home range.    p 
+ p Males will fight for dominance in a mob, with the loser left to find another mob or remain subordinate in his current mob. Dominant males will mate with the adult females in their mob.  The female Red Kangaroo reaches sexual maturity at 2 years of age whilst the male becomes sexually mature at 3 years. There is no set breeding season and the female can have 3 joeys in different stages of development at one time.  The oldest joey remains out of the pouch but continues to drink from its mother, a milk rich in carbohydrates until it is fully weaned at 12 months of age.  An unfurred joey remains in the pouch, suckling a different type of milk from its mother, whilst a third fertilised egg remains in a state of embryonic diapause.  Once the unfurred joey has left the pouch, the embryonic joey will continue to develop.   p 
+ p class="lightgreen" 
+                JOIN OUR MAILING LIST br 
+                Animal news, special events &amp; more
+              p 

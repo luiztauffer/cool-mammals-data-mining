@@ -1,0 +1,23 @@
+ p class="sign" Opening times  p 
+ p We are open until  p 
+ p  span 4PM  span today  p 
+ p class="pin" Find us  p 
+ p Sat Nav: White's Lane, Kessingland, Suffolk, NR33 7TF  p 
+ p  a href="https:  www.google.com maps dir Current+Location White's%20Lane,%20Kessingland,%20Suffolk,%20NR33%207TF" target="_blank" View Map  a   p 
+ p There are three species of zebra, all found in Africa. Chapman’s zebra are a subspecies of the plains zebra.  p 
+ p Size: Shoulder Height 1.2 - 1.4m br 
+Weight: 175 - 385kg  p 
+ p Chapman’s zebras are found in a variety of habitats, from savannah and light woodland to hilly areas and mountain slopes. Zebras live in small family groups consisting of one dominant male (the stallion), up to six females (mares), and their young (foals).  p 
+ p Zebras are herbivores and feed mainly on grasses and sedges, although they will also eat fruits, leaves, buds, roots and bark.  p 
+ p Female zebras are pregnant for around 12 - 13 months, and usually give birth to a single young. They start to eat grass within a week but are not fully weaned until around 7 to 11 months.  p 
+ p These zebras have recently been classed as ‘Near Threatened’ as numbers are believed to have dropped by 25% in just 25 years! Threats include hunting and the loss of migration routes.  p 
+ p class="latinName" Damaliscus pygargus phillipsi  p 
+ p class="latinName" Tragelaphus spekii  p 
+ p class="latinName" Kobus megaceros  p 
+ p class="latinName" Tragelaphus angasii  p 
+ p CHIRP br 
+ROAR br 
+OR SQUAWK...  p 
+ p KEEP UP TO DATE WITH THE LATEST NEWS...  p 
+ p class="footerTerms" ©2019 The Zoological Society of East Anglia Limited. Registered In England - Company Number 08250951. Registered Charity in England and Wales no. 1150158. Registered Office: The Grove, Kenninghall Road, Banham, Norfolk, NR16 2HE.  p 
+ p class="footerCredit"  a href="https:  www.creativesponge.co.uk" Site by Creative Sponge  a   p 

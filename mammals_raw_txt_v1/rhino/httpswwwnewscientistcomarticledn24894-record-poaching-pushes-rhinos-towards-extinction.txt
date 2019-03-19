@@ -1,0 +1,22 @@
+ p class="header-promotion__sub-title"  a href=" registration " class="header-promotion__sub-title-link" Sign up to our daily email newsletter  a   p 
+ p class="header-meganav__footer-secondary-links"  a href=" registration " Sign up for free  a  span class="divider" |  span  a href=" educational-access " Educational access  a   p 
+ p class="header-meganav__blurb" A selection of top articles hand-picked by our editors available only to registered users.  p 
+ p class="header-meganav__blurb" Check your subscription package, update your details, renew or upgrade.  p 
+ p class="header-meganav__footer-secondary-links"  a href=" activate-subscription " Activate subscription  a   p 
+ p class="author-byline" By  span class="author" Andy Coghlan  span   p 
+ p  figure class="img-800  case5"  img src="http:  www.newscientist.com wp-content uploads 2014 01 dn24894-1_800.jpg" class="img-800 wp-image-1995789" alt="Rhino poaching is on the rise in South Africa " title="Rhino poaching is on the rise in South Africa "  div class="image-details"  figcaption class="wp-caption-text" Rhino poaching is on the rise in South Africa  i   i   figcaption   div   figure 
+  p 
+ p Rhino poaching reached record levels last year in South Africa, having escalated for five years in a row. On current trends, deaths could soon outnumber births, causing the population to crash.  p 
+ p South Africa is home to 80 per cent of Africa’s rhinos, but 1004 animals were killed there last year, compared with 668 in 2012,  a href="https:  www.environment.gov.za mediarelease rhinopoaching_statistics_17jan2014" according to the South African Department of Environmental Affairs  a . No more than 36 were killed each year between 1990 and 2007, but poaching has increased exponentially since 2008. Other countries with rhinos have seen similar increases.  p 
+ p The  a href="http:  www.traffic.org home 2014 1 17 2013-worst-ever-for-rhino-poaching-in-south-africa.html" poaching escalation  a  brings South Africa’s white rhino population ever closer to a tipping point where deaths will outnumber births, says Tom Milliken of TRAFFIC in Cambridge, UK.  p 
+ p The trade has mushroomed despite the introduction of tougher anti-poaching measures in South Africa, including more rangers and drone aircraft.
+                      p 
+ p 
+                          p 
+ p Conservationists blame soaring demand in China and especially Vietnam, where rhino horn has become a highly prized status symbol and valued gift, as revealed in a recent  a href="http:  www.traffic.org home 2013 9 17 pioneering-research-reveals-new-insights-into-the-consumers.html" TRAFFIC report  a .  p 
+ p South Africa’s tough stance is also being undermined by lax enforcement in neighbouring Mozambique, which serves as a conduit for illegal rhino material to the Far East. In Mozambique, people who steal chickens receive worse penalties than poachers caught with illegal rhino horn, according to Mike Knight of the  a href="http:  www.rhinos.org professional-resources iucn-african-rhino-specialist-group" African Rhino Specialist Group  a  of the International Union for Conservation of Nature in Port Elizabeth, South Africa.  p 
+ p “South Africa and Mozambique must decisively up their game if they hope to stop this blatant robbery of southern Africa’s natural heritage,” said Milliken.  p 
+ p As well as tougher enforcement, reducing demand is crucial. “We must put pressure on the countries that are creating demand, especially Vietnam and China,” says Knight.  p 
+ p Earlier this month, &amp;dollar;350,000 was raised for rhino conservation by  a href=" article dn24869-conservation-group-backs-killing-rare-rhino-for-cash" auctioning off the right to kill a specific rhino  a . Knight says that if conservation groups hadn’t complained about the auction, it would have raised &amp;dollar;1 million.  p 
+ p More on these topics:   p 
+ p class="print-headline"  a href="https:  www.newscientist.com article mg22129533-400-long-lost-lake-may-have-helped-humans-out-of-africa " A shorter version of this article  a  was published in  em New Scientist  em  magazine on 25 January 2014  p 

@@ -1,0 +1,60 @@
+ p Australian Dollars  p 
+ p British Pounds  p 
+ p Euros  p 
+ p Namibian Dollars  p 
+ p New Zealand Dollars  p 
+ p South African Rands  p 
+ p U.S. Dollars  p 
+ p id="slideshow_description_858ab80da73d4a79823ed1dfe3dc9298" class="slideshow_description"  b Jun to end-Nov:  b  dry season herds concentrate besides the Chobe and Okavango rivers.  p 
+ p class="glow" id="enquire_link" Enquire now  p 
+ p id="navigation_search_title" class="search_title" Search  p 
+ p class="title" My Expert Africa  p 
+ p 
+			 a href=" my-wish-list" id="page_footer_view_wish_list" View my wish list  a 
+			
+			 a href=" login login.aspx" id="page_footer_sign_in_link" class="sign_in_link" Sign in to save wish list  a 
+		  p 
+ p class="title" Get more info  p 
+ p 
+			 a href=" enquiry" id="page_footer_make_enquiry" Make an enquiry  a 
+			 a href=" contact-us" id="page_footer_contact_us" Contact us  a 
+			
+			 a href=" enquiry subscribe-to-news" id="page_footer_subscribe_to_newsletter" Subscribe to news  a 
+			 a href=" download-brochure" id="page_footer_download_brochure" Download our brochure  a 
+		  p 
+ p class="title" View this page in  p 
+ p 
+			 a href="#" class="smaller_font" Smaller text  a 
+			 a href="#" class="bigger_font" Bigger text  a 
+		  p 
+ p class="title" Share this page  p 
+ p class="addthis_toolbox addthis_default_style " 
+			 a class="addthis_button_facebook"   a 
+			 a class="addthis_button_twitter"   a 
+			 a class="addthis_button_blogger"   a 
+			 a class="addthis_button_google"   a 
+			 a class="addthis_button_compact"   a 
+			 br 
+			 a href="https:  www.addthis.com bookmark.php" class="addthis_button_email" id="email_page_link" Email this page  a  
+		  p 
+ p class="title" Find us and follow us  p 
+ p 
+			 a href="https:  www.facebook.com pages Expert-Africa 222691444442493" target="_blank"  img src=" images footer facebook-logo.png" alt="Facebook" title="Follow us on Facebook"   a 
+			 a href="https:  twitter.com #! ExpertAfrica" target="_blank"  img src=" images footer twitter-logo.png" alt="Twitter" title="Follow us on Twitter"   a 
+			 a href="https:  plus.google.com 106917496819050544208 posts" target="_blank"  img src=" images footer google-plus-logo.png" alt="Google+" title="Follow us on Google+"   a 
+			 a href="https:  www.youtube.com user ExpertAfricaVideo?feature=mhee" target="_blank"  img src=" images footer youtube-logo.png" alt="YouTube" title="View our YouTube videos"   a 
+			 a href="https:  www.instagram.com expertafrica " target="_blank"  img src=" images footer instagram-logo.png" alt="Instagram" title="Follow us on Instagram"   a 
+		  p 
+ p class="title" Call us  p 
+ p id="tel_nos" 
+			 span class="bold" UK:  span  0203 405 6666 br 
+			 span class="bold" US toll free:  span  br 1-800-242-2434 br 
+			 span class="bold" New Zealand:  span  br +64 (0)4 976 7585 br 
+			 span class="bold" Australia Toll-free:  span  br 1-800-995-397
+		  p 
+ p class="heading" Call from this computer:  p 
+ p class="note" This starts an immediate call from your browser to one of our experts. It works like a Skype call.  p 
+ p class="heading" Immediate UK call-back:  p 
+ p class="subheading" Your phone #:  p 
+ p class="note" One of our team will call your phone number within about 30 seconds.  p 
+ p class="title" Our Guarantee  p 

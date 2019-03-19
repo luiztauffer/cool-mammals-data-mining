@@ -1,0 +1,17 @@
+ p class="byline_article" 
+                 span class="byline" 
+                   span class="lowercase" by  span   span class="byline_author" Science  span   span 
+                  p 
+ p   em  strong By Larry O'Hanlon  strong   em    p 
+ p   em  strong  a href="discovery%20news" target="_blank" Discovery News  a   strong   em    p 
+ p  Most nature documentaries depict male African lions as layabouts who prefer to let the females do all the hunting. But a new study using pioneering new tools shows that the king of beasts could be doing his share after all.   p 
+ p  The bad rap of male lions comes from a lack of data on what the males are really up to in the habitats where most African lions live -- not on the open plains of the Serengeti, but in the bushier lands of Africa.   p 
+ p  By combining GPS collars that track lions' movements with airborne Light Detection and Ranging (LiDAR) measurements that provide 3-D maps of the landscape and vegetation, a team of researchers has discovered the male lions' secret: They are solitary predators who leap out of thick vegetation to ambush their prey. That's in contrast to the well known social hunting behaviors of lionesses.   p 
+ p  "We found a really strong correlation," said Scott Loarie of the Carnegie Institution for Science in Stanford, Calif., and the lead author of the paper on the lion discovery in the latest issue of the journal Animal Behavior.   p 
+ p  The thicker vegetation, as measured by LiDAR, is where the males are making their kills. What's more, it's also the most difficult place to directly observe lions using traditional, low-tech methods of field researchers. So it's no wonder field biologists have had a hard time seeing this hunting behavior.   p 
+ p  "For a very long time people have been putting radio collars on animals," commented conservation biologist Stuart Pimm of Duke University. "What is becoming exciting is that now we can tie that information into a lot of other information" like the vegetation, as was done in this study. "You get information you couldn't get any other way."   p 
+ p  When the GPS data indicated the lions were close together, it sometimes meant they were feeding on a recent kill. Another co-author on the paper, Craig Tambling of the University of Pretoria in South Africa, would then hike out and verify the kill on the ground.   p 
+ p  Then back in California, Loarie and another coauthor, Gregory Asner, studied the data and how the kill related to where the lions were beforehand. What they discovered is that the male lions are using thick vegetation to ambush their prey.   p 
+ p  "The technology enabled us to get good quantitative data," said Loarie.   p 
+ p  The backdrop to the work, said Loarie, is not just the technology and the insights about lions, but also the fact that vegetation thickness is one of the things that is intensely managed in African wildlife preserves.   p 
+ p  "One of the things that's kind of neat is that we have implications for management and conservation," Loarie said. That's important because across Africa wildlife preserves are being managed to enable tourists to see certain animals, like lions, elephants, rhinos and leopards, he said. So it's important to understand what the animal's habitat really is. If you have an animal in the wrong habitat, that is more like a zoo than a wildlife preserve.   p 

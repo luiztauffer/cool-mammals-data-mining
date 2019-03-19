@@ -1,0 +1,71 @@
+ p Julie has taught high school Zoology, Biology, Physical Science and Chem Tech.  She has a Bachelor of Science in Biology and a Master of Education.   p 
+ p class="nowrap" style="font-style: italic" Want to watch this again later?  p 
+ p  span class="nowrap" Log in or sign up to add this  span   span class="nowrap" lesson to a Custom Course.  span   p 
+ p class="nowrap"  a href=" academy login.html" data-cname="cust_courses_lesson_cta_login" test-id="cust_courses_lesson_cta_login" Login  a   span style="padding: 0 1em; font-size: smaller" or  span   a data-toggle="modal" href="#partialRegFormModal" data-cname="cust_courses_lesson_cta_register" test-id="cust_courses_lesson_cta_register" class="open-reg-form" Sign up  a   p 
+ p Naming animals is a tricky business. You need a descriptive name that isn't too long. It seems like sometimes scientists get it right, like the aptly named red fox, hammerhead shark and silverback gorilla.   p 
+ p And then sometimes they don't. I bring you the hedgehog. It is neither a hedge nor a hog, and yet, put those two words together and you have a prickly mammal that is more closely related to moles than hogs.   p 
+ p The  b hedgehog  b  is a mammal belonging to the Erinaceidae family. You probably haven't heard of the Erinaceidae family, but its a group of animals with pointy noses and round bodies. The other group in that family, besides hedgehogs, are gymnures, which look like spineless hedgehogs.   p 
+ p There are over 15 different species of hedgehog, and they got their name because they can be found in garden hedges and they make hog-like noises. Hmm, maybe scientists got the name right after all! Now that you have a basic idea of what a hedgehog is, let's explore its anatomy, behavior, habitat and lifespan.   p 
+ p Hedgehogs may be one of the oldest mammal groups, having remained relatively unchanged for around 15 million years. Their most distinguishable characteristic is their spines, which are modified hair made out of  b keratin  b , the same material as your hair and nails. Hedgehogs have 5,000 to 7,000 spines all over their body, with the exception of their underside, legs and face.   p 
+ p Looking at them, you might think hedgehog spines are the same as porcupine quills since they are both spiky structures used as protection. However, the spines of a hedgehog, unlike porcupine quills, are not barbed and do not come out easily. When frightened, the hedgehog rolls up into a ball, hiding its vulnerable head and belly, leaving the predator thousands of spines to contend with.   p 
+ p Hedgehogs are little fellas and measure from six to eight inches in length and weigh somewhere between less than one pound to three pounds, with their spines making up 35% of their weight.   p 
+ p Another neat feature of the hedgehog is its ability to hibernate, thus dropping its body temperature and reducing its metabolism in order to save energy and survive in colder regions or areas with minimal resources. While not all species hibernate, those that do usually begin the process in October or November and wake up in March or April.   p 
+ p Hedgehogs are burrowing creatures, and most are nocturnal. Their vision is poor, but their hearing is good, and their ability to smell is exceptional. Hedgehogs are  b omnivores  b , eating both meat and plants, but they will eat what is available to them, including worms, slugs, beetles, roots, fruit and even baby mice. They prefer to forage at night and have a voracious appetite, eating one-third of their total weight in a night.   p 
+ p Finally, one last strange hedgehog behavior. When they find something with a strong smell, they will chew it, mix it with their saliva and then use their tongue to apply it all over their bodies. Scientists are not sure why they employ this behavior, called  b anointing  b , but some suggest it is a sort of odor camouflage, helping the hedgehog smell like whatever region they just stumbled into.   p 
+ p While you might have a pet hedgehog, they are not native to North America. Hedgehogs are found in Europe, Africa and Asia. They have been introduced to other areas, like New Zealand, where they have wreaked havoc on native populations through competition and predation.   p 
+ p class="actionMessage" Get access risk-free for 30 days,
+			 br just create an account.  p 
+ p  em No obligation, cancel anytime.  em   p 
+ p  em Select a subject to preview related courses:  em   p 
+ p If you recall, hedgehogs can often be found in urban areas and in garden hedges. They can survive in warm or cold regions (remember they can hibernate) and can be found in deserts, grasslands, savannas and lightly forested regions. They tend to avoid wetlands or heavily forested areas.   p 
+ p Hedgehogs are popular pets, and they live a lot longer in captivity than in the wild. A lot of animals, like hawks, weasels and foxes, eat hedgehogs, so they typically only live two or three years in the wild. In captivity, however, they can live between four to six years, with some living past eight years.   p 
+ p Well, we know that the hedgehog probably should be named the spiny mole, or something that is more accurate than 'hedgehog' since it is neither a hedge or a hog. Remember, the  b hedgehog  b  is a small mammal from the Erinaceidae family that is covered in keratin spines. When frightened, the hedgehog curls up into a ball, thus protecting its vulnerable areas and exposing 5,000 to 7,000 spines. Hedgehogs also perform a peculiar behavior called  b anointing  b , in which they taste and chew an interesting object, mix it with their saliva and then apply it all over their bodies.   p 
+ p The hedgehog is an  b omnivore  b , eating a varied diet of insects, roots, and small mammals. They are native to Europe, Africa and Asia and have been introduced in New Zealand, where they are considered a pest. Hedgehogs can be found in a variety of habitats, including deserts, grasslands and wooded areas, and they get their name because they are often found in garden hedges in urban regions. Like many small mammals, hedgehogs have a short lifespan in the wild (two to three years) because they get eaten. They are often kept as pets where their lifespan is longer.  p 
+ p 
+				    span class="icon-unlock"   span 
+				   To unlock this lesson you must be a Study.com Member.
+				    br class="visible-xs" 
+
+				    a data-toggle="modal" href="#partialRegFormModal" data-cname="transcript_create_your_account" test-id="transcript_create_your_account" data-track-visible class="open-reg-form" Create your account  a 
+			     p 
+ p class="login-text" Already a member?  a data-cname="transcript_log_in" test-id="transcript_log_in" href=" academy login.html" Log In  a   p 
+ p class="login-text" 
+		Already registered?
+		
+		 a href=" academy login.html?cta=teacherPromo" class="standardLink" data-cname="teacher-promo-paywall__login" test-id="teacher-promo-paywall__login" 
+			Login here for access
+		  a 
+	  p 
+ p Did you know… We have over 160 college
+						courses that prepare you to earn
+						credit by exam that is accepted by over 1,500 colleges and universities. You can test out of the
+						first two years of college and save thousands off your degree. Anyone can earn
+						credit-by-exam regardless of age or education level.  p 
+ p To learn more, visit our  a href=" academy try earn-college-credit.html" data-cname="earning_credit_link" test-id="earning_credit_link" Earning Credit Page  a   p 
+ p Not sure what college you want to attend yet? Study.com has thousands of articles about every
+							imaginable degree, area of
+							study
+							and career path that can help you find the school that's right for you.  p 
+ p Get the unbiased info you need to find the right school.  p 
+ p Browse an area of study or degree level.  p 
+ p class="visible-xs"  span class="icon-arrow-left"   span  Back To Course  p 
+ p 
+							  span class="numChapters" 23  span  chapters |
+							  span class="numLessons" 296  span  lessons
+							 
+						  p 
+ p Next Lesson  p 
+ p ©  copyright 2003-2019 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		  p 
+ p Your Cart is Empty. Please Choose a Product.  p 
+ p Study.com video lessons have helped over  em class="red bold" 30 million  em 
+										students.  p 
+ p "I learned more in  em class="teal bold" 10 minutes  em  than 1 month of chemistry classes"  p 
+ p - Ashlee P.  p 
+ p "I aced the CLEP exam and earned  em class="green bold" 3 college credits!  em "  p 
+ p - Clair S.  p 
+ p test-id="testimonial_control_text" "The videos have changed the way I teach! The videos on Study.com accomplish in
+							 em class="red bold" 5 minutes  em  what would take me an entire class."  p 
+ p - Chris F.  p 

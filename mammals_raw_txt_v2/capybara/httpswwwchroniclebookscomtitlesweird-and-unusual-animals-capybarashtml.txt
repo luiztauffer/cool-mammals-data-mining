@@ -1,0 +1,10 @@
+ p 
+                     strong JavaScript seems to be disabled in your browser.  strong  br 
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                  p 
+ p class="sub-title" The Creative Company  p 
+ p  b By Allan Morey  b   p 
+ p   !-- Begin paragraph tag for all attributes, finishes on 83 -- 
+
+				  p 
+ p  For customer service related to chroniclebooks.com orders, call 1.800.759.0190 or email  a href="mailto:hello@chroniclebooks.com" hello@chroniclebooks.com.  a   p 
+ p class="bugs" Help Us to Keep Magento Healthy -  a href="http:  www.magentocommerce.com bug-tracking" onclick="this.target='_blank'"  strong Report All Bugs  strong   a  (ver. 1.14.2.2)  p 

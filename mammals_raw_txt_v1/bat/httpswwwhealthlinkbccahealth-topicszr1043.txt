@@ -1,0 +1,129 @@
+ p https:  www.healthlinkbc.ca health-topics zr1043  p 
+ p class="gov-menu-title" Find More Information on the Government of BC Website  p 
+ p  a name="top" id="Hwtop"  span class="HwAccessibilityText" Top of the page  span   a    p 
+ p fingerprint="151eb8e1" fingerprint-exact="92d69d90" Rabies is an infection caused by a
+			 virus. It affects the brain and spinal cord ( a class="HwLinkDefinition" rel="Definition" data-hwid="stn166121" href=" health-topics stn166121#stn166121-sec"  span class="HwLinkText" central nervous system  span   a ) of mammals, including humans. It is nearly always
+			 deadly if not treated before symptoms begin.   p 
+ p fingerprint="cdc1d84f" fingerprint-exact="db018b08" Animals that are
+			 infected with rabies—rabid animals—can spread the disease through their saliva or through
+			 brain tissue.   p 
+ p fingerprint="8203f7d5" fingerprint-exact="75d91f12" It
+			 is rare for people in Canada or the United States  to get rabies. It is more common in
+			 developing nations.  p 
+ p fingerprint="440ba111" fingerprint-exact="df511130"  People usually get rabies when a rabid animal bites them.  People in Canada and the U.S.  are most likely to get rabies
+			 from bats. sup class="Reference"  a class="HwLinkReference" rel="zr1045-Cit" data-hwid="hw181108" href=" health-topics hw181108#hw181108-Bib"  span class="HwAccessibilityText" footnote   span 1  a   sup  People in many other countries are most
+			 likely to get rabies from dog bites. sup class="Reference"  a class="HwLinkReference" rel="b70038086-5-Cit" data-hwid="hw181108" href=" health-topics hw181108#hw181108-Bib"  span class="HwAccessibilityText" footnote   span 2  a ,   sup    sup class="Reference"  a class="HwLinkReference" rel="ue5891-Cit" data-hwid="hw181108" href=" health-topics hw181108#hw181108-Bib"  span class="HwAccessibilityText" footnote   span 3  a   sup   p 
+ p fingerprint="bd57d5dc" fingerprint-exact="8de91b12" custom-edit="update" Bats, raccoons, skunks, foxes, and coyotes are the animals most likely to have rabies in Canada and the U.S. 
+  p 
+ p fingerprint="a400c954" fingerprint-exact="7e38619a" Sometimes the rabies virus can spread to pets, such as
+			 dogs, cats, and ferrets. But household pets rarely get rabies, because most of
+			 them get rabies vaccines. Pets that stay indoors are very unlikely to get
+			 rabies.   p 
+ p fingerprint="e8faf53b" fingerprint-exact="21c6efb9" It's possible to get rabies even when you don't see an
+			 animal bite. For example, bat bites or scratches may be so small that you don't
+			 notice them. If you or your children come in direct contact with a bat, or if
+			 you find a bat in a closed room with a sleeping person, call your doctor right
+			 away.   p 
+ p fingerprint="80f23cd9" fingerprint-exact="242162c0" Signs of rabies  b in animals  b 
+			 may include drooling, foaming at the mouth, or
+			  a class="HwLinkDefinition" rel="Definition" data-hwid="stp1255" href=" health-topics stp1255#stp1255-sec"  span class="HwLinkText" paralysis  span   a . A pet with rabies also may behave
+			 differently than usual, such as acting shy when the pet usually is friendly. A
+			 wild animal with rabies may have no fear of humans.  p 
+ p fingerprint="6cb039b8" fingerprint-exact="6a0d300b" custom-edit="update" Rabies  b in humans  b  begins with symptoms such as fever, headache, difficulty swallowing, excessive drooling, muscle spasm or weakness, or strange behaviour. Later, symptoms become more serious and can include restlessness, paralysis,  a class="HwLinkDefinition" rel="Definition" data-hwid="sth149536" href=" health-topics sth149536#sth149536-sec"  span class="HwLinkText" hallucinations  span   a , and  a class="HwLinkDefinition" rel="Definition" data-hwid="sts14469" href=" health-topics sts14469#sts14469-sec"  span class="HwLinkText" seizures  span   a . The final stage is coma and death.
+  p 
+ p fingerprint="202c592f" fingerprint-exact="59a871f8" custom-edit="update" If you think you've been exposed to the rabies virus, it's very important to get medical care before symptoms begin. If symptoms appear, it's too late for a cure, and the infection will probably lead to death. The time from exposure to the virus until symptoms appear usually is 3 to 8 weeks. In rare cases, it may be shorter or much longer. The time before symptoms start depends on the location of the bite. For example, a bite on the face will cause symptoms much sooner than a bite on a foot.
+  p 
+ p fingerprint="0920193a" fingerprint-exact="e4342156" custom-edit="update" The treatment for someone who has been exposed to rabies is a series of shots known as post-exposure prophylaxis (PEP), also known as rabies post-exposure prophylaxis (RPEP). These shots help the body's  a class="HwLinkDefinition" rel="Definition" data-hwid="sti150867" href=" health-topics sti150867#sti150867-sec"  span class="HwLinkText" immune system  span   a  destroy the disease in its early stages. Getting PEP before symptoms appear usually prevents infection, and you are likely to recover.
+  p 
+ p fingerprint="894b2b62" fingerprint-exact="68c39ed1" In Canada and the U.S., PEP has two parts, usually given at the same time:  p 
+ p fingerprint="82344b50" fingerprint-exact="12f52b04" custom-edit="update" Some vaccines that aren't approved for use in Canada or the U.S. are used in developing countries. The World Health Organization (WHO) approves of these vaccines. sup class="Reference"  a class="HwLinkReference" rel="zj1107-Cit" data-hwid="hw181108" href=" health-topics hw181108#hw181108-Bib"  span class="HwAccessibilityText" footnote   span 4  a   sup  But they may not be adequate or may cause worse reactions than newer vaccines. If you are exposed to rabies outside of Canada or the U.S. and have any choice, request HDCV (human diploid cell vaccine), RVA (rabies vaccine, adsorbed), or PCEC (purified chick embryo cell culture). If these aren't available,  b it is better to accept one of the other vaccines than to get no vaccine at all  b . As soon as you can return home, ask your doctor about whether you should get any more vaccines.
+  p 
+ p fingerprint="c060f1fd" fingerprint-exact="b6511a52" custom-edit="update" First, wash the animal bite, scratch, or open sore with soap and water for at least 15 minutes. Then call your doctor and local health unit right away. They can advise you on what to do next.
+  p 
+ p fingerprint="8245513c" fingerprint-exact="0c493fa0" If you've been bitten by or exposed to an animal at
+			  b low  b  risk for having rabies, such as a pet, the animal
+			 will be captured and watched
+			 for signs of rabies. If there's a chance that the
+			 animal is rabid, you will start getting shots right away.   p 
+ p fingerprint="380a1990" fingerprint-exact="348c9eec" If you've been bitten by or exposed to an animal at  b high  b  risk for having rabies, you will start getting
+			 shots right away. If possible, the animal will be watched for signs of
+			 rabies or will be killed for testing. If it turns out that the animal doesn't have rabies, you can
+			 stop the shots.  p 
+ p fingerprint="74563afd" fingerprint-exact="581364b8" If an animal shows signs of rabies but
+			 can't be captured for testing, it often is assumed to be rabid.  p 
+ p fingerprint="53b17283" fingerprint-exact="56b18e89" To avoid
+			 contact with the rabies virus:  p 
+ p fingerprint="249a7af8" fingerprint-exact="c3df159b"  Preventive rabies vaccination may be recommended if you
+			 are at high risk of exposure because of your work or hobbies.  It may also be
+			 recommended if you plan to travel in areas where rabies
+			 is a risk, such as parts of Asia, Africa, and Central and South America. Contact your doctor or local public health department for
+			 more information.   p 
+ p fingerprint="87a7a6c1" fingerprint-exact="4021dd4e"  b Learning about rabies:  b   p 
+ p fingerprint="40556888" fingerprint-exact="6b358897"  b Getting treatment:  b   p 
+ p fingerprint="e2fa5fbe" fingerprint-exact="24dbf162"  b Ongoing concerns:  b   p 
+ p  span class="HwInfoLabel" 
+            Adaptation Date:
+            span 1 17 2019
+          p 
+ p  span class="HwInfoLabel" 
+            Adapted By:
+            span 
+          HealthLink BC
+          p 
+ p  span class="HwInfoLabel" 
+            Adaptation Reviewed By:
+            span  span class="HwInfoName" HealthLink BC  span   p 
+ p Next Section:
+            p 
+ p Previous Section:
+            p 
+ p Next Section:
+            p 
+ p Previous Section:
+            p 
+ p Next Section:
+            p 
+ p Previous Section:
+            p 
+ p Next Section:
+            p 
+ p Previous Section:
+            p 
+ p Next Section:
+            p 
+ p Previous Section:
+            p 
+ p  span class="HwInfoLabel" 
+            Adaptation Date:
+            span 1 17 2019
+          p 
+ p  span class="HwInfoLabel" 
+            Adapted By:
+            span 
+          HealthLink BC
+          p 
+ p  span class="HwInfoLabel" 
+            Adaptation Reviewed By:
+            span  span class="HwInfoName" HealthLink BC  span   p 
+ p This information does not replace the advice of a doctor. Healthwise, Incorporated disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the  a href="https:  www.healthwise.org specialpages legal terms.aspx" Terms of Use  a  and  a href="https:  www.healthwise.org specialpages legal privacy.aspx" Privacy Policy  a . Learn  a href=" health-topics support-abouthw#support-abouthw-editorial" How this information was developed  a .  p 
+ p class="HwCopyrightLink" To learn more about Healthwise, visit  a href="https:  www.healthwise.org" target="_blank" Healthwise.org  a .
+                p 
+ p © 1995-2019 Healthwise, Incorporated. All rights reserved. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.  p 
+ p HealthLink BC, your provincial health line, is as close as your phone or the web any time of the day or night, every day of the year.
+  p 
+ p Call 8-1-1 toll-free in B.C., or for the deaf and hard of hearing, call 7-1-1.
+  p 
+ p You can speak with a health service navigator, who can also connect you with a:
+  p 
+ p Translation services are available in more than 130 languages.
+  p 
+ p HealthLinkBC Files are easy-to-understand fact sheets on a range of public health and safety topics including disease prevention and immunizations.
+  p 
+ p  span class="cta-link"  a href=" services-and-resources healthlinkbc-files category disease-prevention" Browse Disease Prevention HealthLinkBC Files  a   span 
+  p 
+ p  span class="cta-link"  a href=" services-and-resources healthlinkbc-files" Search all HealthLinkBC Files  a   span 
+  p 
+ p If you are looking for health services in your community, you can use our directory to FIND hospitals, clinics, and other resources.
+  p 
+ p  span class="cta-link"  a href=" services-and-resources find-services" FIND Services and Resources  a   span 
+  p 

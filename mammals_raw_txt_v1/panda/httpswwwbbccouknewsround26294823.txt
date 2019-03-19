@@ -1,0 +1,28 @@
+ p class="newsround-story-body__text" role="introduction" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$1" There are very mixed feelings in Belgium right now as the country welcomes two giant pandas from China.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$2" Xing Hui and Hao Hao are a gift from the authorities in China to celebrate good relations between the two countries.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$3" However, their arrival has caused a bit of a stir because they're set to live in a zoo in the south of the country.   p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$5" Belgium is roughly split into two parts - the Dutch-speaking areas in the north and the French-speaking areas in the south.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$6" Belgian Prime Minister Elio Di Rupo is a French-speaker and he lives in the south.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$8" He chose to let the pandas live in Pairi Daiza park, which is a zoo in the south of the country, which many people said was unfair.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$9" The prime minister has dismissed the claims, saying the Antwerp Zoo in the north, had made no official request to house the animals.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$11" The whole idea of pandas as gifts is known as 'panda diplomacy' and it has a long tradition in China.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$12" Dr Paul Jepson is a conservation expert from the University of Oxford who's researched panda diplomacy. He answered some questions for us…  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$14" Pandas are native to China and they're seen as a national treasure of China; all living pandas, wherever they might be, are the property of the Chinese state.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$15" Panda diplomacy describes how the Chinese authorities let chosen governments keep pandas as a mark of respect between their countries.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$16" Having a panda can really boost the status of a zoo, as Edinburgh Zoo has seen since Tian Tian arrived in 2011.   p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$17" There aren't many zoos in the world that get to keep pandas - this is because it is up to China to decide which country gets them.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$18" Each zoo also has to pass strict tests to be allowed a panda, and it also costs a lot of money.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$19" Governments pay China to loan the panda; but then providing food and caring for the pandas is very expensive too.   p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$22" The term 'Panda diplomacy' came about in the 1960s when China decided it should improve its international relations.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$23" At the time there was a lot of tension between the east and the west, mainly the former Soviet Union and the USA.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$24" The leader of China, Mao Zedong, gifted pandas to the Soviet Union, the USA and also the UK during historic state visits in the 1960s and 1970s.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$25" In the 1980s China moved away from 'gifting pandas' to countries, and instead started to loan them out.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$26" As international politics changed, Chinese authorities started to loan pandas to countries that they wanted to have good trade relations with.   p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$27" Edinburgh's pandas marked a trade deal involving Scotland selling China's salmon, land-rovers and offshore drilling technology.    p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$28" According to Belgian news reports, the pandas heading there in 2014 are part of a trade deal for advanced pollution technology.  p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$31" Not in the same way as China and its pandas. Over the centuries many countries have gifted exotic wildlife to other world cities as a token of friendship.   p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$32" This is not so common nowadays because most exotic wildlife is bred by, and exchanged between, zoos.     p 
+ p class="newsround-story-body__text" data-reactid=".1scftlpc0z4.1.4.2.0.0.0.$33" What's distinct about pandas is that no one else other than the Chinese government is allowed to own one.  p 
+ p class="newsround-promo__headline" data-reactid=".1scftlpc0z4.1.7.0.1.$47514335.0.0.1.0" Bieber: I've been feeling super disconnected  p 
+ p class="newsround-promo__headline" data-reactid=".1scftlpc0z4.1.7.0.1.$47513681.0.0.1.0" Is this the greatest Wales side ever?  p 
+ p class="newsround-promo__headline" data-reactid=".1scftlpc0z4.1.7.0.1.$47513673.0.0.1.0" Six Nations: Are England going to take the Grand Slam?  p 

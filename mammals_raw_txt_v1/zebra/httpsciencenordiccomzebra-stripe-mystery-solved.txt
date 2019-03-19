@@ -1,0 +1,21 @@
+ p A pattern of narrow black stripes keeps blood-sucking insects away.  p 
+ p That’s the evolutionary explanation for the seemingly impractical outfit worn by zebras, according to a study just published in the Journal of Experimental Biology.  p 
+ p The researchers studied how horseflies – known for their nasty bites – were attracted to various colours.  p 
+ p They set up models of horses with different colours in a field – one of which painted with black and white stripes.  p 
+ p It turned out that the flies were particularly attracted by the waves emitted by black material.  p 
+ p But the great news was that the flies were even more attracted to white surfaces with black stripes than by all-white surfaces.  p 
+ p ”This came as a surprise to us because you still have dark areas in the striped pattern,” Professor Susanne Åkesson, of Lund University in Sweden, told the BBC. “But the narrower and more zebra-like the stripes were, the less attractive the pattern was to the flies.”  p 
+ p ScienceNordic turned to the Copenhagen Zoo for a comment on the new finding:  p 
+ p “The results seem well-founded,” says zoologist Mikkel Stelvig. “They have even discovered that when the thickness of the stripes comes below a certain point, the stripes are even better at keeping the flies away.”  p 
+ p And according to the study, the zebra stripes are below this level of thickness. This is particularly interesting because it indicates that the impact of the flies has played a part in the evolution of the striped pattern.  p 
+ p Stelvig is keen to point out that this is probably not the only reason why zebras are striped.  p 
+ p “When zebras move in large groups, predators find it difficult to make heads and tails of the individual animal – and that’s crucial for them to identify their prey.”  p 
+ p --------------------------------------------------  p 
+ p  a href="http:  videnskab.dk miljo-naturvidenskab derfor-har-zebraen-striber" target="_blank" Read this article in Danish at videnskab.dk  a   p 
+ p  a href=" insidenews" All inside news  a   p 
+ p id="footer-name" © ScienceNordic.com  span id="footer-email" Email:  a href="mailto:editor@sciencenordic.com" editor@sciencenordic.com  a   span   p 
+ p id="footer-adr"  strong ScienceNordic offices:  strong  br 
+		Copenhagen: c o Videnskab.dk, Trekronergade 26, 2500 Valby, Denmark. Phone +45 70 70 17 88 br 
+		Oslo: c o Forskning.no, Postbox 5 Torshov, 0412 Oslo, Norway. Phone +47 22 80 98 90  p 
+ p id="footer-about"  strong ScienceNordic.com - Independent news on research in the Nordic countries  strong   p 
+ p id="footer-flags"  span class="footer-flag flag-dk" Denmark  span   span class="footer-flag flag-no" Norway  span   span class="footer-flag flag-se" Sweden  span   span class="footer-flag flag-fi" Finland  span   span class="footer-flag flag-is" Iceland  span   p 

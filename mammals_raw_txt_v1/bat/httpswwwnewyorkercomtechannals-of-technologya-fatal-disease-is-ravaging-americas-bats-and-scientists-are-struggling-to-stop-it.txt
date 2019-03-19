@@ -1,0 +1,145 @@
+ p class="Byline__by___37lv8" By  a class="Link__link___3dWao  " title="J. R. Sullivan" rel="author" href=" contributors j-r-sullivan" J. R. Sullivan  a   p 
+ p class="ArticleTimestamp__timestamp___1klks " February 18, 2018  p 
+ p Since white-nose syndrome was first identified, just twelve years ago, it has spread to thirty-one states. The consequences—for bats, humans, and the U.S. economy—could be disastrous.  p 
+ p Late  span data-page="page_1"   span last summer, the biologist Mark Gumbert began flying over the
+farmlands of Iowa, looking for bats. As the animals foraged and moved
+through the night, he followed from above, circling the rivers and
+fields in his single-engine Cessna 172, trying his best not to lose the
+signals from their transmitters. Over the past decade or so, Gumbert has
+pioneered the study of bat migrations using radio telemetry, a method of
+wildlife tracking  a class="ArticleBody__link___1FS03" href="https:  www.newyorker.com tech elements remembering-the-craigheads-pioneers-of-wildlife-biology" typically
+reserved  a  for caribou, moose, and other big game, which tend to travel at moderate
+speeds. “A wolf running across the ground can move pretty quick, but
+they’re not going to run all night,” Gumbert told me recently. A bat, on
+the other hand, can be nearly impossible to trail on foot or by truck.
+Gumbert and his team at Copperhead Environmental Consulting were the
+first to observe an entire migration from the air, and they have since
+conducted surveys in New York, North Carolina, Ohio, Tennessee, West
+Virginia, and elsewhere. But the project that brought Gumbert to Iowa
+was unlike any he had undertaken before—tracking the  a class="ArticleBody__link___1FS03" href="https:  www.newyorker.com magazine 2010 03 29 batless" northern
+long-eared bat  a ,  em class="" Myotis septentrionalis  em , a species that is among those most
+threatened by a dangerous fungal disease called white-nose syndrome.  p 
+ p Since the syndrome was first identified, twelve years ago, it is
+estimated to have killed more than six million bats nationwide, a number
+that has undoubtedly risen since the U.S. Fish and Wildlife Service
+issued its most recent official estimate, in 2012. As of September,
+2017, the disease had spread to thirty-one states, some of which have
+suffered ninety-per-cent declines in their bat populations; the crisis,
+which began in New York, now extends as far west as Washington. “I think
+most states would say it’s not a matter of if white nose is going to
+show up but when,” Kelly Poole, the endangered-species coördinator for
+the Iowa Department of Natural Resources, told me. The disease disrupts
+the bats’ hibernation, causing them to wake up in winter, exert energy
+looking for food, and, in time, starve. It is almost always fatal,
+leaving  a class="ArticleBody__link___1FS03" href="https:  www.newyorker.com tech elements the-fate-of-earth" caves full of
+bones  a  in its
+wake. Scientists have yet to find a cure or treatment. “I get a sense
+that we may actually be witnessing the extinction of a couple of
+species, at least regionally,” Gumbert said. “We may not lose a species
+completely, but it wouldn’t surprise me if we did.”  p 
+ p In a state such as Iowa, where the economy is based largely on
+agriculture, white nose is particularly worrisome. According to a study
+published in 2011 in the journal  em class="" Science  em , bats consume enough insects
+to save U.S. farmers  a class="ArticleBody__link___1FS03" href="https:  www.sciencedaily.com releases 2011 03 110331142212.htm" target="_blank" an estimated $22.9 billion a
+year  a  in pest control and crop damage, a conclusion echoed by a follow-up
+study in 2015. The findings suggest that a nationwide decline in bats
+could result in higher food prices, owing to an uptick in pesticide use
+and a reduction in crop yields. “That cost gets passed down to the
+consumer, and you start seeing it at the grocery stores,” Piper Roby,
+Copperhead’s research director, told me. She also noted that increased
+pesticide use means more harmful chemicals in the ecosystem. “It’s just
+this cascade effect if you remove a top-down predator, and you start to
+see the effects of it years later,” she said.  p 
+ p Gumbert’s efforts in Iowa, which began last August, were something of a
+stopgap measure. The thinking was that, if he could track the northern
+long-eared bats, often known simply as northerns, along their migration
+routes, he would be able to identify where they ended up hibernating.
+This, in turn, would allow state officials to protect the animals from
+human encroachment, including wind-energy development, while they were
+at their most vulnerable. As Poole, who is overseeing the project for
+the D.N.R., put it, “We don’t know where the bats are hanging out.” The
+fact that they are small and secretive complicates the process. Unlike
+the bats of campy horror films, northerns tend not to form large
+clusters in caves. If they did, Poole said, “then you’d have, like, one
+cave to protect.” Instead, Gumbert told me, “They may actually be
+roosting in the ground and in little crevices they can crawl into.” They
+might be in groups of two or three, or they might be alone. He and his
+team fitted thirty bats with transmitters in the course of the project,
+seven of which were active in the field at the time. None, it seemed,
+had ended up in the same winter refuge, known as a hibernaculum, or had
+really migrated much at all; they were mostly making small jumps. “We’re
+not exactly sure what they’re doing yet,” Roby said.  p 
+ p To track those thirty bats required months of near-sleepless nights.
+When conducting an aerial survey in the summer or fall, the team first
+has to catch the bats one by one, by setting up nets in areas of known
+bat activity. Once they catch one, they document its sex, weight, and
+over-all health, then put a numbered band on one forearm and fit it with
+a radio transmitter roughly the size and shape of a Tic Tac. Gumbert
+takes off at dusk each evening. He searches for one bat at a time,
+following the beeps from a receiver in the Cessna. Once he pinpoints one
+bat’s location, he begins looking for the next; he will cycle through
+the group again and again for the next four span data-page="page_final"   span  or five hours, waiting for
+one to make a move. When that happens, Gumbert leaves the rest behind
+and follows the bat however far it travels—in one case, more than two
+hundred and twenty miles in the course of several days. It is mentally
+exhausting work, he told me. “Not only am I listening to the beeps and
+going through the frequencies of the bats that are out there; I’m also
+looking for other aircraft,” Gumbert said. But he also finds flying at
+night peaceful. In Iowa, as he tracked the bats, he picked out porch
+lights scattered across the otherwise black fields of corn and soybeans.
+“If there’s not a lot of haze, you can see the reflection of the moon on
+the river below,” he said. Sometimes people will notice his plane
+circling their property. “Then they get their big flashlight out and
+they spotlight us, or they get their laser pointer,” he told me.  p 
+ p Aside from the practical concerns of protecting the species, one of the
+biggest challenges moving forward, Poole said, will be getting the
+public to recognize the threat that white nose poses. It doesn’t help
+the bats’ case, she added, that they’re not what most people would
+consider  a class="ArticleBody__link___1FS03" href="https:  www.newyorker.com magazine 2011 03 21 back-to-the-harbor" charismatic
+megafauna  a .
+When a conspicuous creature, such as a lion or
+ a class="ArticleBody__link___1FS03" href="https:  www.newyorker.com tech elements carnivores-next-door" wolf  a ,
+teeters on extinction, folks tend to take notice. Last November, the
+outcry over the U.S. Fish and Wildlife Service’s plan to allow the import of
+elephant trophies from two African countries was so severe that
+ a class="ArticleBody__link___1FS03" href="https:  twitter.com realDonaldTrump status 931685146415255552" target="_blank" President Trump had to get
+involved  a .
+Neither the northern long-eared bat, the little brown bat, the gray bat,
+the Indiana bat, nor any of the other species now at risk from white
+nose has inspired such widespread support, though their loss would no
+doubt affect the country more severely than would the disappearance of
+the elephant. But Roby told me that, even now, with white nose as
+widespread as it is, researchers are already behind in simply trying to
+understand the lives of bats—the northerns, in particular. “All of a
+sudden, we’re starting to lose these populations, and we don’t know how
+to help them because we don’t know what they need,” she said.  p 
+ p By November 1st of last year, Gumbert and the
+Copperhead team had concluded their aerial monitoring and were wrapping
+up the last of their field work. They had confirmed the location of only
+one hibernaculum. The bats had not migrated far—about twenty miles.
+Ultimately, the project had led to more questions than it had answered,
+Roby told me. Gumbert speculated that, for the time being, the most
+effective way to help the bats, at least in Iowa, would be to protect
+the forested areas along the major waterways where the animals are known
+to forage and hibernate. Unlike most other endangered or threatened
+species, he noted, northerns are generalists; they do not require
+a specific habitat to thrive. Since Iowa isn’t short on bat habitat, what
+northerns need most remains a mystery. Still, Gumbert said that he is
+encouraged by signs that some species in the United States and abroad
+may be developing an immunity to white nose. “I’m hopeful that bats
+build up a resistance and they do survive,” he said. “I’m terrified to
+think of my two-year-old growing up and there not being bats on the
+landscape.”  p 
+ p class="ArticleContributors__contributorBioText___3m1QB" J. R. Sullivan is an editor for Men’s Journal.  p 
+ p class="NewsletterSubscribe__newsletterDek___29WDu" Sign up for our daily newsletter and get the best of  i The New Yorker  i  in your in-box.  p 
+ p class="Byline__by___37lv8" By  a class="Link__link___3dWao  " title="Jane Mayer" rel="author" href=" contributors jane-mayer" Jane Mayer  a   p 
+ p class="Byline__by___37lv8" By  a class="Link__link___3dWao  " title="Adam Gopnik" rel="author" href=" contributors adam-gopnik" Adam Gopnik  a   p 
+ p class="Byline__by___37lv8" By  a class="Link__link___3dWao  " title="Masha Gessen" rel="author" href=" contributors masha-gessen" Masha Gessen  a   p 
+ p class="Byline__by___37lv8" By  a class="Link__link___3dWao  " title="Megan K. Stack" rel="author" href=" contributors megan-k-stack" Megan K. Stack  a   p 
+ p class="Byline__by___37lv8" By  a class="Link__link___3dWao  " title="David Samuels" rel="author" href=" contributors david-samuels" David Samuels  a   p 
+ p class="Video__title___3QAw2" Endangered Species Light Up the Empire State Building  p 
+ p class="Video__description___1pPO8" Between 9 P.M. and midnight on August 1st, the southern face of the New York City skyscraper became a giant projection screen filled with images of a snow leopard, a manta ray, and other imperilled land and sea creatures.  p 
+ p class="RecirculationRecommendedStories__byline___eynVy" By  a class="Link__link___3dWao  " href="http:  www.newyorker.com contributors j-r-sullivan" title="J. R. Sullivan" rel="author" J. R. Sullivan  a   p 
+ p class="RecirculationRecommendedStories__byline___eynVy" By  a class="Link__link___3dWao  " href="http:  www.newyorker.com contributors elizabeth-kolbert" title="Elizabeth Kolbert" rel="author" Elizabeth Kolbert  a   p 
+ p class="RecirculationRecommendedStories__byline___eynVy" By  a class="Link__link___3dWao  " href="http:  www.newyorker.com contributors elizabeth-kolbert" title="Elizabeth Kolbert" rel="author" Elizabeth Kolbert  a   p 
+ p class="RecirculationRecommendedStories__byline___eynVy" By  a class="Link__link___3dWao  " href=" contributors jane-mayer" title="Jane Mayer" rel="author" Jane Mayer  a   p 

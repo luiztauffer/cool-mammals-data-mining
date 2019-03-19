@@ -1,0 +1,65 @@
+ p Elizabeth has been involved with tutoring since high school and has a B.A. in Classics.   p 
+ p class="nowrap" style="font-style: italic" Want to watch this again later?  p 
+ p  span class="nowrap" Log in or sign up to add this  span   span class="nowrap" lesson to a Custom Course.  span   p 
+ p class="nowrap"  a href=" academy login.html" data-cname="cust_courses_lesson_cta_login" test-id="cust_courses_lesson_cta_login" Login  a   span style="padding: 0 1em; font-size: smaller" or  span   a data-toggle="modal" href="#partialRegFormModal" data-cname="cust_courses_lesson_cta_register" test-id="cust_courses_lesson_cta_register" class="open-reg-form" Sign up  a   p 
+ p If you think of a wolf, you might imagine it living in a forest, maybe somewhere up north where it's pretty cold. That's one place where wolves can live, but wolves also live in all kinds of other places.   p 
+ p An animal's  b habitat  b  is the type of place where the animal lives. Wolves can live in all different habitats including…   p 
+ p Wolves once lived all over the United States, Canada, Europe, Asia, and South America. But people are afraid of wolves, so in places where a lot of people live, people hunted the wolves or forced them away. Today, wolves mostly live in places where there aren't a lot of people. That's why a lot of wolves today live in cold, empty places. The wolves are just looking for habitats without a lot of people.   p 
+ p People killed wolves and forced them to leave the red areas on the map. But killing all the wolves actually caused other problems. For example, in many parts of the United States, wolves used to hunt and eat deer. With all the wolves gone, there were too many deer, and all the deer started destroying forests. Today, people are trying to bring wolves back to some of the habitats in red on the map, to bring back the balance of wolves and deer.   p 
+ p Wolves can live in all different habitats, but the wolves have to change the way they live depending on their habitat.   p 
+ p Wolves are  b carnivores  b , which means that they eat other animals to live. Wolves live in packs. Every wolf pack claims a certain amount of territory within its habitat, and hunts for food inside that territory. The members of the pack work together to hunt and kill much larger animals.   p 
+ p class="actionMessage" Get access risk-free for 30 days,
+			 br just create an account.  p 
+ p  em No obligation, cancel anytime.  em   p 
+ p  em Select a subject to preview related courses:  em   p 
+ p Wolf packs hunt and eat different things depending on what kind of habitat they live in. Depending on their habitat, they might eat deer, buffalo, caribou, beavers, mice, rabbits, squirrels, or other animals.   p 
+ p A wolf's habitat also changes when it has its babies. Wolves that live further north have their babies in the late winter and early spring, around March to May. That way, the babies aren't exposed to the coldest days of winter while they're still young and small. Wolves that live further south have their babies earlier, because the winter isn't so bad.   p 
+ p Wolves can live in many different types of  b habitat  b , including forests, deserts, and icy cold places. People once drove wolves away, but that caused other problems, so now people in some places are trying to bring the wolves back. The habitat where a wolf lives changes what kind of food the wolf can catch in its territory, and when the wolf has babies.  p 
+ p 
+				    span class="icon-unlock"   span 
+				   To unlock this lesson you must be a Study.com Member.
+				    br class="visible-xs" 
+
+				    a data-toggle="modal" href="#partialRegFormModal" data-cname="transcript_create_your_account" test-id="transcript_create_your_account" data-track-visible class="open-reg-form" Create your account  a 
+			     p 
+ p class="login-text" Already a member?  a data-cname="transcript_log_in" test-id="transcript_log_in" href=" academy login.html" Log In  a   p 
+ p class="login-text" 
+		Already registered?
+		
+		 a href=" academy login.html?cta=teacherPromo" class="standardLink" data-cname="teacher-promo-paywall__login" test-id="teacher-promo-paywall__login" 
+			Login here for access
+		  a 
+	  p 
+ p Did you know… We have over 160 college
+						courses that prepare you to earn
+						credit by exam that is accepted by over 1,500 colleges and universities. You can test out of the
+						first two years of college and save thousands off your degree. Anyone can earn
+						credit-by-exam regardless of age or education level.  p 
+ p To learn more, visit our  a href=" academy try earn-college-credit.html" data-cname="earning_credit_link" test-id="earning_credit_link" Earning Credit Page  a   p 
+ p Not sure what college you want to attend yet? Study.com has thousands of articles about every
+							imaginable degree, area of
+							study
+							and career path that can help you find the school that's right for you.  p 
+ p Get the unbiased info you need to find the right school.  p 
+ p Browse an area of study or degree level.  p 
+ p class="visible-xs"  span class="icon-arrow-left"   span  Back To Course  p 
+ p 
+							  span class="numChapters" 11  span  chapters |
+							  span class="numLessons" 902  span  lessons
+							 
+						  p 
+ p Next Lesson  p 
+ p ©  copyright 2003-2019 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		  p 
+ p Your Cart is Empty. Please Choose a Product.  p 
+ p Study.com video lessons have helped over  em class="red bold" 30 million  em 
+										students.  p 
+ p "I learned more in  em class="teal bold" 10 minutes  em  than 1 month of chemistry classes"  p 
+ p - Ashlee P.  p 
+ p "I aced the CLEP exam and earned  em class="green bold" 3 college credits!  em "  p 
+ p - Clair S.  p 
+ p test-id="testimonial_control_text" "The videos have changed the way I teach! The videos on Study.com accomplish in
+							 em class="red bold" 5 minutes  em  what would take me an entire class."  p 
+ p - Chris F.  p 

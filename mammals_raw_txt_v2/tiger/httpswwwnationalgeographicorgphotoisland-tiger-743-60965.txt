@@ -1,0 +1,46 @@
+ p style="margin-top:16px"  strong class="ng-padding-horizontal ng-color-default"  a class="project-nav-title" href=" education" title="Go to the Education home page" Education  a   strong   p 
+ p class="ng-margin-medium-bottom ng-width-1-1 ng-width-medium-1-2" itemprop="alternativeTitle" Photo:  A male Sumatran tiger taken in 2007  p 
+ p class="label ng-c-kicker ng-margin-small-bottom" Grades  p 
+ p class="data ng-margin-remove" All  p 
+ p Indigenous only to the island of Sumatra, Indonesia, the Sumatran tiger is a critically endangered species. Threatened by deforestation and poaching, fewer than 500 Sumatran tigers remain in the wild. The Sumatran tiger is the smallest species of tiger in the world, growing only to about 136 kilograms (300 pounds). (Siberian tigers weigh twice this.) The Sumatran tiger may have evolved to a smaller species due to its isolated island habitat, a process called insular dwarfism.  p 
+ p  strong Best For  strong   br 
+                            6 - 12 and up
+                          p 
+ p  strong Subjects  strong   br 
+                            Earth science, Biology, Geography
+                          p 
+ p class="other-views"  strong Appropriate For  strong   br 
+                              p 
+ p An island is a body of land surrounded by water  p 
+ p class="ng-margin-top-remove" The audio, illustrations, photos, and videos are credited beneath the media asset, except for promotional images, which generally link to another page that contains the media credit. The Rights Holder for media is the person or group credited.  p 
+ p Photograph by  a href="http:  ngm.nationalgeographic.com myshot gallery 22811" Stephen Shaw  a , My Shot  p 
+ p For information on user permissions, please read our  a href=" terms-of-service " target="_blank" rel="noopener noreferrer" title="terms of service" Terms of Service  a . If you have questions about licensing content on this page, please contact  a href="mailto:ngimagecollection@natgeo.com" ngimagecollection@natgeo.com  a  for more information and to obtain a license. If you have questions about how to cite anything on our website in your project or classroom presentation, please visit our  a href=" faq " FAQ page  a .
+      p 
+ p Some media assets (videos, photos, audio recordings and PDFs) can be downloaded and used outside the National Geographic website according to the  a href=" terms-of-service " target="_blank" rel="noopener noreferrer" title="Terms of Service" Terms of Service  a . If a media asset is downloadable, a download button appears in the lower right hand corner ( img alt="download" src=" static images download.15b252b7df6f.png" title="download" class="flush" ) of the media viewer. If no button appears, you cannot download or save the media.
+      p 
+ p Text on this page is printable and can be used according to our  a href=" terms-of-service " target="_blank" rel="noopener noreferrer" title="Terms of Service" Terms of Service  a .
+      p 
+ p Any interactives on this page can only be played while you are visiting our website. You cannot download interactives.
+      p 
+ p  This photo is used in the following collections:  p 
+ p  strong  a href=" topics endangered-species " endangered species  a   strong   p 
+ p  strong  a href=" topics tigers " tigers  a   strong   p 
+ p  strong  a href=" activity cats-and-their-coats " Cats and Their Coats  a   strong  br  small class="ng-text-muted" Grades K - 2  small   p 
+ p  strong  a href=" activity track-leatherback-sea-turtles " Track Leatherback Sea Turtles  a   strong  br  small class="ng-text-muted" Grades 3 - 5  small   p 
+ p  strong  a href=" activity captive-breeding-case-studies " Captive Breeding Case Studies  a   strong  br  small class="ng-text-muted" Grades 9 - 12  small   p 
+ p  strong  a href=" activity introduction-captive-breeding " Introduction to Captive Breeding  a   strong  br  small class="ng-text-muted" Grades 9 - 12  small   p 
+ p  strong  a href=" activity people-and-whales-a-history " People and Whales: A History  a   strong  br  small class="ng-text-muted" Grades 3 - 5  small   p 
+ p class="ng-margin-bottom-remove ng-text-right"  a href=" activity list " See All Activities »  a   p 
+ p  strong  a href=" media endangered-animals " Endangered Animals  a   strong  br  small class="ng-text-muted" Grades 3 - 12  small   p 
+ p  strong  a href=" media catching-200-year-old-whale " Catching a 200-Year-Old Whale   a   strong  br  small class="ng-text-muted" Grades 3 and up  small   p 
+ p  strong  a href=" thisday jul29 international-tiger-day " International Tiger Day  a   strong  br  small class="ng-text-muted" Grades 2 - 12  small   p 
+ p  strong  a href=" thisday dec14 monkey-day " Monkey Day  a   strong  br  small class="ng-text-muted" Grades 3 - 12  small   p 
+ p  strong  a href=" encyclopedia zoo " zoo  a   strong  br  small class="ng-text-muted" Grades 7 and up  small   p 
+ p  strong  a href=" thisday dec12 chinese-river-dolphin-declared-extinct " Chinese River Dolphin Declared Extinct  a   strong  br  small class="ng-text-muted" Grades 6 - 12  small   p 
+ p  strong  a href=" thisday jan5 national-bird-day " National Bird Day  a   strong  br  small class="ng-text-muted" Grades K - 9  small   p 
+ p class="ng-edit-light ng-color-white" 
+                National Geographic Headquarters br 
+                1145 17th Street NW br 
+                Washington, D.C. 20036
+                p 
+ p class="ng-c-footer-info ng-color-mdltgray ng-edit-light ng-margin-large-top ng-padding-large-top" National Geographic Society is a 501 (c)(3) organization. © 1996 - 2019 National Geographic Society. All rights reserved. See our stories at  a href="https:  www.nationalgeographic.com " target="_self" NationalGeographic.com  a   p 

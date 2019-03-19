@@ -1,0 +1,34 @@
+ p id="headerLogo"  a href=" zoo " title="Marwell Zoo"  span class="spider"  strong Marwell Zoo  strong   span   a   p 
+ p An  a href=" zoo support adopt-an-animal" animal adoption  a  makes a unique and alternative gift.  p 
+ p  i class="fa fa-map-marker redText"   i  Go past the giraffe house and the Amur leopards to find us in our new home at Wild Explorers!  script type="text javascript" document.write(" br  a href=\"#\" onclick=\"return animalLocationMap('Grevy\'s zebra',420,498);\" Show on map  i class='fa fa-angle-right'  \ i  \ a ");  script   p 
+ p  strong Status  strong  Endangered  p 
+ p  strong Size  strong  Head - body length: 250-275cm; Tail length: 38-75cm; Height to shoulder: 140-160cm   p 
+ p  strong Weight  strong  350-450kg   p 
+ p  strong Gestation  strong  13 months  p 
+ p  strong Young  strong  1  p 
+ p  strong Life span  strong  Up to 31 years   p 
+ p Grevy’s zebra graze on grasses and can even select specific species of grass to eat as they walk. They will also eat some browse (the twigs and leaves of trees and shrubs), particularly if there is a drought. If females are not lactating (feeding their foal with milk), they can go up to five days without drinking water.  p 
+ p Grevy’s zebra can be found in areas of Kenya and Ethiopia but their range used to be much larger than it is today. Their habitat is semi-arid grass or shrubland where there is a permanent source of water.  p 
+ p Grevy’s zebra can breed at any time of the year but most foals are born during the long rains between April and June. The foals can stand within one hour of being born and look a little different to the adults as they have reddish-brown stripes that darken to black as they get older. Female Grevy’s zebra give birth to a foal about once every two years.   p 
+ p Grevy’s zebra are hunted by lions and also by humans for their meat.  p 
+ p A big threat to the Grevy’s zebra is habitat loss because of overgrazing by livestock belonging to local pastoralists (farmers).  The presence of livestock also causes water sources to disappear more quickly, which can cause problems with milk production in female zebras, and can mean that foals do not survive. Livestock presence may also prevent the Grevy’s zebra from drinking during the day. When the Grevy’s zebra drink at night, they are more likely to be preyed upon by lions and moreover, because the zebra end up waiting near the water sources in the late afternoon their grazing time is also reduced. Humans also hunt the Grevy’s zebra for meat and for traditional medicines.  p 
+ p The Grevy’s zebra is listed on CITES Appendix I which means that the international trade of any part of the Grevy’s zebra is prohibited. Working closely with communities local to the Grevy’s zebra has helped to change community attitudes as their contribution to data collection has generated income for their community. Other projects include habitat restoration by re-seeding grass and planning livestock grazing as well as scouts closely monitoring the body condition of the local Grevy’s zebra and providing extra water and feed during extreme draughts.  p 
+ p The Grevy’s zebra is the largest of all of the wild equids (horses, donkeys and zebras).  p 
+ p Grevy’s zebra have thin stripes, a brown muzzle, a white belly and large, round ears that can move independently in different directions.  p 
+ p Males mark the edge of their territory with piles of their own dung and by calling loudly.  p 
+ p Rolling in dust or mud helps these zebras to stop annoyance from biting insects. They can also twitch their skin to dislodge flies.  p 
+ p Check our  a href=" zoo tickets-experiences ticket-prices-and-offers" ticket prices  a  or...  p 
+ p  a class="nextButton softFullWidth" href=" booking "  strong Book tickets span class="inline lt-hide"  online  span   strong   a   p 
+ p id="footerStreetAddress" itemscope itemtype="http:  schema.org PostalAddress" 
+															 span itemprop="name" Marwell Wildlife  span ,
+															 span itemprop="addressLocality" Thompsons Lane, Winchester, Hampshire  span 
+															 span itemprop="postalCode" SO21 1JH  span .  p 
+ p id="footerCopyright" class="smallText" Marwell Wildlife is a registered charity, number 275433.
+															 br 
+															 a href="http:  www.redstation.com " target="_blank" Hosted by Redstation  a .
+															 br class="f-hide" © 2017 Marwell Wildlife.
+															 br class="f-hide" 
+															 a href="http:  www.semantic.co.uk " target="_blank" Site designed by Semantic  a .
+															 br class="f-hide" 
+															 a href="https:  www.flickr.com groups marwellphotographiccontributors " target="_blank" Photographic Contributors  a .
+														  p 

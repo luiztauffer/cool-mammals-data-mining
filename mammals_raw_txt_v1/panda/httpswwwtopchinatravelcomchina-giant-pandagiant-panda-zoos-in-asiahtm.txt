@@ -1,0 +1,100 @@
+ p class="input-line"  span class="input-text2" Code:   span  span 
+	 input type="text" name="verifycode" class="required number code_input" style="width: 70px;" onclick="document.getElementById('code').src=' inc getcode.asp?t='+(new Date().getTime());"  img src=" inc getcode.asp" alt="If the verification code is not so visable, please refresh it and try again. " height="10" style="cursor : pointer;" id="code" onclick="this.src=' inc getcode.asp?t='+(new Date().getTime());"   span   p 
+ p class="button-box" 
+														 input type="submit" value="Submit" class="red_btn_center no-bg" 
+													  p 
+ p class="side_p"  img src=" template images tours consultation.gif"  a href=" customer-center china-travel-enquiry-and-reply " Questions &amp; Answers  a   p 
+ p With the panda diplomacy, Chinese giant pandas have traveled to many countries in Asia. Zoos have pandas in Asia are Tokyo Metropolitan Onshi Ueno Zoo, Kobe Municipal Oji Zoo, Taman Safari Indonesia, Malaysia National Zoo, Thailand's Chiang Mei Zoo, South Korea Everland Zoo and Singapore River Safari.  p 
+ p  br 
+Let's take a look at these panda zoos in Asia.  p 
+ p  img alt="panda zoo japan" src=" pic china-giant-panda panda-zoo-japan-01.jpg" title="panda zoo japan"  br 
+ br 
+ strong Zoo introduction  strong ：The Tokyo Metropolitan Onshi Ueno Zoo is the oldest and most famous zoo in Japan. It was founded in 1882 and is located in the upper east side of Japan's eastern Kyoto prefecture. The zoo, which covers an area of 14.3 hectares, now has 460 species of animals, including pandas, from around the world. It attracts more than 3.5 million domestic and foreign tourists each year.  p 
+ p  br 
+ strong Panda introduction  strong :  br 
+Giant Panda – Bi Li: male, born on August 16, 2005. Father, Ling Ling &amp; mother, Princess. br 
+Giant Panda – Xian Nv: female, born on July 3, 2005. Father, Ling Ling &amp; mother, Ying Ying. br 
+The giant panda Bi Li and Xian Nv arrived in Tokyo on February 21, 2011. This is the zoo's new giant pandas three years after it lost its giant panda in 2008.  br 
+On June 12, 2017, the giant panda Xian Nv gave birth to a baby panda at the Ueno Zoo in Tokyo and it was the world's first overseas panda born in 2017. br 
+
+  p 
+ p  br 
+ img alt="panda zoo in japan" src=" pic china-giant-panda panda-zoo-japan-02.jpg" title="panda zoo in japan"  br 
+   p 
+ p  strong Zoo introduction  strong : The Kobe Municipal Oji Zoo is located in the prince park covering an area of 80,000 square meters. There are about 200 species of more than 1,300 animals in the park. Among them, China's famous animal giant pandas, golden monkeys, Australia's koalas are the most popular.  p 
+ p  br 
+ strong Panda introduction  strong : br 
+Giant Panda – Xing Xing: male, born on September 14, 1995 and died on September 9, 2010. br 
+Giant Panda – Dan Dan: female, born on September 16, 1995. br 
+   p 
+ p  br 
+ img alt="panda zoo" src=" pic china-giant-panda panda-zoo-indonesia.jpg" title="panda zoo"  br 
+   p 
+ p  strong Zoo introduction  strong : Taman Safari Indonesia is located in Jakarta, the capital of Indonesia. There are various kinds of wild animals, such as elephants, monkeys, leopards, tigers and deer lions, etc. Here you can see a lot of animals you haven't seen.  p 
+ p  br 
+ strong Panda introduction  strong :  br 
+Giant Panda – Cai Tao: male, born on August 4, 2010.  br 
+Giant Panda – Hu Chun: female, born on September 8, 2010.  p 
+ p  br 
+On the morning of September 28, 2017, Chinese giant panda Cai Tao and Hu Chun arrived at Jakarta international airport and enjoyed “the star treatment".  p 
+ p  br 
+   p 
+ p  br 
+ img alt="panda zoo in malaysia" src=" pic china-giant-panda panda-zoo-malaysia.jpg" title="panda zoo in malaysia"  br 
+   p 
+ p  strong Zoo introduction  strong : Malaysia National Zoo, located in the northeast of Kuala Lumpur, opened to visitors in 1963 and covers an area of 110 acres. The zoo, the home to 459 species of 5137 animals, is the best place to see animals in Malaysia.  p 
+ p  br 
+ strong Panda introduction  strong :  br 
+Giant Panda – Fu Wa: male, born on August 23, 2006. Father, Lu Lu &amp; mother, Long Xin. br 
+Giant Panda – Feng Yi: female, born on August 23, 2006. Father, Wu Gang &amp; mother, Fei Fei.  p 
+ p  br 
+Fu Wa and Feng Yi, born on the same day of the same month, both experienced the 2008 wenchuan earthquake and the lushan earthquake in 2013, and were giant pandas in 2008 Olympic Games. br 
+On May 21, 2014, they arrived at Malaysia National Zoo.  br 
+On August 18, 2015, Feng Yi gave birth to a female panda cub named Nuan Nuan.  br 
+On November 14, 2017, Nuan Nuan who born in Malaysia, said goodbye to Malaysia where it has been in for two years and returned to the Chengdu research base of giant panda breeding in China.  p 
+ p  br 
+   p 
+ p  br 
+ img alt="panda zoo in thailand" src=" pic china-giant-panda panda-zoo-thailand.jpg" title="panda zoo in thailand"  br 
+   p 
+ p  strong Zoo introduction  strong : The Chiang Mai Zoo is located at the foot of Doi Suthep Mountain in Thailand. It is a very beautiful zoo with two waterfalls and about 400 kinds of animals. There is panda house, aquarium, snow city, rose garden and other animal exhibition areas in the zoo. You can enjoy a panoramic view of the city here.  p 
+ p  br 
+ strong Panda introduction  strong :  br 
+Giant Panda – Chuang Chuang: male, born on August 6, 2000. Father, Xin Xing &amp; mother, Bai Xue. br 
+Giant Panda – Lin Hui: female, born on September 28, 2000. Father, Pan Pan &amp; mother, Tang Tang  p 
+ p  br 
+On October 12, 2003, they arrived at the Chiang Mai Zoo.  br 
+On May 27, 2009, Lin Hu gave birth to a female panda cub named Lin Bing.  br 
+On September 28, 2013, Lin bing returned to Ya 'an Bifengxia Base in China.  p 
+ p  br 
+   p 
+ p  br 
+ img alt="panda zoo in south korea" src=" pic china-giant-panda panda-zoo-south-korea.jpg" title="panda zoo in south korea"  br 
+   p 
+ p  strong Zoo introduction:  strong  Located in Gyeonggi City, south of Seoul, South Korea, Everland Resort is made up of five major theme areas -- the global bazaar, the American adventure zone, the magic world, the European adventure zone, the animal kingdom. There is not only a thrilling variety of amusement facilities, but also a lively and cheerful performance.   p 
+ p  br 
+ strong Panda introduction:   strong  br 
+Giant Panda – Yuan Xin: male, born on July 28, 2012. Father, Yuan Yuan &amp; mother, Long Xin br 
+Giant Panda – Hua Ni: female, born on July 13, 2013. Father, Lu Lu &amp; mother, Xin Nier br 
+On March 3, 2016, they arrived at the Everland Resort for a 15-year study of panda international cooperation.  p 
+ p  br 
+   p 
+ p  br 
+ img alt="panda zoo in singapore" src=" pic china-giant-panda panda-zoo-singapore.jpg" title="panda zoo in singapore"  br 
+   p 
+ p  strong Zoo introduction:  strong  With an area of about 12 hectares, the Singapore River Safari is the first and only ecological park in Asia with a river theme. In addition to having the world's largest Marine aquarium, Singapore won the title of the world's largest freshwater aquarium in 2013 with its River Safari.  p 
+ p  br 
+ strong Panda introduction:   strong  br 
+Giant Panda – Wu Jie: male, born on September 14, 2007. Father, Wu Gang &amp; mother, Ye Ye br 
+Giant Panda – Hu Bao: female, born on September 3, 2008. Father, Yuan Yuan &amp; mother, Zhu Yun br 
+On September 6, 2012, they arrived at the Singapore River Safari. Wu Jie renamed as Kai Kai while Hu Bao renamed as Jia Jia in Singapore.  br 
+   p 
+ p  a href=" china-tours chengdu-tour 4-days-chengdu-memories-tour.htm" target="_blank" title="4 Days Best Chengdu Tour" 4 Days Best Chengdu Tour  a   p 
+ p Chengdu  p 
+ p From  strong style="color:red" class="price_size" $345  strong   p 
+ p  a href=" china-tours chengdu-tour one-day-chengdu-highlight-tour.htm" target="_blank" title="One Day Chengdu Essence Tour" One Day Chengdu Essence Tour  a   p 
+ p Chengdu  p 
+ p From  strong style="color:red" class="price_size" $345  strong   p 
+ p  a href=" china-tours chengdu-tour chengdu-giant-panda-volunteer-program-tour.htm" target="_blank" title="Chengdu Giant Panda Volunteer Tour" Chengdu Giant Panda Volunteer Tour  a   p 
+ p Chengdu  p 
+ p From  strong style="color:red" class="price_size" on request   strong   p 

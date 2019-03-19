@@ -1,0 +1,22 @@
+ p class="byline" Natalie Widel  p 
+ p In a year filled with many… em memorable  em …milestones, 2016 closed with a truly depressing one, as giraffes were added to a list of “vulnerable” species headed towards eventual extinction for the first time. Their numbers have declined precipitously over the last three decades,  a href="http:  www.iucnredlist.org news new-bird-species-and-giraffe-under-threat-iucn-red-list" according to a report  a  released by the International Union for the Conservation of Nature, which maintains endangered species lists.  p 
+ p The culprit? You guessed it—human population pressures.  p 
+ p Habitat destruction due to human activity—such as logging, farming, and armed conflicts—is pushing giraffe populations to the breaking point throughout the African continent. An ever-expanding human population, largely unchecked due to a huge unmet need for family planning, is having a frighteningly damaging effect on these majestic animals.  p 
+ p U.S. funding of international family planning programs has the greatest impact in the developing world, where women desperately want to limit their family size but lack the means to do so.  a href="http:  www.prb.org pdf16 prb-wpds2016-web-2016.pdf" All ten of the countries with the highest total fertility rates  a  are currently located on the African continent. Home to some of the world’s most iconic wildlife, these nations are struggling to meet the needs of their human inhabitants while protecting the natural habitats that these animals depend on.  p 
+ p And sadly,  a href="https:  www.populationconnection.org its-official-donald-trump-just-reinstated-the-global-gag-rule "  the implementation of the Global Gag Rule  a  has thrown another huge obstacle into the path of slowing population growth throughout the developing world. It deeply undermines progress made towards smaller families and more sustainable communities. Humans and wildlife alike will suffer the consequences if we don’t keep fighting to make international family planning a funding priority.  p 
+ p class="comment-notes"  span id="email-notes" Your email address will not be published.  span  Required fields are marked  span class="required" *  span   p 
+ p class="comment-form-comment"  label for="comment" Comment  label   textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"   textarea   p 
+ p class="comment-form-author"  label for="author" Name  span class="required" *  span   label   input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"   p 
+ p class="comment-form-email"  label for="email" Email  span class="required" *  span   label   input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"   p 
+ p class="comment-form-url"  label for="url" Website  label   input id="url" name="url" type="text" value="" size="30" maxlength="200"   p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Post Comment"   input type="hidden" name="comment_post_ID" value="4249" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+  p 
+ p Since 1968, Population Connection (formerly Zero Population Growth or ZPG) has been America's voice for population stabilization—we are the largest grassroots population organization in the United States! As a 501(c)(3) charity, all donations made to us are tax-deductible.   p 
+ p Your tax-deductible membership dues help us advocate for universal access to birth control, educate tomorrow’s leaders about global population challenges, and mobilize Americans who care about stabilizing population. Your on-going support is vital to our continued success!  p 
+ p  a href="https:  secure3.convio.net zpg site Donation2?df_id=5109&amp;mfc_pref=T&amp;5109.donation=form1" class="button small radius shadow" onclick="ga('send', 'event', 'Convio', 'Click', 'Footer Renew', '0');" Renew Today  a   p 
+ p Join our Email Action Network to hear about important legislative developments, constituent calls to action, and events in your area!   p 
+ p  a href="http:  zpg.convio.net site Survey?ACTION_REQUIRED=URI_ACTION_USER_REQUESTS&amp;SURVEY_ID=1261" class="button small radius shadow" onclick="ga('send', 'event', 'Convio', 'Click', 'Footer Subscribe', '0');" Subscribe  a   p 
+ p Follow Us  p 
+ p © Population Connection 2019. 2120 L St NW, Suite
+                500 Washington, D.C. 20037  p 

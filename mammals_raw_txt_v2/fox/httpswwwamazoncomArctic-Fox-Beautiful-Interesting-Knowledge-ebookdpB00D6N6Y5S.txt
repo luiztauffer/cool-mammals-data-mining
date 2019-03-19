@@ -1,0 +1,44 @@
+ p class="a-size-mini a-color-price ebooks-price-savings a-text-normal" 
+                Save $7.00 (70%)
+              p 
+ p id="kindle_promo_message" class="a-spacing-small a-spacing-top-small a-text-center a-size-small a-color-link" 
+         a id="kindle_promo_message_popover" href="javascript:void(0)" class="a-popover-trigger a-declarative" 
+           Promotions apply when you purchase
+         i class="a-icon a-icon-popover"   i   a 
+      p 
+ p class="a-spacing-small a-spacing-top-small" 
+        These promotions will be applied to this item:
+      p 
+ p id="kindle_applied_promotions" 
+      p 
+ p id="kindle_promo_multiple_promo_message" class="a-spacing-small a-color-tertiary" 
+        Some promotions may be combined; others are not eligible to be combined with other offers. For details, please see the Terms &amp; Conditions associated with these promotions.
+      p 
+ p Deliver to your Kindle or other device  p 
+ p class="a-spacing-base a-text-left a-size-small a-color-secondary" 
+                                     span 
+                                        Additional gift options are available when buying one eBook at a time.
+                                      span 
+                                     a class="a-link-normal" target="_blank" rel="noopener" href=" help kindle booksforothers overview ref=bfo_pop_adl" 
+                                        Learn more
+                                      a 
+                                  p 
+ p class="a-size-small a-color-secondary" 
+                        These ebooks can only be redeemed by recipients in the US. Redemption links and eBooks cannot be resold.
+                      p 
+ p Deliver to your Kindle or other device  p 
+ p class="a-text-center a-size-small" 
+	                             a class="a-link-normal" href=" gp sign-in.html?useRedirectOnSuccess=1&amp;path= gp product B00D6N6Y5S&amp;redirectProtocol=current" 
+	                                Enter a promotion code or Gift Card
+	                              a 
+	                          p 
+ p class="a-text-center" 
+             span id="followErrorClose" class="a-button a-button-base"  span class="a-button-inner"  input data-action="closeErrorDialog" class="a-button-input a-declarative" type="submit" aria-labelledby="followErrorClose-announce"  span id="followErrorClose-announce" class="a-button-text" aria-hidden="true" 
+                OK
+              span   span   span 
+          p 
+ p class="kcpAppWidgetDetailDesc" Enter your mobile number or email address below and we'll send you a link to download the free Kindle App. Then you can start reading Kindle books on your smartphone, tablet, or computer - no Kindle device required.   p 
+ p class="kcpAppWidgetHeader"      p 
+ p id="kcpAppDownloadMessage" style="margin: 0px;" To get the free app, enter your mobile phone number.  p 
+ p class="nav_p nav-bold" There's a problem loading this menu right now.  p 
+ p class="nav_p"  a href=" gp prime" class="nav_a" Learn more about Amazon Prime.  a   p 

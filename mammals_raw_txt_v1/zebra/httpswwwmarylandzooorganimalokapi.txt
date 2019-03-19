@@ -1,0 +1,47 @@
+ p Sun., Mar. 10th  p 
+ p tabindex="0" class="sr-only" Open 10:00AM to 4:00PM  p 
+ p tabindex="-1" Open  p 
+ p tabindex="-1" Closed  p 
+ p Renovation update: Elephant Overlook is now closed and the lions are off-exhibit due to construction. The giraffes can still be seen inside Giraffe House. For more information about our exciting project, please visit:  a href="http:  www.marylandzoo.org africanjourney" http:  www.marylandzoo.org africanjourney  a   p 
+ p Congolese Rainforest in Central Africa  p 
+ p Endangered  p 
+ p Herbivore - Leaves, fruits, and seeds  p 
+ p Diurnal  p 
+ p Captive: 33 yrs br 
+Wild: Unknown  p 
+ p Single young per birth  p 
+ p 5‑5.6 ft (150‑170 cm)  p 
+ p 462‑550 lbs (210‑250 kg)  p 
+ p Wild okapi live exclusively in the Ituri Rainforest in northwest Democratic Republic of the Congo in central Africa. The Maryland Zoo has a pair of okapi – two males – on exhibit in the  em African Journey  em  near the giraffes.  p 
+ p Okapi are solitary animals that live in habitat not easily penetrated. Plants grow so big and so close together in the Ituri rainforest that little sunlight makes its way to the forest floor. Okapi are well adapted to their dense, dark surroundings. Their distinctly large ears help them to sense hidden predators. Their dark bodies blend into the shadows and their striped hindquarters break up any outline, making it difficult for predators to spot them.  p 
+ p Okapi are active during the day (in other words, diurnal). They spend their waking hours foraging for food. They feed on leaves, fruits, grasses and some species of fungi. They also eat a reddish clay that provides essential salt and minerals.  p 
+ p Okapi are not social animals. They do not seek companionship, although they may feed together in small groups for a short period of time. They prefer to live alone in large, secluded areas (which is becoming increasingly difficult for them as their rainforest habitat shrinks).  p 
+ p The okapi is similar in many ways to its towering cousin, the giraffe. Both have cloven hooves and short, skin-covered horns. Both have long necks (although, yes, the giraffe wins the longest neck contest). Their skulls are virtually identical except that the okapi’s is smaller. Most impressively, both have super long, prehensile, flexible, bluish tongues that are excellent leaf pluckers.  p 
+ p So here’s an unusual distinction: the okapi, thanks to its extra long tongue, is one of the only mammals in the world that can lick its own ears!  p 
+ p Both male and female okapi travel within home ranges that may overlap. They live alone or in mother-offspring pairs. Okapi mark their territory by spraying urine, secreting a black tar-like substance from scent glands on each foot, and rubbing their necks on trees. Males will defend their territories from other males but will allow females to pass through. To show dominance, one okapi will raise its head above the other. To show submission, an okapi will lay its head and neck on the ground. When male rivals clash, they kick and bash each other with their large heads.  p 
+ p Okapi are certainly known to each other and to the predators that hunt them, but they remain relatively mysterious to the scientific community. Because they are reclusive animals that live in habitat not easily explored, scientists have not studied them intensively. Okapi were first brought to the world’s attention in 1901 after local people revealed their existence to European explorers in Africa. For many years prior, their existence had been hinted at but never confirmed.  p 
+ p The leopard is the okapi’s most fearsome predator. Other rainforest cats, including servals and golden cats, also prey on okapi. Humans also hunt okapi (today, illegally, as okapi are protected in the DRC). This is how European explorers first became aware of okapi; pygmy hunters described the strange, zebra-like animal that they sometimes trapped in forest pits.  p 
+ p Male and female okapi come together briefly to mate, then go their separate ways. Females retreat deep into the forest to give birth. A mother okapi usually gives birth to a single offspring at a time. For the first two months of life, that offspring will remain hidden in a nest of foliage. The mother will return often to allow it to nurse. She will wean her offspring at about 6 months of age. Okapi reach full size at about age 3.  p 
+ p Okapi are listed by the IUCN, the world’s leading conservation organization, as an endangered species. Although it is difficult to get firm assessment data, the remaining population appears to be in steep decline over the last few decades. The species is threatened by habitat loss and by lack of conservation action. The Okapi Wildlife Reserve, a World Heritage site that covers approximately 20% of the Ituri Rainforest, is a protected reserve where many okapi live. However, civil unrest in the DRC and its neighboring countries of Sudan and Uganda has made it virtually impossible to enforce wildlife protection laws in this and other reserves.  p 
+ p  em Zoogram  em , Spring 2009, “News from the Zoo,” p. 4.  p 
+ p “The Hidden Face of Africa,” written for Baltimore Examiner, 8 27 07, p. 30.  p 
+ p Spring 2007  em Zoogram  em , “News from the Zoo” spread, p. 4.  p 
+ p Fall 2006  em Zoogram  em , “News from the Zoo” spread, p. 4.  p 
+ p Zoogram, Spring 2006, “News from the Zoo,” p. 4.  p 
+ p tabindex="0" itemprop="name" The Maryland Zoo in Baltimore  p 
+ p tabindex="0" itemprop="streetAddress" One Safari Place  p 
+ p tabindex="0"  span itemprop="addressLocality" Baltimore  span ,  span itemprop="addressRegion" MD  span   span itemprop="postalCode" 21217  span   p 
+ p class="social" 
+						 a target="_blank" href="https:  www.facebook.com MarylandZoo"  span class="sr-only" Facebook - Opens in new window  span  i class="fab fa-facebook-square"   i   a 
+						 a target="_blank" href="https:  twitter.com marylandzoo"  span class="sr-only" Twitter - Opens in new window  span  i class="fab fa-twitter"   i   a 
+						 a target="_blank" href="https:  www.instagram.com marylandzoo"  span class="sr-only" Instagram - Opens in new window  span  i class="fab fa-instagram"   i   a 
+						 a target="_blank" href="https:  www.youtube.com user MarylandZooTV"  span class="sr-only" You Tube - Opens in new window  span  i class="fab fa-youtube"   i   a 
+					  p 
+ p  span tabindex="0" ©2019 The Maryland Zoo in Baltimore  span   br class="mobile"  i class="desktop" .  i   span tabindex="0" All Rights Reserved  span   i .  i   span tabindex="0"  a href="http:  www.missionmedia.com" target="_blank" Made @ MISSION  a   span   p 
+ p itemprop="telephone" 410-396-7102  p 
+ p  a href="mailto:mail@marylandzoo.org" itemprop="email" mail@marylandzoo.org  a   p 
+ p The Zoo's monthly newsletter and news updates.  p 
+ p The latest on endangered species and conservation efforts.  p 
+ p Discounts and news about special Zoo savings.  p 
+ p Exclusive member offers, news &amp; renewal information.  p 
+ p Special program information for teachers and instructors.  p 

@@ -1,0 +1,16 @@
+ p style="font-family: Helvetica, Arial, sans-serif; margin:8px 0" 
+                         span style="font-size:112%;color:white;"   span 
+                        We use cookies to analyse how visitors use our website and to help us provide the best possible experience for users. View our  a href="http:  wwf.panda.org privacy " style="color:#A5D8D3;font-weight:bold;" Cookie Policy  a . ( a href="javascript:void(0)" id="cookie_closer" style="color:#A5D8D3;font-weight:bold;" I accept  a )
+                  p 
+ p class="title font30 text-uppercase text-center" Introduction  p 
+ p  i class="font-serif text-gray" © WWF  i   p 
+ p  a href="http:  www.cites.org"  img src="http:  awsassets.panda.org img logo_cites_high_resolution_428800.jpg" width="136" alt="CITES logo"   a  br 
+
+The  a href="http:  www.cites.org" Convention on International Trade in Endangered Species (CITES)  a  is an international agreement between governments, that aims to ensure that international trade in specimens of wild animals and plants does not threaten their survival and it accords varying degrees of protection to more than 33,000 species of animals and plants.   like href="http:  www.facebook.com CITES.org" send="false" layout="button_count" width="136" show_faces="false"   like   p 
+ p  a target="_blank" href="http:  traffic.org" onclick="_gaq.push(['_trackEvent','outgoing_links','outgoinglink.com'])"  img src="http:  awsassets.panda.org img original traffic_logo_sm.png" alt="" width="136"   a 
+ br 
+ a target="_blank" href="http:  traffic.org" onclick="_gaq.push(['_trackEvent','outgoing_links','outgoinglink.com'])" TRAFFIC  a  is a joint programme of WWF and the  a href="http:  iucn.org" World Conservation Union (IUCN)  a  that monitors the global wildlife trade. TRAFFIC also works in close co-operation with  a href="http:  www.cites.org" CITES  a .    br 
+ br 
+ like href="http:  www.facebook.com trafficnetwork" send="false" layout="button_count" width="136" show_faces="false"   like   p 
+ p class="text-center font-serif intro"  i Building a future in which people live in harmony with nature.  i   p 
+ p © 2019 WWF - World Wide Fund For Nature span style="margin-left: 10px;" © 1986 Panda Symbol WWF – World Wide Fund For Nature (formerly World Wildlife Fund)  span  span style="margin-left: 10px;" ® “WWF” is a WWF Registered Trademark  span  span style="margin-left:10px;"   span   a href="https:  creativecommons.org licenses by-nc 4.0 deed.en" target="_blank" Creative Commons license  a .  p 

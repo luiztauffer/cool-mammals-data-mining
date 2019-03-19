@@ -1,0 +1,36 @@
+ p class="nav-section-description__text" 
+                                                                        In this section, find out everything you need to know about visiting the Museum, how to get here and the extraordinary exhibitions on display. Check out the 'What's on' calendar of events, workshops, free tours and education programs.
+                                                                      p 
+ p class="nav-section-description__text" 
+                                                                        In this section, there's a wealth of information about our collections of scientific specimens and cultural objects. Come and explore what our researchers, curators and education programs have to offer!
+                                                                      p 
+ p class="nav-section-description__text" 
+                                                                        In this section, explore all the different ways you can be a part of the Museum's groundbreaking research, as well as come face-to-face with our dedicated staff. Join us, volunteer and be a part of our journey of discovery!
+                                                                      p 
+ p The Eastern Grey Kangaroo is an iconic marsupial mammal. They live in mobs of 10 or more in a home range of up to 5km in eastern Australia.  p 
+ p Eastern Grey Kangaroo,  i Macropus giganteus  i , is a marsupial mammal that belongs to a small group called macropods. They have hind legs that are larger than their forelimbs. Their hind feet are also large and powerful. Their long muscular tail is used for balance when hopping and as a fifth limb when movements are slow. The fur is a light grey woolly colour except the face which is darker. A dark tip of fur is also found on the tail.  p 
+ p Males: body length to 1.3m, tail to 1m; females: body length to 1m, tail to 0.84m  p 
+ p They are found in habitats ranging from semi-arid mallee scrub through to woodlands, some farmland areas with remnant vegetation and forest. They tend to favour denser scrubs and forests.  p 
+ p Grey Kangaroos have wide and almost continuous distribution between the inland plains and the coast where the annual rainfall is more than 250mm. The Eastern Grey Kangaroo is found over most of the eastern states including Tasmania. They are also found at all altitudes in woodlands up to subalpine areas.  p 
+ p The Eastern Grey Kangaroo is predominantly a grazing animal with specific food preferences. They are herbivorous, favouring grasses but will eat a range of plants, including in some cases, fungi. With the grasses they prefer to eat young green shoots high in protein. Dry grass is difficult for them to digest. Being nocturnal, large ‘mobs’ will gather at dusk to feed where food is most abundant.  p 
+ p They usually rest in the shade or shelter of trees or scrubs moving out to graze from late afternoon to early morning when they will congregate in the open. This is avoiding the hottest part of the day. They communicate via a series of clucking sounds. Aggressive males and alarmed individuals of both sexes give vent to a guttural cough. br  The tendons in the legs of kangaroos act like sprung ropes and help propel the animal at fast speed with minimum effort. The highest recorded speed was set by a female Eastern Grey Kangaroo at 64km hr.  p 
+ p Breeding is continuous throughout the year and reaches a peak in summer. The newborn ‘joey’ which weighs less than one gram is born thirty six days after mating. It climbs unaided into the pouch and shortly afterwards attaches to one of the four teats. The young kangaroo is raised in the pouch until it can survive outside. At about 9 months the joey will begin to leave the pouch but continues to suckle from time to time. A joey becomes independent at about 18 months of age.  p 
+ p The Eastern Grey Kangaroo is protected by law. For thousands of years, though, indigenous peoples have hunted the kangaroo for food and skins. When Europeans arrived in the eighteenth century, they too hunted the kangaroo. There are now rules in place in all Australian states and Territories to protect kangaroos. The Eastern Grey Kangaroo is among 4 abundant species that can be commercially harvested for export. This can only be done by licensed hunters. None of these 4 species is threatened or endangered. Kangaroo meat is now being looked at as an alternative source of meat to beef. The soft feet of kangaroos are more preferable to the hard hoofs of cattle in erosion prone areas.  p 
+ p class="content-card__teaser" Male eastern grey kangaroos can move large distances, but their DNA suggests that sometimes they don’t!  p 
+ p class="content-card__teaser" The Red Kangaroo is an iconic Australian animal of the arid zone and is the largest living marsupial in the world.  p 
+ p class="content-card__teaser" Bluethroat Wrasse, Notolabrus tetricus (Richardson, 1840)  p 
+ p class="content-card__teaser" All you ever wanted to know about these species and more, is now available in one new book!  p 
+ p class="content-card__teaser" Distinctive chestnut-brown dorsal fur, grey belly and pale grey feet with a thin fringe of white hairs extending beyond the claws.  p 
+ p class="content-card__teaser" Spotted Grubfish, Parapercis ramsayi (Steindachner, 1883)  p 
+ p class="content-card__teaser" We added some great images and movies this week.  The Eastern Red Scorpionfish page has been updated to reflect the correct species name and an image of a juvenile Southern Red Scorpionfish was added.  Thanks all!  p 
+ p class="content-card__teaser" A new species of rock-wallaby hops into view in Australia’s Top End.  p 
+ p class="acknowledgement__text" 
+                            The Australian Museum respects and acknowledges the Gadigal people of the Eora Nation as the First Peoples and Traditional Custodians of the land and waterways on which the Museum stands. br 
+                            — br 
+                            We acknowledge Elders past, present and emerging. br 
+                             small class="acknowledgement__disclaimer" This website may contain names, images and voices of deceased Aboriginal and Torres Strait Islander peoples.  small 
+                          p 
+ p class="footer__text" Receive the latest news on events, exhibitions, science research and special offers.  p 
+ p class="footer__text" 
+                                    Login to purchase tickets and manage your museum membership.
+                                  p 

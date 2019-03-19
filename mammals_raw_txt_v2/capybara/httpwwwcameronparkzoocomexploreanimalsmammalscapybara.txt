@@ -1,0 +1,6 @@
+ p  strong  span style="font-size: small;" The World’s Largest Rodent  span   strong   p 
+ p  span style="font-size: small;" This large rodent inhabits dense vegetation surrounding lakes, rivers, swamps, marshes and ponds in Panama and tropical South America, east of the Andes.  Females grow slightly larger than males and can sometimes exceed 100 pounds.  The capybara primarily eats plants, especially grasses.  In fact, “Capybara”, in the Guarani language of Paraguay means “Master of Grasses.”  span   p 
+ p  span style="font-size: small;"  strong Conservation Status:  strong  Considered stable through much of their range.  Hunting has lowered their numbers.  span   p 
+ p  strong  span style="font-size: small;" Did you know? br 
+  span   strong  span style="font-size: small;" Capybaras are excellent swimmers and can remain underwater for as long as 5 minutes.  span   p 
+ p  span style="font-size: small;" The young are born with teeth, full coats of hair, open eyes, and are able to follow their parents and swim less than 1 hour after birth.  span   p 

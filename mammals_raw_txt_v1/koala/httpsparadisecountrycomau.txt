@@ -1,0 +1,46 @@
+ p class="vrtp-global-header__section-title" data-reactid="16" Attractions  p 
+ p class="vrtp-global-header__section-title" data-reactid="55" Accommodation  p 
+ p class="vrtp-global-header__section-title" data-reactid="65" Groups &amp; Functions  p 
+ p class="vrtp-global-header__section-title" data-reactid="84" Seasonal Events  p 
+ p class="vrtp-global-header__section-title" data-reactid="97" Ticketing  p 
+ p class="vrtp-component__subheading" Discover Australia’s unique wildlife, gorgeous farm animals and amazing Australiana Shows at this must see Gold Coast Destination - Paradise Country.
+  p 
+ p class="attraction-subheading" style="color:;" data-reactid="10"  !-- react-text: 11 -- Master Shearer Presentation !--  react-text --  !-- react-text: 12 --  !--  react-text --   p 
+ p class="ride-title" data-reactid="17" Sheep Shearing &amp; Ram Parade  p 
+ p class="attraction-subheading" style="color:;" data-reactid="10"  !-- react-text: 11 -- Exhibit !--  react-text --  !-- react-text: 12 --  !--  react-text --   p 
+ p class="ride-title" data-reactid="17" Wildlife Walkthrough  p 
+ p class="attraction-subheading" style="color:;" data-reactid="10"  !-- react-text: 11 -- Exhibit !--  react-text --  !-- react-text: 12 --  !--  react-text --   p 
+ p class="ride-title" data-reactid="17" Farmyard Play Paddock  p 
+ p class="vrtp-component__subheading" Hop into your perfect day at Paradise Country!  p 
+ p class="vrtp-component__subheading" Avoid paying full price at the gates, online pricing includes a saving of $10* on every ticket. span class="vrtp-text__body-1--regular"   span   p 
+ p class="vrtp-component__subheading" A visit to the farm will see you come face to face with cows, horses, pigs, sheep, farm dogs, chickens and ducks as well as Australia’s beautiful wildlife including our darling koalas and kangaroos and if you can brave it, snakes. 
+  p 
+ p class="vrtp-component__subheading" Enjoy a precious cuddle and photo with a koala, kangaroo or even pat a dingo and if you can brave it, hold an Australian snake! Immerse yourself in Australian Wildlife at our beautiful animal sanctuary. 
+  p 
+ p data-reactid="7" Paradise Country admission included  p 
+ p Enjoy a scrumptious buffet breakfast with our adorable koalas and joeys in the Farmhouse Restaurant every Saturday and Sunday.   p 
+ p Receive an exclusive educational presentation about these iconic marsupials from our friendly wildlife team.   p 
+ p Interact with our adorable Koalas and have your photos taken with one of Australia's favourite animals.  p 
+ p data-reactid="7" Paradise Country admission not included  p 
+ p 
+    Go behind the scenes and get up close with one of Australia's most lovable and iconic marsupials, the Koala. 
+  p 
+ p Enjoy an exclusive opportunity to feed these animals their favourite food and have a cuddle for yourself.
+  p 
+ p A photographer is available upon request to take candid photos of your interaction with the koala and a USB will be available to purchase to take your memories home.
+  p 
+ p data-reactid="7" Paradise Country admission included  p 
+ p 
+    1 Day Entry to Paradise Country Plus Lunch Buffet.
+  p 
+ p 
+     br 
+    Visit Paradise Country and enjoy our Aussie Farm experience and enjoy a delicious BBQ buffet lunch in our rustic Farmhouse Restaurant. br 
+     br 
+     em  br   em 
+  p 
+ p class="vrtp-component__subheading" data-reactid="5" 
+  p 
+ p  span class="vrtp-text__body-2"   span  span style="font-size: 16px;" I’d like to receive exclusive offers, competitions &amp; entertainment news from the Village Roadshow Group. I have read the  span  a href="https:  themeparks.com.au privacy" class="changeColor" Privacy Policy  a .  span   span   p 
+ p data-reactid="6" Have a question? Check our  a href=" park-info faq" FAQs  a   p 
+ p data-reactid="7" Box office:  strong  a href="tel:133386" 13 33 86  a   strong   p 

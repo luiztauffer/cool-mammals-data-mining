@@ -1,0 +1,17 @@
+ p class="tac pt sp50" 
+ i class="icon-chevron-down"    i 
+  p 
+ p class="italics" 
+ span style='color: rgb(0, 0, 0); font-family: "PT Serif", "Times New Roman", Times, serif; font-size: 16.5375px; font-style: italic; text-align: center;' Atlantis is your portal to a truly Bahamian experience. Come explore all we have to offer.  span 
+  p 
+ p class="italics pb sp20" Rates from $229* per night plus receive up to a $300 resort credit.  p 
+ p class="italics pb sp20" An up-close experience that lets you participate in the morning care, exercise and playtime, of our Sea Lions  p 
+ p class="italics pb sp20" Residences at The Reef run from stunning studios to three bedroom suites, and magnificent ocean views.  p 
+ p class="italics" Atlantis, Paradise Island features the world's largest open-air  a href=" thingstodo marinehabitat" marine habitat  a ;  a href=" thingstodo waterpark" Aquaventure  a , a 141-acre water park, including the iconic Mayan Temple's Leap of Faith slide; 11 incredible  a href=" thingstodo waterpark pools" pools  a ; five miles of magnificent  a href=" thingstodo waterpark beaches" beaches  a ; a Tom Weiskopf-designed 18-hole, oceanfront  a href=" thingstodo golf" golf course  a ; and the Atlantis  a href=" casino" Casino  a .  p 
+ p class="italics pb sp20" Guests of all ages are welcome to meet our incredible family of bottlenose dolphins and sea lions through a variety of inspirational and exciting programs. Dolphin Cay is a 14-acre sanctuary with an 11-acre lagoon,  seven connected pools, and an animal rescue-rehabilitation hospital.  p 
+ p class="italics pb sp20" Aquaventure is a one-of-a-kind, 141-acre water park. This non-stop aquatic playground features magnificient Atlantean-themed towers housing high-speed water slides, a mile-long river ride with rolling rapids and wave surges, 20 swimming areas, a spectacular kids water-play fort and 11 refreshing swimming pools.  p 
+ p class="italics pb sp20" Atlantis, Paradise Island is home to the largest open-air marine habitat in the world encompassing 14 lagoons and 8 million gallons of salt water. The habitat is home to more than 50,000 aquatic animals representing over 250 marine species.   p 
+ p class="italics pb sp20" These great amenities are always included with your stay at Atlantis!  p 
+ p class="italics pb sp20"  span style='color: rgb(0, 0, 0); font-family: "PT Serif", "Times New Roman", Times, serif; font-size: 15.75px; font-style: italic;' The Blue Project is Atlantis, Paradise Island's foundation, committed to sustaining, protecting and supporting the health of the oceans.  span   p 
+ p class="italics pb sp20" When the sun rises, Dolphin Cay comes to life.  p 
+ p class="italics"  a href="https:  www.atlantisbahamas.com events" View upcoming special events at Atlantis, Paradise Island, Bahamas  a   p 

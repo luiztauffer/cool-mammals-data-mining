@@ -1,0 +1,97 @@
+ p style="margin-top:16px"  strong class="ng-padding-horizontal ng-color-default"  a class="project-nav-title" href=" education" title="Go to the Education home page" Education  a   strong   p 
+ p class="ng-margin-medium-bottom ng-width-1-1 ng-width-medium-1-2" itemprop="alternativeTitle" Competition between hyenas and lions for resources leads to infanticide—the practice of killing each other's young. Learn why this behavior makes the two species "mortal enemies."  p 
+ p class="label ng-c-kicker ng-margin-small-bottom" Grades  p 
+ p class="data ng-margin-remove" 9 - 12, Higher Ed  p 
+ p class="label ng-c-kicker ng-margin-small-bottom" Subjects  p 
+ p class="data ng-margin-remove search-item-category" Biology  p 
+ p class="label ng-c-kicker ng-margin-small-bottom" Contents  p 
+ p class="data ng-margin-remove" 1 Video  p 
+ p 
+        
+             span class="sr-only" This lists the logos of programs or partners of  abbr title="National Geographic" NG  abbr  Education which have provided or contributed the content on this page.  span 
+        
+    
+         strong Program  strong  a href="http:  animals.nationalgeographic.com animals big-cats " class="ng-unstyled" 
+
+     img src="https:  media.nationalgeographic.org assets party-logo BCI_logo2.jpg" alt="Big Cats Initiative" 
+
+  a 
+
+    
+      p 
+ p Lions are larger and stronger than hyenas, but what advantage do hyenas have over lions?  p 
+ p Hyenas outnumber lions and use their larger populations to compete with lions for food.  p 
+ p What characteristics cause hyenas and lions to come into conflict?  p 
+ p Hyenas and lions cover the same ground, hunt the same prey, and scavenge the same remains of animals. Consequently they steal food from each other, chase each other, and even kill each other's young.  p 
+ p Should humans conservationists intervene to reduce the conflict between lions and hyenas? Why or why not?  p 
+ p Possible responses: Yes, because we need to protect animals. No, because it's a natural phenomenon.  p 
+ p class="ng-text-bold ng-margin-bottom-remove" Websites  p 
+ p class="ng-margin-top-remove" The audio, illustrations, photos, and videos are credited beneath the media asset, except for promotional images, which generally link to another page that contains the media credit. The Rights Holder for media is the person or group credited.  p 
+ p 
+            
+                
+                    Dani Orth
+                 br 
+            
+                
+                    Elizabeth Wolzak, National Geographic Society
+                 br 
+            
+          p 
+ p 
+            
+                
+                    Mary Ford, National Geographic Society
+                 br 
+            
+          p 
+ p 
+            
+                
+                    Dr. Luke Dollar, Conservation Scientist
+                 br 
+            
+          p 
+ p 
+            
+                
+                    Big Cats Initiative
+                 br 
+            
+          p 
+ p  a href="http:  animals.nationalgeographic.com animals big-cats " Big Cats Initiative   a   p 
+ p Dec. 8, 2011  p 
+ p For information on user permissions, please read our  a href=" terms-of-service " target="_blank" rel="noopener noreferrer" title="terms of service" Terms of Service  a . If you have questions about licensing content on this page, please contact  a href="mailto:ngimagecollection@natgeo.com" ngimagecollection@natgeo.com  a  for more information and to obtain a license. If you have questions about how to cite anything on our website in your project or classroom presentation, please visit our  a href=" faq " FAQ page  a .
+      p 
+ p Some media assets (videos, photos, audio recordings and PDFs) can be downloaded and used outside the National Geographic website according to the  a href=" terms-of-service " target="_blank" rel="noopener noreferrer" title="Terms of Service" Terms of Service  a . If a media asset is downloadable, a download button appears in the lower right hand corner ( img alt="download" src=" static images download.15b252b7df6f.png" title="download" class="flush" ) of the media viewer. If no button appears, you cannot download or save the media.
+      p 
+ p Text on this page is printable and can be used according to our  a href=" terms-of-service " target="_blank" rel="noopener noreferrer" title="Terms of Service" Terms of Service  a .
+      p 
+ p Any interactives on this page can only be played while you are visiting our website. You cannot download interactives.
+      p 
+ p  This videos is used in the following collections:  p 
+ p  strong  a href=" topics africa " Africa  a   strong   p 
+ p  strong  a href=" topics animals " animals  a   strong   p 
+ p  strong  a href=" topics lions " lions  a   strong   p 
+ p  strong  a href=" activity defend-your-personal-territory " Defend Your Personal Territory  a   strong  br  small class="ng-text-muted" Grades 1 - 2  small   p 
+ p  strong  a href=" activity shark-teeth " Shark Teeth  a   strong  br  small class="ng-text-muted" Grades 3 - 5  small   p 
+ p  strong  a href=" activity lion-crittercam " Lion Crittercam  a   strong  br  small class="ng-text-muted" Grades 3 - 5  small   p 
+ p  strong  a href=" activity introduction-unions-alliances " Introduction to Unions and Alliances  a   strong  br  small class="ng-text-muted" Grades 3 - 5  small   p 
+ p  strong  a href=" activity threatened-animals-and-their-habitats " Threatened Animals and Their Habitats  a   strong  br  small class="ng-text-muted" Grades 3 - 5  small   p 
+ p class="ng-margin-bottom-remove ng-text-right"  a href=" activity list " See All Activities »  a   p 
+ p  strong  a href=" media least-weasel " The Least Weasel  a   strong  br  small class="ng-text-muted" Grades 3 and up  small   p 
+ p  strong  a href=" media trafficking-poached-ivory " Trafficking Poached Ivory  a   strong  br  small class="ng-text-muted" Grades   small   p 
+ p  strong  a href=" media craft-or-species " Craft or Species  a   strong  br  small class="ng-text-muted" Grades   small   p 
+ p  strong  a href=" media insecticide-treated-nets " Insecticide-Treated Nets  a   strong  br  small class="ng-text-muted" Grades 5 - 12  small   p 
+ p  strong  a href=" media camouflage-gallery " Camouflage  a   strong  br  small class="ng-text-muted" Grades K and up  small   p 
+ p  strong  a href=" thisday dec22 archives-terror-discovered " Archives of Terror Discovered  a   strong  br  small class="ng-text-muted" Grades 6 - 12  small   p 
+ p  strong  a href=" news real-world-geography-dr-dino-j-martins " Entomologist: Dr. Dino J. Martins  a   strong  br  small class="ng-text-muted" Grades 5 and up  small   p 
+ p  strong  a href=" news base-camp " Base Camp  a   strong  br  small class="ng-text-muted" Grades 5 and up  small   p 
+ p  strong  a href=" thisday apr18 paul-reveres-ride " Paul Revere’s Ride  a   strong  br  small class="ng-text-muted" Grades 5 - 11  small   p 
+ p  strong  a href=" thisday oct8 che-guevara-killed " Che Guevara is Killed  a   strong  br  small class="ng-text-muted" Grades 6 - 12  small   p 
+ p class="ng-edit-light ng-color-white" 
+                National Geographic Headquarters br 
+                1145 17th Street NW br 
+                Washington, D.C. 20036
+                p 
+ p class="ng-c-footer-info ng-color-mdltgray ng-edit-light ng-margin-large-top ng-padding-large-top" National Geographic Society is a 501 (c)(3) organization. © 1996 - 2019 National Geographic Society. All rights reserved. See our stories at  a href="https:  www.nationalgeographic.com " target="_self" NationalGeographic.com  a   p 

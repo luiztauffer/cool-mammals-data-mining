@@ -1,0 +1,12 @@
+ p class="site-title" itemprop="headline"  a href="https:  www.mammal.org.uk " The Mammal Society  a   p 
+ p class="site-description" itemprop="description" For Evidence Based Conservation  p 
+ p  a href="https:  www.mammal.org.uk wp-content uploads 2016 08 hedgehog_complete_0.pdf" General fact sheet (click to download)  a   p 
+ p  a href="https:  www.mammal.org.uk wp-content uploads 2016 08 Hedgehog-Field-Sign-Guide-PDF.pdf" Field sign fact sheet (click to download)  a   p 
+ p  strong  span class="species_factsheets_label_sm" Size:   span   strong 150-300mm head and body length, dependant on age; tail: 10-20mm.  p 
+ p Hedgehogs survive well in gardens, particularly assisted by food put out for them, as modern tidy gardens may not otherwise provide sufficient food. Gardens can also be hazardous. Strimmers cut back rank vegetation in the very places hedgehogs lie up during the day, causing serious wounds to the sleeping animals.  p 
+ p Hedgehogs hibernate under garden bonfire heaps. These should always be turned over before being burnt. Hedgehogs swim well but easily drown in smooth-sided garden ponds, being unable to escape from them. Ponds (and swimming pools) should have a piece of chicken wire dangling into the water to help the animals climb out. Garden netting is also dangerous unless staked down tightly to avoid hedgehogs becoming entangled.  p 
+ p style="text-align: center;"  a class="button" href="http:  www.themammalsociety.teemill.co.uk" target="_blank" Shop Today  a   p 
+ p  a class="button" href=" latest-appeal " Help Our Appeal  a   p 
+ p class="more-from-category"  a href="https:  www.mammal.org.uk category news " title="News" More News  a   p 
+ p  a class="twitter-timeline" data-lang="en" data-dnt="true" href="https:  twitter.com Mammal_Society" data-chrome="nofooter no borders" data-tweet-limit="3" Tweets by Mammal_Society  a  br 
+ script async src="  platform.twitter.com widgets.js" charset="utf-8"   script   p 

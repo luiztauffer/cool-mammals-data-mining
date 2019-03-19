@@ -1,0 +1,1 @@
+ p  a class="btn btn-subscribe pull-right" onclick="checkNewsletterForm(); return false;" style="cursor:pointer;" submit  a   p 

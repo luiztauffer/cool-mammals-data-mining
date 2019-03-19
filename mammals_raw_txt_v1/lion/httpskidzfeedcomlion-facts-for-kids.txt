@@ -1,0 +1,16 @@
+ p style="text-align: justify;" Lion is regarded as the king of the jungle as it lies at the top of the food chain. It is big, powerful, ferocious and expert hunter. We have gathered complete set of Lion Facts for Kids that will help kids in learning all about lions. You are going to learn about its scientific classification, its size, weight, physical features, speed, strength, diet, habitat, population, life cycle, its cubs, different species, extinct lions and many interesting facts about the lion.  p 
+ p    p 
+ p  
+                        Cheetah is a very fascinating animal and well known over the world for its speed. Kids                      p 
+ p  
+                        Among all the tigers, white tigers are very beautiful and fascinating. Their looks make them unique                      p 
+ p  
+                        The physical surroundings or the environment in which an animal, plant or any other living thing                      p 
+ p class="comment-notes" Your email address will not be published.  p 
+ p class="comment-form-comment"  label for="comment" Comment  label  textarea id="comment" name="comment" cols="45" rows="8" aria-required="true" placeholder="Write your comment..."   textarea   p 
+ p class="comment-form-author"  label for="author" Name  label   span class="required" *  span  input id="author" name="author" type="text" value="" size="30" aria-required="true" placeholder="Name *"   p 
+ p class="comment-form-email"  label for="email" Email  label   span class="required" *  span  input id="email" name="email" type="email" value="" size="30" aria-required="true" placeholder="Email *"   p 
+ p class="comment-form-url"  label for="url" Website  label  input id="url" name="url" type="url" value="" size="30" placeholder="Website"   p 
+ p class="comment-subscription-form"  input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;"   label class="subscribe-label" id="subscribe-label" for="subscribe_comments" Notify me of follow-up comments by email.  label   p 
+ p class="comment-subscription-form"  input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;"   label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog" Notify me of new posts by email.  label   p 
+ p class="copyright" KidzFeed.com  p 

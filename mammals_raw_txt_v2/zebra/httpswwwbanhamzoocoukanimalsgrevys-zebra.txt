@@ -1,0 +1,26 @@
+ p class="sign" Opening times  p 
+ p We are open until  p 
+ p  span 4PM  span today  p 
+ p class="pin" Find us  p 
+ p Sat Nav: NR16 2HE,
+Kenninghall Road  p 
+ p  a href="https:  www.google.com maps dir Current+Location NR16%202HE,%0D%0AKenninghall%20Road" target="_blank" View Map  a   p 
+ p Grevy’s zebras are the largest of three zebra species. Each zebra has a unique stripe pattern, just like a human’s fingerprints!  p 
+ p Size: Head-body length - 275cm - Tail length - 49cm br 
+Weight: 405kg  p 
+ p Grevy’s zebras live in the semi-arid scrublands and grasslands of east Africa.  p 
+ p Grevy’s zebras are herbivores (plant eaters), mostly feeding on grass, but also roots, bark and fruits.  p 
+ p Females are pregnant for 13 to 14 months. The foal will stand and begin suckling within 30 minutes of being born. Foals are mainly brown and white, the distinctive black stripes appear after 4 months.  p 
+ p There are currently less than 2,000 adult Grevy’s zebra remaining in the wild. The threats to these zebra include loss of habitat, hunting and also diseases such as anthrax.  p 
+ p As part of a consortium of conservation organisations, Banham Zoo has supported the Grevy’s Zebra Conservation Project for many years. Current activities include monitoring zebra numbers, providing drought relief and carrying out research into the detection and prevention of diseases.   p 
+ p Here at the zoo our Grevy’s zebra are part of a European Breeding Programme to help conserve the species in captivity.  p 
+ p class="latinName" Giraffa camelopardalis  p 
+ p class="latinName" Pudu puda  p 
+ p class="latinName" Camelus bactrianus  p 
+ p CHIRP br 
+ROAR br 
+OR SQUAWK...  p 
+ p KEEP UP TO DATE WITH THE LATEST NEWS...  p 
+ p  a href=" newsletter-subscription " class="button" Sign Up  a   p 
+ p class="footerTerms" ©2019 The Zoological Society of East Anglia Limited. Registered In England - Company Number 08250951. Registered Charity in England and Wales no. 1150158. Registered Office: The Grove, Kenninghall Road, Banham, Norfolk, NR16 2HE.  p 
+ p class="footerCredit"  a href="http:  www.creativesponge.co.uk" Site by Creative Sponge  a   p 

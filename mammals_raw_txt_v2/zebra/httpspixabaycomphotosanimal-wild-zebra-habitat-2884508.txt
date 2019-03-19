@@ -1,0 +1,22 @@
+ p style="font-size:34px;text-shadow:0 1px 10px rgba(0,0,0,.7)" Say thanks to the image author  p 
+ p style="margin:20px 0 35px" 
+                                         span style="font-size:15px;line-height:18px" class="pure-button button-green" onclick="$('#donate_button').click();" $ Donate  span 
+                                        
+                                      p 
+ p class="hide-sm hide-md" style="margin:0 auto 8px;max-width:420px" Crediting isn’t required, but linking back is greatly appreciated and allows image authors to gain exposure. You can use the following text:  p 
+ p style="margin:25px 0 10px" 
+                Sponsored Images 
+                
+                     a data-go="image-details-logo-adobe" class="hover_opacity inverted" style="position:relative;top:5px"  img src=" static img publisher adobe.png" alt="" width="110"   a 
+                
+              p 
+ p style="margin:0 0 5px" Like Pixabay on Facebook  p 
+ p style="margin:15px 0 5px;font-size:13px;padding:5px 15px;background:#f7f8fa;border-bottom: 1px solid #eeeff2" Related Images  p 
+ p class="tags" 
+             a href=" photos search animal " animal  a  i ,   i  a href=" photos search wild " wild  a  i ,   i  a href=" photos search zebra " zebra  a  i ,   i  a href=" photos search habitat " habitat  a  i ,   i 
+             span class="noselect" 
+                
+                 a href=" photos search " Free photos  a  i ,   i 
+                 a href=" images search " Free Images  a  i ,   i   a href=" images search " royalty free  a 
+              span 
+          p 

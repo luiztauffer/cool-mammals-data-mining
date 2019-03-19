@@ -1,0 +1,43 @@
+ p class="megamenu-shorex__title u-esmeralda"  span class="swsh" J  span ust Looking?  p 
+ p class="megamenu-shorex__link"  a href=" se browse-shore-excursions" Browse Shore Excursions  a   p 
+ p class="megamenu-shorex__title u-esmeralda" Already Booked?  p 
+ p class="megamenu-shorex__link"  a href=" se book-shore-excursions" Login to View Available Shore Excursions  a   p 
+ p Select a Destination  span class="aza-vs__disclaimer" (You can select multiple destinations)  span   p 
+ p Select a Month  span class="aza-vs__disclaimer" (You can select multiple months)  span   p 
+ p Select a Duration  p 
+ p Select a Destination  span class="aza-vs__disclaimer" (You can select multiple destinations)  span   p 
+ p Select a Month  span class="aza-vs__disclaimer" (You can select multiple months)  span   p 
+ p Select a Duration  p 
+ p You’ll find more than just kangaroos on Kangaroo Island. There are wallabies and koalas, not to mention platypus, and ring-tailed possums. And at Seal Bay Conservation Park, you can sit just a few yards from rare and magnificent sea lions, while whales play in the water and penguins and pelicans parade along the beach. Try to spy bandicoots, birds, and 45 plant species found nowhere else on earth. And you’ll see more sheep than people—at a ratio of about 136 to one. And, yes, there are kangaroos.  p 
+ p Make your way to Remarkable Rocks, an astonishing wind-eroded natural sculpture of huge boulders perched above the sea. And if beaches are what you’re after, you’ll find plenty lining the shore, but swimming is only for the experienced as the Southern Ocean is one of the world’s fiercest seas. Stay on dry land and watch the waves relentlessly crashing on shore, and prepare to be amazed by surfers tackling the waves with daredevil ease. Be sure to sample Kangaroo Island’s famous cheeses, renowned honey, and inspired wines. This is a wild place, but you’ll leave feeling like you’ve truly experienced Australia.  p 
+ p class="featured-voyage__title u-esmeralda"  span class="small"  span class="swsh" F  span eatured  span  Kangaroo Island (Penneshaw), Australia  span class="calt" V  span oyage span class="swsh" s  span   p 
+ p class="featured-voyage-single__sailing-title" Sailing:  p 
+ p class="featured-voyage-single__sailing-month" Dec  p 
+ p class="featured-voyage-single__sailing-day" 21  p 
+ p class="featured-voyage-single__sailing-year" 2020  p 
+ p class="now-price"  span class="was-price from" from  span   span class="price-large" Kr 52 159  span class="unit" SEK  span   span   p 
+ p class="featured-voyage-single__sailing-title" Sailing:  p 
+ p class="featured-voyage-single__sailing-month" Dec  p 
+ p class="featured-voyage-single__sailing-day" 21  p 
+ p class="featured-voyage-single__sailing-year" 2020  p 
+ p class="now-price"  span class="was-price from" from  span   span class="price-large" Kr 52 159  span class="unit" SEK  span   span   p 
+ p Flora and Fauna  p 
+ p  a class="pop callout-button-popup js-port-callout-popup" href=" " Learn More  a   p 
+ p You’ll find plenty of wildlife on this deceptively large island including—you guessed it—kangaroos! Not to mention all kinds of seals, koalas, numerous birds, nearly 891 species of plants, and more.  p 
+ p Food &amp; Wine  p 
+ p  a class="pop callout-button-popup js-port-callout-popup" href=" " Learn More  a   p 
+ p Surrounded by fertile lands and rich waters, Kangaroo Island produces some of Australia’s finest gourmet foods. Foodies will want to try island specialties like sheep’s cheese, marron, honey, and wine from 18 different wineries.  p 
+ p Diving and Snorkeling  p 
+ p  a class="pop callout-button-popup js-port-callout-popup" href=" " Learn More  a   p 
+ p The waters off Kangaroo Island are home to a kaleidoscope of colorful fish, sea sponges, coral, and more. In addition to spectacular marine life, there are also more than 50 recorded shipwrecks off the coast to explore.  p 
+ p The start of the new year is always a special time. It’s a fresh beginning, complete with new span class="ellipsis" ...   span   p 
+ p Australia, the world’s sixth-largest country, is arguably one of the world’s most interesting travel destinations. The diverse landscapes, cosmopolitan span class="ellipsis" ...   span   p 
+ p Talk to an expert  p 
+ p class="phone"  a class="phone u-esmeralda" href="tel:0820200150"  span class="fs-dynamic-number" 0820 20 01 50  span   a   p 
+ p  a href=" se request brochures" title="Request Brochures" Our 2020 brochure has arrived! Request or download your very own to start planning your Azamara experience.  a   p 
+ p  a class="social facebook" href="https:  www.facebook.com AzamaraClubCruises" target="_blank" Facebook  a  a class="social twitter" href="https:  twitter.com AzamaraVoyages" target="_blank" Twitter  a  a class="social instagram" href="https:  www.instagram.com azamaraclubcruises " target="_blank" Instagram  a  a class="social youtube" href="https:  www.youtube.com user AzamaraVoyages" target="_blank" YouTube  a  a class="social blog" href=" se blog" Blog  a  a class="social pinterest" href="https:  www.pinterest.com azamaravoyages " target="_blank" Pinterest  a   p 
+ p class="body" Call your Travel Professional or call us at  br  a class="phone" href="tel:0771%2028%2029%2030"  span class="fs-dynamic-number" 0771 28 29 30  span   a  or  a href="http:  browse.azamaraclubcruises.com dc travelagent home.do?&amp;wuc=USA" find a travel agent  a   p 
+ p class="title"  a href=" international-cruise-line-passenger-bill-rights" title="International Cruise Line Passenger Bill of Rights" International Cruise Line Passenger Bill of Rights  a   p 
+ p class="body" Learn about our commitment to our passengers' safety, comfort and care  p 
+ p  strong Choose Your Country Of Residence  strong   p 
+ p If your country of residence is not listed, please choose "Other Countries".  p 

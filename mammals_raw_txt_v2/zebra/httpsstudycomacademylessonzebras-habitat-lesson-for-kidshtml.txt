@@ -1,0 +1,68 @@
+ p April has a master's degree in psychology and has experience teaching special populations from preschoolers to adults.  p 
+ p class="nowrap" style="font-style: italic" Want to watch this again later?  p 
+ p  span class="nowrap" Log in or sign up to add this  span   span class="nowrap" lesson to a Custom Course.  span   p 
+ p class="nowrap"  a href=" academy login.html" data-cname="cust_courses_lesson_cta_login" test-id="cust_courses_lesson_cta_login" Login  a   span style="padding: 0 1em; font-size: smaller" or  span   a data-toggle="modal" href="#partialRegFormModal" data-cname="cust_courses_lesson_cta_register" test-id="cust_courses_lesson_cta_register" class="open-reg-form" Sign up  a   p 
+ p The zebra is a strong, social animal that lives in the southeastern countries of Africa. Africa is a very large continent with a variety of habitats. It also has just two seasons. In the dry season from October through March, not much rain falls and plants grow slowly. In the wet season, there is much rain, plants grow very well again, and animals have plenty to eat and drink.   p 
+ p Africa actually has three main kinds of zebras: the plains zebra, Grevy's zebra, and the mountain zebra. All three are alike in many ways, but their stripe patterns and size are the main things that make them a little different from each other. They also live in three different areas of Africa.   p 
+ p The plains zebra is the most common of the three zebras. They are medium-sized, have thick bodies, and shorter legs. Plains zebras live in several countries, from Sudan to Zimbabwe.   p 
+ p Plains zebras live in savannas and temperate grasslands (plains). These are large areas covered with grass and other plants.  b Savannas  b  also have some trees, but plains have only a few or no trees at all.   p 
+ p As you can imagine, plains zebras eat mostly grass. Bermuda grass is one type of thick grass that grows low to the ground and survives well even during the dry season, so there is usually plenty of it for zebras.   p 
+ p When in the savannas, zebras have more choices of plants to eat, and all of them do well in the dry season, which is good news for the plains zebra! One example is the river bushwillow, a shrub with yellow flowers and leaves that change colors with the seasons. Zebras also eat okra fruit, as well as leaves from trees like the umbrella thorn acacia (watch out for those thorns!), the baobab tree, and the Jackalberry tree.   p 
+ p Grevy's Zebras are the largest of the three zebras. You can easily spot them by their stripes that are thinner and closer together. They also live on the plains and savannas like the plains zebra, but farther north in the countries of Somalia, Ethiopia, and Kenya. However, in some parts of Kenya these two zebras live in the same areas.   p 
+ p Grevy's zebras eat mostly grass, too, but also fruit, leaves, and bark from trees. Some of the area where Grevy's zebras live is called  b scrublands  b . These areas have bushes or shrubs, a lot of different herbs, like rosemary and oregano, as well as grasses to eat.   p 
+ p class="actionMessage" Get access risk-free for 30 days,
+			 br just create an account.  p 
+ p  em No obligation, cancel anytime.  em   p 
+ p  em Select a subject to preview related courses:  em   p 
+ p Where do you think the mountain zebra lives? These zebras live in the mountains and hills of Africa! They are found in the countries of Angola, Namibia, and South Africa. The hills are along the coast of the ocean, and the mountains are inland.   p 
+ p Mountain zebras are great climbers and would rather be in the stony hills and high mountains than on flat ground. They are also able to live in the very dry,  b semi-desert  b  habitat where not too many plants grow. But they do eat grass that grows in clumps, bark, leaves, fruit, and roots. They also dig in the ground to find water!   p 
+ p The mountain zebra's stripes are wider apart than its other two cousins, and you can easily tell it by a flap of skin, or dewlap, that grows on their throats. Mountain zebras are also the smallest of the zebras.   p 
+ p The three types of Zebras live in the southeastern countries of Africa. Their habitats include plains,  b savannas  b , mountains, coastal hills, and  b scrublands  b . Africa has a wet season and dry season, and some of its habitats are  b semi-desert  b .  p 
+ p 
+				    span class="icon-unlock"   span 
+				   To unlock this lesson you must be a Study.com Member.
+				    br class="visible-xs" 
+
+				    a data-toggle="modal" href="#partialRegFormModal" data-cname="transcript_create_your_account" test-id="transcript_create_your_account" data-track-visible class="open-reg-form" Create your account  a 
+			     p 
+ p class="login-text" Already a member?  a data-cname="transcript_log_in" test-id="transcript_log_in" href=" academy login.html" Log In  a   p 
+ p class="login-text" 
+		Already registered?
+		
+		 a href=" academy login.html?cta=teacherPromo" class="standardLink" data-cname="teacher-promo-paywall__login" test-id="teacher-promo-paywall__login" 
+			Login here for access
+		  a 
+	  p 
+ p Did you know… We have over 160 college
+						courses that prepare you to earn
+						credit by exam that is accepted by over 1,500 colleges and universities. You can test out of the
+						first two years of college and save thousands off your degree. Anyone can earn
+						credit-by-exam regardless of age or education level.  p 
+ p To learn more, visit our  a href=" academy try earn-college-credit.html" data-cname="earning_credit_link" test-id="earning_credit_link" Earning Credit Page  a   p 
+ p Not sure what college you want to attend yet? Study.com has thousands of articles about every
+							imaginable degree, area of
+							study
+							and career path that can help you find the school that's right for you.  p 
+ p Get the unbiased info you need to find the right school.  p 
+ p Browse an area of study or degree level.  p 
+ p class="visible-xs"  span class="icon-arrow-left"   span  Back To Course  p 
+ p 
+							  span class="numChapters" 11  span  chapters |
+							  span class="numLessons" 902  span  lessons
+							 
+						  p 
+ p Next Lesson  p 
+ p ©  copyright 2003-2019 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		  p 
+ p Your Cart is Empty. Please Choose a Product.  p 
+ p Study.com video lessons have helped over  em class="red bold" 30 million  em 
+										students.  p 
+ p "I learned more in  em class="teal bold" 10 minutes  em  than 1 month of chemistry classes"  p 
+ p - Ashlee P.  p 
+ p "I aced the CLEP exam and earned  em class="green bold" 3 college credits!  em "  p 
+ p - Clair S.  p 
+ p test-id="testimonial_control_text" "The videos have changed the way I teach! The videos on Study.com accomplish in
+							 em class="red bold" 5 minutes  em  what would take me an entire class."  p 
+ p - Chris F.  p 

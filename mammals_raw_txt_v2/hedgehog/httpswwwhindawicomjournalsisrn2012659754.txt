@@ -1,0 +1,211 @@
+ p  sup 1  sup Centre de Fauna Salvatge de Torreferrussa, Catalan Wildlife Service, Forestal Catalana, 08130 Santa Perpètua de la Mogoda,  Spain br  sup 2  sup Departament de Sanitat i d'Anatomia Animals, Facultat de Veterinaria, Universitat Autònoma de Barcelona, 08193 Bellaterra, Barcelona,  Spain br  sup 3  sup Centre de Recerca en Sanitat Animal (CReSA), UAB-IRTA, Campus de la Universitat Autònoma de Barcelona, 08193 Bellaterra, Barcelona,  Spain  p 
+ p Received 9 July 2012; Accepted 26 August 2012  p 
+ p Academic Editors: E. Jumas-Bilak and G. Koraimann  p 
+ p Copyright © 2012 R. A. Molina-López et al. This is an open access article distributed under the  a rel="license" href="http:  creativecommons.org licenses by 3.0 " Creative Commons Attribution License  a , which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.  p 
+ p There are some reports about the risk of manipulating wild hedgehogs since they can be reservoirs of potential zoonotic agents like dermatophytes. The aim of this study was to describe the integument mycobiota, with special attention to dermatophytes of wild European hedgehogs. Samples from spines and fur were cultured separately in Sabouraud dextrose agar (SDA) with antibiotic and dermatophyte test medium (DTM) plates. Nineteen different fungal genera were isolated from 91 cultures of 102 hedgehogs. The most prevalent genera were  i Cladosporium  i  (79.1%),  i Penicillium  i  (74.7%),  i Alternaria  i  (64.8%), and  i Rhizopus  i  (63.7%). A lower prevalence of  i Aspergillus  i  ( svg style="vertical-align:-1.59705pt;width:69.699997px;" id="M1" height="13.1625" version="1.1" viewbox="0 0 69.699997 13.1625" width="69.699997" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,11.113)"  path id="x1D443" d="M619 482q0 -69 -40.5 -119t-96 -72.5t-118.5 -26.5h-44l-70 20l-31 -151q-14 -67 0.5 -83t89.5 -22l-5 -28h-287l8 28q65 7 81.5 22t29.5 83l79 398q12 56 0.5 70.5t-78.5 20.5l7 28h255q108 0 164 -43t56 -125zM524 478q0 141 -146 141q-25 0 -47 -8q-16 -6 -20.5 -13.5
+t-10.5 -39.5l-43 -241q37 -13 83 -13q67 0 125.5 45t58.5 129z"   path   g  g transform="matrix(.017,0,0,-.017,15.582,11.113)"  path id="x3D" d="M535 323h-483v50h483v-50zM535 138h-483v50h483v-50z"   path   g  g transform="matrix(.017,0,0,-.017,30.286,11.113)"  path id="x30" d="M241 635q53 0 94 -28.5t63.5 -76t33.5 -102.5t11 -116q0 -58 -11 -112.5t-34 -103.5t-63.5 -78.5t-94.5 -29.5t-95 28t-64.5 75t-34.5 102.5t-11 118.5q0 58 11.5 112.5t34.5 103t64.5 78t95.5 29.5zM238 602q-32 0 -55.5 -25t-35.5 -68t-17.5 -91t-5.5 -105
+q0 -76 10 -138.5t37 -107.5t69 -45q32 0 55.5 25t35.5 68.5t17.5 91.5t5.5 105t-5.5 105.5t-18 92t-36 68t-56.5 24.5z"   path   g  g transform="matrix(.017,0,0,-.017,38.446,11.113)"  path id="x2C" d="M95 130q31 0 61 -30t30 -78q0 -53 -38 -87.5t-93 -51.5l-11 29q77 31 77 85q0 26 -17.5 43t-44.5 24q-4 0 -8.5 6.5t-4.5 17.5q0 18 15 30t34 12z"   path   g  g transform="matrix(.017,0,0,-.017,45.16,11.113)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,53.32,11.113)"  path id="x33" d="M285 378v-2q65 -13 102 -54.5t37 -97.5q0 -57 -30.5 -104.5t-74 -75t-85.5 -42t-72 -14.5q-31 0 -59.5 11t-40.5 23q-19 18 -16 36q1 16 23 33q13 10 24 0q58 -51 124 -51q55 0 88 40t33 112q0 64 -39 96.5t-88 32.5q-29 0 -64 -11l-6 29q77 25 118 57.5t41 84.5
+q0 45 -26.5 69.5t-68.5 24.5q-67 0 -120 -79l-20 20l43 63q51 56 127 56h1q66 0 107 -37t41 -95q0 -42 -31 -71q-22 -23 -68 -54z"   path   g  g transform="matrix(.017,0,0,-.017,61.479,11.113)"  path id="x35" d="M153 550l-26 -186q79 31 111 31q90 0 141.5 -51t51.5 -119q0 -93 -89 -166q-85 -69 -173 -71q-32 0 -61.5 11.5t-41.5 23.5q-18 17 -17 34q2 16 22 33q14 9 26 -1q61 -50 124 -50q60 0 93 43.5t33 104.5q0 69 -41.5 110t-121.5 41q-53 0 -102 -20l38 305h286l6 -8
+l-26 -65h-233z"   path   g 
+
+		
+	
+  svg ;  svg style="vertical-align:-3.7947pt;width:75.125px;" id="M2" height="20.5625" version="1.1" viewbox="0 0 75.125 20.5625" width="75.125" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,15.775)"  path id="x1D712" d="M565 434q-29 -30 -107.5 -131t-125.5 -168q22 -126 55 -265q8 -35 12.5 -45.5t11.5 -10.5q26 0 76 59l23 -23q-77 -111 -134 -111q-42 0 -63 96l-43 222q-148 -211 -219 -335h-10q-30 45 9 103l209 291q-27 155 -42 214q-7 27 -11.5 35.5t-12.5 8.5q-19 0 -62 -57l-21 21
+q73 110 126 110q18 0 31.5 -22.5t19.5 -52.5l35 -184l160 234l74 25z"   path   g 
+
+			 g transform="matrix(.012,0,0,-.012,9.95,7.613)"  path id="x32" d="M412 140l28 -9q0 -2 -35 -131h-373v23q112 112 161 170q59 70 92 127t33 115q0 63 -31 98t-86 35q-75 0 -137 -93l-22 20l57 81q55 59 135 59q69 0 118.5 -46.5t49.5 -122.5q0 -62 -29.5 -114t-102.5 -130l-141 -149h186q42 0 58.5 10.5t38.5 56.5z"   path   g 
+
+			 g transform="matrix(.017,0,0,-.017,21.013,15.775)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,35.699,15.775)"  path id="x38" d="M249 635q70 0 116 -43t46 -105q0 -46 -28 -80q-22 -25 -80 -64q62 -35 97 -75t35 -99q0 -81 -63 -131t-135 -50q-83 0 -137.5 45.5t-54.5 123.5q0 52 45 95q29 28 89 64q-109 62 -109 155q0 66 50.5 115t128.5 49zM238 603q-42 0 -67.5 -31t-25.5 -72q0 -50 32.5 -79.5
+t98.5 -62.5q61 48 61 124q0 59 -29.5 90t-69.5 31zM248 20q46 0 76.5 33.5t30.5 89.5q0 50 -39 85.5t-110 71.5q-81 -54 -81 -137q0 -67 35.5 -105t87.5 -38z"   path   g  g transform="matrix(.017,0,0,-.017,43.859,15.775)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,50.573,15.775)"  path id="x36" d="M137 343l67 33q37 17 63 17q79 0 129.5 -53t50.5 -131q0 -92 -58 -156.5t-147 -64.5t-147 68t-58 182q0 63 17 119t43 95.5t61.5 72t69 52t67.5 31.5q62 22 128 33l6 -32q-56 -11 -108 -35q-149 -71 -184 -231zM227 337q-47 0 -95 -27q-6 -23 -6 -70q0 -93 36 -155.5
+t96 -62.5q53 0 78 45.5t25 105.5q0 68 -35 116t-99 48z"   path   g  g transform="matrix(.017,0,0,-.017,58.733,15.775)"  use xlink:href="#x33"   use   g  g transform="matrix(.017,0,0,-.017,66.892,15.775)"  use xlink:href="#x33"   use   g 
+
+		
+	
+  svg ) and  i Arthrinium  i  ( svg style="vertical-align:-1.59705pt;width:69.699997px;" id="M3" height="13.1625" version="1.1" viewbox="0 0 69.699997 13.1625" width="69.699997" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,11.113)"  use xlink:href="#x1D443"   use   g  g transform="matrix(.017,0,0,-.017,15.582,11.113)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,30.286,11.113)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,38.446,11.113)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,45.16,11.113)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,53.32,11.113)"  path id="x34" d="M456 178h-96v-72q0 -51 12.5 -62.5t72.5 -16.5v-27h-256v27q65 5 78 17t13 62v72h-260v28q182 271 300 426h40v-407h96v-47zM280 225v295h-2q-107 -148 -196 -295h198z"   path   g  g transform="matrix(.017,0,0,-.017,61.479,11.113)"  use xlink:href="#x33"   use   g 
+
+		
+	
+  svg ;  svg style="vertical-align:-3.7947pt;width:75.125px;" id="M4" height="20.5625" version="1.1" viewbox="0 0 75.125 20.5625" width="75.125" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,15.775)"  use xlink:href="#x1D712"   use   g 
+
+			 g transform="matrix(.012,0,0,-.012,9.95,7.613)"  use xlink:href="#x32"   use   g 
+
+			 g transform="matrix(.017,0,0,-.017,21.013,15.775)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,35.699,15.775)"  use xlink:href="#x38"   use   g  g transform="matrix(.017,0,0,-.017,43.859,15.775)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,50.573,15.775)"  path id="x31" d="M384 0h-275v27q67 5 81.5 18.5t14.5 68.5v385q0 38 -7.5 47.5t-40.5 10.5l-48 2v24q85 15 178 52v-521q0 -55 14.5 -68.5t82.5 -18.5v-27z"   path   g  g transform="matrix(.017,0,0,-.017,58.733,15.775)"  path id="x37" d="M447 623l8 -12l-283 -613l-74 -10l-7 11q174 283 297 551h-216q-48 0 -62.5 -12t-33.5 -63h-29q10 60 18 148h382z"   path   g  g transform="matrix(.017,0,0,-.017,66.892,15.775)"  use xlink:href="#x33"   use   g 
+
+		
+	
+  svg ) was isolated during the spring time and higher frequencies of  i Fusarium  i  ( svg style="vertical-align:-1.59705pt;width:69.699997px;" id="M5" height="13.1625" version="1.1" viewbox="0 0 69.699997 13.1625" width="69.699997" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,11.113)"  use xlink:href="#x1D443"   use   g  g transform="matrix(.017,0,0,-.017,15.582,11.113)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,30.286,11.113)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,38.446,11.113)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,45.16,11.113)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,53.32,11.113)"  use xlink:href="#x31"   use   g  g transform="matrix(.017,0,0,-.017,61.479,11.113)"  use xlink:href="#x35"   use   g 
+
+		
+	
+  svg ;  svg style="vertical-align:-3.7947pt;width:83.275002px;" id="M6" height="20.5625" version="1.1" viewbox="0 0 83.275002 20.5625" width="83.275002" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,15.775)"  use xlink:href="#x1D712"   use   g 
+
+			 g transform="matrix(.012,0,0,-.012,9.95,7.613)"  use xlink:href="#x32"   use   g 
+
+			 g transform="matrix(.017,0,0,-.017,21.013,15.775)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,35.699,15.775)"  use xlink:href="#x31"   use   g  g transform="matrix(.017,0,0,-.017,43.859,15.775)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,52.018,15.775)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,58.733,15.775)"  use xlink:href="#x35"   use   g  g transform="matrix(.017,0,0,-.017,66.892,15.775)"  use xlink:href="#x33"   use   g  g transform="matrix(.017,0,0,-.017,75.052,15.775)"  use xlink:href="#x33"   use   g 
+
+		
+	
+  svg ) during the autumn. The prevalence of  i Acremonium  i  was significantly higher in young animals (70%, 26 37) than in adults (30%, 11 37) ( svg style="vertical-align:-1.59705pt;width:69.699997px;" id="M7" height="13.1625" version="1.1" viewbox="0 0 69.699997 13.1625" width="69.699997" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,11.113)"  use xlink:href="#x1D443"   use   g  g transform="matrix(.017,0,0,-.017,15.582,11.113)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,30.286,11.113)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,38.446,11.113)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,45.16,11.113)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,53.32,11.113)"  use xlink:href="#x31"   use   g  g transform="matrix(.017,0,0,-.017,61.479,11.113)"  path id="x39" d="M244 635q90 0 143 -72t53 -177q0 -133 -65 -229.5t-171 -139.5q-79 -32 -140 -32l-5 30q109 18 185 91t101 186l-68 -36q-29 -16 -60 -16q-79 0 -129 51.5t-50 130.5q0 80 57 146.5t149 66.5zM228 602q-52 0 -78 -45.5t-26 -98.5q0 -69 36.5 -115.5t97.5 -46.5
+q53 0 90 28q4 31 4 66q0 51 -9.5 95.5t-39 80.5t-75.5 36z"   path   g 
+
+		
+	
+  svg ;  svg style="vertical-align:-3.7947pt;width:75.125px;" id="M8" height="20.5625" version="1.1" viewbox="0 0 75.125 20.5625" width="75.125" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,15.775)"  use xlink:href="#x1D712"   use   g 
+
+			 g transform="matrix(.012,0,0,-.012,9.95,7.613)"  use xlink:href="#x32"   use   g 
+
+			 g transform="matrix(.017,0,0,-.017,21.013,15.775)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,35.699,15.775)"  use xlink:href="#x35"   use   g  g transform="matrix(.017,0,0,-.017,43.859,15.775)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,50.573,15.775)"  use xlink:href="#x39"   use   g  g transform="matrix(.017,0,0,-.017,58.733,15.775)"  use xlink:href="#x31"   use   g  g transform="matrix(.017,0,0,-.017,66.892,15.775)"  use xlink:href="#x35"   use   g 
+
+		
+	
+  svg ). Moreover, the majority of the saprophytic species that grew at the SDA culture were also detected at the DTM. Finally, no cases of ringworm were diagnosed and no dermatophytes spp. were isolated. Concluding, this study provides the first description of fungal mycobiota of the integument of wild European hedgehogs in Spain, showing a large number of saprophytic species and the absence of dermatophytes.  p 
+ p The European hedgehog ( i Erinaceus europaeus  i ) is one of the two species of hedgehogs living in Catalonia (North-eastern Spain). In the area of study, this species is frequent in deciduous or semideciduous forests, in holm-oak woods and also in human-related habitats such as gardens, parks, and fields. Due to their distribution and behaviour, many hedgehogs are found in the wild and brought to wildlife rehabilitation centres in Europe [ a href="#B1" 1  a ,  a href="#B2" 2  a ]. Several potential zoonotic agents have been reported in hedgehogs, mostly bacteria such as  i Salmonella  i  spp. [ a href="#B3" 3  a ,  a href="#B4" 4  a ], tick-borne diseases, [ a href="#B5" 5  a ,  a href="#B6" 6  a ] and also fungi [ a href="#B7" 7  a ].  i Trichophyton mentagrophytes var. erinacei  i  is the most common causative agent of ringworm in wild hedgehogs [ a href="#B8" 8  a ] and 25% of carriers have been documented in a survey from England [ a href="#B9" 9  a ].  p 
+ p The skin is the largest mammalian organ and represents a complex microbial ecosystem with bacteria, viruses, protozoa, and fungi in direct contact with the environment. The potential association of the alterations of the skin mycobiota with disease has been well established in human medicine [ a href="#B10" 10  a ].  i Trichophyton mentagrophytes var. erinacei  i  has been isolated in zoophilic dermatophytoses in humans [ a href="#B11" 11  a ,  a href="#B12" 12  a ] and an outbreak of ringworm in caretakers of wild European hedgehogs was reported in Germany [ a href="#B13" 13  a ].  p 
+ p There are several studies of mycobiota carried out with samples from domestic animals, like cats [ a href="#B14" 14  a ] and dogs [ a href="#B15" 15  a ]. In all these studies, the most frequently isolated fungal genera were classified as saprophytes (mainly  i Aspergillus, Alternaria, Penicillium,  i  and  i Cladosporium  i  spp.) but in cats two pathogenic genera ( i Microsporum  i  and  i Trichophyton  i ) have been also described.  p 
+ p Since there is scarce information about the mycobiota in wild hedgehogs, the aim of this study was to describe this mycobiota, with special attention to dermatophytes, in wild hedgehogs admitted at a wildlife rehabilitation centre in Catalonia (Spain).  p 
+ p All wild European hedgehogs admitted at the Wildlife Rehabilitation Centre of Torreferrussa (Catalonia, north-east Spain, 3°19′-0°9′ E and 42°51′-40°31′ N) from June 2009 to August 2010 were included in the study. Sample collection was performed during the routinely clinical examination of hedgehogs at admission. Animals were anesthetized with isoflurane (Forane, Abbott) after chamber or mask induction, and one to three spines and hair were removed with a sterile mosquito forceps. Two sets of spines were collected from both the clavicular and the lumbar region. Hair samples were obtained from the ventral part of the body. The forceps were sterilized by flaming immediately before the sampling of each body part.   p 
+ p The centre directly depends on the governmental Catalan Wildlife Service. Thus, protocols, amendments, and other resources were done according to the guidelines approved by the government of Catalonia.  p 
+ p Samples were cultured in Sabouraud dextrose agar (SDA) with antibiotics and dermatophyte test medium (DTM) plates. Spines and hair were cultured in separated plates. For the culture of spines, each plate was divided in two parts, one from the dorsal spine and the other from the lumbar one.  p 
+ p Samples were inoculated on duplicate plates of SDA (Difco) with chloramphenicol (400 ppm) and dermatophyte selective medium prepared according to Taplin’s DTM formula (Biolife) [ a href="#B16" 16  a ].  p 
+ p The plates were incubated at 28°C and regularly examined for a month. Taxonomic identification of all the different mycelial colonies was based on macroscopic and microscopic studies. The observation was made from fragments of the colony prepared freshly by adding blue lactophenol. The strains were observed under light microscope. According to the fungal structures observed, identification of strains at genus level was performed. The identification of yeasts was performed by staining with methylene blue and using the API 20C system.  p 
+ p The following data were recorded: age, sex, date of admission, cause of hospitalization, main diagnosis, and location where hedgehogs were found. Age was categorized as juveniles or adults, according to their body weight and the date of admission. Data analysis was carried out using SPSS version 15.0 statistical software (Chicago, Illinois, USA). Data were summarized with standard descriptive statistics. Prevalence and its 95% confidence intervals (95% CIs) were calculated. Differences were evaluated by the  svg style="vertical-align:-3.7947pt;width:16.35px;" id="M9" height="20.5625" version="1.1" viewbox="0 0 16.35 20.5625" width="16.35" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,15.775)"  use xlink:href="#x1D712"   use   g 
+
+			 g transform="matrix(.012,0,0,-.012,9.95,7.613)"  use xlink:href="#x32"   use   g 
+
+		
+	
+  svg  test for qualitative variables, and their 95% CIs were calculated. Kruskall-Wallis test with the percentiles 25% and 75% was applied as a nonparametric test.  p 
+ p A total of 102 hedgehogs were examined during the period of the study. Results were obtained from 91 cultures. The causes of admission and demographic characteristics of these animals are summarized in Table  a target="_blank" href="tab1 " 1  a . No cases of ringworm were diagnosed and no dermatophyte isolation was obtained in any of the cultures. Moreover, the majority of the saprophytic species that grew on SDA medium were also detected at the DTM. In some strains of the genera  i Cladosporium  i ,  i Penicillium,   i and  i Aspergillus  i  a colour change was also detected at the DTM.  p 
+ p The prevalence of the different fungal genera isolated from the wild hedgehog is summarized in Table  a target="_blank" href="tab2 " 2  a . Nineteen different genera were finally isolated. The most prevalent genus were  i Cladosporium  i  (79.1%),  i Penicillium  i  (74.7%),  i Alternaria  i  (64.8%), and i  Rhizopus  i  (63.7%). No significant differences were observed in the prevalence of genera among the different anatomical regions (cranial and caudal spines or fur). Only two genus,  i Rhizopus  i  and  i Trichoderma  i  were more frequently found in spines than in fur and 4 species  i (Aphanocladium   i spp. i , A. ochraceus, Phoma   i spp. i ,   i and i  Ulocladium  i  spp.) were only isolated from the fur (Table  a target="_blank" href="tab2 " 2  a ).  p 
+ p As regards the season of the year, we found lower prevalence of  i Aspergillus  i  ( svg style="vertical-align:-3.7947pt;width:151.41251px;" id="M17" height="20.5625" version="1.1" viewbox="0 0 151.41251 20.5625" width="151.41251" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,15.775)"  use xlink:href="#x1D443"   use   g  g transform="matrix(.017,0,0,-.017,15.582,15.775)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,30.286,15.775)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,38.446,15.775)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,42.321,15.775)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,50.481,15.775)"  use xlink:href="#x33"   use   g  g transform="matrix(.017,0,0,-.017,58.64,15.775)"  use xlink:href="#x35"   use   g  g transform="matrix(.017,0,0,-.017,66.8,15.775)"  path id="x3B" d="M114 412q23 0 39 -16t16 -41t-16 -41.5t-40 -16.5t-39.5 16.5t-15.5 41.5t15.5 41t40.5 16zM95 130q31 0 61 -30t30 -78q0 -53 -38 -88t-92 -52l-11 30q76 32 76 85q0 26 -17.5 43.5t-44.5 23.5q-13 3 -13 24q0 19 14.5 30.5t34.5 11.5z"   path   g  g transform="matrix(.017,0,0,-.017,79.175,15.775)"  use xlink:href="#x1D712"   use   g 
+
+			 g transform="matrix(.012,0,0,-.012,89.075,7.613)"  use xlink:href="#x32"   use   g 
+
+			 g transform="matrix(.017,0,0,-.017,100.138,15.775)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,114.824,15.775)"  use xlink:href="#x38"   use   g  g transform="matrix(.017,0,0,-.017,122.984,15.775)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,126.86,15.775)"  use xlink:href="#x36"   use   g  g transform="matrix(.017,0,0,-.017,135.019,15.775)"  use xlink:href="#x33"   use   g  g transform="matrix(.017,0,0,-.017,143.178,15.775)"  use xlink:href="#x33"   use   g 
+
+		
+	
+  svg ) and  i Arthrinium  i  ( svg style="vertical-align:-3.7947pt;width:151.41251px;" id="M18" height="20.5625" version="1.1" viewbox="0 0 151.41251 20.5625" width="151.41251" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,15.775)"  use xlink:href="#x1D443"   use   g  g transform="matrix(.017,0,0,-.017,15.582,15.775)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,30.286,15.775)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,38.446,15.775)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,42.321,15.775)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,50.481,15.775)"  use xlink:href="#x34"   use   g  g transform="matrix(.017,0,0,-.017,58.64,15.775)"  use xlink:href="#x33"   use   g  g transform="matrix(.017,0,0,-.017,66.8,15.775)"  use xlink:href="#x3B"   use   g  g transform="matrix(.017,0,0,-.017,79.175,15.775)"  use xlink:href="#x1D712"   use   g 
+
+			 g transform="matrix(.012,0,0,-.012,89.075,7.613)"  use xlink:href="#x32"   use   g 
+
+			 g transform="matrix(.017,0,0,-.017,100.138,15.775)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,114.824,15.775)"  use xlink:href="#x38"   use   g  g transform="matrix(.017,0,0,-.017,122.984,15.775)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,126.86,15.775)"  use xlink:href="#x31"   use   g  g transform="matrix(.017,0,0,-.017,135.019,15.775)"  use xlink:href="#x37"   use   g  g transform="matrix(.017,0,0,-.017,143.178,15.775)"  use xlink:href="#x33"   use   g 
+
+		
+	
+  svg ) in the spring and higher frequencies of  i Fusarium  i  ( svg style="vertical-align:-3.7947pt;width:159.5625px;" id="M19" height="20.5625" version="1.1" viewbox="0 0 159.5625 20.5625" width="159.5625" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,15.775)"  use xlink:href="#x1D443"   use   g  g transform="matrix(.017,0,0,-.017,15.582,15.775)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,30.286,15.775)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,38.446,15.775)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,42.321,15.775)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,50.481,15.775)"  use xlink:href="#x31"   use   g  g transform="matrix(.017,0,0,-.017,58.64,15.775)"  use xlink:href="#x35"   use   g  g transform="matrix(.017,0,0,-.017,66.8,15.775)"  use xlink:href="#x3B"   use   g  g transform="matrix(.017,0,0,-.017,79.175,15.775)"  use xlink:href="#x1D712"   use   g 
+
+			 g transform="matrix(.012,0,0,-.012,89.075,7.613)"  use xlink:href="#x32"   use   g 
+
+			 g transform="matrix(.017,0,0,-.017,100.138,15.775)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,114.824,15.775)"  use xlink:href="#x31"   use   g  g transform="matrix(.017,0,0,-.017,122.984,15.775)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,131.143,15.775)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,135.019,15.775)"  use xlink:href="#x35"   use   g  g transform="matrix(.017,0,0,-.017,143.178,15.775)"  use xlink:href="#x33"   use   g  g transform="matrix(.017,0,0,-.017,151.338,15.775)"  use xlink:href="#x33"   use   g 
+
+		
+	
+  svg ) in the autumn.  p 
+ p The number of species isolated from the different body areas was similar: cranial ( svg style="vertical-align:-3.3907pt;width:202.2px;" id="M20" height="16.450001" version="1.1" viewbox="0 0 202.2 16.450001" width="202.2" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,12.163)"  path id="x6D" d="M797 0h-214v26q46 5 58 17.5t12 63.5v167q0 116 -88 116q-48 0 -112 -52q3 -18 3 -42v-195q0 -46 11 -58t53 -17v-26h-214v26q48 5 59.5 17t11.5 60v172q0 115 -88 115q-47 0 -109 -52v-235q0 -47 10 -59.5t48 -17.5v-26h-211v26q50 5 62.5 17t12.5 60v207q0 48 -9 59.5
+t-52 18.5v23q79 14 139 41v-81q3 2 29 20.5t44 29.5q45 28 81 28t66 -22t46 -61q25 20 83 57q39 26 76 26q59 0 93 -40t34 -113v-193q0 -49 10.5 -60.5t54.5 -16.5v-26z"   path   g  g transform="matrix(.017,0,0,-.017,13.916,12.163)"  path id="x65" d="M380 106l15 -22q-42 -52 -87 -74t-76 -22q-89 0 -142 62t-53 151q0 103 66 175q67 73 146 73h1q61 0 105.5 -46.5t44.5 -105.5q0 -16 -4.5 -22.5t-18.5 -9.5q-54 -10 -262 -17q1 -95 46 -143.5t104 -48.5q61 0 115 50zM225 412q-35 0 -64.5 -32.5t-40.5 -90.5q83 0 170 3
+q14 0 19 4.5t5 15.5q1 41 -23.5 70.5t-65.5 29.5z"   path   g  g transform="matrix(.017,0,0,-.017,21.209,12.163)"  path id="x64" d="M517 51v-25q-101 -18 -155 -38v65l-61 -36q-50 -29 -78 -29q-68 0 -126.5 58t-58.5 155q0 103 77 175.5t180 72.5q36 0 67 -12v143q0 48 -11.5 58.5t-65.5 14.5v25q79 9 156 34v-597q0 -38 7.5 -48t36.5 -13zM362 85v275q-35 51 -103 51q-20 0 -40.5 -8.5t-42 -28
+t-35 -57.5t-13.5 -89q0 -83 42 -130t96 -47q51 0 96 34z"   path   g  g transform="matrix(.017,0,0,-.017,30.184,12.163)"  path id="x69" d="M135 536q-20 0 -35 15.5t-15 35.5q0 22 15 37t36 15t35.5 -15t14.5 -37q0 -21 -15 -36t-36 -15zM252 0h-220v26q48 5 59 17t11 63v206q0 47 -9 58t-54 18v24q78 12 142 39v-345q0 -51 11.5 -63t59.5 -17v-26z"   path   g  g transform="matrix(.017,0,0,-.017,34.791,12.163)"  path id="x61" d="M433 39l-85 -51q-27 0 -47 20q-16 16 -24 44q-5 -3 -24 -16.5t-27 -18.5t-23 -13.5t-25 -12t-19 -3.5q-52 0 -86 36.5t-34 85.5q0 71 81 99q128 43 155 65v17q0 54 -23 83.5t-62 29.5q-28 0 -45 -19t-29 -66q-7 -23 -29 -23q-15 0 -29 13t-14 30t31 40q25 19 68.5 40.5
+t81.5 29.5q49 0 82 -27q45 -39 45 -123v-185q0 -60 35 -60q18 0 36 11zM275 84v156q-12 -6 -49 -23t-41 -19q-31 -14 -46 -31t-15 -43q0 -35 22.5 -55.5t48.5 -20.5q19 0 42 10.5t38 25.5z"   path   g  g transform="matrix(.017,0,0,-.017,42.117,12.163)"  path id="x6E" d="M524 0h-209v26q44 5 55 18t11 65v167q0 114 -91 114q-50 0 -109 -51v-235q0 -50 10 -61.5t55 -16.5v-26h-217v26q51 5 62 17t11 61v206q0 47 -9.5 58.5t-50.5 19.5v23q82 15 139 40v-79l67 47q47 30 83 30q60 0 94.5 -40t34.5 -112v-193q0 -50 10 -61.5t54 -16.5v-26z
+"   path   g  g transform="matrix(.017,0,0,-.017,56.124,12.163)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,70.828,12.163)"  use xlink:href="#x33"   use   g  g transform="matrix(.017,0,0,-.017,78.988,12.163)"  use xlink:href="#x3B"   use   g  g transform="matrix(.017,0,0,-.017,91.363,12.163)"  path id="x50" d="M46 650h247q112 0 169 -41q64 -49 64 -141q0 -91 -56.5 -143t-138.5 -62q-23 -3 -45 -1l-74 19v-157q0 -63 15.5 -77t83.5 -19v-28h-271v28q60 5 74 20t14 77v400q0 65 -12.5 79t-69.5 18v28zM212 559v-245q31 -12 73 -12q59 0 102 38t43 124q0 77 -42.5 115.5
+t-108.5 38.5q-44 0 -56 -12q-11 -8 -11 -47z"   path   g 
+
+			 g transform="matrix(.012,0,0,-.012,100.938,16.25)"  use xlink:href="#x32"   use   g  g transform="matrix(.012,0,0,-.012,106.649,16.25)"  use xlink:href="#x35"   use   g 
+
+			 g transform="matrix(.017,0,0,-.017,117.713,12.163)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,132.399,12.163)"  use xlink:href="#x32"   use   g  g transform="matrix(.017,0,0,-.017,140.559,12.163)"  use xlink:href="#x3B"   use   g  g transform="matrix(.017,0,0,-.017,152.934,12.163)"  use xlink:href="#x50"   use   g 
+
+			 g transform="matrix(.012,0,0,-.012,162.513,16.25)"  use xlink:href="#x37"   use   g  g transform="matrix(.012,0,0,-.012,168.224,16.25)"  use xlink:href="#x35"   use   g 
+
+			 g transform="matrix(.017,0,0,-.017,179.288,12.163)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,193.974,12.163)"  use xlink:href="#x35"   use   g 
+
+		
+	
+  svg ); caudal ( svg style="vertical-align:-3.3907pt;width:202.2px;" id="M21" height="16.450001" version="1.1" viewbox="0 0 202.2 16.450001" width="202.2" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,12.163)"  use xlink:href="#x6D"   use   g  g transform="matrix(.017,0,0,-.017,13.916,12.163)"  use xlink:href="#x65"   use   g  g transform="matrix(.017,0,0,-.017,21.209,12.163)"  use xlink:href="#x64"   use   g  g transform="matrix(.017,0,0,-.017,30.184,12.163)"  use xlink:href="#x69"   use   g  g transform="matrix(.017,0,0,-.017,34.791,12.163)"  use xlink:href="#x61"   use   g  g transform="matrix(.017,0,0,-.017,42.117,12.163)"  use xlink:href="#x6E"   use   g  g transform="matrix(.017,0,0,-.017,56.124,12.163)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,70.828,12.163)"  use xlink:href="#x33"   use   g  g transform="matrix(.017,0,0,-.017,78.988,12.163)"  use xlink:href="#x3B"   use   g  g transform="matrix(.017,0,0,-.017,91.363,12.163)"  use xlink:href="#x50"   use   g 
+
+			 g transform="matrix(.012,0,0,-.012,100.938,16.25)"  use xlink:href="#x32"   use   g  g transform="matrix(.012,0,0,-.012,106.649,16.25)"  use xlink:href="#x35"   use   g 
+
+			 g transform="matrix(.017,0,0,-.017,117.713,12.163)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,132.399,12.163)"  use xlink:href="#x32"   use   g  g transform="matrix(.017,0,0,-.017,140.559,12.163)"  use xlink:href="#x3B"   use   g  g transform="matrix(.017,0,0,-.017,152.934,12.163)"  use xlink:href="#x50"   use   g 
+
+			 g transform="matrix(.012,0,0,-.012,162.513,16.25)"  use xlink:href="#x37"   use   g  g transform="matrix(.012,0,0,-.012,168.224,16.25)"  use xlink:href="#x35"   use   g 
+
+			 g transform="matrix(.017,0,0,-.017,179.288,12.163)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,193.974,12.163)"  use xlink:href="#x35"   use   g 
+
+		
+	
+  svg ), and fur ( svg style="vertical-align:-3.3907pt;width:202.2px;" id="M22" height="16.450001" version="1.1" viewbox="0 0 202.2 16.450001" width="202.2" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,12.163)"  use xlink:href="#x6D"   use   g  g transform="matrix(.017,0,0,-.017,13.916,12.163)"  use xlink:href="#x65"   use   g  g transform="matrix(.017,0,0,-.017,21.209,12.163)"  use xlink:href="#x64"   use   g  g transform="matrix(.017,0,0,-.017,30.184,12.163)"  use xlink:href="#x69"   use   g  g transform="matrix(.017,0,0,-.017,34.791,12.163)"  use xlink:href="#x61"   use   g  g transform="matrix(.017,0,0,-.017,42.117,12.163)"  use xlink:href="#x6E"   use   g  g transform="matrix(.017,0,0,-.017,56.124,12.163)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,70.828,12.163)"  use xlink:href="#x33"   use   g  g transform="matrix(.017,0,0,-.017,78.988,12.163)"  use xlink:href="#x3B"   use   g  g transform="matrix(.017,0,0,-.017,91.363,12.163)"  use xlink:href="#x50"   use   g 
+
+			 g transform="matrix(.012,0,0,-.012,100.938,16.25)"  use xlink:href="#x32"   use   g  g transform="matrix(.012,0,0,-.012,106.649,16.25)"  use xlink:href="#x35"   use   g 
+
+			 g transform="matrix(.017,0,0,-.017,117.713,12.163)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,132.399,12.163)"  use xlink:href="#x31"   use   g  g transform="matrix(.017,0,0,-.017,140.559,12.163)"  use xlink:href="#x3B"   use   g  g transform="matrix(.017,0,0,-.017,152.934,12.163)"  use xlink:href="#x50"   use   g 
+
+			 g transform="matrix(.012,0,0,-.012,162.513,16.25)"  use xlink:href="#x37"   use   g  g transform="matrix(.012,0,0,-.012,168.224,16.25)"  use xlink:href="#x35"   use   g 
+
+			 g transform="matrix(.017,0,0,-.017,179.288,12.163)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,193.974,12.163)"  use xlink:href="#x34"   use   g 
+
+		
+	
+  svg ). Moreover, no statistical differences were observed between prevalence of fungal species and the cause of admission, the clinical signs, or the sex. By contrast, the prevalence of  i Acremonium  i  was significantly higher in young animals (70%, 26 37) than in adults (30%, 11 37) ( svg style="vertical-align:-3.7947pt;width:151.41251px;" id="M23" height="20.5625" version="1.1" viewbox="0 0 151.41251 20.5625" width="151.41251" xmlns:xlink="http:  www.w3.org 1999 xlink" xmlns="http:  www.w3.org 2000 svg" 
+	
+		
+			 g transform="matrix(.017,0,0,-.017,.062,15.775)"  use xlink:href="#x1D443"   use   g  g transform="matrix(.017,0,0,-.017,15.582,15.775)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,30.286,15.775)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,38.446,15.775)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,42.321,15.775)"  use xlink:href="#x30"   use   g  g transform="matrix(.017,0,0,-.017,50.481,15.775)"  use xlink:href="#x31"   use   g  g transform="matrix(.017,0,0,-.017,58.64,15.775)"  use xlink:href="#x39"   use   g  g transform="matrix(.017,0,0,-.017,66.8,15.775)"  use xlink:href="#x3B"   use   g  g transform="matrix(.017,0,0,-.017,79.175,15.775)"  use xlink:href="#x1D712"   use   g 
+
+			 g transform="matrix(.012,0,0,-.012,89.075,7.613)"  use xlink:href="#x32"   use   g 
+
+			 g transform="matrix(.017,0,0,-.017,100.138,15.775)"  use xlink:href="#x3D"   use   g  g transform="matrix(.017,0,0,-.017,114.824,15.775)"  use xlink:href="#x35"   use   g  g transform="matrix(.017,0,0,-.017,122.984,15.775)"  use xlink:href="#x2C"   use   g  g transform="matrix(.017,0,0,-.017,126.86,15.775)"  use xlink:href="#x39"   use   g  g transform="matrix(.017,0,0,-.017,135.019,15.775)"  use xlink:href="#x31"   use   g  g transform="matrix(.017,0,0,-.017,143.178,15.775)"  use xlink:href="#x35"   use   g 
+
+		
+	
+  svg ).  p 
+ p This work provides the first description of the normal mycobiota of the integument of wild European hedgehog in a region of Spain. Interestingly, a large variety of saprophytic fungi were isolated in these animals, although no dermatophytes were found.  p 
+ p Hedgehogs are one of the most common wild mammals attended at the different rehabilitation centres in Europe, due to their abundance and their vicinity to humans. Moreover, the reduced body size and relatively tameness of these animals are factors that favour their capture and handling. Ringworm caused by  i T. mentagrophytes var. erinacei  i  has been reported in wild European hedgehogs, clinically characterized by crusty lesions, alopecia, and loss of spines, mainly affecting the head area [ a href="#B17" 17  a ]. In Britain, Morris and English [ a href="#B9" 9  a ] reported a prevalence of 19.8% (39 203) of  i T. mentagrophytes var. erinacei  i  in hair samples in a survey which included both alive and dead animals. In their study, many of infected cases carried the fungus without lesions. Thus, the potential role of wild European hedgehogs as a source of human infection and its public health significance have been emphasized in different reports [ a href="#B18" 18  a ,  a href="#B19" 19  a ]. Different species of dermatophytes have been commonly reported in healthy mammals with different prevalence levels depending on the animal species; for instance, 4% of cats [ a href="#B20" 20  a ], 8.1% of dogs [ a href="#B21" 21  a ], 8.8% of goats, and 12.2% of sheep [ a href="#B22" 22  a ] were positive to dermatophytes. By contrast, in some animal species, such as in dromedary camels [ a href="#B23" 23  a ], it has not been possible to find dermatophytes.  p 
+ p The majority of the fungal species isolated in this work are ubiquitous and most of the genera match with those reported in human toes and in the hair of other mammalian species. In the toes of humans, at least fourteen different genera of fungi have been isolated [ a href="#B24" 24  a ]. These genera included yeasts such as  i Candida albicans  i ,  i Rhodotorula rubra  i ,  i Torulopsis glabra,   i and  i Trichosporon cutaneum  i ; dermatophytes such as  i Microsporum gypseum  i  and  i Trichophyton rubrum;  i  opportunistic fungi that can live in skin such as  i Rhizopus stolonifer  i ,  i Trichosporon cutaneum  i ,  i Fusarium   i spp,  i Scopulariopsis brevicaulis  i ,  i Curvularia   i spp,  i Alternaria alternata  i ,  i Paecilomyces   i spp,  i Aspergillus flavus,  i  and  i Penicillium  i  spp. Other authors reported  i T. mentagrophytes  i  and  i T. rubrum  i  as the most common dermatophytes in a study carried out in 360 human patients [ a href="#B25" 25  a ]. Among nondermatophytes the order of decreased incidence was  i Scopulariopsis brevicaulis  i ,  i Acremonium roseum  i ,  i Aspergillus  i  spp, and  i Fusarium  i  spp. On the other hand, frequencies of saprobe genera higher than 50% have been described in dogs of the same geographical area (Catalonia) of our study by Cabañes et al. 1996 [ a href="#B21" 21  a ], and also in cats from Brazil [ a href="#B16" 16  a ] and Iran [ a href="#B20" 20  a ]. These saprophytic species are frequently found in the environment, soil, or plants. Moreover,  i Chaetomium  i  and  i Trichoderma  i  are known for their cellulolytic activity, so their presence may be related to the natural environment in which the wild hedgehogs live.  p 
+ p There are evidences in the literature that pet [ a href="#B26" 26  a ,  a href="#B27" 27  a ] and wild [ a href="#B13" 13  a ] hedgehogs can be the source of pathogenic fungal infections in humans. The absence of  i Trichophyton sp  i . in hedgehogs of this study was unexpected, but some facts could contribute to this outcome. All examined animals were wild hedgehogs sampled the first day of the admission and no clinical signs indicative of ringworm were observed in any of the animals; likely, they had no time to suffer immunodepression due to the capture-associated stress and, in consequence, no time for spreading any subclinical infection in case of wild reservoirs. Moreover, the total number of saprophytic fungal genera isolated in this work was higher than those published by others [ a href="#B19" 19  a ,  a href="#B28" 28  a ]. The presence of saprophytic species has been considered as an indicator of transient integument contamination from soil or environment [ a href="#B28" 28  a ]. This high prevalence of saprophyte mycobiota could interfere with the growth of other pathogenic species, like dermatophytes if they are in a lower proportion. More sensitive techniques, like PCR, could help in determine this role in wild reservoirs. Nonetheless, in the present study, the mycotic culture was conducted in two different mediums (DTM and SDA), and in three different anatomical locations, corroborating the absence of these pathogens in all the cultures.  p 
+ p The following genera:  i Acremonium, Alternaria, Aspergillus, Mucor, Rhizopus, Absidia, Alternaria, Fusarium,  i  and  i Penicillium,  i  detected in integument of the hedgehogs of our study, have been reported as opportunistic pathogens in immunocompromised humans [ a href="#B29" 29  a ] and animals [ a href="#B28" 28  a ], causing cutaneous or systemic mycoses. However, those genera are considered ubiquitous and the potential role of the hedgehogs as carriers or reservoirs could be considered as negligible. Although no cases of mycoses have been observed in our study population, the potential risk in primary or secondary immunodepressed hedgehogs should be considered.  i Neosartorya hiratsukae  i , an ascomycete in which the conidial state resembles  i Aspergillus fumigatus,   i was described in a captive exotic African pygmy hedgehog [ a href="#B30" 30  a ]. This pathogen is known to cause human fatal brain infection [ a href="#B31" 31  a ].  p 
+ p In conclusion, our study provides the first description of the integument mycobiota of wild European hedgehogs in Spain, showing a large number of saprophyte species in both spines and fur and the absence of dermatophytes. Further larger studies are necessary to elucidate the relevancy of the seasonal and age group differences observed.  p 
+ p The authors would like to thank all the staff of the Rehabilitation Center of Torreferrussa (Catalan Wildlife Service- Forestal Catalana, SA).  p 
+ p © 2018 Hindawi Limited unless otherwise stated.  p 

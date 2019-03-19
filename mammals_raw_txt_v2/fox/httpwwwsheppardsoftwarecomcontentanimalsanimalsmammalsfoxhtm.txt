@@ -1,0 +1,61 @@
+ p align="center" class="font2"  a href="javascript:openBrowserWin('.. .. quizzes mammals canineGame_1.html')" Canine Quiz   a  a href="javascript:openBrowserWin('.. .. quizzes mammals canineGame_1.html')"  img src=".. .. images mammals canine_button.gif" width="54" height="50" hspace="50" border="0" align="middle"   a   p 
+ p    p 
+ p    p 
+ p 
+          
+          p 
+ p align="left" A fox is a member of any of 27 species of small omnivorous canids. The animal most commonly called a fox in the Western world is the Red fox ( em Vulpes vulpes  em ), although different species of foxes can be found on almost every continent. The presence of foxes all over the globe has led to their appearance in the popular culture and folklore of many nations, tribes, and other cultural groups.  p 
+ p align="center"  br 
+ script type="text javascript"  !--
+google_ad_client = "pub-2546752751326586";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "ff6600";
+google_color_url = "000000";
+google_color_text = "000000";
+google_ad_channel ="";
+  --   script 
+ script type="text javascript" src="http:  pagead2.googlesyndication.com pagead show_ads.js" 
+  script 
+              p 
+ p     p 
+ p align="left" class="font2"  img src=".. .. .. .. design images animals_divider_appearance.gif" width="500" height="29"  br 
+               img src=".. .. images mammals fox_arctic.jpg" width="150" height="147" hspace="15" align="left" With most species roughly the size of a domestic cat, foxes are smaller than other members of the family Canidae, such as wolves, jackals, and domestic dogs. Recognizable characteristics also include pointed muzzles and bushy tails. Other physical characteristics vary according to their habitat. For example, the Desert fox has large ears and short fur, whereas the Arctic fox has small ears and thick, insulating fur.  p 
+ p align="left" class="font2"    p 
+ p  img src=".. .. .. .. design images animals_divider_behavior.gif" width="500" height="29"  br 
+               img src=".. .. images mammals fox_b.jpg" width="200" height="300" hspace="15" vspace="0" align="right"  strong Life span:   strong Most foxes live 2–3 years but can survive for up to 10 years, or longer in captivity.   p 
+ p  strong Social life:   strong Unlike many canids, foxes are usually not pack animals. Typically, they are solitary, opportunistic feeders that hunt live prey (especially rodents). Using a pouncing technique practiced from an early age, they are usually able to kill their prey quickly. Foxes also gather a wide variety of other foods ranging from grasshoppers to fruit and berries.  p 
+ p  strong Wary:   strong Foxes are normally extremely wary of humans, and are not kept as pets, but the Silver fox was successfully domesticated in Russia after a 45 year selective breeding program.  p 
+ p  strong Urban:   strong However, foxes are to be readily found in cities and domestic gardens.  p 
+ p  strong Sounds:   strong Foxes do not come together in chorus like wolves or coyotes do. Fox families, however, keep in contact with a wide array of different sounds. These sounds grade into one another and span five octaves; each fox has its own characteristically individual voice. Fox noises can be divided, with a few exceptions, into two different groups: contact sounds and interaction sounds. The former is used by foxes communicating over long distances, the latter in close quarters .  p 
+ p               The most well-known vulpine noise is a sort of barking that spans three to five syllables. " strong Conversations  strong " made up of these noises often occur between widely spaced foxes. As their distance decreases, the sound becomes quieter. A cub is greeted with the quietest version of this sound.  p 
+ p The " strong alarm bark  strong " is made by an adult to warn cubs of danger. From far away it sounds like a sharp bark, but at closer range it resembles a muffled cough, like a football rattle or a stick along a picket fence.  p 
+ p The " strong Gekkering  strong " is a stuttering, throaty noise made at aggressive encounters. It is most frequently heard in the courting season, or when kits are at play.  p 
+ p The " strong vixen's wail  strong " is a long, drawn-out, monosyllabic, and rather eerie wail most commonly made during the breeding season; it is widely thought that it is made by a vixen in heat summoning dog-foxes. Contrary to common belief, however, it is also made by the males, evidently serving some other purpose as well. This noise fits into neither the contact nor the interaction group.  p 
+ p  strong Invasive species:   strong In some countries, such as Australia, with no strong competitors, imported foxes quickly damage native wildlife and become a invasive species. However, many fox species are endangered.  p 
+ p  strong Pest control:   strong Foxes can also be used for helpful environmental purposes. They have been successfully employed to control pests on fruit farms, where they leave the fruit intact.  p 
+ p  strong Historians  strong  believe foxes have been imported into non-native environments long before the colonial era. The first example of the introduction of the fox into a new habitat by humans seems to be Neolithic Cyprus. Stone carvings representing foxes have been found in the early settlement of Göbekli Tepe in eastern Turkey.  p 
+ p  img src=".. .. .. .. design images animals_divider_general.jpg" width="500" height="29"  br 
+               strong Fox terminology  strong  is different from that used for most canids. Male foxes are known as dogs, tods or reynard, females are referred to as vixens, and their young are called kits or cubs, as well as pups. A group of foxes is a skulk.                p 
+ p In many cultures, the fox is a familiar animal of  strong folklore  strong , a symbol of cunning and trickery. Some well-known stories involving foxes are found in Aesop's fables; another is the medieval story of Reynard. In  em The Little Prince  em , a fox indicates the true value of things like friendship.  p 
+ p In  strong Chinese folklore  strong , fox spirits lure men away from their wives. The Chinese word for fox spirit is synonymous with the mistress in an extramarital affair.  p 
+ p In  strong Japanese folklore  strong , the fox-like kitsune is a powerful animal spirit ( em Yōkai  em ) that is highly mischievous and cunning.  p 
+ p The words "fox" or "foxy" have become synonymous slang in Western society for an individual (most often female) with sex appeal.  p 
+ p align="center" class="font1" All text is available under the terms 
+              of the GNU Free Documentation License   p 
+ p align="left"  b  Kingdom:   b Animalia
+                  p 
+ p align="left"  b  Phylum:   b Chordata
+                  p 
+ p align="left"  b  Class:   b Mammalia
+                  p 
+ p align="left"  b  Order:   b Carnivora
+                  p 
+ p align="left"  b  Family:   b Canidae
+                  p 
+ p align="left"  b  Genus:   b Vulpes
+                  p 

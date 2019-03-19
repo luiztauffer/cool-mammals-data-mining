@@ -1,0 +1,26 @@
+ p 
+          Signed property release on file with Shutterstock, Inc.
+          p 
+ p  strong Small  strong  (S) has the shortest download time and is suitable for digital use.  p 
+ p  strong Medium  strong  (M) is suitable for small prints and digital use.  p 
+ p  strong Large  strong  (L) is suitable for large prints as well as digital use. It is the original image provided by the contributor.  p 
+ p You can redownload your image for free at any time, in any size.  p 
+ p class="modal-body custom-body-p text-center asset-editorial-content" 
+        Editorial content, such as news and celebrity images, are not cleared for commercial use. Learn more on our  a href="http:  www.shutterstock.com support sstk_core_customerkb_redirect?l=en_US&amp;a=000004495" target="_blank" Support Center  a .
+        p 
+ p class="modal-leading" 
+        Create your free account to use Collections
+        p 
+ p Saved to  a href="#" data-track="click.searchResults.image-saveToLightboxModalSnackBar-goToLightbox"   a   p 
+ p class="js_saved-filter-text hidden" Saved one filter  p 
+ p class="js_removed-filter-text hidden" Removed from saved filters  p 
+ p class="text hidden js_email-alert-success" Share successful  p 
+ p class="text hidden js_email-alert-fail js_general-alert-fail" Oops! Something went wrong. Please try again later.  p 
+ p Sign up to browse over  strong  million images  strong , video clips, and music tracks. Plus, get  strong free weekly content  strong  and more.   p 
+ p class="p" 
+            or
+            p 
+ p class="instructions" 
+            (We only support JPG and PNG images under 5MB and no larger than 4000px on either side at this time.)
+            p 
+ p At this time we can only support English-language search queries. Please try searching again.  p 

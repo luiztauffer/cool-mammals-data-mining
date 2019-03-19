@@ -1,0 +1,221 @@
+ p class="MsoNormal" align="center" style="text-align:center"  span style="font-size:24.0pt;font-family:Chiller" Introduced Species Summary Project  span 
+ br 
+ span style="font-size:24.0pt;font-family:Chiller;color:#CC0000" European Red
+Fox ( i style="mso-bidi-font-style:normal" Vulpes  i   i style="mso-bidi-font-style:
+normal" vulpes  i )  span   p 
+ p class="MsoNormal" align="center" style="text-align:center"  span style="font-size:10.0pt;font-family:Arial" |  a href="http:  www.columbia.edu ~jd363 JDB invasion_bio inv_spp_summ invbio_plan_report_home.html" Project
+Home  a  |  a href="#Taxonomy" Taxonomy  a  |  a href="#Identification" Identification  a 
+|  a href="#Distribution" Distribution  a  |  a href="#Introduction%20Facts" Introduction
+Facts  a  |  a href="#Establishment" Establishment  a  |  a href="#Ecology" Ecology  a 
+|  a href="#Benefits" Benefits  a  |  a href="#Threats" Threats  a  |  a href="#Control" Control  a  |  span    p 
+ p class="MsoNormal" style="margin-right:.5in;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+auto;margin-left:.5in"  a name="Taxonomy"   a  b  span style="font-family:Arial" Common
+Name:  span   b  span style="font-family:Arial"  European Red Fox span style="mso-tab-count:4"                                              span  p   p   span   p 
+ p style="margin-right:.5in;margin-left:.5in"  b  span style="font-family:Arial" Scientific
+Name:  span   b  span style="font-family:Arial"   i Vulpes vulpes  i  p   p   span   p 
+ p style="margin-right:.5in;margin-left:.5in"  !--[if gte vml 1]  v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f" 
+  v:stroke joinstyle="miter"  
+  v:formulas 
+   v:f eqn="if lineDrawn pixelLineWidth 0"  
+   v:f eqn="sum @0 1 0"  
+   v:f eqn="sum 0 0 @1"  
+   v:f eqn="prod @2 1 2"  
+   v:f eqn="prod @3 21600 pixelWidth"  
+   v:f eqn="prod @3 21600 pixelHeight"  
+   v:f eqn="sum @0 0 1"  
+   v:f eqn="prod @6 1 2"  
+   v:f eqn="prod @7 21600 pixelWidth"  
+   v:f eqn="sum @8 21600 0"  
+   v:f eqn="prod @7 21600 pixelHeight"  
+   v:f eqn="sum @10 21600 0"  
+   v:formulas 
+  v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"  
+  o:lock v:ext="edit" aspectratio="t"  
+  v:shapetype  v:shape id="_x0000_s1026" type="#_x0000_t75" alt="red fox"
+ style='position:absolute;left:0;text-align:left;margin-left:0;margin-top:0;
+ width:172.5pt;height:129.75pt;z-index:1;mso-position-horizontal:left;
+ mso-position-vertical:top;mso-position-vertical-relative:line' o:allowoverlap="f" 
+  v:imagedata src=". Vulpes_vulpes_files image001.jpg" o:href="http:  www.naturalworlds.org wolf canids v_vulpes2.jpg"  
+  w:wrap type="square" anchorx="page"  
+  v:shape  ![endif]--  img width="230" height="173" src=". Vulpes_vulpes_files image002.jpg" align="left" hspace="12" alt="red fox" v:shapes="_x0000_s1026"  b  span style="font-size:10.0pt;font-family:
+Arial" Classification: span style="mso-tab-count:5"                                                     span   span   b  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"   p   p   span   p 
+ p class="MsoNormal" style="margin-top:0in;margin-right:1.0in;margin-bottom:0in;
+margin-left:1.0in;margin-bottom:.0001pt"  b  span style="font-size:10.0pt;
+font-family:Arial" Phylum or Division:   span   b  span style="font-size:10.0pt;
+font-family:Arial;mso-bidi-font-weight:bold" Chordata  span  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"   br 
+  span  b  span style="font-size:10.0pt;font-family:Arial" Class:  span   b  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"  Mammalia br 
+  span  b  span style="font-size:10.0pt;font-family:Arial" Order:  span   b  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"  Carnivora br 
+  span  b  span style="font-size:10.0pt;font-family:Arial" Family:  span   b  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"  Canidae br 
+  span  b  span style="font-size:10.0pt;font-family:Arial" Genus:   span   b  i style="mso-bidi-font-style:normal"  span style="font-size:10.0pt;font-family:
+Arial" Vulpes  span   i  b  span style="font-size:10.0pt;font-family:Arial"  p   p   span   b   p 
+ p class="MsoNormal" style="margin-top:0in;margin-right:1.0in;margin-bottom:0in;
+margin-left:1.0in;margin-bottom:.0001pt"  b  span style="font-size:10.0pt;
+font-family:Arial" Species:   span   b  i style="mso-bidi-font-style:normal"  span style="font-size:10.0pt;font-family:Arial" Vulpes  span   i  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"  p   p   span   p 
+ p style="margin-right:.5in;margin-left:.5in"  span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Arial"  br 
+  span  a name="Identification"   a  b  span style="font-size:10.0pt;font-family:
+Arial" Identification:  span   b  span style="font-size:10.0pt;mso-bidi-font-size:
+12.0pt;font-family:Arial"  span style="mso-spacerun: yes"     span The
+European Red Fox ( i style="mso-bidi-font-style:normal" Vulpes  i   i style="mso-bidi-font-style:normal" vulpes  i ) is the largest member of the
+genus  i style="mso-bidi-font-style:normal" Vulpes  i . span style="mso-spacerun: yes"     span Its weight size vary from 10-14kg, with
+males sometimes weighing as much as 30 lbs. span style="mso-spacerun:
+yes"     span Body length is typically 58-90 cm, with the tail length an
+additional 32-49 cm, and their height ranges between 35-40cm. span style="mso-spacerun: yes"     span It is usually reddish brown in color,
+yet can actually appear with silver, gray, white or black colorings. span style="mso-spacerun: yes"     span The tail is generally bushy in
+appearance and may carry a black and white tipped marking p   p   span   p 
+ p style="margin-right:.5in;margin-left:.5in"  a name="Distribution"   a  b  span style="font-size:10.0pt;font-family:Arial" Original Distribution:  span   b  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"  span style="mso-spacerun: yes"     span Original distribution from the Arctic
+to North Africa, Europe, Eurasia, Central America; however it is now considered
+an established species in North America as well, although it originated as an
+introduced species. p   p   span   p 
+ p style="margin-right:.5in;margin-left:.5in"  b  span style="font-size:10.0pt;
+font-family:Arial" Current Distribution:  span   b  span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Arial"  span style="mso-spacerun:
+yes"     span Retains original distributions noted above as well as
+Australia p   p   span   p 
+ p style="margin-right:.5in;margin-left:.5in"  !--[if gte vml 1]  v:shape id="_x0000_s1028"
+ type="#_x0000_t75" alt="(distribution map of red fox)" style='position:absolute;
+ left:0;text-align:left;margin-left:741.7pt;margin-top:0;width:325.5pt;
+ height:111.75pt;z-index:2;mso-position-horizontal:right;
+ mso-position-vertical:top;mso-position-vertical-relative:line' o:allowoverlap="f" 
+  v:imagedata src=". Vulpes_vulpes_files image003.png" o:href="http:  www.canids.org SPPACCTS MAPS redfox.gif"  
+  w:wrap type="square" anchorx="page"  
+  v:shape  ![endif]--  img width="434" height="149" src=". Vulpes_vulpes_files image004.jpg" align="right" hspace="12" alt="(distribution map of red fox)" v:shapes="_x0000_s1028"  a name="Introduction_Facts"   a  b  span style="font-size:10.0pt;font-family:
+Arial" Site and Date of Introduction:  span   b  span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Arial"  span style="mso-spacerun:
+yes"     span The European Red Fox was introduced in Australia in 1845. p   p   span   p 
+ p style="margin-left:.5in"  b  span style="font-size:10.0pt;font-family:Arial" Mode(s)
+of Introduction:  span   b  a name="Establishment"   a  span style="font-size:
+10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"   i style="mso-bidi-font-style:
+normal" Vulpes  i   i style="mso-bidi-font-style:normal" vulpes  i  was
+intentionally brought to the continent of Australia mainly for hunting sport
+purposes. span style="mso-spacerun: yes"     span There is also mention of
+it being introduced after 1845 for the purpose of controlling the brown hare
+numbers. p   p   span   p 
+ p style="margin-right:.5in;margin-left:.5in"  b  span style="font-size:10.0pt;
+font-family:Arial" Reason(s) Why it has Become Established:  span   b  span style="font-size:10.0pt;font-family:Arial"    span  span style="font-size:
+10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"   i style="mso-bidi-font-style:
+normal" Vulpes  i   i style="mso-bidi-font-style:normal" vulpes  i  is an
+extraordinary adaptor. span style="mso-spacerun: yes"     span Although
+primarily a predator carnivore it is also capable of omnivorous behavior,
+allowing it to forage successfully when prey is scarce. span style="mso-spacerun: yes"     span This also aids it’s survival in areas
+of urbanization, where it’s favored forest habitat has been reduced, as it is
+capable of foraging through human trash and pet food dishes for
+sustenance. span style="mso-spacerun: yes"     span It is a clever adaptor
+to habitat changes, and can survive thrive in all but the most extreme dessert
+or tropical habitats. span style="mso-spacerun: yes"     span The presence
+of dingoes in a habitat may be one of the few non-climate controlled factors to
+limit the Red Foxes growth a name="Ecology"   a . span style="mso-spacerun:
+yes"     span Additional contributors to the Red Foxes success relate to
+the unpreparedness of Australia’s native wildlife for the introduction of this
+predator. span style="mso-spacerun: yes"     span The prey species  i style="mso-bidi-font-style:normal" Vulpes  i   i style="mso-bidi-font-style:
+normal" vulpes  i  finds in Australia were are completely defenseless, having
+to evolutionary experience with the fox. span style="mso-spacerun: yes"  
+  span Moreover, the fox has no natural predator to keep its numbers in check. p   p   span   p 
+ p style="margin-right:.5in;margin-left:.5in"  !--[if gte vml 1]  v:shape id="_x0000_s1030"
+ type="#_x0000_t75" alt="" style='position:absolute;left:0;text-align:left;
+ margin-left:0;margin-top:0;width:109.5pt;height:135pt;z-index:3;
+ mso-position-horizontal:left;mso-position-vertical:top;
+ mso-position-vertical-relative:line' o:allowoverlap="f" 
+  v:imagedata src=". Vulpes_vulpes_files image005.jpg" o:href="http:  www.lioncrusher.com canidae redfox_red.JPG"  
+  w:wrap type="square" anchorx="page"  
+  v:shape  ![endif]--  img width="146" height="180" src=". Vulpes_vulpes_files image006.jpg" align="left" hspace="12" v:shapes="_x0000_s1030"  b  span style="font-size:10.0pt;font-family:Arial" Ecological Role:  span   b  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"  span style="mso-spacerun: yes"     span The Red Fox is primarily a
+predator. span style="mso-spacerun: yes"     span It may in fact be a
+keystone species in areas where it is distributed naturally, keeping the number
+of rodents and small mammals in check. span style="mso-spacerun: yes"  
+  span In areas where it has been introduced, primarily Australia, its ecological
+role is as a destructive pest. span style="mso-spacerun: yes"     span The
+Red Fox also contributes to the economy via the legal and regulated trapping
+and trafficking in its fur in some areas, although this has lessened in the
+recent years.  p   p   span   p 
+ p style="margin-right:.5in;margin-left:.5in"  a name="Benefits"   a  b  span style="font-size:10.0pt;font-family:Arial" Benefit(s): span style="mso-spacerun: yes"     span   span   b  span style="font-size:10.0pt;
+font-family:Arial" As noted above the Red Fox can provide benefits to ranchers,
+farmers, and urban dwellers by keeping the number of rodents in check.  span  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"  It may
+also provide balance from an ecological point of view, as a keystone predator
+for some of its natural range. p   p   span   p 
+ p style="margin-right:.5in;margin-left:.5in"  a name="Threats"   a  b  span style="font-size:10.0pt;font-family:Arial" Threat(s):  span   b  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"  span style="mso-spacerun: yes"      span The Red Fox as an introduced
+species (Australia) is devastating to the native wildlife. span style="mso-spacerun: yes"     span The fox may be solely responsible for
+dozens of small mammal extinctions in Australia. span style="mso-spacerun:
+yes"     span Several species of endangered ground nesting birds, small
+mammals, amphibians, and reptiles are currently threatened by the fox’s
+presence in Australia. span style="mso-spacerun: yes"     span The Red Fox
+also contributes to the spread of disease, due to the widespread nature of it’s
+range and its resistance to population control methods, it could additionally
+be a key carrier of rabies, were that disease to ever be introduced to
+Australia. span style="mso-spacerun: yes"     span The Red Fox also
+threatens local livestock due to predation. p   p   span   p 
+ p style="margin-right:.5in;margin-left:.5in"  a name="Control"   a  b  span style="font-size:10.0pt;font-family:Arial" Control Level Diagnosis:  span   b  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"  span style="mso-spacerun: yes"     span The outlook for the control of this
+pest in Australia is not bright. span style="mso-spacerun: yes"  
+  span Due to its adaptability, it has become firmly entrenched throughout the
+main landmass of Australia. span style="mso-spacerun: yes"     span There
+have even been possible sightings in the island of Tasmania, which has thus far
+escaped invasion, much to the benefit of its unique ecology. span style="mso-spacerun: yes"     span Most control methods (see below for
+specific details) are expensive and not effective on a wide scale. span style="mso-spacerun: yes"     span However the need for immediate,
+successful control measures has probably never been greater, with the numbers
+of endangered species currently threatened by the fox steadily decreasing, as
+well as the potential for a rabies infected animal introduction increasing
+daily. p   p   span   p 
+ p style="margin-right:.5in;margin-left:.5in"  b  span style="font-size:10.0pt;
+font-family:Arial" Control Method:  span   b  span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Arial"  span style="mso-spacerun:
+yes"     span There are some substantive control mechanisms currently
+being used, however they are expensive and not terribly successful on a wide
+scale measurement. span style="mso-spacerun: yes"     span The use of the
+poison 1080 in fox “baiting” is used in some areas of Australia where the
+poison will not affect the native wildlife. span style="mso-spacerun:
+yes"     span Immunocontraception is a method currently being tested that
+introduces a chemical that renders the foxes infertile, although this is
+proceeding slowly due to the recency of this solution, the need for further
+research, and lack of data that indicates how many foxes must be infertile to
+control the population. span style="mso-spacerun: yes"     span Offering a
+bounty on foxes has also been explored, although has not proven effective in
+reducing or controlling the Red Fox numbers due to its expense and inability to
+target fit foxes for removal. span style="mso-spacerun: yes"  
+  span Finally, the fur trade was once a method of control but reduced demand
+has caused this solution to fall away as well. p   p   span   p 
+ p style="margin-top:0in;margin-right:.5in;margin-bottom:0in;margin-left:.5in;
+margin-bottom:.0001pt"  b  span style="font-size:10.0pt;font-family:Arial" References:  span   b  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"  span style="mso-spacerun: yes"     span  p   p   span   p 
+ p style="margin-top:0in;margin-right:.5in;margin-bottom:0in;margin-left:.5in;
+margin-bottom:.0001pt"  i  span style="font-size:10.0pt;mso-bidi-font-size:
+12.0pt;font-family:Arial" (Illustrations and Content) Illustrations above are
+for informational purposes only for this assignment, and should not be
+published without consent of copyright holders. p   p   span   i   p 
+ p style="margin-top:0in;margin-right:.5in;margin-bottom:0in;margin-left:.5in;
+margin-bottom:.0001pt"  i  span style="font-size:10.0pt;mso-bidi-font-size:
+12.0pt;font-family:Arial"   p   p   span   i   p 
+ p style="margin-top:0in;margin-right:.5in;margin-bottom:0in;margin-left:.5in;
+margin-bottom:.0001pt"  i style="mso-bidi-font-style:normal"  span style="font-size:10.0pt;mso-bidi-font-size:24.0pt;font-family:Arial" Vulpes  span   i  span style="font-size:10.0pt;mso-bidi-font-size:24.0pt;font-family:Arial"   i style="mso-bidi-font-style:normal" vulpes  i  - Red fox  span  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Arial"    span  span style="font-size:10.0pt;mso-bidi-font-size:7.5pt;font-family:Arial" Web site  i  a href="http:  www.naturalworlds.org wolf canids Vulpes_vulpes" http:  www.naturalworlds.org wolf canids Vulpes_vulpes  a 
+  i .  p   p   span   p 
+ p style="margin-top:0in;margin-right:.5in;margin-bottom:0in;margin-left:.5in;
+margin-bottom:.0001pt"  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial"   p   p   span   p 
+ p style="margin-top:0in;margin-right:.5in;margin-bottom:0in;margin-left:.5in;
+margin-bottom:.0001pt"  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial" Foxes in Tasmania - A Grave Threat to Our Wildlife   span  i  span style="font-size:10.0pt;mso-bidi-font-size:7.5pt;font-family:Arial"  a href="http:  www.dpiwe.tas.gov.au inter.nsf WebPages SJON-52J8U3?open" http:  www.dpiwe.tas.gov.au inter.nsf WebPages SJON-52J8U3?open  a 
+  span   i  span style="font-size:10.0pt;mso-bidi-font-size:7.5pt;font-family:
+Arial"  span style="mso-spacerun: yes"    span - was last published on 28
+February 2002 by the Department of Primary Industries, Water &amp; Environment p   p   span   p 
+ p style="margin-top:0in;margin-right:.5in;margin-bottom:0in;margin-left:.5in;
+margin-bottom:.0001pt"  span style="font-size:10.0pt;mso-bidi-font-size:7.5pt;
+font-family:Arial"   p   p   span   p 
+ p style="margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
+margin-bottom:.0001pt"  span style="font-size:10.0pt;mso-bidi-font-size:24.0pt;
+font-family:Arial" Red Fox   span  i  span style="font-size:10.0pt;mso-bidi-font-size:
+18.0pt;font-family:Arial" (Vulpes vulpes) span style="mso-spacerun: yes"  
+  span  a href="http:  www.lioncrusher.com canidae redfox.htm" http:  www.lioncrusher.com canidae redfox.htm  a 
+  span   i  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:
+Arial"  span style="mso-spacerun: yes"     span Information for this
+page was taken from: Alderton, David.  i  Foxes, Wolves and Wild Dogs of
+the World  i . Blandford Press: United Kingdom, 1998. p   p   span   p 
+ p style="margin-left:.5in"  span style="font-size:10.0pt;mso-bidi-font-size:
+7.5pt;font-family:Arial" Invasive Species – Feral Foxes  i  a href="http:  www.ea.gov.au biodiversity invasive pests fox.html" http:  www.ea.gov.au biodiversity invasive pests fox.html  a  p   p   i   span   p 
+ p style="margin-left:.5in"  span style="font-size:10.0pt;mso-bidi-font-size:
+7.5pt;font-family:Arial" Threat Abatement for Predation by the European Red Fox
+ i  a href="http:  www.ea.gov.au biodiversity threatened tap foxes 3.html#table1" http:  www.ea.gov.au biodiversity threatened tap foxes 3.html#table1  a   i   span  span style="font-family:Arial"  p   p   span   p 
+ p class="MsoNormal"  b  span style="font-size:10.0pt;font-family:Arial" Author:  span   b  span style="font-size:10.0pt;font-family:Arial"  Jean Bartels  span  span style="font-family:Arial"  br 
+  span  b  span style="font-size:10.0pt;font-family:Arial" Last Edited:  span   b  span style="font-size:10.0pt;font-family:Arial"  March 1, 2002  span  span style="font-family:Arial"   p   p   span   p 
+ p class="MsoNormal"  span style="font-size:10.0pt;font-family:Arial" |  a href="http:  www.columbia.edu ~jd363 JDB invasion_bio inv_spp_summ invbio_plan_report_home.html" Project
+Home  a  |  span    p 
+ p class="MsoNormal"  b  span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Arial" Project Editor: James A. Danoff-Burg, Columbia University  span   b   p 

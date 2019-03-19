@@ -1,0 +1,21 @@
+ p  i class="fa fa-paw" aria-hidden="true"   i  Genus:  strong Equus burchellii, equus grevyi, equus zebra, and equus quagga  strong   p 
+ p  i class="fa fa-compass" aria-hidden="true"   i  Location:  strong Africa  strong   p 
+ p Zebras sleep standing up.  p 
+ p Zebras are dark skinned animals. However, their fur has both dark and white hair.  p 
+ p Grevy’s zebra is named after a former French President, Jules Grévy.  p 
+ p Burchell’s zebra is named after the British explorer, William John Burchell  p 
+ p Zebras sleep standing up.  p 
+ p Zebras are dark skinned animals. However, their fur has both dark and white hair.  p 
+ p Grevy’s zebra is named after a former French President, Jules Grévy.  p 
+ p Burchell’s zebra is named after the British explorer, William John Burchell  p 
+ p  strong Most Easily Recognized Mammal  strong   p 
+ p Zebras are found on savannahs, open woodlands and grassy mountain slopes. They sometimes can be seen in up to tens of thousands in migratory herds on the Serengeti plains. They are social animals that spend their time in herds. Zebras, with their black and white stripes, are among the most recognizable of all mammals. Each animal’s stripes are as unique as fingerprints—no two are exactly alike. However, each of the three living species has its own general pattern. The stripes are a form of camouflage. The patterns may make it difficult for predators to identify a single animal from a running herd. They have excellent eyesight and hearing and can even run from side to side when chased by a predator.  p 
+ p Zebras can grow to almost 5-feet tall at the shoulder- as tall as a 12 year old boy. They are much heavier though, and the lightest zebra weighs 400 pounds, which is four or five times a 12 year old’s weight. Some zebras weigh as much as 900 pounds! Zebras eat mostly grasses, with some leaves and twigs. They are able to eat both short young shoots and long flowering grasses. Zebras migrate according to how much food and water is available.  p 
+ p Grevy’s zebras- the largest of the three living zebra species – are being squeezed out of their territory by the growing human population. Since the 1970s, these large zebras have lost huge areas of habitat due to settlements and agriculture. The African Wildlife Foundation is working to repopulate the endangered Grevy’s zebra from near extinction through research, habitat conservation and disease prevention.  p 
+ p class="adr"  span class="street-address" 1955 Midway Drive  span  br 
+ span class="locality" Twinsburg  span  br 
+ span class="region" Ohio  span   span class="postal-code" 44087   span  span class="country-name" US  span   p 
+ p  span class="tel"  a class="value" href="tel:800-800-9678"  strong 800-800-9678  strong   a   span class="type" Toll-Free  span   span  br 
+ span class="tel"  a class="value" href="tel:330-425-2550" 330-425-2550  a   span class="type" Local  span   span  br 
+ span class="tel"  span class="value" 330-425-3777  span   span class="type" Fax  span   span   p 
+ p class="white-text" style="text-align: center;" ©2019. Wild Republic. All rights reserved.  p 

@@ -1,0 +1,8 @@
+ p  script type="text javascript" src="  s3.amazonaws.com downloads.mailchimp.com js mc-validate.js"   script  script type="text javascript" (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);  script  br 
+ !--End mc_embed_signup--   p 
+ p Address:  a href="https:  www.google.com maps place 151+Kapahulu+Ave+Honolulu+Hawaii+96815" 151 Kapahulu Ave br 
+Honolulu, Hawai‘i 96815  a  br 
+ span class="clear"   span  span class="greennature-space" style="margin-top: 0px; display: block;"   span  br 
+Open daily from 9:00 am to 4:30 pm  p 
+ p  i class="greennature-icon fa fa-phone" style="vertical-align: middle; color: #fff; font-size: 16px; "   i   a href="tel:8089717171"  (808) 971-7171   a   p 
+ p  i class="greennature-icon fa fa-envelope-o" style="vertical-align: middle; color: #fff; font-size: 16px; "   i   a href="mailto:info@honzoosoc.org" info@honzoosoc.org  a   p 

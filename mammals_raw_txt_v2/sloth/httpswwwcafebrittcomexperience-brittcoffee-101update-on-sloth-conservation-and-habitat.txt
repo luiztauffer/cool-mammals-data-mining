@@ -1,0 +1,25 @@
+ p class="navbar-text mini-cart col-xs-2 col-xs-offset-1 visible-xs"             	
+                
+                   a href=" signup?referrer=experience-britt coffee-101 update-on-sloth-conservation-and-habitat" class="my-account" 
+                     svg class="icon"  use xlink:href="#britt_icons_login_new"   use   svg 
+                    a 
+                            
+              p 
+ p class="modal-title" id="myModalLabel"  strong Check your cart  strong   p 
+ p  strong Your Basket is Currently Empty  strong   p 
+ p Select from the product categories and discover a world full or exquisite gourmet flavor.  p 
+ p class="blog_date"  May 2018   p 
+ p In late 2017, Café Britt launched our first Hábitat blend dedicated to protecting Costa Rican wildlife. The purchase of each coffee supports a native animal, and our first blend was dedicated to sloths, one of our country's most cutest rainforest dwellers. We are excited to give an update on our partnership with Toucan Rescue Ranch, the recipient selected for this project.  p 
+ p With the help of our customers, Café Britt purchased and donated sets of collars and transmitters for the rehabilitated sloths that Toucan Rescue Ranch releases to the wild. Tools like these are essential for making sure that these animals adapt properly upon their return to the forest. Working with radio transmitters, staff at the Toucan Rescue Ranch track sloths regularly after their release, making visual contact to confirm that they look healthy and well-fed. Such tracking also serves a research purpose, providing an insight into the habits of the newly released sloth population.   p 
+ p Since sloths vary in size depending on their age and species, Toucan Rescue Ranch requested three collar sizes: baby, youth, and adult. Made by the brand Sirtrack from New Zealand, these devices are highly specialized for wildlife tracking. The collars themselves are made to withstand harsh environmental conditions while also being light and non-disruptive for the animals. They work by sending a signal to an antenna and VHF receiver. Since the system is proximity-based, the transmitter signal grows in intensity as rescue staff and volunteers get closer to the animal.  p 
+ p Since the equipment had to be shipped from New Zealand to Costa Rica, it was exciting for everyone when it finally arrived! Toucan Rescue Ranch founder Leslie Howle was there for the "unboxing," pointing out the different items that arrived and explaining their purpose. The collars themselves have the rescue center's contact information printed on them in case anyone locates a sloth or a device. They are also synchronized to a frequency that is unique to Toucan Rescue Ranch, to prevent confusion with other sloths being tracked.  p 
+ p Now that the collars and transmitters have arrived, the work has just begun. The first step is to select the sloths that will be monitored and start to get them accustomed to wearing the collars, as some animals find them uncomfortable or develop an allergic reaction. Rescue staff then plan to start releasing animals wearing the equipment next month, with the help of volunteers from Café Britt.  p 
+ p Thanks to everyone who supported Toucan Rescue Ranch with the purchase of our first Hábitat blend. Stay tuned for an update when the sloths are released!  p 
+ p style="margin-top: 50px;" Have any questions? Our Coffee Experts will be more than happy to help  p 
+ p (1-800-462-7488)  p 
+ p Escape to Costa Rica: Monteverde   p 
+ p  a href=" experience-britt escape-to-costa-rica escape-to-monteverde" class="text-left underline" Learn More  a   p 
+ p 5 Oh-So-Easy Ways to Spice up your Hot Chocolate  p 
+ p  a href=" experience-britt recipes 5-easy-ways-to-spice-up-your-hot-chocolate" class="text-left underline" Learn More  a   p 
+ p This is how we do Holidays in Costa Rica  p 
+ p  a href=" experience-britt journey-to-origin this-is-how-we-do-holidays-in-costa-rica" class="text-left underline" Learn More  a   p 

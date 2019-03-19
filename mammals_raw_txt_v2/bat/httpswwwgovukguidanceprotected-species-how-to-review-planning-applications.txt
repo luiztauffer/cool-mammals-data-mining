@@ -1,0 +1,69 @@
+ p GOV.UK uses cookies to make the site simpler.  a href="https:  www.gov.uk help cookies" data-module="track-click" data-track-category="cookieBanner" data-track-action="Cookie banner clicked" Find out more about cookies  a   p 
+ p class="gem-c-title__context" 
+      Guidance
+      p 
+ p class="gem-c-lead-paragraph " 
+    As a planning authority use Natural England’s standing advice to review applications that might affect protected species.
+    p 
+ p You must consider how a development might affect protected species on or near a proposed development site when reviewing a planning application.  p 
+ p There is separate guidance on  a href="https:  www.gov.uk guidance protected-sites-and-areas-how-to-review-planning-applications" how to review planning applications that affect protected sites and areas  a .  p 
+ p Use Natural England’s guidance (known as ‘standing advice’) to help you decide whether to reject or approve an application if a protected species could be affected. You need to take standing advice into account when making your planning decision.  p 
+ p Use an expert, such as your local authority ecologist, to help you apply the standing advice to planning decisions if you’re not a wildlife specialist.  p 
+ p Protected species standing advice:  p 
+ p Read standing advice on:  p 
+ p For certain species a developer will need a wildlife licence before they can start work. Standing advice doesn’t affect licence requirements.  p 
+ p Check the  a href="https:  www.gov.uk guidance construction-near-protected-areas-and-wildlife" wildlife licence guidance  a  on European protected species and other protected species for when this applies. You need to be sure the applicant is likely to be granted a licence by Natural England before you can grant planning permission.  p 
+ p Contact Natural England if the standing advice doesn’t cover a:  p 
+ p You must also contact Natural England if the proposal:  p 
+ p Email:  a href="mailto:consultations@naturalengland.org.uk" consultations@naturalengland.org.uk  a   p 
+ p 
+
+Natural England Consultation Service 
+ br Hornbeam House 
+ br Electra Way 
+ br Crewe Business Park 
+ br Crewe 
+ br Cheshire 
+ br CW1 6GJ
+ br 
+  p 
+ p Contact the Environment Agency if a proposal is likely to:  p 
+ p Email:  a href="mailto:enquiries@environment-agency.gov.uk" enquiries@environment-agency.gov.uk  a   p 
+ p 
+
+Environment Agency 
+ br PO Box 544 
+ br Rotherham 
+ br Yorkshire 
+ br S60 1BY 
+ br 
+  p 
+ p See where protected species are likely to be present to assess the chance of development proposals affecting them.  p 
+ p You only need to ask an applicant to carry out a survey if it’s likely that protected species are:  p 
+ p Make sure applicants use a trained ecologist to carry out a survey at the right time of year, using methods that are appropriate for the species and the area. Surveys should be up to date and ideally from the most recent survey season (this can vary depending on the species).  p 
+ p The standing advice explains when and how to carry out a survey for a particular species.
+You can refuse planning permission, or ask for a survey to be redone, if:  p 
+ p You can also ask for:  p 
+ p It may not be possible to avoid affecting a protected species on a proposal site, but the harm caused must be reduced as much as possible.  p 
+ p Check if the applicant has taken steps to avoid affecting protected species eg by making sure the work takes place outside the breeding season. ( a href="https:  www.gov.uk guidance wild-birds-protection-surveys-and-licences" Wild birds  a  have specific protection).  p 
+ p When it isn’t possible to avoid affecting species applicants must have a mitigation strategy to:  p 
+ p Natural England can object to a planning application if mitigation measures aren’t acceptable. You must therefore make sure the mitigation strategy is:  p 
+ p Natural England may also object to a planning application if it’s likely to damage a protected species which is a  a href="https:  www.gov.uk guidance protected-areas-sites-of-special-scientific-interest" special feature of a protected site  a .  p 
+ p If the development proposal is likely to have a negative effect on European protected species, you need be confident that Natural England is likely to grant a licence.  p 
+ p Check whether the proposal will meet the licensing criteria (the ‘3 legal tests’) to make sure that:  p 
+ p Ask for compensation measures to be included in planning proposals if it isn’t possible to minimise the risk to protected species. Compensation must:  p 
+ p Make sure alternative sites are established far enough in advance so they’re ready for the species that will use them.  p 
+ p You’ll need to agree any mitigation or compensatory measures as part of the proposal.
+To make sure that mitigation measures are effective when granting planning permission you may have to consider including a:  p 
+ p You can ask the developer to consider including measures to enhance or restore biodiversity in line with the  a rel="external" href="http:  planningguidance.communities.gov.uk " National Planning Policy Framework  a  and the  a href="https:  www.gov.uk guidance biodiversity-duty-public-authority-duty-to-have-regard-to-conserving-biodiversity" biodiversity duty  a .  p 
+ p This can include habitat creation or improvement for protected and unprotected species and their wider foraging areas.  p 
+ p When the proposal is likely to affect a protected species you can grant planning permission if:  p 
+ p Use the  span id="attachment_1676132" class="attachment-inline" 
+   a href="https:  assets.publishing.service.gov.uk government uploads system uploads attachment_data file 536336 protected-species-decision-checklist.pdf" checklist  a 
+  ( span class="type"  abbr title="Portable Document Format" PDF  abbr   span ,  span class="file-size" 33.3KB  span ,  span class="page-length" 3 pages  span )
+  span 
+ to help support your decision.  p 
+ p id="feedback_explanation" class="gem-c-feedback__form-paragraph" Don’t include personal or financial information like your National Insurance number or credit card details.  p 
+ p id="survey_explanation" class="gem-c-feedback__form-paragraph" To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.  p 
+ p class="logo"  a href="https:  www.nationalarchives.gov.uk doc open-government-licence version 3 " rel="license" Open Government Licence  a   p 
+ p All content is available under the  a href="https:  www.nationalarchives.gov.uk doc open-government-licence version 3 " rel="license" Open Government Licence v3.0  a , except where otherwise stated  p 

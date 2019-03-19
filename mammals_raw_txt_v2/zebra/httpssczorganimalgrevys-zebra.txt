@@ -1,0 +1,13 @@
+ p class="categories" data-animal 
+	             a href="https:  scz.org habitat africa" Africa  a · a href="https:  scz.org class mammals" Mammal  a 
+	          p 
+ p Grevy’s zebra is the largest of the wild equids. Its coat is a myriad of vertical black stripes against a white background, bisected by a long, thick black stripe that runs from the base of the mane to the base of the tail. Grevy’s zebra are easy to tell from other zebras. In addition to being the largest zebra, their stripes are thin, close together, and are found on the legs all the way down to the hooves. Grevy’s zebra face a double threat. In addition to being hunted for their beautiful coat, they must also compete with domestic livestock for water.
+	          p 
+ p class="button_outer" align="center" 
+		         a class="button small marker_icon" href="https:  scz.org zoo-map grevys-zebra" 
+			        Find on the Map
+		          a 
+	          p 
+ p 
+					    Our monthly e-newsletter holds a fun assortment of announcements, discounts, and news so you can stay up to date with Sedgwick County Zoo.
+				      p 

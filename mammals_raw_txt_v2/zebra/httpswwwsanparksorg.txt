@@ -1,0 +1,76 @@
+ p class="skip"  a href="#content" Skip to Content  a   p 
+ p id="donate"  a href=" fundraising " Donate span   span   a   p 
+ p If you would like to make bookings or view availability for Golden Gate Hotel and Chalets, please click on the 'Make Reservation' button.  p 
+ p You can find more information on the booking process by clicking on 'More Info'.  p 
+ p class="oneliner" Experience the beauty and diversity of South African National Parks.  br Travel and explore South Africa!   p 
+ p Discover...Experience...Explore a world of diversity in one Park. Now the third largest national park in South Africa, Addo Elephant National Park has expanded to conserve a wide range of biodiversity, landscapes, fauna and flora.  p 
+ p  a href=" parks addo " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p Geographical extremes capture the imagination. From ancient mariners to contemporary mankind, the quest has always been to reach the poles, sail around the tips of continents, conquer the highest peaks and dive to the ultimate depths.  p 
+ p  a href=" parks agulhas " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p The Khoi people called it "Aukoerebis", or place of Great Noise, as this powerful flow of water is unleashed from rocky surroundings characterised by the 18km abyss of the Orange River Gorge.  p 
+ p  a href=" parks augrabies " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p Bontebok National Park is a place of simplistic beauty and peaceful charm. The majestic Langeberg Mountains provide a picturesque backdrop for this Park of colorful riches.  p 
+ p  a href=" parks bontebok " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p Formed hundreds of millions of years ago, the Karoo of South Africa is one of the great natural wonders of the world. Camdeboo National Park provides the visitor with insights into the unique landscape and ecosystem of the Karoo, not to mention awesome scenic beauty.  p 
+ p  a href=" parks camdeboo " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p Along the South Coast of South Africa lies one of the most beautiful stretches of coastline in the world, home to the Garden Route National Park.  p 
+ p  a href=" parks garden_route " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p Nestled in the rolling foothills of the Maluti Mountains of the north eastern Free State lies the Golden Gate Highlands National Park.  p 
+ p  a href=" parks golden_gate " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p The Great Karoo is a vast and unforgiving landscape of which the Karoo National Park is but a small portion. Being the largest ecosystem in South Africa, the Karoo is home to a fascinating diversity of life, all having adapted to survive in these harsh conditions. Karoo National Park is dominated by the lofty Nuweveld Mountains and rolling plains, where many species that originally occurred here now once again occupy their former ranges.  p 
+ p  a href=" parks karoo " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p Where the red dunes and scrub fade into infinity and herds of gemsbok, springbok, eland and blue wildebeest follow the seasons, where imposing camel thorn trees provide shade for huge black-mane lions and vantage points for leopard and many raptors... this is the Kgalagadi Transfrontier Park.  p 
+ p  a href=" parks kgalagadi " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p Where nearly 2 million hectares of unrivaled diversity of life forms fuses with historical and archaeological sights - this is real Africa.The world-renowned Kruger National Park offers a wildlife experience that ranks with the best in Africa.  p 
+ p  a href=" parks kruger " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p Mapungubwe National Park and World Heritage Site is the ideal location for anyone interested in wildlife and birds, to those in search of serenity, identity and the extraordinary history of this Park...  p 
+ p  a href=" parks mapungubwe " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p The Marakele National Park in the heart of the Waterberg Mountains, as its Tswana name suggests, has become a 'place of sanctuary' for an impressive variety of wildlife due to its location in the transitional zone between the dry western and moister eastern regions of South Africa.  p 
+ p  a href=" parks marakele " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p "Where Endangered Species Roam"...Mokala is SANParks' newest park. It is situated approximately 70km south-southwest of Kimberley, and west of the N12 freeway to Cape Town. Nestled in the hills, Mokala's landscape boasts a variety of koppieveld (hills) and large open plains.  p 
+ p  a href=" parks mokala " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p Invigorating crystal clear air, beautiful scenery, tranquil ambience and an abundance of wildlife offer you a special and personal African wilderness experience at Mountain Zebra National Park.  p 
+ p  a href=" parks mountain_zebra " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p Escape to the land of contrasts, where the rigorous climate has created a myriad of life forms superbly adapted to their specific habitat. Fields of flowers, star studded nights, quiver trees, enormous granite outcrops and the icy Atlantic are but a few wonders that await the visitor  p 
+ p  a href=" parks namaqua " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p This natural world heritage site, and Natural New 7 Wonder of the World, is a haven of magnificent mountains plunging into crystal seas fringed with bleached white sands of the Cape Peninsula.  p 
+ p  a href=" parks table_mountain " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p As luminous clouds of dust swirl through the ancient landscape, a tortoise patiently wanders in search of succulent morsels; a lizard basks in the sun while gemsbok and red hartebeest share the arid plains with mongoose, orb-web spiders, skinks and leggy toktokkies.  p 
+ p  a href=" parks tankwa " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p Just inland from the secluded harbour of Saldanha Bay, and only 1,5 hour's drive from Cape Town's City Centre, one finds the azure waters of the Langebaan Lagoon, focal point of the West Coast National Park.  p 
+ p  a href=" parks west_coast " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p Conjure up a desolate and forbidding landscape, seemingly devoid of life, except for some people dotting along the horizon. Make a startling discovery upon closer inspection when the mirage dissolves into the human-like half-mens (half person) and the harsh environment prove to be a treasure-chest containing the world's richest desert flora.  p 
+ p  a href=" parks richtersveld " class="button" Visit the Park  a   p 
+ p Activities include:  p 
+ p SANParks can cater for all conferencing needs, from arranging the venue, to the logistical arrangements, to
+        organizing tailored pre and post conference activities.  p 
+ p Membership is valid from date of purchase for 365 days and is available for an individual, couple or family, as well as international guests.  a href=" wild_new " class="readMore" Read more...  a   p 
+ p style="padding-left: 15px"  a href=" wild_new login_page.php" class="button wildcard login" title="Click here to login to wild card" Login  a  a href=" wild_new purchase.php" class="button wildcard register" title="Click here to login to purchase a new wild card membership" Purchase Membership  a   p 
+ p class="clearfix" SANParks offers a wide range of activities, including those listed here. Visit the relevant park for comprehensive information on activities on offer.  p 
+ p Geographical extremes capture the imagination. From ancient mariners to contemporary mankind, the quest has always been to reach the poles, sail around the tips of continents, conquer the highest peaks and dive to the ultimate depths.  p 
+ p  a href=" tourism maps view.itinerary.php?p_id=7&amp;i_id=5" class="button" View Itinerary  a   p 
+ p Nestled in the rolling foothills of the Maluti Mountains of the north eastern Free State lies the Golden Gate Highlands National Park.  p 
+ p  a href=" tourism maps view.itinerary.php?p_id=10&amp;i_id=3" class="button" View Itinerary  a   p 
+ p The Great Karoo is a vast and unforgiving landscape of which the Karoo National Park is but a small portion. Being the largest ecosystem in South Africa, the Karoo is home to a fascinating diversity of life, all having adapted to survive in these harsh conditions. Karoo National Park is dominated by the lofty Nuweveld Mountains and rolling plains, where many species that originally occurred here now once again occupy their former ranges.  p 
+ p  a href=" tourism maps view.itinerary.php?p_id=11&amp;i_id=7" class="button" View Itinerary  a   p 
+ p id="archive"  a href=" about news " title="Read more news" More news  a   p 
+ p  a href=" forums ucp.php?mode=login" class="button forums login" Login  a  a href=" forums ucp.php?mode=register" class="button forums register" Register  a   p 
+ p id="copyright" © 2004 - 2019 South African National Parks™. All rights reserved.  p 

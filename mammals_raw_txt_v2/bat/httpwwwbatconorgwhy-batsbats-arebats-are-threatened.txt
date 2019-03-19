@@ -1,0 +1,50 @@
+ p  a href="https:  twitter.com BatConIntl" target="_blank"  img src=" images twitter-top.png" alt="" style="float: left; border: 0; margin-left: 3px; margin-right: 6px;" align="left"   a 
+
+ a href="https:  www.facebook.com BatCon" target="_blank"  img src=" images fb-top.png" alt="" style="float: left; border: 0; margin-left: 3px; margin-right: 3px;" border="0"   a 
+
+ a href="https:  www.youtube.com user BatConservation" target="_blank"  img src=" images youtube-top.png" alt="" style="float: left; border: 0; margin-left: 6px; margin-right: 6px; margin-top: 2px; height: 21px;" align="left"   a 
+
+ a href="http:  www.linkedin.com company bat-conservation-international" target="_blank"  img src=" images linkedin-top.png" alt="" style="border: 0; float: left; margin-left: 5px; margin-right: 5px;"   a 
+
+ a href="https:  www.pinterest.com batconservation " target="_blank"  img src=" images pinterest-top.png" alt="" style="float: left; border: 0; margin-left: 3px; margin-right: 3px;" align="left"   a 
+  p 
+ p class="top-links" 
+              
+  p 
+ p  i Conserving the world's bats and their ecosystems to ensure a healthy planet  i   p 
+ p  a href=" donate"  img src=" images Theme_Images dontrio.png" alt="Donate to BCI" class="img-responsive" style="border-radius: 6px 6px 0 0;"   a   a href=" joinus"  img src=" images Theme_Images mmtrio.png" alt="Join or Renew" class="img-responsive"   a   a href=" adopt"  img src=" images Theme_Images adopttrio.png" alt="Adopt a Bat" class="img-responsive"   a   a href=" index.php membership-support support legacy"  img src=" images Theme_Images legacytrio.png" alt="Leave a Legacy" class="img-responsive" style="border-radius: 0 0 6px 6px;"   a   p 
+ p The world is a dangerous place for bats. Although they provide vital environmental and economic services, bat populations are declining around the globe, largely as a result of human activity.  p 
+ p Such an example, is the plight of  a href=" index.php resources media-education bats-magazine bat_article 1064" title="" Fruit bats which have a brutally hard life in Sulawesi  a , an orchid-shaped island in the heart of Indonesia. A remarkable 22 species of fruit bats live on the island and some of them are found nowhere else. But their numbers are being decimated by overhunting for the commercial “bushmeat” trade, and their treatment on the way to market can only be described as torture.  p 
+ p The International Union for the Conservation of Nature (IUCN) currently lists 24 bat species as Critically Endangered, meaning they face an imminent risk of extinction. Fifty-three others are Endangered, and 104 bat species are considered Vulnerable. Bats also are among the most under-studied of mammals. The IUCN lists 226 bat species as “Data Deficient”– there is simply too little information available to determine their conservation status. Of the 1,296 bat species that have been assessed by the IUCN almost a third are considered either threatened (vulnerable, endangered, or critically endangered) or data deficient, indicating the need for more conservation attention to these species. The IUCN continually updates information on species assessments and numbers may vary slightly as new assessments are completed.  p 
+ p Because bats reproduce slowly, with females of most species giving birth to only one pup per year, recovery from serious losses is painfully slow and tenuous at best. It is often difficult to spot significant declines in such species until their situation is dire.  p 
+ p Loss of habitat remains the most widespread peril worldwide. The forests many bats use for roosting and or foraging for food are disappearing at a frightful rate – shrunken by timber harvests or cleared to make room for farm crops, mining operations, cattle pastures or cities. This is especially critical in the tropical rainforests, with both a rich diversity of bats species and a precipitous loss of woodlands.  p 
+ p Countless bats are being driven out of roosts in caves and abandoned mines because of inappropriate guano mining (bat droppings, or guano, are a valuable fertilizer) or thoughtless tourism. During the winter months, large numbers of bats hibernate in caves and mines. If roused from hibernation, often by human disturbance, bats can burn through the stores of fat they need to survive the winter.  p 
+ p In much of the world, bats are still casually killed because of harmful myths and misplaced fears. In Latin America, whole colonies of beneficial bats are routinely destroyed in the mistaken belief that all bats are vampires. (In reality, only three of the more than 1,300 bat species feed on blood and all are in Latin America.)  p 
+ p In regions such as Southeast Asia and the Pacific islands bats are hunted, both as bush meat for local consumption and commercially for markets and restaurants. Large, fruit-eating bats are the primary targets. Bats are also used in some folk medicines.  p 
+ p In North America, meanwhile, over 5.7 million of bats have been killed by White-nose Syndrome, a wildlife disease that continues its spread across the continent. Caused by a cold-loving fungus called  em Pseudogymnoascus destructans  em , WNS attacks hibernating bats, causing mortality rates that approach 100 percent at some sites. The disease was first spotted in a cave in Upstate New York in February 2006 and has since expanded across the eastern half of the United States and Canada. Despite tireless scientific efforts to find a solution, the disease is still killing huge numbers of bats. Until the arrival of WNS, two Endangered U.S. species, the Indiana myotis ( em Myotis sodalis  em ) and gray myotis ( em M. grisescens  em ), were showing promising signs of recovery. That now seems doubtful. And scientists predict that the once common little brown bat ( em Myotis lucifugus  em ), will be reduced to just 1% of its pre-WNS population numbers by 2030. br    p 
+ p The dramatic growth of wind energy throughout much of the world is also taking a huge toll on bats.  p 
+ p Scientists estimate that hundreds of thousands of bats are killed each year in the United States by collisions with the spinning blades of wind turbines or rapid pressure change at turbines that can rupture blood vessels. BCI and its partners have been working since 2004 to minimize bat fatalities at wind sites.  p 
+ p At least one cost-effective strategy has been shown to reduce the death toll, and conservationists are working to get it adopted.  p 
+ p Bats face a daunting array of mortal dangers in virtually every corner of the world. Bat Conservation International has been working since 1982 to ensure that these extraordinary bats will still be serving natural environments and human economies far into the future.  p 
+ p With your help, we can make the world safer for bats.   p 
+ p  br   br   br    p 
+ p  !-- This module is loaded by Module Plant plugin: http:  www.j-plant.com -- 
+ !-- if no_results, hide title -- 
+    p 
+ p 
+	The northern long-eared bat, Myotis septentrionalis, has incurred tremendous losses due to the devastating impacts...  p 
+ p class="readmore"  a href=" why-bats bats-are bats-are-threatened 80-news latest-news 900-northern-long-eared-bat-protected-as-a-threatened-species-under-endangered-species-act?alias=northern-long-eared-bat-protected-as-a-threatened-species-under-endangered-species-act" target="" Read more...  a   p 
+ p class="readmore"  a href=" component batmag bat_article 1578" target="" Read more...  a   p 
+ p 
+	 The Mauritian government announced its plans to go forward with a plan to cull approximately 18,000 threaten...  p 
+ p class="readmore"  a href=" why-bats bats-are bats-are-threatened 80-news latest-news 940-say-no-to-killing-18-000-threatened-mauritian-flying-foxes?alias=say-no-to-killing-18-000-threatened-mauritian-flying-foxes" target="" Read more...  a   p 
+ p BCI condemns the decision of the government of Mauritius to kill 13,000 individuals of the endangered Mauritius fruit...  p 
+ p class="readmore"  a href=" why-bats bats-are bats-are-threatened 80-news latest-news 1195-bci-outraged-by-planned-kill-of-endangered-bats?alias=bci-outraged-by-planned-kill-of-endangered-bats" target="" Read more...  a   p 
+ p Sign up and receive timely bat updates  p 
+ p class="lead" Our mission is to conserve the world’s bats and their ecosystems to ensure a healthy planet.  p 
+ p Please join us or donate so our work can continue.  p 
+ p 
+	Copyright Bat Conservation International © 2019. All Rights Reserved. 
+Unless otherwise noted, all images are copyright © Merlin D. Tuttle and or © Bat Conservation International.
+  p 
+ p    p 

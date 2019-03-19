@@ -1,0 +1,12 @@
+ p class="kcpAppWidgetDetailDesc" Enter your mobile number or email address below and we'll send you a link to download the free Kindle App. Then you can start reading Kindle books on your smartphone, tablet, or computer - no Kindle device required.   p 
+ p class="kcpAppWidgetHeader"      p 
+ p id="kcpAppDownloadMessage" style="margin: 0px;" To get the free app, enter your mobile phone number.  p 
+ p class="a-text-center" 
+             span id="followErrorClose" class="a-button a-button-base"  span class="a-button-inner"  input data-action="closeErrorDialog" class="a-button-input a-declarative" type="submit" aria-labelledby="followErrorClose-announce"  span id="followErrorClose-announce" class="a-button-text" aria-hidden="true" 
+                OK
+              span   span   span 
+          p 
+ p "These fascinating stories from the natural world will easily interest young people, many of whom will want to move on from the appended notes about each featured critter to more in-depth titles that further explain the mysteries of animal symbiosis."— b Booklist, starred review br   b   p 
+ p "Jenkins's trademark collage illustrations continue to impress with their vibrant and stunning manipulation of cut and torn paper. The book is formatted in a block, comic-book style and is written at a level that is accessible to young browsers yet suitable for older researchers. Supplementary information about the size, habitat, and diet of each animal is included in the back matter. This title is another outstanding offering from this extraordinarily talented, wonderfully symbiotic couple."— b  i School Library Journal  i , starred review  b   p 
+ p class="nav_p nav-bold" There's a problem loading this menu right now.  p 
+ p class="nav_p"  a href=" gp prime" class="nav_a" Learn more about Amazon Prime.  a   p 

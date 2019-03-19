@@ -1,0 +1,78 @@
+ p  strong  em Family Macropodidae, Genus Macropus  em   strong   p 
+ p 
+ figure class="rte-figure rte-figure--right" 
+     a title="Kangaroos on our Cravens Peak Reserve, Qld. Photo Eve Jani." href=" getmedia a6d058fb-9687-46e2-bfe7-4b9a15867d88 9229-kangaroo-family?width=800&amp;height=533&amp;ext=.jpg" class="figure__img-lightbox-link" 
+         img alt="Kangaroos on our Cravens Peak Reserve, Qld. Photo Eve Jani." class="rte-figure__img" src=" getmedia a6d058fb-9687-46e2-bfe7-4b9a15867d88 9229-kangaroo-family?ext=.jpg&amp;width=300" 
+      a 
+     figcaption class="rte-figure__caption" Kangaroos on our Cravens Peak Reserve, Qld. Photo Eve Jani. br 
+          figcaption 
+  figure 
+No image of modern outback Australia is complete without a mob of kangaroos hopping across the horizon. Kangaroos belong to the  strong Macropodidae  strong  family, meaning ‘ strong big foot  strong ’ in Latin, in reference to the species’ unusually large hind feet.  p 
+ p But what’s the difference between a kangaroo and a wallaby? The division is arbitrary: the species we call kangaroos are simply the larger representatives within the Macropus genus, and include the  strong Red Kangaroo  strong  ( em Macropus rufus  em ),  strong Eastern Grey Kangaroo  strong  ( em M. giganteus  em ),  strong Western Grey Kangaroo  strong  ( em M. fuliginosus  em ),  strong Antilopine Kangaroo  strong  ( em M. antilopinus  em ),  strong Common Wallaroo  strong  (or Euro) ( em M. robustus  em ) and the  strong Black Wallaroo  strong  ( em M. bernadus  em ).  p 
+ p 
+ figure class="rte-figure rte-figure--left" 
+     a title="A Red Kangaroo amongst wildflowers on Charles Darwin Reserve, WA. Photo Dale Fuller." href=" getmedia 1529dca9-37f0-4f20-bafa-917e4abf705a 10413-red-kangaroo-wildflowers?width=800&amp;height=535&amp;ext=.jpg" class="figure__img-lightbox-link" 
+         img alt="A Red Kangaroo amongst wildflowers on Charles Darwin Reserve, WA. Photo Dale Fuller." class="rte-figure__img" src=" getmedia 1529dca9-37f0-4f20-bafa-917e4abf705a 10413-red-kangaroo-wildflowers?ext=.jpg&amp;width=300" 
+      a 
+     figcaption class="rte-figure__caption" A Red Kangaroo amongst wildflowers on Charles Darwin Reserve, WA. Photo Dale Fuller. br 
+          figcaption 
+  figure 
+The word kangaroo derives from 'Gangurru', the name given to Eastern Grey Kangaroos by the Guuga Yimithirr people of Far North Queensland. Kangaroos are of cultural and spiritual significance to Aboriginal people across Australia. Plus, their meat was, and continues to be, a staple protein source; pelts were used for clothing and rugs; and their skin crafted into water bags.  p 
+ p Kangaroos are the world’s largest marsupials. A Red Kangaroo can weigh  strong 90kg  strong  and can grow two metres tall. Black Wallaroos, at around 20 kg, are the smallest species of the group (their name a portmanteau of wallaby and kangaroo).  p 
+ p All kangaroos have short hair, powerful hind legs, small forelimbs, big feet and a long tail. They have excellent hearing and keen eyesight. Depending on the species, their fur coat can be red, grey or light to dark brown.  p 
+ p 
+ figure class="rte-figure rte-figure--right" 
+     a title="Eastern Grey Kangaroos at Yourka Reserve, Qld. Photo Wayne Lawler EcoPix." href=" getmedia 0358b99d-7382-46e9-a16b-fc43c9d56074 5096-eastern-grey-kangaroos?width=800&amp;height=535&amp;ext=.jpg" class="figure__img-lightbox-link" 
+         img alt="Eastern Grey Kangaroos at Yourka Reserve, Qld. Photo Wayne Lawler EcoPix." class="rte-figure__img" src=" getmedia 0358b99d-7382-46e9-a16b-fc43c9d56074 5096-eastern-grey-kangaroos?ext=.jpg&amp;width=300" 
+      a 
+     figcaption class="rte-figure__caption" Eastern Grey Kangaroos at Yourka Reserve, Qld. Photo Wayne Lawler EcoPix. br 
+          figcaption 
+  figure 
+Kangaroos are famous for their means of locomotion: hopping! They can reach speeds of  strong 60kph  strong , clearing  strong more than 8m with a single hop  strong !  p 
+ p Their muscular tail is used for balance when hopping, and as another limb when moving about. They also use their tail when swimming; that’s right – kangaroos are good swimmers! They swim to avoid predators, and can use their forepaws to drown pursuers.  p 
+ p Kangaroos are famous for their forward-opening pouch, where the joey (baby kangaroo) develops and suckles. A female kangaroo is known as a 'flyer' or a 'doe' and a male kangaroo a 'buck' or a 'boomer' (hence the nickname of the Australian men's basketball team, the Boomers). They live in social groups called mobs.  p 
+ p 
+ figure class="rte-figure rte-figure--left" 
+     a title="A Common Wallaroo at Carnarvon Reserve, Qld. Photo Wayne Lawler EcoPix." href=" getmedia a1510e6d-fbf2-468a-b0f3-90a1055c73a8 1004-common-wallaroo?width=800&amp;height=533&amp;ext=.jpg" class="figure__img-lightbox-link" 
+         img alt="A Common Wallaroo at Carnarvon Reserve, Qld. Photo Wayne Lawler EcoPix." class="rte-figure__img" src=" getmedia a1510e6d-fbf2-468a-b0f3-90a1055c73a8 1004-common-wallaroo?ext=.jpg&amp;width=300" 
+      a 
+     figcaption class="rte-figure__caption" A Common Wallaroo at Carnarvon Reserve, Qld. Photo Wayne Lawler EcoPix. br 
+          figcaption 
+  figure 
+Red Kangaroos are found over most of arid Australia, preferring flat open plains. Eastern Greys are found from Cape York to Tasmania; Western Greys have an equally wide distribution, from Western Australia to Victoria (both species prefer denser vegetation).  p 
+ p Antilopine Kangaroos live across northern Australia in monsoonal tropical woodlands, and Common Wallaroos are found over most of Australia, especially around rocky outcrops.  p 
+ p According to the IUCN Red List of Threatened Species, the  a href="http:  www.iucnredlist.org details 12620 0" Black Wallaroo  a , restricted to the sandstone country in the Northern Territory, is Near Threatened with extinction. The remainder of the species are widespread, common and considered of Least Concern.  p 
+ p 
+ figure class="rte-figure rte-figure--right" 
+     a title="Western Grey Kangaroos at Oonartra Waterhole, Boolcoomatta, SA. Photo Wayne Lawler EcoPix." href=" getmedia 516ffaf0-86f9-465a-bc71-f7a4504150b8 545-western-grey-kangaroos?width=800&amp;height=651&amp;ext=.jpg" class="figure__img-lightbox-link" 
+         img alt="Western Grey Kangaroos at Oonartra Waterhole, Boolcoomatta, SA. Photo Wayne Lawler EcoPix." class="rte-figure__img" src=" getmedia 516ffaf0-86f9-465a-bc71-f7a4504150b8 545-western-grey-kangaroos?ext=.jpg&amp;width=300" 
+      a 
+     figcaption class="rte-figure__caption" Western Grey Kangaroos at Oonartra Waterhole, Boolcoomatta, SA. Photo Wayne Lawler EcoPix. br 
+          figcaption 
+  figure 
+Like all marsupials, kangaroos have pouches where the joeys are reared, drinking milk from mammary glands. Females have one young annually, however they’re able to keep extra embryos in a dormant state (‘ strong embryonic diapause  strong ’) until the first joey leaves the pouch. They can have a joey at their feet, one in the pouch and another in diapause all at the same time. Incredibly, each of the female’s four teats provides different milk for the different stages of the joeys’ development.  p 
+ p Kangaroos hiss and growl when alarmed, females make clicking noises to communicate with their offspring, and males ‘chuckle’ during courtship!  p 
+ p Kangaroos are most active between dusk and dawn, as they search for their favourite foods: grass, as well as leaves, ferns, flowers, fruit and moss. Like cattle, they regurgitate their food, chewing it twice before it passes through their chambered stomach. Kangaroos need free water to survive; however, when desperate, kangaroos are known to dig holes a metre deep in search of water.  p 
+ p 
+ figure class="rte-figure rte-figure--left" 
+     a title="An Eastern Grey with joey at Nardoo Hills Reserve, Vic. Photo James Cowie." href=" getmedia d7b056a0-aa05-4295-97b9-442ab1d78a8a 4195-eastern-grey-joey?width=586&amp;height=800&amp;ext=.jpg" class="figure__img-lightbox-link" 
+         img alt="An Eastern Grey with joey at Nardoo Hills Reserve, Vic. Photo James Cowie." class="rte-figure__img" src=" getmedia d7b056a0-aa05-4295-97b9-442ab1d78a8a 4195-eastern-grey-joey?ext=.jpg&amp;width=300" 
+      a 
+     figcaption class="rte-figure__caption" An Eastern Grey with joey at Nardoo Hills Reserve, Vic. Photo James Cowie. br 
+          figcaption 
+  figure 
+Kangaroos have few natural predators:  a href=" species dingoes" Dingoes  a , humans,  a href=" species wedge-tailed-eagles" Wedge-tailed Eagles  a  and, before their extermination, Tasmanian Tigers. Introduced carnivores, such as wild dogs and foxes prey on the young, and introduced herbivores compete with kangaroos for food.  p 
+ p Yet paradoxically, European settlement has been positive for several kangaroo species because of: the introduction of permanent water sources (bores, tanks and dams); the provision of pasture grasses; the extinction of Tasmanian tigers and the extermination of Dingoes across vast landscapes. In some areas, kangaroos are overabundant. This isn’t the case for the Antilopine Kangaroo or the Black Wallaroo, whose numbers are decreasing.  p 
+ p We have kangaroos on most of our reserves and partnership properties, including Antilopine Kangaroos on  a href=" places-we-protect western-australia wunambal-gaambera" Wunambal Gumberra  a  country (Western Australia) and  a href=" places-we-protect northern-territory warddeken" Warddeken  a  (Northern Territory). We favour kangaroos by reducing competition (removing stock and controlling feral herbivores) and also control feral predators. On many properties we're removing artificial watering points to return kangaroo numbers to a more sustainable level.  p 
+ p  strong Donate today to help us continue this and other vital conservation work. Most of our operating costs are funded by generous individuals. Donations over $2 are tax-deductible and we can't thank you enough for your support.  strong   p 
+ p  strong Red Kangaroo:  strong  Charles Darwin Reserve (WA), Carnarvon, Cravens Peak, Edgbaston and Ethabuka (Queensland), Naree (NSW), Bon Bon and Boolcoomatta (SA).  p 
+ p  strong Eastern Grey Kangaroo:   strong  a href=" places-we-protect queensland carnarvon" Carnarvon  a ,  a href=" places-we-protect queensland edgbaston" Edgbaston  a ,  a href=" places-we-protect queensland goonderoo" Goonderoo  a  and  a href=" places-we-protect queensland yourka" Yourka  a  (Queensland),  a href=" places-we-protect new-south-wales brogo" Brogo  a ,  a href=" places-we-protect new-south-wales burrin-burrin" Burrin Burrin  a ,  a href=" places-we-protect new-south-wales naree" Naree  a ,  a href=" places-we-protect new-south-wales scottsdale" Scottsdale  a ,  a href=" places-we-protect new-south-wales tarcutta" Tarcutta  a  (NSW),  a href=" places-we-protect victoria john-colahan-griffin" JC Griffin  a  and  a href=" places-we-protect victoria nardoo-hills" Nardoo Hills  a  (Vic) and  a href=" places-we-protect south-australia boolcoomatta" Boolcoomatta  a  (SA) at the edge of their range.  p 
+ p  strong Western Grey Kangaroo:  strong  Nardoo Hills (Vic),  a href=" places-we-protect western-australia charles-darwin" Charles Darwin Reserve  a  and  a href=" places-we-protect western-australia eurardy" Eurardy  a  (WA)  a href=" places-we-protect south-australia bon-bon" Bon Bon  a  and Boolcoomatta (SA).  p 
+ p  strong Common Wallaroo:  strong  Charles Darwin Reserve and Eurardy (WA), Yourka (Qld), Bon Bon and Boolcoomatta (SA).  p 
+ p  strong Antilopine Wallaroo:  strong  Wunambal Gumberra (WA) and Warddeken (NT).  p 
+ p class="site-footer-address" 
+        Bush Heritage Australia br Level 1, 395 Collins St br 
+        Melbourne, VIC 3000 Australia
+      p 
+ p class="site-footer-address" 1300 NATURE (1300 628 873) br  span style="color:white;font-weight:bold;text-decoration:underline;"  a href="mailto:info@bushheritage.org.au" info@bushheritage.org.au  a   span   p 
+ p class="site-footer-nav__subscribe-intro" Receive our newsletter &amp; blog digests  p 

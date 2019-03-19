@@ -1,0 +1,35 @@
+ p class="header-promotion__sub-title"  a href=" registration " class="header-promotion__sub-title-link" Sign up to our daily email newsletter  a   p 
+ p class="header-meganav__footer-secondary-links"  a href=" registration " Sign up for free  a  span class="divider" |  span  a href=" educational-access " Educational access  a   p 
+ p class="header-meganav__blurb" A selection of top articles hand-picked by our editors available only to registered users.  p 
+ p class="header-meganav__blurb" Check your subscription package, update your details, renew or upgrade.  p 
+ p class="header-meganav__footer-secondary-links"  a href=" activate-subscription " Activate subscription  a   p 
+ p class="credit" Terry Whittaker Nature Picture Library getty  p 
+ p class="author-byline" By  span class="author" Aisling Irwin  span   p 
+ p Foxes are enjoying city living even more than we thought. The number of red foxes in urban areas of England appears to have soared almost fivefold.  p 
+ p The rise from an estimated 33,000 in the 1990s to 150,000 today seems to have happened largely because foxes have appeared in new areas, or multiplied in low-density towns, particularly in the north of the country. In southern cities, numbers seem to be static.  p 
+ p Meanwhile, paradoxically, overall sightings in England have plummeted by 43 per cent over the past 20 years.
+                      p 
+ p 
+                          p 
+ p Red foxes ( em Vulpes vulpes  em ) are flourishing in urban areas across the globe. They were first reported in towns in southern England in the 1930s.  p 
+ p A  a href="http:  journals.plos.org plosone article?id=10.1371 journal.pone.0099059" citizen science initiative  a  in 2012 found that over 90 per cent of English and Welsh towns that reported no foxes in 2001 were now home to them.  p 
+ p “They are more or less resident in all cities in the UK now,” says  a href="https:  about.brighton.ac.uk staff details.php?uid=ds10" Dawn Scott  a  at the University of Brighton, UK, who presented her as-yet-unpublished findings at the British Ecological Society in Liverpool on 11-14 December.  p 
+ p Her team used radio-tagging to understand the size of fox social groups and the extent of their territories. They also asked residents in eight cities to report July and August sightings from 2013 to 2015.  p 
+ p By combining these sightings with models constructed from the tagging, they calculated fox densities in different towns and cities across England.  p 
+ p Top of the list is Bournemouth, at 23 foxes per km sup 2  sup . London registered 18 per km sup 2  sup . In Brighton, the population is 16 per km sup 2  sup .  p 
+ p Further north, Newcastle is now home to about 10 foxes per km sup 2  sup .  p 
+ p “The densities in the north have actually increased. The densities in the south have not,” Scott told the meeting. “It doesn’t look like London is overrun by foxes.”  p 
+ p Extrapolating from these figures, the team estimates that there are nearly 150,000 urban foxes in England – about one for every 300 urban residents.  p 
+ p But  a href="https:  www.bto.org about-bto our-staff stuart-newson" Stuart Newson  a  of the British Trust for Ornithology (BTO), in Thetford, Norfolk, cautioned about producing a national estimate from local figures. While it is straightforward to obtain  a href="https:  www.newscientist.com article dn2761-hunting-does-not-control-foxes-says-study " fox densities  a  in a particular location, extrapolating to estimate overall population size “is one of the most difficult things to do”.  p 
+ p It is also possible that foxes haven’t become much more numerous in cities – we just didn’t realise they were there before. Older figures for bird and mammal populations have often turned out to be gross underestimates, says Newson.  p 
+ p Foxes are adaptable creatures and can  a href="https:  www.newscientist.com article dn23167-culling-urban-foxes-just-doesnt-work " flourish in built-up areas  a  with medium-sized gardens, because they provide hiding places and food. Their spread to more northern towns might have begun with country foxes moving into built-up areas, but, as they can travel long distances, urban foxes are now probably spreading from town to town, says  a href="https:  www.dur.ac.uk biosciences about schoolstaff profile ?id=5398" Philip Stephens  a  at Durham University, UK.  p 
+ p The urban trend contrasts with the BTO’s  a href="https:  www.bto.org volunteer-surveys bbs latest-results mammal-monitoring" overall fox figures  a  for England, both urban and rural, which show a 43 per cent decline between 1995 and 2015, including a sharp drop since 2010.  p 
+ p “I’d say that the most likely causes were declines in prey or increases in shooting pressure,” says Stephens.  p 
+ p Rabbit numbers have fallen over this period, possibly because of disease, and changing farming practices are also likely to have reduced potential prey in rural areas. “Earthworms make up a large proportion of the fox’s diet, especially for their young, in many areas and are known to be strongly adversely affected by pesticides,” says Stephens.  p 
+ p There is also anecdotal evidence that “since the hunting with dogs ban came into force, gamekeepers have felt a particular obligation to hammer foxes as hard as they can”, he says.  p 
+ p The BTO doesn’t estimate total fox numbers, but  a href="http:  www.mammal.org.uk species-hub full-species-hub full-species-hub-list species-fox " modelling by the Department for Environment, Farming and Rural Affairs  a  suggests that  a href="http:  www.mammal.org.uk sites default files DEFRA%20red%20fox%20research_1.pdf" Britain had 430,000 foxes in 2013  a .  p 
+ p Urban foxes can transmit diseases to humans although the two most worrisome of these – rabies and the fox tapeworm – are not present in the UK. More positively, they keep the rat population down and provide a wildlife experience for nature-deprived city dwellers.  p 
+ p Read more:  a href="https:  www.newscientist.com article 2098296-city-slicker-monkeys-are-overweight-and-have-high-cholesterol " City slicker monkeys are overweight and have high cholesterol  a ;  a href="https:  www.newscientist.com article mg18825231-200-wildlife-in-the-big-bad-city " Wildlife in the big bad city  a   p 
+ p class="p1"  span class="s1"  strong Correction:  strong  The survey figure for Brighton was originally attributed to Bristol.  span   p 
+ p More on these topics:   p 
+ p class="print-headline"  a href="https:  www.newscientist.com article mg23331073-300-there-are-five-times-more-urban-foxes-in-england-than-we-thought " A shorter version of this article  a  was published in  em New Scientist  em  magazine on 7 January 2017  p 

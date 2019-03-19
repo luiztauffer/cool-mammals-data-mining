@@ -1,0 +1,14 @@
+ p class="kcpAppWidgetDetailDesc" Enter your mobile number or email address below and we'll send you a link to download the free Kindle App. Then you can start reading Kindle books on your smartphone, tablet, or computer - no Kindle device required.   p 
+ p class="kcpAppWidgetHeader"      p 
+ p id="kcpAppDownloadMessage" style="margin: 0px;" To get the free app, enter your mobile phone number.  p 
+ p class="a-text-center" 
+             span id="followErrorClose" class="a-button a-button-base"  span class="a-button-inner"  input data-action="closeErrorDialog" class="a-button-input a-declarative" type="submit" aria-labelledby="followErrorClose-announce"  span id="followErrorClose-announce" class="a-button-text" aria-hidden="true" 
+                OK
+              span   span   span 
+          p 
+ p Reviewed with Michael Leach's  i Giraffe  i .  p 
+ p Gr. 3-6. With beautiful, full-color photographs on every page and a clear, highly readable text, these fine titles in the Natural World series convey the astonishing facts about how these animals live in Africa today. There's nothing cute or sensational in the presentation, and the close-up views will grab armchair safari travelers as well as grade-school report writers. Each book discusses the zoology basics of how and where each animal survives, from birth to mating and caring for its young, and how it evades its predators, animal and human. The style is relaxed, and the science challenges readers to think (giraffes have very high blood pressure, since the head is so much higher than the heart and gravity keeps trying to pull the blood downwards). Then there are the unforgettable photos: a giraffe licks its newborn baby clean; a black rhino charges towards the camera. Glossary, brief bibliography, and Web sites.  i Hazel Rochman  i  br  i Copyright © American Library Association. All rights reserved  i 
+						    	
+					    	  p 
+ p class="nav_p nav-bold" There's a problem loading this menu right now.  p 
+ p class="nav_p"  a href=" gp prime" class="nav_a" Learn more about Amazon Prime.  a   p 

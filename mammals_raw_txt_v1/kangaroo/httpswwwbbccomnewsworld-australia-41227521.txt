@@ -1,0 +1,29 @@
+ p class="twite__title" aria-hidden="true" Share this with  p 
+ p class="twite__channel-text" aria-hidden="true" Email  p 
+ p class="twite__channel-text" aria-hidden="true" Facebook  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Twitter  p 
+ p class="twite__channel-text" aria-hidden="true" Pinterest  p 
+ p class="twite__channel-text" aria-hidden="true" WhatsApp  p 
+ p class="twite__channel-text" aria-hidden="true" LinkedIn  p 
+ p class="twite__copy-text" Copy this link  p 
+ p class="twite__new-window" aria-hidden="true" These are external links and will open in a new window  p 
+ p class="story-body__introduction" Landholders and ecologists in Australia are warning wild kangaroo levels have become unsustainable, urging Australians to eat more kangaroo meat.  p 
+ p Government  a href="http:  www.environment.gov.au system files pages d3f58a89-4fdf-43ca-8763-bbfd6048c303 files kangaroo-statistics-new.pdf" class="story-body__link-external" figures show  a  there were almost 45 million kangaroos in 2016, which is almost double the human population of Australia.  p 
+ p In 2010 the number was only 27 million, with the sharp rise blamed on rainy conditions producing wealth of food.  p 
+ p But many fear millions could starve if a dry summer produces a drought.  p 
+ p Australia has strict regulations about the humane killing of the animals. Each state has rigid quotas on commercial shooting licences and species culling, based on sustainability levels.  p 
+ p  a href="http:  www.abc.net.au news rural 2017-06-16 market-kangaroo-meat-better-or-watch-them-starve 8625780" class="story-body__link-external" Local media report  a  that most available commercial cull licences are not being taken up because of low trade prices and a lack of demand.  p 
+ p Each year the cull provokes controversy, with opponents suggesting there is no evidence that reducing kangaroo numbers helps the environment.  p 
+ p The carcases of culled animals can be used for their hides and leather, which are then sold or exported.  p 
+ p But their meat is often wasted because of a lack of demand, according to the Australian government's environmental  a href="http:  www.environment.gov.au node 16678" class="story-body__link-external" website  a .    p 
+ p Because kangaroos are Australia's national animal, eating of their meat remains  a href="http:  www.bbc.co.uk news magazine-23086541" class="story-body__link" quite stigmatised  a .   p 
+ p Some Australians view it as novelty produce for visiting tourists seeking "bush tucker" meats such as emu and crocodile.  p 
+ p The meat's proponents say kangaroo meat is low in fat and because the animals produce less methane than other farmed animals, they are more environmentally friendly.   p 
+ p Professor David Paton of the University of Adelaide  a href="http:  www.news.com.au technology science animals experts-warn-australians-need-to-eat-more-kangaroos-as-the-marsupials-population-booms news-story 9465175b998f4b88b505997b086603e1" class="story-body__link-external" told ABC  a  that people needed to support kangaroo culling to protect other parts of the country's ecology and stop the animals "rotting".  p 
+ p "It's not the kangaroos' fault they're overabundant, it's probably we've just been too reluctant to take a stick to them, remove them out of the system sooner, to actually prevent the damage being caused," he said.  p 
+ p "If we're going to cull these animals we do it humanely, but we also perhaps should think about what we might use the animals that are killed for."  p 
+ p class="top-stories-promo-story__summary top-stories-promo-story__summary--none" The Boeing 737 Max-8 had 157 people on board, including Kenyans, Britons, Canadians and Americans.  p 
+ p class="heron__item-summary" Have you been getting these songs wrong?  p 
+ p class="heron__item-summary" What happens to your body in extreme heat?  p 

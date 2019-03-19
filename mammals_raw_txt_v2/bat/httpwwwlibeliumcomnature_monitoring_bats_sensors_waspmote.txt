@@ -1,0 +1,124 @@
+ p The Sensor Device for Developers  p 
+ p Sensor Networks Made Easy  p 
+ p Sensor Node  p 
+ p The IoT Gateway  p 
+ p eHealth and Medical IoT Development Platform  p 
+ p  IoT Kits with Cloud Connectivity  p 
+ p  IoT Starter Kits for Makers  p 
+ p Custom Hardware &amp; Firmware Design  p 
+ p e-Learning  br 
+Face-to-Face  p 
+ p 50 sensor applications for a smarter world  p 
+ p Success stories with libelium technologies  p 
+ p Consortium &amp; European Calls  p 
+ p Published in: 
+				 a href="http:  www.libelium.com libeliumworld articles " title="View all posts in Articles" Articles  a ,  a href="http:  www.libelium.com libeliumworld case-studies " title="View all posts in Case Studies" Case Studies  a ,  a href="http:  www.libelium.com libeliumworld enviroment " title="View all posts in Smart Environment" Smart Environment  a ,  a href="http:  www.libelium.com libeliumworld smart-metering-libeliumworld " title="View all posts in Smart Metering" Smart Metering  a ,  a href="http:  www.libelium.com libeliumworld waspmote " title="View all posts in Waspmote" Waspmote  a 			  p 
+ p style="text-align: justify;" Natural environment is of crucial importance for  strong social   strong and strong  economic life  strong  as it is used as a resource for food supply, an energy source or a major source of medicines. In the past, human interaction with nature, although often having a disruptive effect on nature, often also enriched the quality and variety of the living world and its habitats.  p 
+ p style="text-align: justify;" Today, however,  strong human pressure  strong  on natural environment is greater than before in terms of magnitude and efficiency in disrupting nature and natural landscapes. The expansion of humans activities into the natural environment, manifested by urbanization, recreation, industrialization, and agriculture, results in increasing uniformity in landscapes and consequential reduction, disappearance, fragmentation or  strong isolation of habitats  strong  and landscapes. Therefore, more animal species are disappearing every year or are in danger of extinction, as it can be seen in  a href="http:  stats.oecd.org Index.aspx?DataSetCode=WILD_LIFE" Figure 1  a , which shows the total number of known mammal species and the total number of threatened mammal species.  p 
+ p style="margin-bottom: 0cm; text-align: center;"  span style="font-family: Times New Roman,serif;"  span style="font-size: x-small;"  em Fig. 1.- Worldwide Mammals Known and Threatened Species  em   span   span   p 
+ p style="text-align: justify;" Governments spend  strong a huge amount of money  strong  to preserve natural environments every year through different programs such as  a href="http:  ec.europa.eu environment life about index.htm" European LIFE program  a . As it can be seen in Figure 2,  a href="http:  ec.europa.eu budget figures 2012 2012_en.cfm" European Union expenditures  a  in natural resources are around 11% of its budget (€ 15 billion). All these efforts are helping to keep some species out of danger though many others are still in danger because their  strong habitats are being destroyed  strong  or even because some of their special characteristics are unknown. Therefore,  strong more resources should be allocated  strong  to investigate these species in order to protect them from natural environment changes produced by humans.  p 
+ p style="margin-bottom: 0cm; text-align: center;"  span style="font-family: Times New Roman,serif;"  span style="font-size: x-small;"  em Fig. 2.- European 2012 budget  em   span   span   p 
+ p style="text-align: justify;" In addition to governments, there are several organizations created to preserve nature and animal species such as  a href="http:  www.worldwildlife.org " World Wild Life  a  (WWF),  a href="http:  www.nwf.org " National Wildlife Federation  a  or  a href="http:  www.greenpeace.org " Greenpeace  a . These organizations have substantial resources (WWF budget is over 200 million dollars) that are used to preserve ecosystems and ecologically important areas all over the world.  p 
+ p style="text-align: justify;"  strong Wireless Sensor Networks  strong  (WSN) can help to monitor environmental conditions within these areas, ecosystems or habitats of different species, allowing an easier, faster and cheaper data logging, which will lead into a better utilization of resources of each organization or government.  p 
+ p style="margin-bottom: 0cm;" align="JUSTIFY"  span style="font-family: Arial,sans-serif;"  span style="font-size: medium;"  strong QUIROTEC Project  strong   span   span   p 
+ p style="text-align: justify;" QUIROTEC system has been developed by  a href="http:  www.wirelessgalicia.com " Wireless Galicia  a , a Spanish company focused on wireless communication systems, and this project has been deployed in the National Park of Atlantic Islands of Galicia. This system is able to monitor several parameters (Temperature, Luminosity, Humidity and Ultrasounds) to study the habitat of bats and to determine whether bats are present within a specific area.  p 
+ p style="margin-bottom: 0cm; text-align: center;"  span style="font-family: Arial,sans-serif;"  span style="font-size: x-small;"  em Fig. 3.- Project location  em   span   span   p 
+ p style="text-align: justify;" QUIROTEC is aimed at monitoring and studying the habitat of bats using wireless sensor networks. It is a multidisciplinary project in which new technologies will encourage the acquisition of data for the study of the presence and relative abundance of bats out of their shelters and the variables than can explain this fact.  p 
+ p style="text-align: justify;" Integrating ultrasounds sensors along with environmental sensors such as temperature, humidity or luminosity, will allow to monitor these parameters in  strong a large number of places  strong  and  strong for a long period of time  strong . Bat specialists will take advantage of this powerful tool by consulting the data without having to invade the environment in which bats live.  p 
+ p style="text-align: justify;" The presence of a bat in a place depends on the time, temperature, precipitation, humidity, atmospheric pressure, wind speed, luminosity and presence of food. As a whole, these parameters establish the different variables that explain the bat presence in a specific location. QUIROTEC will measure some of these parameters in order to  strong help scientists  strong  to determine the conditions that provoke bats to live in a concrete area.  p 
+ p style="margin-bottom: 0cm;" align="JUSTIFY"  span style="font-family: Arial,sans-serif;"  span style="font-size: medium;"  strong The solution  strong   span   span   p 
+ p style="text-align: justify;" This project can be better explained with the following diagram:  p 
+ p style="margin-bottom: 0cm; text-align: center;"  span style="font-family: Arial,sans-serif;"  span style="font-size: x-small;"  em Fig. 4.- Solution diagram  em   span   span   p 
+ p style="text-align: justify;" QUIROTEC motes use  a href="http:  www.libelium.com products waspmote" Waspmotes  a  and have been deployed in several locations within the National Park, measuring different parameters:  p 
+ p style="text-align: justify;" These sensors are connected to Waspmote through its analog inputs (temperature, humidity and luminosity sensors) and through an special board designed for this project. An ultrasonic microphone, which has an operating frequency close to bat’s frequency (45KHz), is used to detect the presence of bats.  p 
+ p style="text-align: justify;" In order to know where this sensor is located, each Waspmote can integrate a GPS, that delivers accurate position and time information.  p 
+ p style="text-align: justify;" Libelium offers several wireless modules for the  a href="http:  www.libelium.com products waspmote hardware" radio communication  a :  p 
+ p align="CENTER"  strong Model  strong   p 
+ p align="CENTER"  strong Protocol  strong   p 
+ p align="CENTER"  strong Frequency  strong   p 
+ p align="CENTER"  strong TX power  strong   p 
+ p align="CENTER"  strong Sensitivity  strong   p 
+ p align="CENTER"  strong Range  strong *  p 
+ p align="CENTER"  strong XBee-802.15.4  strong   p 
+ p align="CENTER" 802.15.4  p 
+ p align="CENTER" 2.4 GHz  p 
+ p align="CENTER" 1 mW  p 
+ p align="CENTER" -92 dB  p 
+ p align="CENTER" 500 m  p 
+ p align="CENTER"  strong XBee-802.15.4-Pro  strong   p 
+ p align="CENTER" 802.15.4  p 
+ p align="CENTER" 2.4 GHz  p 
+ p align="CENTER" 63 mW  p 
+ p align="CENTER" -100 dBm  p 
+ p align="CENTER" 7000 m  p 
+ p align="CENTER"  strong XBee-ZigBee  strong   p 
+ p align="CENTER" Zigbee-Pro  p 
+ p align="CENTER" 2.4 GHz  p 
+ p align="CENTER" 2 mW  p 
+ p align="CENTER" -96 dBm  p 
+ p align="CENTER" 500 m  p 
+ p align="CENTER"  strong XBee-ZigBee-Pro  strong   p 
+ p align="CENTER" Zigbee-Pro  p 
+ p align="CENTER" 2.4 GHz  p 
+ p align="CENTER" 50 mW  p 
+ p align="CENTER" -102 dBm  p 
+ p align="CENTER" 7000 m  p 
+ p align="CENTER"  strong XBee-868  strong   p 
+ p align="CENTER" RF  p 
+ p align="CENTER" 868 MHz  p 
+ p align="CENTER" 315 mW  p 
+ p align="CENTER" -112 dBm  p 
+ p align="CENTER" 12 km  p 
+ p align="CENTER"  strong XBee-900  strong   p 
+ p align="CENTER" RF  p 
+ p align="CENTER" 900 MHz  p 
+ p align="CENTER" 50 mW  p 
+ p align="CENTER" -100 dBm  p 
+ p align="CENTER" 10 km  p 
+ p align="CENTER"  strong XBee-XSC  strong   p 
+ p align="CENTER" RF  p 
+ p align="CENTER" 900 MHz  p 
+ p align="CENTER" 100 mW  p 
+ p align="CENTER" -106 dBm  p 
+ p align="CENTER" 12 km  p 
+ p style="margin-bottom: 0cm; font-weight: normal; text-align: center;"  span style="font-family: Arial,sans-serif;"  span style="font-size: x-small;"  em Fig. 5.- Distances reached depending on the protocol  em   span   span   p 
+ p style="text-align: justify;" So we can reach  strong up to 40 km  strong  with Line of Sight ( strong LOS  strong ) condition using the 868MHz module. It is also possible to transmit the data via GPRS 3G, as a secondary radio module for better availability and redundancy in situations when it is critical to ensure the reception of the message. The  strong GPRS 3G  strong  module is quad-band (it can operate in 4 different bands, so it supports any cellular connection provider), making it able to work all over the world, therefore this project we are describing is suitable for any country.  p 
+ p style="text-align: justify;" One of the main characteristics of Waspmote is its  strong low power consumption  strong :  p 
+ p style="text-align: justify;" Waspmote is sleeping most of the time, in order to save battery. After some minutes (programmable by the user), Waspmote wakes up, reads from the sensors, implements the wireless communication and goes again to sleep mode. Each device can be powered with rechargeable batteries and a solar panel, making the system very autonomous.  p 
+ p style="margin-bottom: 0cm;" align="JUSTIFY"  span style="font-family: Arial,sans-serif;"  span style="font-size: medium;"  strong Deployment process  strong   span   span   p 
+ p style="text-align: justify;" For an accurate measurement, sensors have been calibrated in professional laboratories in order to provide the best results in this project. On the one hand,  strong environmental sensors  strong  have been calibrated and their output has been checked in order to assure a correct behavior of the whole system. On the other hand,  strong ultrasounds sensor  strong  was developed along with a special board in order to return a different value whether the presence of a bat is detected.  p 
+ p style="text-align: justify;" Waspmote, sensors and battery were placed inside an IP66 enclosure to be able to be placed outdoors. As the location is an island, these nodes are being exposed to the sea salt corrosive properties for a long period of time. A large amount of tests were carried out in order to check the correct behavior of the system in this scenario.  p 
+ p style="margin-bottom: 0cm; text-align: center;"  span style="font-family: Arial,sans-serif;"  span style="font-size: x-small;"  em Fig. 6.- Waspmote and sensors placed inside the enclosure  em   span   span   p 
+ p style="text-align: justify;" These nodes are  strong sleeping during the day  strong , consuming only  strong 62uA  strong , and start monitoring at dusk. By default, parameters are obtained  strong every minute  strong  though this time is configurable. QUIROTEC nodes are powered by a lithium battery which is recharged by the solar panel. Taking advantage of Waspmote’s saving energy features and  strong solar energy  strong , these motes are  strong autonomous  strong .  p 
+ p style="text-align: center;"  span style="font-family: Arial,sans-serif;"  span style="font-size: x-small;"  em Fig. 7.- a) Waspmote powered by a solar panel. b) Pipistrellus pipistrellus (bat) br 
+  em   span   span   p 
+ p style="text-align: justify;" Sensor data is sent to a central node that gathers all the data and stores it in a database. This database is accessible from any computer authorized thanks to a WiMax network previously deployed by Wireless Galicia. In this way, a scientist can access the sensor data from its laboratory without having to move to a specific location.  p 
+ p style="text-align: justify;" As a result of this project, environmental conditions within bat’s habitat can be monitored in order to study its main characteristics and understand why this specie lives in a concrete location. A  strong better understanding  strong  of the conditions required by these animals to live in a specific area will lead into a better preservation of this specie and a better co-existence with humans.  p 
+ p style="text-align: justify;" If you are interested in  a href="http:  www.libelium.com products waspmote " Waspmote  a , we will be glad to help you to design your system. You can request for a quotation of Waspmote  a href="http:  www.libelium.com products buy waspmote" here  a .  p 
+ p style="text-align: justify;" More information about the project and its deployment can be seen in the following video:  p 
+ p  strong Discover our  a href="https:  www.the-iot-marketplace.com " title="IoT Kits" target="_blank" IoT Kits  a  at  a href="https:  www.the-iot-marketplace.com " title="The IoT Marketplace" target="_blank" The IoT Marketplace  a !  strong   p 
+ p style="color: #ffffff; text-shadow: #555 2px 2px 1px; font-size:1.5em;" The IoT br Marketplace  p 
+ p style="color: #ffffff; text-shadow: #555 2px 2px 1px; font-size:1.2em;" Buy off-the-shelf br IoT kits  p 
+ p Quick Publish:  p 
+ p Is your vertical solution covered on our site?   p 
+ p  input type="radio" name="feedback-is-covered" value="yes-is-covered" required   label for="yes-is-covered" Yes  label   p 
+ p  input type="radio" name="feedback-is-covered" value="no-is-covered"   label for="no-is-covered" No  label   p 
+ p Which connectivity are you interesed in?  p 
+ p  input type="checkbox" name="connectivity[]" data-validation="oneof" value="sigfox"   label for="sigfox" Sigfox  label   p 
+ p  input type="checkbox" name="connectivity[]" data-validation="oneof" value="lorawan"   label for="lorawan" LoRaWAN  label   p 
+ p  input type="checkbox" name="connectivity[]" data-validation="oneof" value="4g"   label for="4g" 4G  label   p 
+ p  input type="checkbox" name="connectivity[]" data-validation="oneof" value="zigbee"   label for="zigbee" ZigBee  label   p 
+ p  input type="checkbox" name="connectivity[]" data-validation="oneof" value="802-15-4"   label for="802-15-4" 802.15.4  label   p 
+ p  input id="ot-con" type="checkbox" name="connectivity[]" data-validation="oneof" value="other"   label for="other" Other  label   p 
+ p class="field-item" 
+     label for="subject" Which other sensors would you like to find in our kits?  label 
+     input type="text" id="feedback_others_sensors" name="feedback_others_sensors" placeholder="" 
+  p 
+ p class="field-item" 
+     label for="email" Email  label 
+     input id="email" name="email" type="email" data-validation="email" placeholder="Type your email" required 
+  p 
+ p class="field-item" 
+     input name="submit" type="submit" value="Submit Form" 
+      p 
+ p id="error_sending_feedback" style="display:none" There was an error and your message was not sent. Please contact  a href="mailto:sales@libelium.com" Libelium Sales Team  a   p 

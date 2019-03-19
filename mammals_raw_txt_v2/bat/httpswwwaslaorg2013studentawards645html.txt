@@ -1,0 +1,93 @@
+ p class="sec-award"  !-- InstanceBeginEditable name="Award Type" -- Honor Award  !-- InstanceEndEditable --   p 
+ p class="firm-client" 
+ !-- InstanceBeginEditable name="Firm and Client" -- 
+Evan Lee, Student ASLA; George Kutnar, Student ASLA; Joshua Leyva, Student ASLA; Kevin Finch, Student ASLA; Nabyl Marcias, Student ASLA; Natasha Harkison, Student ASLA; and Kenny Sperling, Assoc. ASLA  em Undergraduate  em , California Polytechnic State University, Pomona  
+				 
+				 br 
+				 em Advisors: Andrew Wilcox; Lori Pullman  em 
+
+
+ !-- InstanceEndEditable --   p 
+ p (CHU) Concrete Habitat Units: Anywhere, Los Angeles, CA — Examining the latent potential of the singular construction unit in order to construct truly site-adjusted conditions of wildly unique possibility within the city’s extended infrastructure. br 
+               a href="images largescale 645_01.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 1 of 16  p 
+ p Modifications of the concrete masonry unit to encourage opportunistic habitation
+
+			 br 
+ a href="images largescale 645_02.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 2 of 16  p 
+ p Host Species + Habitat Considerations — Documentation of species’ needs which contributed to unit configuration. br 
+ a href="images largescale 645_03.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 3 of 16  p 
+ p Phenology, Life Cycle, and Structural Habitat Requirements — Infographics to diagram and document specific species behaviors and characteristics. br 
+ a href="images largescale 645_04.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 4 of 16  p 
+ p Laser Cut Skeletal Volumetric Models — Proportional physical models were created to tangibly relate to dimensional characteristics. br 
+ a href="images largescale 645_05.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 5 of 16  p 
+ p Plaster Castings as Informed Speculations on Spatial Habitats — Series of spatial configurations were cast in plaster to explore form-making beyond normative states. br 
+ a href="images largescale 645_06.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 6 of 16  p 
+ p (CSU) Cliff Swallow Unit — The ledge and cavity supports nesting structures while the face allows for the capture of water and soil to create the mud necessary for nest building. Crevasses may also house insects and support species. br 
+ a href="images largescale 645_07.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 7 of 16  p 
+ p (BBU) Brown Bat Unit — As a series of connected units, roosting space for a colony of bats is accommodated. The units also collect water, attract insects, and provide optimal light levels via half-inch openings. br 
+ a href="images largescale 645_08.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 8 of 16  p 
+ p (MMU) Mushroom Mycelium Unit — Unit designed to fill with soil and form an unbroken network in all three axes to permit contiguous growth of fungal mycelium. Plant and animal species may then colonize the units as supported by fungal species. br 
+ a href="images largescale 645_09.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 9 of 16  p 
+ p (PGU) Poppy   Goldfinch Unit — The unit face combines gaps with undulations to create additional opportunities once combined. The ends of the unit are mirrored for interlocking capabilities and to provide additional niches. br 
+ a href="images largescale 645_10.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 10 of 16  p 
+ p (GOU) Great Horned Owl Unit — The exterior is manipulated to allow owls to perch on or next to the units while the interior contains a lengthy cavity, spanning three vertical units, for an owl to enter. br 
+ a href="images largescale 645_11.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 11 of 16  p 
+ p (FMU) Freshwater Mussel Unit — Provides habitat in underwater structures. Units are intended to degrade over time with the occupational space remaining due to the collection of sediments. br 
+ a href="images largescale 645_12.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 12 of 16  p 
+ p (BMU) Buckwheat   Mouse Unit — The unit contains a nesting cavity for the mouse as well as a cavity to support beehives; the bees in turn may pollinate the buckwheat. Walls are formed to retain the slopes on which buckwheat commonly grows. br 
+ a href="images largescale 645_13.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 13 of 16  p 
+ p Habitat Integration br 
+ a href="images largescale 645_14.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 14 of 16  p 
+ p Overlapping Territories — Can our cultural values shift to accept living in proximity to opportunistic ecologies? br 
+ a href="images largescale 645_15.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 15 of 16  p 
+ p Wild Futures br 
+ a href="images largescale 645_16.jpg" Download Hi-Res Image  a   p 
+ p class="captions" Image: Student Team  p 
+ p class="count" Image 16 of 16  p 
+ p Project Statement  p 
+ p The term 'landscape' describes a condition in which humans have altered natural systems. The popular cultural perception of this process has lead to an expectation of highly controlled, naturalistic settings as commodities to be passively occupied or viewed. This project rejects this nostalgic idea and instead sets conditions where biological processes may opportunistically occupy urban infrastructure and the units by which we build. A resilient future must be designed not for control, but for potential.  p 
+ p Project Narrative  p 
+ p A perceptual shift in environmental values is currently reshaping the field of landscape architecture. Historically, landscapes have been perceived as commodities: locations of relaxation, pleasure, activity, and above all else, expressions of man's control over natural systems. As a collective society, landscape architects in today's era are reconsidering the relationship we have with the land. We are still within the transitional process of adjusting our values away from pastoral aesthetics towards a recognition that we must act as stewards to the land's natural systems. Beyond designing for human use, we are addressing other factors such as hydrology, ecologies, habitat, and remediation in attempts to create functional improvements to our environments. These ideas have come to fall under the banner of 'sustainability' which as a whole can be seen as a bold step forward toward radically reshaping our values. However, progressive as they are, the tenets of sustainability are but the early steps to what may be a future of fully integrated human and natural systems. Our cities and environments are still a long way from completely realizing even the most basic sustainable goals, yet it is necessary to consider if our cultural values are prepared to accept the quality of 'wildness' which will inevitably develop as natural systems begin to play a stronger role in shaping our urban environments.  p 
+ p Concrete Habitat Units (CHUs) explores the potential and possibilities of a wildly poised urban infrastructure through the adaptation of individual construction units to serve dual functions as structural components and as potential habitat for native species of plants and animals. We have found concrete masonry units (CMUs) to be desirable for modification because they are neutral and primitive in form, modular in configuration, and are pervasive building components. The derived alterations explore the tectonic conditions of habitat and the performative ability to adapt the infrastructure of the city. The project is simultaneously local in action and global in example by addressing site-specific and species-specific conditions in a manner which can easily be reconsidered for application in other ecologies and urban conditions.  p 
+ p Opportunism is an active and necessary ecological principle to be recognized in addressing the naïve notion of 'balance in nature' and critical to understanding 'wildness'. Diversity is one of the results of opportunistic competition and success, therefore by providing a platform for competition to take place, biodiversity is supported. The individual CHU configurations question the gaps, niches, perches, and spatial conditions necessary to encourage particular species to opportunistically occupy its space. While the ultimate habitation of a particular species into the unit for which it was designed can never be certain, by accommodating for particular spatial needs, the likelihood of the desired species to colonize the space may be improved. From these considerations, the CHUs seek to leverage the predominantly opportunistic species which occupy contemporary cities as a component of an ecological framework - an optimistic and active system of biological and ecological management through the design of structural elements.  p 
+ p This project was carried out in multiple phases which began with research on the phenology, life cycle and structural habitat needs of various selected species. The research was presented as a series of infographic posters as well as laser cut skeletal volumetric models intended to tangibly relate to the species' dimensional and proportional characteristics. Based on these spatial and dimensional requirements, speculative plaster castings were created to investigate possible forms suitable to specific habitat needs. These plaster study models then informed the spatial modifications which were applied to the CHU designs. The specific habitat accommodations for the various CHUs are as follows:  p 
+ p  strong (CSU) - Cliff Swallow Unit:  strong  Provides nesting opportunities in its cavity, overhang, and ledge. Collects water and soil to create the mud necessary for cliff swallow nest construction when the unit is inverted. Surface indentations serve as opportunities for insects and support species.  p 
+ p  strong (BBU) - Brown Bat Units:  strong  Series of three units when combined allow for entrance into a large cavity, space for roosting, and for hibernation.  Bats are able to fly in and out in groups as preferred and surface irregularities allow the bats to roost once inside. Half-Inch slots optimize darkness and ventilation and a surface which collects water attracts insects on which the bats may feed.  p 
+ p  strong (MMU) - Mushroom Mycelium Unit:  strong  Designed to be filled with soil and connect en masse as a network on all three axes. This permits fungal mycelium to form a contiguous network which in turn can support, in succession, a multitude of other living organisms.  p 
+ p  strong (PGU) - Poppy   Goldfinch Unit:  strong  Accommodates nesting for small birds such as the goldfinch and is contoured to collect soil from which poppies may grow. The ends of the unit contain additional gaps and niches, yet are mirrored to permit interlocking.  p 
+ p 	 strong (GOU) - Great Horned Owl Units:  strong  A set of three units combined to allow an appropriately sized nesting cavity for the owl. The exterior is manipulated to allow perching in front of and above the units.
+  p 
+ p  strong (FMU) - Freshwater Mussel Unit:   strong Provides burrowing space and embedment surfaces in underwater structures. The units are built with the notion that they will degrade over time, however the occupational space will remain due to the accumulation of soil and sediments the units will collect from tidal movements.  p 
+ p  strong (BMU) - Buckwheat   Mouse Unit:  strong  Supports buckwheat populations indirectly by providing appropriately sized spaces for bee colonies which in turn would pollinate the buckwheat. Walls may also be built to retain hillsides on which buckwheat typically grows. Additionally a gap on the underside of the unit permits mouse access along with a suitable nesting cavity.  p 
+ p     p 
+ p American Society of Landscape Architects  p 

@@ -1,0 +1,12 @@
+ p align="center" 
+        p 
+ p Back to  a href=" animals.php"  strong Animals for Kids  strong   a   p 
+ p 
+
+The tiger is the largest of the big cats. It's most famous for its unique orange coloring and black and white stripes. The scientific name for the tiger is the Panthera tigris.
+ br  br 
+ b How big are tigers?  b 
+ br  br 
+The largest of the tigers, the Siberian Tiger, can grow to around 10 feet long and weigh over 400 pounds. This makes for one massive cat and allows them to use their weight to knock down prey and then hold it down. They are powerful cats, too, and can run very fast despite their size.
+ br  br 
+  p 

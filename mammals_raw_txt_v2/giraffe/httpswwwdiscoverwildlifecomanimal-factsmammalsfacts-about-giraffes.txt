@@ -1,0 +1,85 @@
+ p class="tagline site-header__tagline tagline--left " From the team at BBC Wildlife Magazine  p 
+ p class="body-copy-large" itemprop="description" Did you know that giraffes eat skeletons? Why did NASA study giraffes to help them design a spacesuit? Read on to find out all this and more!  p 
+ p class="heading-4" itemprop="name" 
+                 span By  span   a class="author-name__name" rel="author" href="https:  www.discoverwildlife.com author giraffeconservationfoundationgeorgiebray " title="More posts by Giraffe Conservation Foundation" Giraffe Conservation Foundation  a 
+              p 
+ p The giraffe is the tallest mammal in the world, standing at around 4-5m high, and the tallest giraffes ever recorded have been up to 5.9m. That’s over a meter higher than a double-decker bus.  p 
+ p It shouldn’t come as a huge surprise that such a large animal weighs quite a lot as well – up to 1900kg, which is more than most cars!  p 
+ p One of our favourite giraffe facts is that they’re probably the biggest pollinators in the world thanks to their great height. As they wander around feeding from the tops of trees, they inadvertently transfer genetic material on their muzzles from the flowers of one tree to those of another. br   p 
+ p Despite being incredibly tall, giraffes still only have seven vertebrae in their necks – which means a giraffe neck has the exact same number of bones as a human neck!  p 
+ p A giraffe’s neck is too short to reach the ground. As a result, it has to awkwardly shuffle and spread its front legs to reach the ground for a drink of water.  p 
+ p Fortunately giraffes only need to drink once every few days, as they can get most of their water from all the plants they eat.  p 
+ p A fully grown giraffe can raise or lower its head by up to 5m, so it might actually pass out were it not for a dense network of fine capillaries (the ‘rete mirabile’) that cushions its brain against rapid changes in blood pressure.  p 
+ p Other adaptations to prevent sudden giraffe collapse are valves to stop the back-flow of blood and elastic-walled vessels that dilate and constrict to manage flow. NASA has even done research on the blood vessels in giraffe legs to get inspiration for human space suits.  p 
+ p A study published in  a href="https:  www.cell.com current-biology fulltext S0960-9822(16)30787-4"  em Current Biology  em    a in 2016 suggests that the giraffe is not a single species, but a subfamily containing four distinct species – the northern giraffe ( em Giraffa camelopardalis  em ), southern giraffe ( em Giraffa giraffa  em ), reticulated giraffe ( em Giraffa reticulata  em ) and Masai giraffe ( em Giraffa tippelskirchi  em ).  p 
+ p To make this groundbreaking discovery, the team examined DNA taken from skin biopsies of 190 giraffes collected across Africa. This sampling included populations from all nine previously recognised giraffe subspecies, which may now be spread across four separate species.  p 
+ p The differences in each group’s genetic composition suggest that there’s little crossover between the various species, which implies that they must have evolved separately.  p 
+ p Current giraffe numbers mean the IUCN classifies the animals as a species of ‘least concern’.  p 
+ p But if the results of the study above lead to the total giraffe population being split between four species, the adjustment could lead to one or more of them being classified as species under threat.  p 
+ p Giraffes used to be distributed throughout North and West Africa, including the Sahara, and along the Nile. Today giraffes are only found in sub-Sarahan Africa. br   p 
+ p Surprisingly enough for an African species, the giraffe originated from Eurasia, probably temperate Eurasia. This genus evolved seven to eight million years ago.  p 
+ p The giraffe genus ( em Giraffa  em ) is part of the Giraffidae family, which contains only one other species: the rare okapi, the closest relative of the giraffe. This forest-dweller has a shorter neck, just like the extinct species from which both it and giraffes are thought to have evolved.  p 
+ p While the okapi’s black-and-white hind stripes might make you think of zebras, the resemblance is purely coincidental.  p 
+ p  section class="highlight"  div class="highlight__content editor-content " 
+                     p Want to find out more about okapi, the cousins of giraffes?  p 
+ p Then check out our  a href="https:  www.discoverwildlife.com animal-facts mammals facts-about-okapi " 7 fascinating facts you (probably) don’t know about okapi  a  article!  p 
+ p  em Photo © Frans Lanting   Getty  em   p 
+ p 
+
+              p 
+  div 
+             div class="highlight__image" 
+             div class="img-container img-container--highlight-image"  img src="https:  images.immediate.co.uk volatile sites 23 2018 06 GettyImages-148310583-369516d.jpg?quality=45&amp;resize=556,556" srcset="https:  images.immediate.co.uk volatile sites 23 2018 06 GettyImages-148310583-369516d.jpg?quality=45&amp;resize=1112,1112 1112w, https:  images.immediate.co.uk volatile sites 23 2018 06 GettyImages-148310583-369516d.jpg?quality=45&amp;resize=710,710 710w, https:  images.immediate.co.uk volatile sites 23 2018 06 GettyImages-148310583-369516d.jpg?quality=90&amp;resize=556,556 556w, https:  images.immediate.co.uk volatile sites 23 2018 06 GettyImages-148310583-369516d.jpg?quality=90&amp;resize=500,500 500w, https:  images.immediate.co.uk volatile sites 23 2018 06 GettyImages-148310583-369516d.jpg?quality=90&amp;resize=480,480 480w, https:  images.immediate.co.uk volatile sites 23 2018 06 GettyImages-148310583-369516d.jpg?quality=90&amp;resize=440,440 440w, https:  images.immediate.co.uk volatile sites 23 2018 06 GettyImages-148310583-369516d.jpg?quality=90&amp;resize=355,355 355w, https:  images.immediate.co.uk volatile sites 23 2018 06 GettyImages-148310583-369516d.jpg?quality=90&amp;resize=340,340 340w, https:  images.immediate.co.uk volatile sites 23 2018 06 GettyImages-148310583-369516d.jpg?quality=90&amp;resize=320,320 320w, https:  images.immediate.co.uk volatile sites 23 2018 06 GettyImages-148310583-369516d.jpg?quality=90&amp;resize=250,250 250w, https:  images.immediate.co.uk volatile sites 23 2018 06 GettyImages-148310583-369516d.jpg?quality=90&amp;resize=123,123 123w, " sizes="(min-width: 992px) 250px, (min-width: 768px) 123px, (min-width: 576px) 556px, calc(100vw - 20px)" width="556" height="556" class="img-container__image img-fluid wp-image-16478 alignnone size-highlight_image js-gallery-src-image img-container__image" alt="Okapi, Okapia Johnstoni, White Oak Conservation Center, Florida" title="Okapi, Okapia Johnstoni, White Oak Conservation Center, Florida" data-lightbox-src="https:  media.immediate.co.uk volatile sites 23 2018 06 GettyImages-148310583-369516d.jpg?quality=90&amp;w=717&amp;h=1080"   div 
+  div 
+      section  br   p 
+ p Want to find out more about okapi, the cousins of giraffes?  p 
+ p Then check out our  a href="https:  www.discoverwildlife.com animal-facts mammals facts-about-okapi " 7 fascinating facts you (probably) don’t know about okapi  a  article!  p 
+ p  em Photo © Frans Lanting   Getty  em   p 
+ p 
+
+              p 
+ p Unlike most other four-legged mammals like horses, giraffes swing both legs on the same side at almost the same time during their walk, known as ‘pacing’. Camels walk in the same way, and you’ll feel the sideways motion if you ever ride one.  p 
+ p When a giraffe breaks into a gallop, its odd walk disappears and it runs in a more ‘normal’ way. br   p 
+ p Giraffe feet are the size of a dinner plate with a diameter of 30cm. These huge hooves prevent giraffes from sinking into loose sand despite their great weight.  p 
+ p Until recently it was widely assumed that a giraffe’s long, spindly legs would not provide sufficient purchase in water to support its neck, and that the proportion of its elongated extremities to its short body would reduce buoyancy.  p 
+ p Therefore the giraffe was supposedly the only mammal in the world that could not swim (indeed, the authoritative  em Handbook of the Mammals of the World  em  states bluntly that it cannot).  p 
+ p But this is probably wrong. A 2010 study in the a href="https:  www.researchgate.net publication 43130357_Predicting_the_buoyancy_equilibrium_and_potential_swimming_ability_of_giraffes_by_computational_analysis"  em  Journal of Theoretical Biology  em   a  used a complex digital model to prove that the average adult giraffe would, in fact, become buoyant in 2.8m of water.  p 
+ p Admittedly its heavy front legs would tip the animal forward, so to keep its head clear it would need to crank its neck backwards at an awkward angle, while the legs, swept to the rear, would have limited power.  p 
+ p So a giraffe could theoretically swim, but it would almost certainly never choose to, and it would be pretty terrible at it anyway.  p 
+ p  section class="highlight"  div class="highlight__content editor-content " 
+                     p If you’re wondering how you would even go about testing the bouyancy of a giraffe without a very large swimming pool or even a giraffe, have a read of this explanation by one of the study’s authors:  p 
+ p  a href="https:  blogs.scientificamerican.com tetrapod-zoology burning-question-for-world-giraffe-day-can-they-swim " Burning Question for World Giraffe Day: Can They Swim?  a   p 
+ p N.B. Both links here go to external sites.  p 
+ p  em Image from  a href="https:  www.researchgate.net publication 43130357_Predicting_the_buoyancy_equilibrium_and_potential_swimming_ability_of_giraffes_by_computational_analysis" Henderson &amp; Naish (2010)  a   em   p 
+ p 
+
+              p 
+  div 
+             div class="highlight__image" 
+             div class="img-container img-container--highlight-image"  img src="https:  images.immediate.co.uk volatile sites 23 2018 06 Henderson-Naish-figure-3-plus-June-2010-600-px-tiny-June-2016-Darren-Naish-Tetrapod-Zoology-339b5aa.jpg?quality=90&amp;resize=556,556" srcset="https:  images.immediate.co.uk volatile sites 23 2018 06 Henderson-Naish-figure-3-plus-June-2010-600-px-tiny-June-2016-Darren-Naish-Tetrapod-Zoology-339b5aa.jpg?quality=90&amp;resize=320,320 320w, https:  images.immediate.co.uk volatile sites 23 2018 06 Henderson-Naish-figure-3-plus-June-2010-600-px-tiny-June-2016-Darren-Naish-Tetrapod-Zoology-339b5aa.jpg?quality=90&amp;resize=250,250 250w, https:  images.immediate.co.uk volatile sites 23 2018 06 Henderson-Naish-figure-3-plus-June-2010-600-px-tiny-June-2016-Darren-Naish-Tetrapod-Zoology-339b5aa.jpg?quality=90&amp;resize=123,123 123w, " sizes="(min-width: 992px) 250px, (min-width: 768px) 123px, (min-width: 576px) 556px, calc(100vw - 20px)" width="556" height="556" class="img-container__image img-fluid wp-image-17910 alignnone size-highlight_image js-gallery-src-image img-container__image" alt="Modelling a giraffe to see if it can swim or even float" title="Modelling a giraffe to see if it can swim or even float" data-lightbox-src="https:  media.immediate.co.uk volatile sites 23 2018 06 Henderson-Naish-figure-3-plus-June-2010-600-px-tiny-June-2016-Darren-Naish-Tetrapod-Zoology-339b5aa.jpg?quality=90&amp;w=600&amp;h=331"   div 
+  div 
+      section  br   p 
+ p If you’re wondering how you would even go about testing the bouyancy of a giraffe without a very large swimming pool or even a giraffe, have a read of this explanation by one of the study’s authors:  p 
+ p  a href="https:  blogs.scientificamerican.com tetrapod-zoology burning-question-for-world-giraffe-day-can-they-swim " Burning Question for World Giraffe Day: Can They Swim?  a   p 
+ p N.B. Both links here go to external sites.  p 
+ p  em Image from  a href="https:  www.researchgate.net publication 43130357_Predicting_the_buoyancy_equilibrium_and_potential_swimming_ability_of_giraffes_by_computational_analysis" Henderson &amp; Naish (2010)  a   em   p 
+ p 
+
+              p 
+ p Both male and female giraffes have ‘horns’ at birth. More properly known as ‘ossicones’, they lie flat and are not attached to the skull to avoid injury at birth. They only fuse with the skull later in life.  p 
+ p Giraffe horns become formidable weapons in adult males, worn bare of skin at the tips – old bulls may even have patches of bare bone elsewhere on their massive, craggy heads.  p 
+ p A giraffe giving birth is a bit of a worrying sight if you haven’t seen it before – female giraffes give birth standing up, so the first thing a baby giraffe knows is a 2-metre fall to the ground. Despite the bumpy start, baby giraffes can stand up within an hour of birth.  p 
+ p Giraffes usually only have a single baby, born after a 15-month gestation period. But because they’re able to breed all year round, giraffes don’t need to ‘resynchronise’ with the seasons each time they give birth.  p 
+ p Sadly, about 50% of giraffe calves do not survive their first year.  p 
+ p Just like human fingerprints, no two giraffes have the same pattern. Researchers who spend long enough studying the same giraffes eventually find that they can recognise dozens or even hundreds of individuals from their patterns.  p 
+ p It’s thought that the pattern on a giraffe doesn’t just serve to camouflage the animal, but also helps with temperature regulation too. The coloured skin patches can act to dissipate heat around the body, as the temperature of the skin is slightly higher in darker regions, facilitating the dilation of vessels beneath the skin’s surface.  p 
+ p Giraffes also have an efficient nasal cooling system to regulate brain temperature up to 3°C lower than the rest of the body. br   p 
+ p Giraffe tongues are huge! They’re bluish-purple, prehensile and between 45-50cm long – perfect for carefully ripping fresh leaves from between the spikes at the top of acacia trees.  p 
+ p When fighting, male giraffes will push and shove against each other. This occasionally escalates into powerful blows delivered by their muscular necks. The loser can be knocked out, and sometimes even killed.  p 
+ p A giraffe heart can weigh approximately 11kg, making it the biggest of any land mammal. It can pump 60 litres of blood around its body every minute at a blood pressure twice that of an average human.  p 
+ p Giraffes mostly eat fresh leaves and twigs from the tops of trees (particularly spiky acacia trees) where other browsing species can’t reach them. That means giraffes can afford to be pickier than most big animals, and they’re also better able to cope with droughts than smaller animals, as the tallest trees tend to have the deepest roots that reach down to water that other trees can’t access.  p 
+ p But you might be more surprised to discover that the seemingly gentle giraffe also eats bones. Giraffes aren’t predators, so they don’t kill other animals, but their huge skeletons require more calcium and phosphorous than they can get from a strictly vegetarian diet. The easy solution is to chew the bones from carcasses to make their own bones stronger, a behaviour known as osteophagy.  p 
+ p  em Find out more about the  a href="https:  giraffeconservation.org" Giraffe Conservation Foundation  a .  em   p 
+ p class="body-copy-extra-small js-newsletter-sign-up-description" 
+                        By entering your details, you are agreeing to Discover Wildlife  a class="link-copy" href="http:  www.immediate.co.uk terms-and-conditions " terms and conditions  a . You can unsubscribe at any time.
+                      p 

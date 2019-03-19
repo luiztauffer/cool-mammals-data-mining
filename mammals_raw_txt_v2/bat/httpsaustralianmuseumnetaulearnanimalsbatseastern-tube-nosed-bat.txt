@@ -1,0 +1,36 @@
+ p class="nav-section-description__text" 
+                                                                        In this section, find out everything you need to know about visiting the Museum, how to get here and the extraordinary exhibitions on display. Check out the 'What's on' calendar of events, workshops, free tours and education programs.
+                                                                      p 
+ p class="nav-section-description__text" 
+                                                                        In this section, there's a wealth of information about our collections of scientific specimens and cultural objects. Come and explore what our researchers, curators and education programs have to offer!
+                                                                      p 
+ p class="nav-section-description__text" 
+                                                                        In this section, explore all the different ways you can be a part of the Museum's groundbreaking research, as well as come face-to-face with our dedicated staff. Join us, volunteer and be a part of our journey of discovery!
+                                                                      p 
+ p Long, tubular nostrils, a short blunt snout, protruding eyes and yellow spots the on wings and ears.  p 
+ p A small to medium-sized fruit bat with long, tubular nostrils, a short blunt snout, protruding eyes and yellow spots the on wings and ears. The fur is grey-brown on the back and paler underneath. A narrow black stripe extends from the neck or mid-back to the rump. The tail is moderately long and the wings are short and broad.  p 
+ p Tropical and subtropical rainforest, wet sclerophyll forest, vine forest, tropical woodland and heathland.  p 
+ p Found along the coast and ranges of eastern Australia from around Lismore in NSW north to Cape York, the Torres Strait islands and New Guinea.  p 
+ p Consumes a range of native and exotic fruits, nectar, flowers and pollen, and are important seed dispersers and pollinators.  p 
+ p Primarily a rainforest species, it roosts either singly or in small groups amongst the foliage and is well camouflaged by its mottled wings. Roost sites are generally close to feeding areas and have been recorded in primary and secondary forest and mangroves. Mating occurs from July to September; a single young is born after a gestation period of 3-3.5 months. A distinctive high pitched call is often produced.  p 
+ p This species is moderately common in the northern part of the range, but is listed as vulnerable in NSW.  p 
+ p class="content-card__teaser" The Evolution of Australian Biota box explores the movements of the world's plates as the super continent Gondwana rifted apart, the isolation of Australia from the other continents and the subsequent changes in climatic conditions.  p 
+ p class="content-card__teaser" Staff from AMRI’s mammal collection published the first catalogue of mammal type specimens in the Collection since Krefft’s list of 1864.  p 
+ p class="content-card__teaser" Dr Tyrone Lavery gives us an insight into the research methods and identification of bat and rat species in the Solomon Islands.  p 
+ p class="content-card__teaser" Our study of one of Australia's most secretive marsupials sheds light on how changes to forests have enriched biodiversity  p 
+ p class="content-card__teaser" What animals are people looking for on our website? Here’s a quick summary.  p 
+ p class="content-card__teaser" Reddish-brown to grey colouration; nose is long and tapering; naked patch of skin on the snout.  p 
+ p class="content-card__teaser" The Australian Museum has commissioned the creation of five Asaro Mud Masks to be held in the Cultural Collection.  p 
+ p class="content-card__teaser" Perameles bowensis, from the Pliocene of New South Wales, is one of the oldest and most primitive of the Peramelidae, the family to which most Australian bandicoots belong.  p 
+ p class="content-card__teaser" Many of Sydney’s native mammals can still be found – if you know where to look  p 
+ p class="content-card__teaser" Do fossil tetragonal Mesozoic tubes belong to the ancestors of the worms living in the deep sea today?  p 
+ p class="acknowledgement__text" 
+                            The Australian Museum respects and acknowledges the Gadigal people of the Eora Nation as the First Peoples and Traditional Custodians of the land and waterways on which the Museum stands. br 
+                            — br 
+                            We acknowledge Elders past, present and emerging. br 
+                             small class="acknowledgement__disclaimer" This website may contain names, images and voices of deceased Aboriginal and Torres Strait Islander peoples.  small 
+                          p 
+ p class="footer__text" Receive the latest news on events, exhibitions, science research and special offers.  p 
+ p class="footer__text" 
+                                    Login to purchase tickets and manage your museum membership.
+                                  p 

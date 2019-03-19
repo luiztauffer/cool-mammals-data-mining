@@ -1,0 +1,20 @@
+ p class="alert-title" AMBER ALERT  p 
+ p But when you're done reading it, click the close button in the corner to dismiss this alert.  p 
+ p class="alert-title" GLOBAL MESSAGE  p 
+ p But when you're done reading it, click the close button in the corner to dismiss this alert.  p 
+ p The red fox ( em Vulpes vulpes  em ) is likely not native to Indiana. Records suggest that in much of the U.S., red foxes were introduced from Europe and expanded throughout the country. Red foxes likely moved into Indiana with European settlers, possibly in the mid-1800s. They are now a common and charismatic member of Indiana’s wildlife community and are found in a variety of habitats, including in urban areas.  p 
+ p Red foxes prefer a mix of habitat such as edges with mixed scrub and woodlands. Old fields, pastures, brush land, farmland and other lightly-forested areas are often preferred. They adapt well to human environments including agricultural lands and urban areas. They occur in all Indiana counties.  p 
+ p Red foxes seldom use dens except for rearing young. The den selected for pup raising may be located in the open or in woods. Dens are generally well-drained and usually have at least two entrances. Foxes may switch dens periodically while pups are young. One litter is born each year in March or April, 51 days after mating. Litters may range from one to 12, but five or six is average.  p 
+ p Newborn foxes are blind until 9 days old and are constantly attended by the female until several weeks old. The male delivers food to his family during this period. The pups first start to leave the den to explore when they are a month old. The young go out on their own in late summer.  p 
+ p Red foxes are omnivores. Common foods include:  p 
+ p Red foxes do not require specialized habitat management due to their adaptability and tolerance of human activity. They are an important component of Indiana's wildlife community due to their effectiveness as predators in controlling small mammals, and they are an important animal in Indiana's fur harvest. Both hunting and trapping are allowed for red foxes. They are protected from hunting and trapping when the young are born and learning to survive. Rules and regulations can be found in the  a href="http:  www.in.gov dnr fishwild 2343.htm" Hunting and Trapping Guide  a .  p 
+ p Resident landowners and tenants can trap a red fox that is causing damage on their own property without a permit from the DNR. The fox must be euthanized or released within the county of capture on private property on which you have permission to release the fox. In order to prevent the spread of disease, the DNR encourages homeowners to safely and humanely euthanize the foxes, if possible. If you do not want to trap the fox yourself, contact a  a href="http:  www.in.gov dnr fishwild files fw-Licensed_Nuisance_Wild_Animal_Control_Op.pdf" licensed nuisance wild animal control operator.  a   p 
+ p Contrast Setting  p 
+ p Text Setting  p 
+ p 
+						 script type="text javascript" src="https:  www.browsealoud.com plus scripts 2.5.1 ba.js" crossorigin="anonymous" integrity="sha256-qka8jxVlCAjRf8tBo9ZQei0yDsegmgvvXase+tCHpug= sha384-umEpIALnZPt9YfwcmokVqcRZu6YIRaIquftXfoowjAAa6cKrKpAMuUeA0wYJACWz sha512-GUQVId1GjjNF2EVUfdeH ct8fRypFsjU0uXgYQnUVGkXqP7YWIaqJY2y+2RzzaEPG pnO+nBE+69Ec7L6PKDjw=="   script 
+						 a class="_ba_logo" href="javascript:;" onclick="BrowseAloud.panel.toggleBar(true,event);return false;" title="Listen with browsealoud" Browse Aloud  a 
+					  p 
+ p class="text-only-btn" Text Only Version of IN.gov Website  p 
+ p class="last-child" Google Translate  p 
+ p Copyright ©  span id="footer-date" 2019  span  State of Indiana - All rights reserved.  p 

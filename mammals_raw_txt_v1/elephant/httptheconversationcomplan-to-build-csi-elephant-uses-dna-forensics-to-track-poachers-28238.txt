@@ -1,0 +1,55 @@
+ p class="role" 
+      Professor of Forensic Genetics, Flinders University
+      p 
+ p  span Adrian Linacre does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.  span   p 
+ p class="funding-statement"  a href=" institutions flinders-university-972" Flinders University  a  provides funding as a member of The Conversation AU.  p 
+ p The Conversation UK receives funding from these organisations  p 
+ p  a href=" uk partners"  strong View the full list  strong   a   p 
+ p 
+       a class="license-logo" href="http:  creativecommons.org licenses by-nd 4.0 "  img src=" assets call-to-actions republish-ca547a7c5135cc6d1a28933dc8b6823c.png" alt="Republish"   a 
+      Republish our articles for free, online or in print, under Creative Commons licence.
+      p 
+ p The shocking news that Satao, the much-loved African Elephant who lived in Kenya’s Tsavo East National Park, has been  a href="http:  news.nationalgeographic.com news 2014 06 140616-elephants-tusker-satao-poachers-killed-animals-africa-science " killed and butchered for his tusks  a  highlights once again the terrible and unsustainable toll of poaching elephants for their ivory.   p 
+ p Increasingly authorities are using forensic methods to track and trace the origins of seized ivory, providing the means to tackle enforcement problems in the country where the animal was killed, rather than just the point where the attempt was made to smuggle it out of the continent.  p 
+ p  a href="http:  markdeeble.wordpress.com " Satao’s death  a  is just one among the many thousands of elephants killed each year. The  a href="http:  www.cites.org eng prog mike index.php" Monitoring the Illegal Killing of Elephants  a  programme, part of the Convention on the International Trade in Endangered Species of Flora and Fauna ( a href="http:  www.cites.org " CITES  a ) set up as part of the worldwide ban in 1989, reported that 22,000 African elephants were illegally killed by poachers in 2012, based on data from 27 countries across Africa. The figures for 2013 reported this month show a toll of over 20,000 African elephants, the vast majority of seizures by customs or border officials being made in Tanzania, Kenya and Uganda.  p 
+ p The  a href="http:  www.cites.org eng elephant_poaching_and_ivory_smuggling_figures_for_2013_released" CITES report  a  reveals that while the numbers of elephants poached appears to have stabilised, among large seizures of more than 500kg the number of tusks found in each seizure is rising. This suggests two things: that there are fewer elephants to poach, and that the trade is well-organised and not the work of individual poachers or small groups. This level of slaughter far exceeds the reproductive potential of the remaining elephants and will, by any account, lead to the  a href="http:  www.salon.com 2014 01 05 african_forest_elephants_are_being_massacred_into_extinction_partner " extinction  a  of the African elephant in many parts of the continent.  p 
+ p The international community is only now responding to this crisis for the African elephant with action. Knowing which populations the poachers are targeting can play an important part. Work pioneered by  a href="http:  www.biology.washington.edu users samuel-k-wasser" Professor Sam Wasser  a  at the University of Washington uses  a href="http:  stephenslab.uchicago.edu MSpapers Wasser2008.pdf" DNA profiling  a  from seized ivory to trace it back to the geographical location within Africa from which the ivory was taken once roamed.   p 
+ p There are two species of elephant in Africa, the savanna elephant ( em Loxodonta africana  em ) and the forest elephant ( em Loxodonta cyclotis  em ). Within these two species are many sub-populations, such as extended family groups, where there is a greater sharing of DNA types due to inheritance from common ancestors. So some DNA types become much more common than others in defined geographical ranges, which means that using similar DNA profiling techniques to those used in human forensic science, the DNA from ivory provides a map leading back to the geographic area where those sub-populations with similar DNA profiles are found.  p 
+ p Under CITES there is a total ban on the trade in elephant ivory, although not from all other species that have ivory, nor from tusks removed from mammoths – being extinct, they cannot be provided any legal protection. The cost of mammoth ivory is approximately US$350 per kilogramme – significantly cheaper than elephant ivory – but often looks very similar. Again, DNA typing can distinguish between African and Asian elephants and mammoths.  p 
+ p This aspect of wildlife forensic science is supported by the  a href="http:  www.unodc.org " United Nations Office for Drugs and Crime  a , and has already proved highly successful in tracking seizures and locating their source. For example, when a  a href="http:  newswatch.nationalgeographic.com 2013 05 23 a-powerful-weapon-against-ivory-smugglers-dna-testing " 6.5 tonne shipment  a  was seized in Singapore, DNA testing revealed it had come from elephant populations in Zambia. With that knowledge, pressure applied saw Zambia’s director of wildlife replaced and its courts start to impose harsher sentences for ivory smugglers in order to tackle the problem at source.  p 
+ p Unfortunately such tests do not come cheap and are rarely conducted for free. The illegal trade in wildlife is highly profitable and well-organised. If nations wish to save the African elephant, then action to provide – and fund – the tools necessary is required. A CITES meeting last year agreed that all authorities making seizures over 500kg would submit samples for DNA analysis to boost the details mapping seizures to populations.  p 
+ p The reason there is a trade at all is to provide ivory for markets in  a href="http:  www.telegraph.co.uk news worldnews asia china 10628900 Beijings-elephant-graveyard-how-China-still-drives-world-ivory-market.html" China and the Far East  a . Based on intelligence from seized shipments, ivory is exported from Africa to countries such as Malaysia, the Philippines, Thailand, and Vietnam where the ivory is processed before being sold on. 
+It’s difficult to devise a cost per kilogramme of ivory (a tusker such as Satao would carry  a href="http:  news.nationalpost.com 2014 06 15 satao-one-of-africas-largest-elephants-killed-by-poachers-for-ivory-tusks-weighing-more-than-45-kg " around 45kg of ivory  a ) but the latest estimates are that a carved ornament of 10kg will sell ultimately for US$60,000. With booming economies in many countries of Southeast Asia, and China in particular, the amount of disposable income has rapidly increased alongside a desire for ivory as a status symbol. And as ivory becomes rare due to the alarming decrease in elephant numbers, the concurrent increase in value will put ever more pressure on the dwindling elephant populations.  p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events displaying-the-bayeux-tapestry-now-and-then-6837" 
+           span class="name" Displaying the Bayeux Tapestry, now and then  span 
+          —
+           span class="location" York, York  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events marconi-and-hoffmanns-the-legacy-of-the-frederick-roberts-archive-of-industrial-history-6982" 
+           span class="name" Marconi and Hoffmann's: the legacy of the Frederick Roberts archive of industrial history  span 
+          —
+           span class="location" Chelmsford, Essex  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events brexit-where-we-are-and-where-to-next-6965" 
+           span class="name" Brexit: Where we are and where to next  span 
+          —
+           span class="location" Portsmouth, Hampshire  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events advanced-pharmaceutical-3d-printing-6983" 
+           span class="name" Advanced Pharmaceutical 3D Printing  span 
+          —
+           span class="location" Chelmsford, Essex  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events james-kerr-lawson-an-artists-construction-of-rome-6558" 
+           span class="name" James Kerr Lawson: an artist's construction of Rome  span 
+          —
+           span class="location" Egham, Surrey  span 
+  a         p 
+ p class="copyright" 
+       span Copyright © 2010–2019  span  span class="comma" ,   span  span  a href=" uk who-we-are" The Conversation Trust (UK) Limited  a   span 
+      p 

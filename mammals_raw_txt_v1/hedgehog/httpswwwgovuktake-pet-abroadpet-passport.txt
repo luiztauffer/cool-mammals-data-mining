@@ -1,0 +1,27 @@
+ p GOV.UK uses cookies to make the site simpler.  a href="https:  www.gov.uk help cookies" data-module="track-click" data-track-category="cookieBanner" data-track-action="Cookie banner clicked" Find out more about cookies  a   p 
+ p You need a pet passport for your dog, cat or ferret if they’ll be travelling:  p 
+ p If the UK leaves the  abbr title="European Union" EU  abbr  without a deal, after 29 March 2019 the rules for travelling to  abbr title="European Union" EU  abbr  countries with your pet will change. You should  a href=" guidance pet-travel-to-europe-after-brexit" start the process at least 4 months before you travel  a .  p 
+ p If they’re coming from a listed or unlisted country, you need a third-country official veterinary certificate if they do not have a pet passport.  p 
+ p You must bring originals of all your pet’s documents, not photocopies.  p 
+ p Pet passports list the different treatments your pet has had.  p 
+ p You can get one from certain vets in  abbr title="European Union" EU  abbr  countries, and  a href=" take-pet-abroad listed-and-unlisted-countries" other countries the UK accepts pet passports from  a . If your vet does not issue pet passports, ask them for the nearest that does, or contact the  a href=" government organisations animal-and-plant-health-agency about access-and-opening" Animal and Plant Health Agency  a .  p 
+ p You’ll need to take your pet, its identity and vaccination records and any rabies blood test results (if you have them) when you get a pet passport.  p 
+ p The passport is only valid if you meet the entry requirements. You do not need to get a new style passport (issued from 29 December 2014) until all the treatment spaces are full.  p 
+ p You should travel with previous pet passports in some cases, for example if your pet has had a blood test. Ask your vet if you think this applies to your pet.  p 
+ p Only vets in countries that the UK accepts pet passports from can enter information into the pet passport (except for tapeworm treatments).  p 
+ p Check that the vet has filled in the following sections in the pet passport:  p 
+ p To enter or return to the  abbr title="European Union" EU  abbr  from  a href=" take-pet-abroad listed-and-unlisted-countries" listed or unlisted countries  a  you need either:  p 
+ p Your pet must arrive in an  abbr title="European Union" EU  abbr  country within 10 days of the certificate being issued. It’s valid for 4 months for further travel within the  abbr title="European Union" EU  abbr .  p 
+ p You should get the person who checks your pet when you arrive in the  abbr title="European Union" EU  abbr  to sign and stamp the certificate.  p 
+ p You do not need a third-country official veterinary certificate if your pet was issued with a pet passport before leaving the  abbr title="European Union" EU  abbr  and the treatments are still valid. Any  a href=" take-pet-abroad rabies-vaccination-boosters-and-blood-tests" booster vaccinations or blood tests  a  carried out from outside the  abbr title="European Union" EU  abbr  must be recorded on a third-country official veterinary certificate.  p 
+ p You can exchange the certificate for an  abbr title="European Union" EU  abbr  pet passport if:  p 
+ p You’ll have to show the vet:  p 
+ p To bring a cat into the UK from Australia, you must have a certificate from the  a rel="external" href="http:  www.agriculture.gov.au export controlled-goods live-animals companion" Australian Department of Agriculture  a  confirming your cat has not been exposed to the Hendra virus in the 60 days before you left.  p 
+ p You must have a certificate from the Malaysian government veterinary health services to bring your dog or cat into the UK from Peninsular Malaysia. The certificate must show your pet:  p 
+ p class="gem-c-step-nav__paragraph" You must wait for a set period of time after vaccination before you can travel.   p 
+ p class="gem-c-step-nav__paragraph" Depending on the country you're travelling from, you might also need to get a blood test.  p 
+ p class="gem-c-step-nav__paragraph" If you have a dog, you'll also need to get tapeworm treatment before you travel.  p 
+ p id="feedback_explanation" class="gem-c-feedback__form-paragraph" Don’t include personal or financial information like your National Insurance number or credit card details.  p 
+ p id="survey_explanation" class="gem-c-feedback__form-paragraph" To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.  p 
+ p class="logo"  a href="https:  www.nationalarchives.gov.uk doc open-government-licence version 3 " rel="license" Open Government Licence  a   p 
+ p All content is available under the  a href="https:  www.nationalarchives.gov.uk doc open-government-licence version 3 " rel="license" Open Government Licence v3.0  a , except where otherwise stated  p 

@@ -1,0 +1,53 @@
+ p class="vrtp-global-header__section-title" data-reactid="16" Attractions  p 
+ p class="vrtp-global-header__section-title" data-reactid="55" Accommodation  p 
+ p class="vrtp-global-header__section-title" data-reactid="65" Groups &amp; Functions  p 
+ p class="vrtp-global-header__section-title" data-reactid="84" Seasonal Events  p 
+ p class="vrtp-global-header__section-title" data-reactid="97" Ticketing  p 
+ p class="vrtp-attraction-brand__subheading" data-reactid="10" Paradise Country truly is the Gold Coast’s hidden gem and the whole family will love the variety of shows and interactive experiences that a day on the farm can bring. There’s so much to do and see, so come and create lasting memories as you meet resident animals and indulge in delicious meals.  p 
+ p class="small" data-reactid="14"  i class="vrtp-icon vrtp-icon__ride-info--star--grey" data-reactid="15"   i  !-- react-text: 16 -- Paradise Country offers an authentic Australiana farm experience !--  react-text --   p 
+ p class="small" data-reactid="18"  i class="vrtp-icon vrtp-icon__ride-info--star--grey" data-reactid="19"   i  !-- react-text: 20 -- Watch stockmen and their dogs round up a flock of sheep, crack a stockman's whip and ride their trusty stockhorses !--  react-text --   p 
+ p class="small" data-reactid="22"  i class="vrtp-icon vrtp-icon__ride-info--star--grey" data-reactid="23"   i  !-- react-text: 24 -- Sample some delicious billy tea and learn how to make traditional damper, an Aussie favourite !--  react-text --   p 
+ p class="small" data-reactid="26"  i class="vrtp-icon vrtp-icon__ride-info--star--grey" data-reactid="27"   i  !-- react-text: 28 -- Visit the Shearing Shed for the Ram Parade and Sheep Shearing Display !--  react-text --   p 
+ p class="small" data-reactid="30"  i class="vrtp-icon vrtp-icon__ride-info--star--grey" data-reactid="31"   i  !-- react-text: 32 -- The kids will love the Animal Nursery because they can feed lambs, piglets and calves !--  react-text --   p 
+ p class="small" data-reactid="34"  i class="vrtp-icon vrtp-icon__ride-info--star--grey" data-reactid="35"   i  !-- react-text: 36 -- Get up close and personal with kangaroos in their natural habitat !--  react-text --   p 
+ p 
+There’s nothing quite like the feeling you get from watching the stockmen and their dogs round up a flock of sheep, crack a stockman’s whip or put their trusty stockhorses through their paces. You’ll even get the chance to sample some of our delicious billy tea and learn how to make traditional damper before heading to the shearing shed for our Ram Parade and Sheep Shearing Display.
+  p 
+ p 
+The kids will love helping in the Animal Nursery with daily bottle feeding of the gorgeous lambs, piglets and calves available. Cuddle chicks or guinea pigs and meet a friendly range of goats and sheep in the outdoor enclosure. You can also feed the iconic kangaroos and learn all about Australia's cuddly koalas during your visit to Paradise Country
+  p 
+ p 
+Paradise Country is home to a diverse and unique range of animals. A visit to the farm will not only put you face to face with cows, horses, sheep, chickens, ducks, pigs and dogs, but you can also get up close with a range of glorious Australian Wildlife as well as some very cute babies in the Animal Nursery.
+  p 
+ p 
+The whole family will love the variety of shows and experiences that a day on the farm can bring. Visit an authentic shearing shed or enjoy arena entertainment with the Stock Horse Arena &amp; Billy Tea show and Stockman &amp; Sheep Dog show. You can also relax around the campfire to enjoy a traditional Billy Tea and damper as you experience the action of the outback.
+  p 
+ p 
+Turn a day out on the farm into a night away at Paradise Country Farmstay. Enjoy some time away from the hustle and bustle with the choice of our onsite tents and van sites, or sit back and truly retreat in one of our Farmstay Eco Tents.
+  p 
+ p 
+Enjoy a variety of dining options during your visit to Paradise Country. Dine at our popular Farmhouse Restaurant which is open every day for lunch with a delicious buffet. Or, grab a hearty burger and chips and roll out a rug on the hill for a picnic in the sun. The delicious options available are sure to please the whole family.
+  p 
+ p 
+Visit our Wildlife Photo Centre or Homestead Gift Shop to purchase Australian souvenirs that you can take home as a memory of your day at Paradise Country. There is a wide variety of plush toys, key rings, clothing items and much more that make the perfect present to take home to your family and friends. 
+  p 
+ p class="attraction-subheading" style="color:;" data-reactid="10"  !-- react-text: 11 -- Interactive Experience !--  react-text --  !-- react-text: 12 --  !--  react-text --   p 
+ p class="ride-title" data-reactid="17" Animal Nursery &amp; Walkthrough  p 
+ p class="attraction-subheading" style="color:;" data-reactid="10"  !-- react-text: 11 -- Live music by local artists !--  react-text --  !-- react-text: 12 --  !--  react-text --   p 
+ p class="ride-title" data-reactid="17" Sunday Sessions  p 
+ p class="attraction-subheading" style="color:;" data-reactid="10"  !-- react-text: 11 -- Experience the action of the outback !--  react-text --  !-- react-text: 12 --  !--  react-text --   p 
+ p class="ride-title" data-reactid="17" STOCKHORSE ARENA &amp; BILLY TEA  p 
+ p data-reactid="9" Admission not included  p 
+ p data-reactid="9" Aussie Farm &amp; Appetite Fix  p 
+ p 
+Visit Paradise Country and enjoy an Aussie Farm experience with one day general admission and then treat yourself after a day on the farm to a delicious BBQ buffet lunch in Paradise Country's rustic Farmhouse Restaurant. Yum!  p 
+ p data-reactid="9" Choose your mining experience  p 
+ p 
+    1 Day Entry to Paradise Country Plus Lunch Buffet and Mining Experience. Visit Paradise Country and enjoy an Aussie Farm experience with your choice of Gold Fossicking or an Opal Mining experience. Enjoy a delicious BBQ buffet lunch in a rustic Farmhouse Restaurant to relax and possibly celebrate after your Mining experience.
+  p 
+ p class="vrtp-component__subheading" data-reactid="5" 
+  p 
+ p  span class="vrtp-text__body-2"   span  span style="font-size: 16px;" I’d like to receive exclusive offers, competitions &amp; entertainment news from the Village Roadshow Group. I have read the  span  a href="https:  themeparks.com.au privacy" class="changeColor" Privacy Policy  a .  span   span   p 
+ p data-reactid="6" Have a question? Check our  a href=" faq" FAQs  a   p 
+ p data-reactid="7"  strong Box office:  a href="tel:133386" 13 33 86  a   strong   p 
+ p data-reactid="8"  small data-reactid="9"  a class="vrtp-text-link" href=" contact" target="" data-reactid="10" Email Us  a   small   p 

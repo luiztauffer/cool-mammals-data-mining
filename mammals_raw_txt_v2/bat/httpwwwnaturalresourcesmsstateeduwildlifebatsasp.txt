@@ -1,0 +1,49 @@
+ p 
+               input type="hidden" name="cx" value="004694527118789630212:-z0snmj1rc0" 
+               input type="hidden" name="cof" value="FORID:9" 
+               input type="hidden" name="ie" value="UTF-8" 
+               input type="text" name="q" size="32" style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(126, 157, 185); border-right-color: rgb(126, 157, 185); border-bottom-color: rgb(126, 157, 185); border-left-color: rgb(126, 157, 185); padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px; background-image: url(http:  www.google.com cse intl en images google_custom_search_watermark.gif); background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(255, 255, 255); background-position: 0% 50%; background-repeat: no-repeat no-repeat; " 
+               input type="submit" name="sa" value="Search"   p 
+ p class="breadcrumbs"  a href=".. index.asp" Home  a   &gt;&gt;   a href=".. how-to-manage-your-land.asp" Manage Your Land  a   &gt;&gt;   a href="mississippi-animals.asp" Non-Game Animals  a   &gt;&gt; Bats  p 
+ p Bats are an important part of forested ecosystems, deserts, and rangelands and contribute to a
+        region’s biodiversity. Bats exist in many different types of habitats like forests, deserts, cities and
+        swamp lands. Their habitats need to include dark, protected places to hide from predators, sleep
+        during and to hibernate in during the winter.  p 
+ p The majority of North American bat species are insectivorous and serve as insect-controllers
+        and pollinators. They typically consume more than 50 percent of their body with each night,
+        consuming moths, flies, mosquitoes, beetles and other insects. The Brown Bat, one of the most
+        common species, can capture 600 mosquitoes in one hour. Nectar-feeding and fruit bats pollinate
+        more than 130 types of plants.  p 
+ p Forty-five species of bats have been found in the United States and seven of them have been
+        listed as threatened or endangered. The decline of bat populations is due to natural factors like
+        flooding, freezing and diseases. Human factors, however, are the main cause of their decline.
+        These factors include eradication, cave commercialization, deforestation, strip mining and
+        improper use of pesticides.  p 
+ p  a href="http:  extension.msstate.edu sites default files publications publications p2402_0.pdf" target="_blank" Mississippi Recreational Gardens: Establishing a Backyard Wildlife Habitat (PDF)  a  br 
+        Mississippi State University Extension Service, Natural Resource Enterprises Program br 
+          p 
+ p All wildlife requires food, water and shelter to survive. This publication   discusses providing those necessities in a backyard environment. Detailed   information is given on how to attract birds, hummingbirds, butterflies, bats,   snakes, lizards, toads and frogs. Information is also provided on controlling   deer, rodents, and other animals that are considered pests. Management tips are   given for making your backyard the best habitat possible including an example   and how to create a trail.  br 
+          p 
+ p  a href="http:  www.endangeredspecieshandbook.org pdfslive esh_12-363.pdf" target="_blank" Bats: Ecologically Important Mammals (PDF)  a  br 
+        Animal Welfare Institute Endangered Species Handbook  p 
+ p Bats are important  to  the environment as pollinators and insect killers. This publication includes a  list of North American bat species and identifies their distribution and threat  level. A list of other resources on bats is also included.   p 
+ p class="line"    p 
+ p  a href="http:  www.batcon.org pdfs stories PollinatorBrochurePagesWeb.pdf" target="_blank" Bats are Pollinators Too (PDF)  a  br 
+        Bat Conservation International  p 
+ p This publication discusses some bat species are beneficial  to ecosystems worldwide, how they are being threatened and, how you can help.   p 
+ p class="line"    p 
+ p  a href="http:  www.batcon.org pdfs ForestMgmtandBats.pdf" target="_blank" Forest Management and Bats (PDF)  a  br 
+        Bat Conservation International  p 
+ p This publication begins with a list of many interesting  statistics on bats. It goes into detail on the importance of bats, and bat  habitat requirements, including information on roosting, foraging and water  needs. Also mentioned are geological resources required by bats, and the  effects of man-made roosts. The publication ends by giving information on some  specific types of forest bats. A list of resources is included.  p 
+ p class="line"    p 
+ p  a href="https:  www.mdwfp.com media 129390 ms_bat_checklist.pdf" target="_blank" Bats Found in Mississippi (PDF)  a  br 
+        Mississippi Department of Wildlife, Fisheries and Parks  p 
+ p A listing of the bats found in Mississippi.  p 
+ p    p 
+ p  a href="http:  www.msstate.edu" Mississippi State University  a   •  
+      a href="http:  extension.msstate.edu" Mississippi State University Extension Service  a   •  
+      a href="http:  www.cfr.msstate.edu wildlife index.asp" MSU-ES Department of Wildlife and Fisheries  a   br 
+      a href="http:  fwrc.msstate.edu " Forest and Wildlife Research Center  a   •  
+      a href="http:  extension.msstate.edu" Mississippi Agricultural and Forestry Experiment Station   a  •  
+      a href="http:  www.dafvm.msstate.edu" target="_blank" Division of Agriculture, Forestry, and Veterinary Medicine  a   p 
+ p Last revision: 3 19 2019   •  Contact the  a href="mailto:webmaster@cfr.msstate.edu" webmaster  a   p 

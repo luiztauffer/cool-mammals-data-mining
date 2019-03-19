@@ -1,0 +1,17 @@
+ p  span class="opener" Nothing is quite as striking,  span  bold, graceful, and captivating as a giraffe. Gazing upon the  a title="Bronx Zoo" href="http:  bronxzoo.com" target="_blank" Bronx Zoo’s  a  majestic tower of giraffes, as a group of them is called, it is hard not to get lost in their intrinsic beauty as they wander their grassy tree-lined habitat.  p 
+ p Giraffes are fascinating and are true marvels of the animal kingdom. They have a heart the size of a basketball, and have one of the highest blood pressures of any animal. Special one-way valves and elastic blood vessels allow giraffes to bend over for a drink without having their enormous blood pressure negatively affect their brains. Giraffes are constantly on alert, and only sleep about 20 minutes a night as they stand vigil for danger. Other hoofed species often congregate around giraffes since they are the first to spot threats. And while their dramatic marking may seem counter intuitive in terms of camouflage, wild giraffes are often described as being nearly invisible in the brush of the African plains.  p 
+ p World Giraffe Day is  span dir="ltr" June 21 –   span the longest day of the year – and helps to raise awareness of the plight of wild giraffes. Despite being arguably one of the most sought after and charismatic animals at the zoo, giraffes are suffering from what some refer to as a silent extinction. The wild giraffe population is estimated to have dropped by 40 percent in the last three decades. This is due in large part to habitat loss and poaching. It goes to show that even for iconic animals such as giraffes, life can be truly fragile without our help.  p 
+ p class="camera" Nikon D5  p 
+ p  a title="Stick Your Neck Out for Giraffe" href="http:  blog.wcs.org photo 2017 06 14 stick-your-neck-out-for-giraffe-kenya-africa-world-giraffe-day " target="_blank" Stick Your Neck Out for Giraffe  a   p 
+ p  a title="Genetic Analysis Uncovers Four Species of Giraffe, Not Just One" href="http:  blog.wcs.org photo 2016 09 12 genetic-analysis-uncovers-four-species-of-giraffe-not-just-one " target="_blank" Genetic Analysis Uncovers Four Species of Giraffe, Not Just One  a   p 
+ p  a title="Celebrate World Giraffe Day" href="http:  blog.wcs.org photo 2016 06 17 celebrate-world-giraffe-day-2016 " target="_blank" Celebrate World Giraffe Day  a   p 
+ p class="form-submit" 
+							 input name="submit" type="submit" id="submit" value="Post Comment" 
+							 input type="hidden" name="comment_post_ID" value="3378" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+						  p 
+ p class="wysija-after-comment"  label for="wysija-box-after-comment"  input type="checkbox" id="wysija-box-after-comment" value="1" name="wysija[comment_subscribe]" Subscribe me to blog updates  label   p 
+ p Is the show coming back?  I miss it very much.  p 
+ p class="links" 
+								 !-- a href="#" Share  a -- 
+								 a class="comment-reply-link" href=" photo 2018 06 21 giraffes-marvels-of-the-animal-kingdom-bronx-zoo-world-giraffe-day ?replytocom=60728#respond" onclick='return addComment.moveForm("comment-60728", "60728", "respond", "3378")' Reply  a 							  p 

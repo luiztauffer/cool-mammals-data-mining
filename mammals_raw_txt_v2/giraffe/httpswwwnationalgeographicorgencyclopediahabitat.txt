@@ -1,0 +1,183 @@
+ p style="margin-top:16px"  strong class="ng-padding-horizontal ng-color-default"  a class="project-nav-title" href=" education" title="Go to the Education home page" Education  a   strong   p 
+ p class="ng-margin-medium-bottom ng-width-1-1 ng-width-medium-1-2" itemprop="alternativeTitle" A habitat is a place where an organism makes its home  p 
+ p class="label ng-c-kicker ng-margin-small-bottom" Grades  p 
+ p class="data ng-margin-remove" 6 - 12, Higher Ed  p 
+ p class="label ng-c-kicker ng-margin-small-bottom" Subjects  p 
+ p class="data ng-margin-remove search-item-category" Biology, Geography, Physical Geography  p 
+ p class="label ng-c-kicker ng-margin-small-bottom" Contents  p 
+ p class="data ng-margin-remove" 5 Photographs  p 
+ p A  a class="tipHelp" habitat  a  is a place where an  a class="tipHelp" organism  a  makes its home. A habitat meets all the environmental conditions an organism needs to survive. For an  a class="tipHelp" animal  a , that means everything it needs to find and gather  a class="tipHelp" food  a , select a mate, and successfully  a class="tipHelp" reproduce  a .  br  br For a  a class="tipHelp" plant  a , a good habitat must provide the right combination of light, air, water, and  a class="tipHelp" soil  a . For example, the  a class="tipHelp" prickly pear cactus  a , which is adapted for sandy soil, dry  a class="tipHelp" climate  a s, and bright sunlight, grows well in  a class="tipHelp" desert  a  areas like the Sonoran Desert in northwest Mexico. It would not  a class="tipHelp" thrive  a  in wet, cool areas with a large amount of  a class="tipHelp" overcast  a  (shady) weather, like the U.S. states of Oregon or Washington.  br  br The main  a class="tipHelp" component  a s of a habitat are  a class="tipHelp" shelter  a , water, food, and  a class="tipHelp" space  a . A habitat is said to have a suitable ar a class="tipHelp" range  a ment when it has the correct amount of all of these. Sometimes, a habitat can meet some components of a  a class="tipHelp" suitable arrangement  a , but not all.  br  br For example, a habitat for a  a class="tipHelp" puma  a  could have the right amount of food (deer, porcupine, rabbits, and rodents), water (a  a class="tipHelp" lake  a , river, or  a class="tipHelp" spring  a ), and shelter ( a class="tipHelp" tree  a s or dens on the  a class="tipHelp" forest  a  floor). The puma habitat would not have a suitable arrangement, however, if it lacks enough space for this large  a class="tipHelp" predator   a to  a class="tipHelp" establish  a  its own  a class="tipHelp" territory  a . An animal might lose this component of habitat—space—when humans start building homes and businesses, pushing an animal into an area too small for it to survive.  p 
+ p  strong Space   strong  br  br The amount of space an organism needs to thrive varies widely from species to species. For example, the common  a class="tipHelp" carpenter ant  a  needs only a few square inches for an entire  a class="tipHelp" colony  a  to develop tunnels, find food, and complete all the activities it needs to survive. In contrast,  a class="tipHelp" cougar  a s are very  a class="tipHelp" solitary  a ,  a class="tipHelp" territorial  a  animals that need a large amount of space. Cougars can cover 455 square kilometers (175 square miles) of land to  a class="tipHelp" hunt  a  and find a mate. A cougar could not survive in the same amount of space that a carpenter ant needs. br  br Plants need space, too. Coast redwood trees, like the ones in Redwood National Park in the U.S. state of California, can reach more than 4.5 meters (15 feet) in diameter and 106 meters (350 feet) in height. A tree that  a class="tipHelp" massive  a  would not have enough space to grow and thrive in a  a class="tipHelp" typical  a  community  a class="tipHelp" park  a  or  a class="tipHelp" yard  a . br  br Space is not the same as range; the range of an animal is the part of the world it inhabits.  a class="tipHelp" Grassland  a , for example, is the habitat of the  a class="tipHelp" giraffe  a , but the animal’s range is central, eastern, and southern Africa. !-- pagebreak --  br  br  strong Food  strong  br  br The availability of food is a  a class="tipHelp" crucial  a  part of a habitat’s suitable arrangement. For example, in the northern part of the U.S. state of Minnesota,  a class="tipHelp" black bear  a s eat mostly plants, like clover, dandelions, and blueberries. If there were a  a class="tipHelp" drought  a , plants would become  a class="tipHelp" scarce  a . Even though the habitat would still have space (large forest), shelter ( a class="tipHelp" cave  a s, forest floor), water (streams and lakes), and some food, it wouldn’t have enough to eat. It would no longer be a suitable arrangement.  br  br Too much food can also disrupt a habitat. Algae is a  a class="tipHelp" microscopic  a   a class="tipHelp" aquatic  a  organism that makes its own food through the process of  a class="tipHelp" photosynthesis  a . Nutrients like phosphorous contribute to the spread of  a class="tipHelp" algae  a . When a  a class="tipHelp" freshwater  a  habitat has a sharp increase in phosphorous, algae “blooms,” or reproduces quickly. Algae also dies very quickly, and the  a class="tipHelp" decay  a ing algae produces an  a class="tipHelp" algal bloom  a . The algal bloom can  a class="tipHelp" discolor  a  the water, turning it green, red, or brown. Algal blooms can also  a class="tipHelp" absorb  a   a class="tipHelp" oxygen  a  from the water,  a class="tipHelp" destroy  a ing the habitat of organisms like fish and plants.  a class="tipHelp" Excess  a   a class="tipHelp" nutrient  a s for algae can destroy the habitat’s  a class="tipHelp" food chain  a . br  br  strong Water  strong  br  br Water is essential to all forms of life. Every habitat must have some form of a water supply. Some organisms need a lot of water, while others need very little. For example,  a class="tipHelp" dromedary camel  a s are known for their ability to carry goods and people for long distances without needing much water. Dromedary camels, which have one hump, can travel 161 kilometers (100 miles) without a drink of water. Even with very little access to water in a hot, dry climate, dromedary camels have a suitable arrangement in northern Africa and the Arabian Peninsula. br  br Cattails, on the other hand, are plants that grow best in wet areas, like  a class="tipHelp" marsh  a es and  a class="tipHelp" swamp  a s.  a class="tipHelp" Dense  a  colonies of these tall, spiky plants grow directly in the  a class="tipHelp" mud  a  beneath lakes, stream banks, and even  a class="tipHelp" neighborhood  a   a class="tipHelp" pond  a s. A  a class="tipHelp" cattail  a  habitat’s suitable arrangement depends on water. Imagine a pond at the bottom of a dirt-covered  a class="tipHelp" cliff  a . If enough loose dirt slid down into the pond, it could fill up the pond and absorb the water, not leaving enough for the cattails to grow.  br  br  strong Shelter  strong  br  br An organism’s shelter protects it from predators and weather. Shelter also provides a space for eating, sleeping, hunting, and raising a family. Shelters come in many forms. A single tree, for example, can provide sheltered habitats for many different organisms. For a  a class="tipHelp" caterpillar  a , shelter might be the underside of a leaf. For a  a class="tipHelp" mushroom  a   a class="tipHelp" fungus  a , shelter might be the cool,  a class="tipHelp" damp  a  area near tree  a class="tipHelp" root  a s. For a  a class="tipHelp" bald eagle  a , shelter may be a high  a class="tipHelp" perch  a  to make a nest and watch for food.  p 
+ p class="ng-text-small" itemprop="author" Photograph by Sergio Molina, Your Shot  p 
+ p  strong Red-Eyed Tree Frog  strong  br The red-eyed tree frogs habitat is in tropical areas from southern Mexico to northern South America. Although they are not endangered, their habitat is growing smaller. If their rainforest home continues to shrink, the red-eyed tree frog will not have the space it needs to survive.  p 
+ p to soak up.  p 
+ p (singular: alga) diverse group of aquatic organisms, the largest of which are seaweeds.  p 
+ p the rapid increase of algae in an aquatic environment.  p 
+ p organisms that have a well-defined shape and limited growth, can move voluntarily, acquire food and digest it internally, and can respond rapidly to stimuli.  p 
+ p having to do with water.  p 
+ p white-headed bird of prey native to North   America.  p 
+ p large animal (mammal) native to North   America.  p 
+ p common wood-eating black or brown ant.  p 
+ p larva of a butterfly or moth.  p 
+ p aquatic plant.  p 
+ p underground chamber that opens to the surface. Cave entrances can be on land or in water.  p 
+ p steep wall of rock, earth, or ice.  p 
+ p all weather conditions for a given location over a period of time.  p 
+ p tallest tree species on Earth.  p 
+ p group of one species of organism living   close together.  p 
+ p part.  p 
+ p large cat native to the Americas. Also   called puma, mountain lion, and panther.  p 
+ p very   important.  p 
+ p slightly wet.  p 
+ p to rot   or decompose.  p 
+ p having   parts or molecules that are packed closely together.  p 
+ p area of land that receives no more than 25 centimeters (10 inches) of precipitation a year.  p 
+ p to ruin or make useless.  p 
+ p to change from something's natural color.  p 
+ p large pack animal with one hump, native to North Africa and the Middle East.  p 
+ p period of greatly reduced precipitation.  p 
+ p to form or officially organize.  p 
+ p extra or surplus.  p 
+ p material, usually of plant or animal origin, that living organisms use to obtain nutrients.  p 
+ p group of organisms linked in order of the food they eat, from producers to consumers, and from prey, predators, scavengers, and decomposers.  p 
+ p ecosystem filled with trees and underbrush.  p 
+ p having to do with a habitat or ecosystem of a lake, river, or spring.  p 
+ p (plural: fungi) type of organism that survives by decomposing and absorbing the material in which it grows.  p 
+ p large mammal with a long neck, native to Africa.  p 
+ p ecosystem with large, flat areas of grasses.  p 
+ p environment where an organism lives throughout the year or for shorter periods of time.  p 
+ p to pursue and kill an animal, usually for food.  p 
+ p meaning or effect.  p 
+ p body of water surrounded by land.  p 
+ p wetland area usually covered by a shallow layer of seawater or freshwater.  p 
+ p very large or heavy.  p 
+ p very small.  p 
+ p wet soil.  p 
+ p fungus, usually with an umbrella-shaped   cap on top of a slender stalk.  p 
+ p an area within a larger city or town where   people live and interact with one another.  p 
+ p substance an organism needs for energy, growth, and life.  p 
+ p living or once-living thing.  p 
+ p very cloudy.  p 
+ p chemical element with the symbol O, whose gas form is 21% of the Earth's atmosphere.  p 
+ p area of land set aside for recreational   use.  p 
+ p to sit or rest on a tree branch or other   elevated position.  p 
+ p chemical element with the symbol P.  p 
+ p process by which plants turn water, sunlight, and carbon dioxide into water, oxygen, and simple sugars.  p 
+ p organism that produces its own food through photosynthesis and whose cells have walls.  p 
+ p small body of water surrounded by land.  p 
+ p animal that hunts other animals for food.  p 
+ p American plant with spiny, flat pads.  p 
+ p mammal, relative to a cat, native to the Americas. Also called a cougar or mountain lion.  p 
+ p agricultural land where livestock graze.  p 
+ p to create offspring, by sexual or asexual   means.  p 
+ p part of a plant that secures it in the   soil, obtains water and nutrients, and often stores food made by leaves.  p 
+ p rare.  p 
+ p structure that protects people or other   organisms from weather and other dangers.  p 
+ p top layer of the Earth's surface where   plants can grow.  p 
+ p alone or preferring to be alone.  p 
+ p amount of habitat an organism needs to   thrive.  p 
+ p small flow of water flowing naturally from   an underground water source.  p 
+ p habitat with the correct amounts of food,   water, shelter, and space for an organism.  p 
+ p land permanently saturated with water and sometimes covered with it.  p 
+ p very protective of a specific area,   especially defending it against intruders.  p 
+ p land an animal, human, or government protects from intruders.  p 
+ p to develop and be successful.  p 
+ p type of large plant with a thick trunk and branches.  p 
+ p ordinary.  p 
+ p to change.  p 
+ p land surrounding a house or building.  p 
+ p class="ng-text-bold ng-margin-bottom-remove" Interactives  p 
+ p class="ng-text-bold ng-margin-bottom-remove" Websites  p 
+ p class="ng-margin-top-remove" The audio, illustrations, photos, and videos are credited beneath the media asset, except for promotional images, which generally link to another page that contains the media credit. The Rights Holder for media is the person or group credited.  p 
+ p 
+            
+                
+                    Kim Rutledge
+                 br 
+            
+                
+                    Melissa McDaniel
+                 br 
+            
+                
+                    Diane Boudreau
+                 br 
+            
+                
+                    Tara Ramroop
+                 br 
+            
+                
+                    Santani Teng
+                 br 
+            
+                
+                    Erin Sprout
+                 br 
+            
+                
+                    Hilary Costa
+                 br 
+            
+                
+                    Hilary Hall
+                 br 
+            
+                
+                    Jeff Hunt
+                 br 
+            
+          p 
+ p 
+            
+                
+                    Tim Gunther
+                 br 
+            
+                
+                    Mary Crooks, National Geographic Society
+                 br 
+            
+          p 
+ p 
+            
+                
+                    Kara West
+                 br 
+            
+                
+                    Jeannie Evers, Emdash Editing
+                 br 
+            
+          p 
+ p 
+            
+                
+                    Nancy Wynne
+                 br 
+            
+          p 
+ p 
+            
+                
+                    Caryl-Sue, National Geographic Society
+                 br 
+            
+          p 
+ p Dunn, Margery G. (Editor). (1989, 1993). "Exploring Your World: The Adventure of Geography." Washington, D.C.: National Geographic Society.  p 
+ p Jan. 21, 2011  p 
+ p For information on user permissions, please read our  a href=" terms-of-service " target="_blank" rel="noopener noreferrer" title="terms of service" Terms of Service  a . If you have questions about licensing content on this page, please contact  a href="mailto:ngimagecollection@natgeo.com" ngimagecollection@natgeo.com  a  for more information and to obtain a license. If you have questions about how to cite anything on our website in your project or classroom presentation, please visit our  a href=" faq " FAQ page  a .
+      p 
+ p Some media assets (videos, photos, audio recordings and PDFs) can be downloaded and used outside the National Geographic website according to the  a href=" terms-of-service " target="_blank" rel="noopener noreferrer" title="Terms of Service" Terms of Service  a . If a media asset is downloadable, a download button appears in the lower right hand corner ( img alt="download" src=" static images download.15b252b7df6f.png" title="download" class="flush" ) of the media viewer. If no button appears, you cannot download or save the media.
+      p 
+ p Text on this page is printable and can be used according to our  a href=" terms-of-service " target="_blank" rel="noopener noreferrer" title="Terms of Service" Terms of Service  a .
+      p 
+ p Any interactives on this page can only be played while you are visiting our website. You cannot download interactives.
+      p 
+ p class="ng-text-right ng-margin-small-top ng-margin-small-bottom"  a href=" education glossary " Go to the Full Glossary »  a   p 
+ p class="ng-edit-light ng-color-white" 
+                National Geographic Headquarters br 
+                1145 17th Street NW br 
+                Washington, D.C. 20036
+                p 
+ p class="ng-c-footer-info ng-color-mdltgray ng-edit-light ng-margin-large-top ng-padding-large-top" National Geographic Society is a 501 (c)(3) organization. © 1996 - 2019 National Geographic Society. All rights reserved. See our stories at  a href="https:  www.nationalgeographic.com " target="_self" NationalGeographic.com  a   p 

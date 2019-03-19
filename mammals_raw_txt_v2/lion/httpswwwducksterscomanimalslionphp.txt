@@ -1,0 +1,5 @@
+ p align="center" 
+        p 
+ p align="center"  img src="lionsm.jpg" width="100" height="75" alt="Lion" border="0" align="" 
+			  p 
+ p Back to  a href=" animals.php"  strong Animals  strong   a   p 

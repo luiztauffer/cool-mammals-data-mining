@@ -1,0 +1,52 @@
+ p id="site-description" equine news, research, and information  p 
+ p Researchers have been using zebra dung to understand how challenges such as the destruction and breakup of habitats affect populations of South Africa’s Cape Mountain Zebra. span id="more-99588"   span   p 
+ p The findings of the research team from the University of Manchester and Chester Zoo have been reported in the journal  em Functional Ecology  em .  p 
+ p Scientists analysed glucocorticoid hormones in the Cape Mountain Zebra’s droppings. Glucocorticoid hormones are a group of steroid hormones that help regulate the “flight or fight” stress response in animals.  p 
+ p The research found that zebras are facing multiple challenges, including poor habitat and gender imbalances, which are likely to compromise their health, have repercussions for their reproduction and, ultimately, a population’s long-term survival.  p 
+ p Dr Susanne Shultz, the senior author from the School of Earth and Environmental Sciences at the university, said faecal hormone measurements were easy to collect without disturbing the animals, and they provided a window into the chronic stress animals are experiencing.  p 
+ p “Using these indicators we can establish the health of both individuals and populations,” she said.  p 
+ p The team used a “macrophysiological approach” to evaluate the effectiveness of an ongoing conservation plan. This involves comparing animal responses in different nature reserves or geographical regions. By evaluating patterns of stress on a large scale, at-risk populations can be identified as their profile will differ from healthy populations.  p 
+ p Seven populations of Cape Mountain Zebra were sampled for the research, from Bakkrans Nature Reserve, Camdeboo National Park, De Hoop Nature Reserve, Gamkaberg Nature Reserve, Mount Camdeboo Private Game Reserve, Swartberg Private Game Reserve and Welgevonden Game Farm.  p 
+ p The researchers also found that using physiological biomarkers, such as hormones from droppings, is an effective way of evaluating the impact of ecological and demographic factors on animal populations. This approach could also tell conservationists how other animals and species might respond to future environmental changes and stressors.  p 
+ p Dr Sue Walker, Head of Applied Science at Chester Zoo, said: “Zoos specialise in population management and have developed a wide range of innovative techniques to monitor the species under their care.  p 
+ p “This project is a fantastic example of how we can use these knowledge and skills to also help the conservation of wild animals threatened with extinction.”  p 
+ p As well as using this new approach the particular species of zebra was also important. The Cape Mountain Zebra is an ideal model species to assess because it has undergone huge ecological and demographic changes in the recent years.  p 
+ p Lead author Dr Jessica Lea, who is also from the university’s School of Earth and Environmental Sciences, said that following a massive population decline, the Cape Mountain Zebra had been actively conserved for the past several decades. “The information available on their recovery means we can measure the impacts of both environment and social factors on population health.”  p 
+ p Combining the school’s knowledge in macroecology with Chester Zoo’s expertise in wildlife physiology allowed the team to gain crucial insights into the Cape Mountain Zebra ecology. This then translated into practical applied conservation management initiatives to support the species.  p 
+ p Dr Shultz added: “Understanding the factors leading to global biodiversity loss is a major societal challenge. In an ever-changing environment, new problems arise quickly so it is essential we use evidence-based methods to continually evaluate the effectiveness of conservation projects.”  p 
+ p Cape Mountain Zebra are found in the Eastern and Western Cape provinces of South Africa. Most of their historic and current range is in the Cape Floristic Region, but also extends northeast into Nama-Karoo, thicket and grassland habitats and northwest into the Succulent Karoo biome.  p 
+ p The Cape Floristic Region has a Mediterranean climate and is known for its unusually high biodiversity and proportion of endemic species, particularly flora.  p 
+ p  span style="font-size: 8pt; font-family: arial, helvetica, sans-serif; color: #000000;" Jessica M. D. Lea, Susan L. Walker, Graham I. H. Kerley, John Jackson, Shelby C. Matevich, Susanne Shultz. Non-invasive physiological markers demonstrate link between habitat quality, adult sex ratio and poor population growth rate in a vulnerable species, the Cape mountain zebra. Functional Ecology, 2017; DOI: 10.1111 1365-2435.13000  span   p 
+ p class="comment-notes"  span id="email-notes" Your email address will not be published.  span  Required fields are marked  span class="required" *  span   p 
+ p class="comment-form-comment"  label for="comment" Comment  label   textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"   textarea   p 
+ p class="comment-form-author"  label for="author" Name  span class="required" *  span   label   input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"   p 
+ p class="comment-form-email"  label for="email" Email  span class="required" *  span   label   input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"   p 
+ p class="comment-form-url"  label for="url" Website  label   input id="url" name="url" type="url" value="" size="30" maxlength="200"   p 
+ p class="comment-form-newsletter-signup"  label for="mailster_newsletter_signup"  input name="newsletter_signup" type="checkbox" id="mailster_newsletter_signup" value="1"  Sign up to our newsletter  label   p 
+ p class="comment-subscription-form"  input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;"   label class="subscribe-label" id="subscribe-label" for="subscribe_comments" Notify me of follow-up comments by email.  label   p 
+ p class="comment-subscription-form"  input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;"   label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog" Notify me of new posts by email.  label   p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Post Comment"   input type="hidden" name="comment_post_ID" value="99588" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+  p 
+ p  span style="font: 8pt arial, helvetica;"  br 
+ span style="color: #411adf;"  b STUD SITES  b   span  br 
+ a href="http:  crabbet.co.nz" target="_blank" rel="noopener" Aurora Pure Crabbets  a  br 
+ a href="http:  gerzannestud.com " target="_blank" rel="noopener" Gerzanne Arabians  a  br 
+ a href=" tallyho " target="_blank" rel="noopener" Tallyho Connemaras  a  br 
+ a href="http:  hanoverian.co.nz" target="_blank" rel="noopener" Vollrath Hanoverians  a   span   p 
+ p  span style="font: 8pt arial, helvetica;"  br 
+ span style="color: #411adf;"  b ORGANISATIONS  b   span  span style="font: 8pt arial, helvetica;"  br 
+ a href="http:  connemaras.co.nz " target="_blank" rel="noopener" NZ Connemara Soc.  a  br 
+ a href="http:  www.nzfarriers.co.nz " target="_blank" rel="noopener" NZ Farriers Assn.  a  br 
+ a href="http:  www.nzhanoverian.com " target="_blank" rel="noopener" NZ Hanoverian Soc.  a  br 
+ a href="http:  irishhorse.org.nz " target="_blank" rel="noopener" Irish Draught Horse Soc.  a  br 
+ a href="https:  horsetalk.co.nz advertise " target="_top"  u Advertising Options  u   a   span   span   p 
+ p  span style="font: 8pt arial, helvetica;"  br 
+ span style="color: #411adf;"  b HOME SITES  b   span  span style="font: 8pt arial, helvetica;"  br 
+ a href="http:  bryantfarrier.co.nz " target="_blank" rel="noopener" Bryant Farrier Ltd  a  br 
+ a href="https:  thepoleman.co.nz " target="_blank" rel="noopener" The Pole Man  a  br 
+ a href="http:  www.naturallyequine.com " target="_blank" rel="noopener" Naturally Equine  a  br 
+ a href="http:  www.roddywood.com" target="_blank" rel="noopener" Roddy Wood Polo  a   span   span   p 
+ p    p 
+ p    p 
+ p  a href="https:  twitter.com HorsetalkNZ" target="_blank" @HorsetalkNZ  a  ~~~  a href="https:  twitter.com search?q=horsetalknz" target="_blank" #HorsetalkNZ  a   p 

@@ -1,0 +1,25 @@
+ p class="contributor-list__reveal" 
+       span class="contributor-list__toggler"  b   b   span class="collapsed-text" See all  span  span class="expanded-text" Hide  span  authors and affiliations  span 
+      p 
+ p You are currently viewing the pdf extract.  p 
+ p AAAS login provides access to  em Science  em  for AAAS members, and access to other journals in the  em Science  em  family to users who have purchased individual subscriptions.  p 
+ p 
+              p 
+ p Download and print this article for your personal scholarly, research, and educational use.  p 
+ p Buy a single issue of  em Science  em  for just $15 USD.  p 
+ p You do not have access to the full text of this article, the first page of the  a href=" content 339 6119 521.full.pdf" PDF  a  of this article appears above.  p 
+ p class="highwire-cite-metadata minor" Vol 339, Issue 6119 br 01 February 2013   p 
+ p Thank you for your interest in spreading the word about Science.  p 
+ p NOTE: We only request your email address so that the person you are recommending the page to knows that you wanted them to see it, and that it is not junk mail. We do not capture any email address.  p 
+ p  a class="btn" href=" user login?destination=content 339 6119 521" Log In with your AAAS Login  a   p 
+ p    p 
+ p Please log in to add an alert for this article.  p 
+ p  a class="btn" href=" user login?destination=content 339 6119 521" Log In with your AAAS Login  a   p 
+ p    p 
+ p class="highwire-cite-authors byline" By  span class="highwire-citation-authors"  span class="highwire-citation-author first" data-delta="0" Biao Yang  span ,  span class="highwire-citation-author" data-delta="1" Jonah Busch  span ,  span class="highwire-citation-author" data-delta="2" Li Zhang  span ,  span class="highwire-citation-author" data-delta="3" Jianghong Ran  span ,  span class="highwire-citation-author" data-delta="4" Xiaodong Gu  span ,  span class="highwire-citation-author" data-delta="5" Wen Zhang  span ,  span class="highwire-citation-author" data-delta="6" Beibei Du  span ,  span class="highwire-citation-author" data-delta="7" Russell A. Mittermeier  span   span   p 
+ p class="highwire-cite-metadata byline"  em Science  em  time 01 Feb 2013  time  : 521   p 
+ p class="highwire-cite-authors byline" By  span class="highwire-citation-authors"  span class="highwire-citation-author first" data-delta="0" Biao Yang  span ,  span class="highwire-citation-author" data-delta="1" Jonah Busch  span ,  span class="highwire-citation-author" data-delta="2" Li Zhang  span ,  span class="highwire-citation-author" data-delta="3" Jianghong Ran  span ,  span class="highwire-citation-author" data-delta="4" Xiaodong Gu  span ,  span class="highwire-citation-author" data-delta="5" Wen Zhang  span ,  span class="highwire-citation-author" data-delta="6" Beibei Du  span ,  span class="highwire-citation-author" data-delta="7" Russell A. Mittermeier  span   span   p 
+ p class="highwire-cite-metadata byline"  em Science  em  time 01 Feb 2013  time  : 521   p 
+ p class="promo-foot__meta" Vol 363, Issue 6432  p 
+ p  a href="http:  science.sciencemag.org content 363 6432" class="btn--cta btn--cta--small" data-icon-position="" data-hide-link-title="0" Table of Contents  a   p 
+ p © 2019  a href="https:  www.aaas.org" American Association for the Advancement of Science  a . All rights reserved. AAAS is a partner of  a href="http:  www.who.int hinari en " HINARI  a ,  a href="http:  www.fao.org agora en " AGORA  a ,  a href="http:  web.unep.org oare " OARE  a ,  a href="https:  www.chorusaccess.org" CHORUS  a ,  a href="https:  www.clockss.org" CLOCKSS  a ,  a href="http:  www.crossref.org" CrossRef  a  and  a href="https:  www.projectcounter.org" COUNTER  a .  em Science  em  ISSN 1095-9203.  p 

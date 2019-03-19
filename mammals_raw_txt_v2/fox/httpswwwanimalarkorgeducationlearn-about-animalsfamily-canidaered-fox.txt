@@ -1,0 +1,27 @@
+ p style="padding-left: 30px;" Kingdom:   em Animalia  em   p 
+ p style="padding-left: 30px;" Phylum:   em Chordata  em   p 
+ p style="padding-left: 30px;" Class:   em Mammalia  em   p 
+ p style="padding-left: 30px;" Order:   em Carnivora  em   p 
+ p style="padding-left: 30px;" Family:   em Canidae  em   p 
+ p style="padding-left: 30px;" Genus:  V i ulpes  i   p 
+ p style="padding-left: 30px;" Species:   em vulpes  em   p 
+ p Red foxes are found throughout much of the northern hemisphere from the Arctic Circle through the United States, the steppes of central Asia, and northern Africa.  This species has the widest distribution of any canid.  The Sierra red fox population is “Under Review” by the U. S. Fish and Wildlife Service for viability.  International Union for the Conservation of Nature Status: Least Concern; population stable.  p 
+ p Coloration of red foxes ranges from pale yellowish red to deep reddish brown on the upper parts and white, ashy, or slate on the underside.  The lower part of the legs is usually black and the tail usually has a white tip.  Silver foxes or silver-phase red foxes range from strong silver to nearly black.  Red foxes weigh between 6 and 15 pounds, with an average length of 18 to 35 inches.  Populations in southern deserts and in North America are smaller than European populations.  p 
+ p Red foxes utilize a wide range of habitats including forest, tundra, prairie, desert, mountains, farmlands, and urban areas.  They prefer mixed vegetation communities, such as edge habitats and mixed scrub and woodland.  They are found from sea level to 14760 feet elevation.  In good areas territories may be between 3 to 7 square miles; in poorer habitats territories are larger, between 12 and 31 square miles.  p 
+ p Red foxes are essentially omnivores.  They mostly eat rodents, insects, and fruit.  They will also eat carrion.  Red foxes also store food and are very good at relocating these caches.  p 
+ p Breeding season varies from region to region but usually begins in December or January in the south, January to February in central regions, and February to April in the north.   strong Gestation period is around  strong  49 to 55 days.  They have between 1 to 9 offspring.  Red fox groups always have only one breeding male, but that male may also seek mating outside the group.  p 
+ p Red foxes do not form packs like wolves.  Territories are occupied by an adult male and one or two adult females with their associated young.  Individuals and family groups have main earthen dens and often other emergency burrows in the home territory.  During parts of the year adjacent territories may overlap somewhat, but parts may be regularly defended.  In other words,  i Vulpes vulpes  i  is at least partly territorial.  Some foxes, particularly sub-adults, will suddenly disperse upon commencement of breeding season.  Travel is on a nearly straight line for up to 18 consecutive days.  During this time, a fox may travel 32 kilometers (close to 20 miles).  p 
+ p   a class="fusion-read-more-button fusion-content-box-button fusion-button button-default button-large button-round button-flat" href=" memberships adopt-an-animal " target="_self" style="top: 21.5px; text_align:center;"  span class="fusion-button-text" Adopt  span   a   p 
+ p   a class="fusion-read-more-button fusion-content-box-button fusion-button button-default button-large button-round button-flat" href=" memberships " target="_self" style="top: 21.5px;text_align:center;"  span class="fusion-button-text" Membership  span   a   p 
+ p All funding for Animal Ark is provided through admissions, special grants, and donations from caring individuals like yourself.  p 
+ p  a class="fusion-read-more-button fusion-content-box-button fusion-button button-default button-large button-round button-flat" href="https:  www.paypal.com cgi-bin webscr?cmd=_s-xclick&amp;hosted_button_id=DQ3ZZQ94FZLKQ" target="_self" style="top: 21.5px;text_align:center;"  span class="fusion-button-text" Donate to Animal Ark  span   a   p 
+ p  a class="fusion-read-more-button fusion-content-box-button fusion-button button-default button-large button-round button-flat" style="top: 21.5px; text_align: center;" href="http:  trip-planner.visittheusa.com united-states reno animal-ark-a69859063" target="_self"  span class="fusion-button-text" Plan your trip with Inspirock   span   a   p 
+ p class="address" 1265 Deerlodge Road Reno, NV 89508  p 
+ p class="phone" Phone: 1-775-970-3111  p 
+ p class="web" Web:  a href="https:  maps.google.com maps?f=q&amp;hl=en&amp;geocode=&amp;q=Animal+Ark,+Reno+NV&amp;ie=UTF8&amp;ll=39.767381,-119.811401&amp;spn=0.701952,1.098633&amp;z=10&amp;iwloc=A&amp;om=0" 
+Get Directions   a   p 
+ p CLOSED FOR WINTER br 
+ a href=" tips-hours-and-directions " Hours  a  |  a href=" tips-hours-and-directions #Holidays" Holiday Schedule  a  br 
+Adults - $13 | Senior (62+) - $11 br Children (3 - 12) - $8.50 | Children (2 and under) - Free  p 
+ p Sign up to stay up to date with all things Animal Ark.   p 
+ p  span class="wpcf7-form-control-wrap your-email"  input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="EMAIL@ADDRESS.COM"   span   input type="submit" value="Sign Up" class="wpcf7-form-control wpcf7-submit"   p 

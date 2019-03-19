@@ -1,0 +1,19 @@
+ p class="ncbi"  a href="http:  www.ncbi.nlm.nih.gov" NCBI  a   p 
+ p class="message" Error  p 
+ p 
+Your access to the NCBI website at  b www.ncbi.nlm.nih.gov  b  has been
+temporarily blocked due to a possible misuse abuse situation
+involving your site. This is not an indication of a security issue
+such as a virus or attack. It could be something as simple as a run
+away script or learning how to better use E-utilities,
+ a href="http:  www.ncbi.nlm.nih.gov books NBK25497 " http:  www.ncbi.nlm.nih.gov books NBK25497   a ,
+for more efficient work such that your work does not impact the ability of other researchers
+to also use our site.
+To restore access and understand how to better interact with our site
+to avoid this in the future, please have your system administrator
+contact 
+ a href="mailto:info@ncbi.nlm.nih.gov?subject=NCBI%20Web%20site%20BLOCKED:%2084.216.202.142&amp;body=%3E%20Error%3Dblocked%20for%20possible%20abuse%0D%3E%20Server%3Dmisuse.ncbi.nlm.nih.gov%0D%3E%20Client%3D84.216.202.142%0D%3E%20Time%3DSunday,%2010-Mar-2019%2011:40:36%20EDT%20%20%0D%0DPlease%20enter%20comments%20below:%0D%0D" info@ncbi.nlm.nih.gov  a .
+  p 
+ p id="footer" 
+ span id="rev" Rev. 05 18 15  span 
+  p 

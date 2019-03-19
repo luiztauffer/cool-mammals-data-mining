@@ -1,0 +1,28 @@
+ p Tue., Mar. 19th  p 
+ p tabindex="0" class="sr-only" Open 10:00AM to 4:00PM  p 
+ p tabindex="-1" Open  p 
+ p tabindex="-1" Closed  p 
+ p Renovation update: Elephant Overlook is now closed and the lions are off-exhibit due to construction. The giraffes can still be seen inside Giraffe House. For more information about our exciting project, please visit:  a href="http:  www.marylandzoo.org africanjourney" http:  www.marylandzoo.org africanjourney  a   p 
+ p  strong BALTIMORE, MD –  strong The Maryland Zoo in Baltimore is pleased to announce the opening of the newly renovated lion habitat in the African Journey section of the Zoo. The lion habitat, along with the giraffe and elephant habitats, has been undergoing sweeping changes since construction began in the spring of 2018.  p 
+ p The lion habitat was designed to create additional opportunities for animals to engage naturally and actively with their environment and to make choices about when, where and how to engage. A newly created guest pathway, the African Overlook, was developed as a cul-de-sac in between the lion and the giraffe habitats, adjacent to the Giraffe Feeding Station. This pathway will have a dramatic impact on the visitor experience by providing guests both a more intimate eye-level viewing experience of lions on the left, and a dramatic panoramic view of giraffes.  p 
+ p The barrier along the lion side of the African Overlook path is a combination of stainless steel mesh and glass, giving the lion habitat a more open feel. There is also be a large window with a training demonstration area where visitors will be able to watch keepers interact with the lions during positive reinforcement training sessions, which effectively ask the lions to participate in their own health care.  p 
+ p The Zoo is following the philosophy we have used over the last ten years of making improvements that simultaneously take into account animal welfare, staff safety, and an improved guest experience. The giraffe and elephant habitats are still under construction and should open later this spring.  p 
+ p The Zoo’s lions, five-year-old female Zuri and twelve-year-old male Hassan, have been living behind-the-scenes since construction started and moved back to the habitat this week, however it may take a little time for them to acclimate to their new surroundings strong .    strong The animal team is working closely with the lions to make them feel comfortable with the changes, but we cannot guarantee that guests will see the lions on any specific day at this time.  p 
+ p class="btn-sc"  a href="https:  www.marylandzoo.org wp-content uploads 2019 03 Lion-habitat-reopens-FINAL.pdf" target="_blank" rel="noreferrer noopener" aria-label="View Press Release (opens in a new tab)" View Press Release  a   p 
+ p tabindex="0" itemprop="name" The Maryland Zoo in Baltimore  p 
+ p tabindex="0" itemprop="streetAddress" One Safari Place  p 
+ p tabindex="0"  span itemprop="addressLocality" Baltimore  span ,  span itemprop="addressRegion" MD  span   span itemprop="postalCode" 21217  span   p 
+ p class="social" 
+						 a target="_blank" href="https:  www.facebook.com MarylandZoo"  span class="sr-only" Facebook - Opens in new window  span  i class="fab fa-facebook-square"   i   a 
+						 a target="_blank" href="https:  twitter.com marylandzoo"  span class="sr-only" Twitter - Opens in new window  span  i class="fab fa-twitter"   i   a 
+						 a target="_blank" href="https:  www.instagram.com marylandzoo"  span class="sr-only" Instagram - Opens in new window  span  i class="fab fa-instagram"   i   a 
+						 a target="_blank" href="https:  www.youtube.com user MarylandZooTV"  span class="sr-only" You Tube - Opens in new window  span  i class="fab fa-youtube"   i   a 
+					  p 
+ p  span tabindex="0" ©2019 The Maryland Zoo in Baltimore  span   br class="mobile"  i class="desktop" .  i   span tabindex="0" All Rights Reserved  span   i .  i   span tabindex="0"  a href="http:  www.missionmedia.com" target="_blank" Made @ MISSION  a   span   p 
+ p itemprop="telephone" 410-396-7102  p 
+ p  a href="mailto:mail@marylandzoo.org" itemprop="email" mail@marylandzoo.org  a   p 
+ p The Zoo's monthly newsletter and news updates.  p 
+ p The latest on endangered species and conservation efforts.  p 
+ p Discounts and news about special Zoo savings.  p 
+ p Exclusive member offers, news &amp; renewal information.  p 
+ p Special program information for teachers and instructors.  p 

@@ -1,0 +1,24 @@
+ p class="title signup auto-quick-login" data-button-id="fluffy-popover-signup-button" 
+            Design and share beautiful newsletters just like this one!
+          p 
+ p class="subtitle signup auto-quick-login" data-button-id="fluffy-popover-signup-button" 
+            Spread the word with an online newsletter.
+            They're easy to make and impossible to mess up :)
+          p 
+ p 
+                 strong Sherri  strong  is using Smore newsletters
+                to spread the word online.
+          p 
+ p Get email updates from
+                 a href="https:  www.smore.com u sherrigilliland" data-track-text="Profile Link" Sherri  a :  p 
+ p Capybaras are not shy. br   p 
+ p The Capybara can whistle!  p 
+ p A Capybara is the largest rodent in the word!  p 
+ p A nick name for the Capybara is ''Water hog.''  p 
+ p Cool facts right?  p 
+ p 
+                     strong Sherri  strong  is using Smore newsletters
+                    to spread the word online.
+              p 
+ p The days of posting a newsletter around the neighborhood are over.  br 
+                    Smore helps you create amazing pages that you’d be proud to share.  p 

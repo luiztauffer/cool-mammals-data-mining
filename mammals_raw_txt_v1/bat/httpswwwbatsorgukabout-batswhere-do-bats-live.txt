@@ -1,0 +1,19 @@
+ p class="helpline-modal__title" The National Bat Helpline can answer your questions and concerns about bats and give you advice.  p 
+ p class="helpline-modal__number" 0345 1300 228  p 
+ p 9:30am to 4.30pm Monday to Friday  p 
+ p You can also email  a href="mailto:enquiries@bats.org.uk" enquiries@bats.org.uk  a   p 
+ p class="sidebar__title" Where do bats live?  p 
+ p class="image-link__title" 
+			 span class="image-link__inner " Bat roosts  span 
+		  p 
+ p class="image-link__title" 
+			 span class="image-link__inner " Bat habitats  span 
+		  p 
+ p class="image-link__title" 
+			 span class="image-link__inner " Where to see bats  span 
+		  p 
+ p class="footer__helpline-number"  span National Bat Helpline  span  br  a href="tel:03451300228" 0345 1300 228  a   p 
+ p class="footer__more-info"  a href="https:  www.bats.org.uk our-work national-bat-helpline" More information  a   p 
+ p The Bat Conservation Trust (known as BCT) is a registered charity in England and Wales (1012361) and in Scotland (SC040116).  p 
+ p Company Limited by Guarantee, Registered in England No: 2712823. Registered office: Quadrant House, 250 Kennington Lane, London SE11 5RD. Vat Reg No: 877158773.  p 
+ p This website places cookies on your computer to improve your experience. By continuing to browse the site, you are agreeing to our use of cookies. For more details, see our  a class="a" href="https:  www.bats.org.uk legal cookies-policy" cookie policy  a .  p 

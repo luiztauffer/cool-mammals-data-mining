@@ -1,0 +1,18 @@
+ p 
+  p 
+ p 
+ a href=".. photo library SIA0023.html"  img src="images SIA0023.jpg" width="400" height="297" alt="Capybara"   a 
+  p 
+ p 
+The Capybara is the largest existing rodent in the world.  It is distantly related to the guinea pig or the chinchillas.  They have heavy stocky bodies and sandy-brown fur which can often become very coarse.  They average about 4.5 ft long and approximately 150 lb, though some have known to be larger than this, and often the females are heavier than the males.  Their feet are slightly webbed and they have no tail.  They have about 20 teeth.  Due to the fact that their hind legs are longer than their front legs their backs slope upward towards the rear.  The ears are located on the top of their head pointing upward. 
+
+  p 
+ p 
+  p 
+ p 
+ !-- CONTENTEND -- 
+
+ !-- ENDMENUSTART -- 
+  p 
+ p 
+  p 

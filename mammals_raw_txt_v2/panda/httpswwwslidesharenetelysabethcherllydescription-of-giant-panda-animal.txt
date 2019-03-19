@@ -1,0 +1,16 @@
+ p class="j-mobile-text mobile-text" style="display: none;" 
+      Slideshare uses cookies to improve functionality and performance, and to provide you with relevant advertising. If you continue browsing the site, you agree to the use of cookies on this website. See our  a href="http:  www.linkedin.com legal user-agreement" target="_blank" User Agreement  a  and  a href="http:  www.linkedin.com legal privacy-policy" target="_blank" Privacy Policy  a .
+      p 
+ p class="j-desktop-text desktop-text" style="display: none;" 
+      Slideshare uses cookies to improve functionality and performance, and to provide you with relevant advertising. If you continue browsing the site, you agree to the use of cookies on this website. See our  a href="http:  www.linkedin.com legal privacy-policy" target="_blank" Privacy Policy  a  and  a href="http:  www.linkedin.com legal user-agreement" target="_blank" User Agreement  a  for details.
+      p 
+ p 
+             small 
+              Published on  time datetime="Apr 9, 2014" itemprop="datePublished" Apr 9, 2014  time 
+              small 
+            p 
+ p class="empty-stat-box text-center" 
+                       em Be the first to like this  em 
+                      p 
+ p class="copyright text-center" LinkedIn Corporation © 2019  p 
+ p Looks like you’ve clipped this slide to  strong class="default-clipboard-title"   strong  already.  p 

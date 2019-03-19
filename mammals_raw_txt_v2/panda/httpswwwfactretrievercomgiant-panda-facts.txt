@@ -1,0 +1,11 @@
+ p class="pReference"  sup 1  sup Allen, Kathy.  i Giant Pandas in a Shrinking Forest: A Cause and Effect Investigation  i . Mankato, MN: Capstone Press, 2011.  p 
+ p class="pReference"  sup 2  sup Dudley, Karen.  i Giant Pandas  i . Austin, TX: Weigl Educational Publishers Limited, 1997.  p 
+ p class="pReference"  sup 3  sup Firestone, Mary. i Top 50 Reasons to Care about Pandas  i . Berkeley Heights. NJ: Enslow Publishers, Inc., 2012.  p 
+ p class="pReference"  sup 4  sup Kueffner, Susan.  i Amazing Animals: Pandas  i . Pleasantville, NY: Gareth Stevens Publishing, 2009.  p 
+ p class="pReference"  sup 5  sup Penny, Malcolm.  i Natural World: Giant Panda  i . Austin, TX: Raintree Steck-Vaugn, 2000.  p 
+ p class="pReference"  sup 6  sup Presnall, Judith Janda.  i T  i h i e Giant Panda  i . San Diego, CA: Lucent Books, 1998.  p 
+ p class="pReference"  sup 7  sup Schaller, George B.  i The Last Panda  i . Chicago, IL: University of Chicago Press, 1994.  p 
+ p class="suggestedNewsTitle openSansBold text-uppercase" Suggested for you  p 
+ p class="suggestedNewsTitle openSansBold text-uppercase" Fast Fact  p 
+ p class="suggestedNewsTitle openSansBold text-uppercase" Trending Now  p 
+ p class="copyrightText"  © 2019 Fact Retriever LLC. All rights reserved.  p 

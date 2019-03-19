@@ -1,0 +1,57 @@
+ p class="link-comments" 
+ a href="#comments" class="" 
+ span class="ico ico-comment"   span  span class="btn__text" See comments  span 
+  a 
+  p 
+ p class="link-print visible-md visible-lg" 
+ button class="btn btn--link btn-print" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}return false" title="(CTRL+P)" 
+ span class="ico ico-print"   span 
+ span class="btn__text" Print  span 
+  button 
+  p 
+ p class="ta-c"  span class="ico ico-clock"   span No media source currently available  p 
+ p    p 
+ p The number of giraffes has dropped by as much as 40 percent since the 1980s, says a new report on endangered  strong species  strong .  p 
+ p The Red List is a study of threatened species by the International Union for Conservation of Nature. The group now considers the giraffe “ strong vulnerable  strong ” to  strong extinction  strong  for the first time. Earlier, it had a rating of “least concern.”  p 
+ p The giraffe is the tallest animal on land. These beautiful creatures are one of the best-known species in Africa. They are known for their very long necks, long legs and the brown and white patterns that cover their bodies.  p 
+ p  strong Decreasing numbers  strong   p 
+ p Craig Hilton-Taylor is head of the Red List program. He says in 1985, there were between 152,000 and 163,000 giraffes. But now, he tells VOA, their numbers have fallen to about 98,000.  p 
+ p “It is a huge tragedy and it’s been sort of a silent disappearance that we just really hadn’t  strong detected   strong until now.”  p 
+ p Fifty years ago, groups of giraffes usually had 20 to 30 animals in them. Now, observers are only seeing six animals in a group, called a herd.  p 
+ p The Red List experts have been gathering information about giraffes over the last five years. They counted the animals from airplanes, land vehicles and on foot. They say that until now the disappearance of the animals had not been observed closely. One reason could be because giraffes live in a wide area across Africa.  p 
+ p  strong Why the decrease?  strong   p 
+ p What is causing this decrease? Hilton-Taylor says: humans.  p 
+ p “The reasons are all due to the impact of people, whether it’s people causing loss of  strong habitat  strong  for the species, hunting of the species for food or harvesting for medicine, medicinal purposes, or for  strong timber  strong .”  p 
+ p He says pollution and the effects of climate change are just a few of the other problems affecting the species.  p 
+ p Some people are moving into protected areas where giraffes and other animals live because of a lack of rain that affects food production. Sometimes the graceful, plant-eating animals are killed for their meat.  p 
+ p Also, civil wars and unrest in Africa make it more difficult to protect the animals. It is harder to do conservation work—to protect the animals in danger—in areas of armed conflict.  p 
+ p “So tackling the giraffe issue is not just purely about conservation of the species, it’s also about dealing with governments, about political control, about people’s rights and resources, access to resources, so it’s quite a complex set of things you have to address.”  p 
+ p Hilton-Taylor says the fact the giraffe is now listed as vulnerable means that it has “a high risk of going extinct in the wild unless we do something about it.”  p 
+ p  strong It is not too late  strong   p 
+ p But, he says giraffes can be helped.  p 
+ p “It’s not too late, we can turn things around. We know in parts of Africa giraffes are doing well some of the populations are increasing in size, so we can see what is being done in those areas.”  p 
+ p Some of the ideas that work include community involvement and  strong tourism  strong . Tourism, for example, provides jobs for local residents.  p 
+ p He also says there needs to be a giraffe action plan put in place to observe and  strong survey  strong  the animals across the continent of Africa.  p 
+ p Hilton-Taylor adds that finding answers to the problems people face, like drought linked to climate change, food shortages and civil unrest, will provide answers to help giraffes.  p 
+ p The Red List is considered an important source of information about risks to animals and plants. The program says 24,307 of the 85,604 species of animals and plants it studied were in danger of extinction.  p 
+ p I’m Anne Ball.  p 
+ p    p 
+ p  em Anne Ball wrote this story for VOA Learning English with material from Reuters. Mario Ritter was the editor.   em   p 
+ p  em We want to hear from you. Write to us in the Comments Section and visit us  a class="wsw__a" href="https:  www.facebook.com voalearningenglish " on our Facebook page  a .   em   p 
+ p ______________________________________________________________  p 
+ p    p 
+ p  strong species   strong  em –n.   em a group of animals or plants that are similar and can produce young animals or plants  p 
+ p  strong vulnerable   strong  em –adj.   em open to attack, harm, or damage  p 
+ p  strong extinction   strong  em –n.   em the state or situation that results when something (such as a plant or animal species) has died out completely  p 
+ p  strong detect   strong  em –v.   em to discover or notice the presence of (something that is hidden or hard to see, hear, taste, etc.)  p 
+ p  strong habitat   strong  em –n  em . the place or type of place where a plant or animal naturally or normally lives or grows  p 
+ p  strong timber   strong  em –n.   em trees that are grown in order to produce wood  p 
+ p  strong tourism   strong  em –n.  em  the activity of traveling to a place for pleasure  p 
+ p  strong survey   strong  em –n.   em an act of studying something in order to make a judgment about it  p 
+ p class="buttons btn--load-more" 
+ a class="btn" href=" comments a3639247p0.html" id="load-comments" 
+ span class="btn__text " 
+Show comments
+  span 
+  a 
+  p 

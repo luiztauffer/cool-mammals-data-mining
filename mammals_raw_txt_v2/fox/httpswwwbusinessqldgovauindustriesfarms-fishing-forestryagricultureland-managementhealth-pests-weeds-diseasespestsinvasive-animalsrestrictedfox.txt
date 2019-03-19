@@ -1,0 +1,21 @@
+ p At the end of your visit today, would you complete a short survey to help improve our services?  p 
+ p Thanks! When you're ready, just click "Start Survey".  p 
+ p It looks like you’re about to finish your visit. Are you ready to start the short survey now?  p 
+ p class="caption" Fox close-up  p 
+ p class="rights-holder" © Queensland Government  p 
+ p class="caption" Fox lying down  p 
+ p class="rights-holder" © Queensland Government  p 
+ p class="caption" Fox in mud  p 
+ p class="rights-holder" © Queensland Government  p 
+ p class="caption" Fox preying on poultry  p 
+ p class="rights-holder" © Queensland Government  p 
+ p Native to the northern hemisphere, the European red fox is 1 of 11 canid species worldwide. The fox was introduced to Australia from England as a sport animal during the 1860s and became a pest species within 30 years. Today, foxes are widespread throughout most of mainland Australia. Foxes threaten Australia’s agricultural and native species.  p 
+ p You can support a national fox mapping project by  a href="http:  www.feralscan.org.au " reporting fox populations  a .  p 
+ p Fox is a restricted invasive animal under the  em Biosecurity Act 2014.  em   p 
+ p  a href="https:  www.business.qld.gov.au industries farms-fishing-forestry agriculture livestock biosecurity-entity-registration" Check if you're registered as a biosecurity entity  a   p 
+ p  a href="https:  www.business.qld.gov.au running-business protecting-business disaster-resilience assistance" Queensland flood relief  a   p 
+ p  a title="External Link: Panama disease tropical race 4 confirmed in Far North Queensland" href="https:  www.daf.qld.gov.au business-priorities plants health-pests-diseases a-z-significant panama-disease" Panama disease tropical race 4 confirmed in Far North Queensland  i class="fa fa-external-link-square" aria-hidden="true"   i   a   p 
+ p  a title="External Link: Citrus canker detected in Northern Territory" href="https:  www.daf.qld.gov.au business-priorities plants health-pests-diseases industry-alert-citrus-canker" Citrus canker detected in Northern Territory  i class="fa fa-external-link-square" aria-hidden="true"   i   a   p 
+ p id="gen-enq" class="telephone" General enquiries  span class="tel"  strong 13 25 23  strong   span   p 
+ p © The State of Queensland 1995–2019  p 
+ p  a href="https:  www.qld.gov.au " Queensland Government  a   p 

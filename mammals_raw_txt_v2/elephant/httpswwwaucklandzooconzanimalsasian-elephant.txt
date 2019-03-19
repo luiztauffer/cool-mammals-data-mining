@@ -1,0 +1,21 @@
+ p class="heading-5 || tag" data-reactid="95" Endangered  p 
+ p class="inline-tag" data-reactid="96"  i lang="la" data-reactid="97" Elephas maximus  i   p 
+ p Elephants are the world's largest land mammal, but the Asian elephant is slightly smaller than its African cousin.  p 
+ p Elephant ears radiate heat to help keep these large animals cool, but sometimes that isn't enough. Elephants are fond of water and enjoy showering by sucking water into their trunks and spraying it all over themselves.  p 
+ p An elephant's trunk is actually a long nose with many functions. It is used for smelling, breathing, trumpeting, drinking, and also for grabbing things -especially a potential meal. The trunk alone contains about 100,000 different muscles. Asian elephants have a finger-like feature on the end of their trunk that they can use to grab small items. (African elephants have two.)  p 
+ p Wild habitat is diminishing and wild elephant populations are increasingly coming into conflict with people with disastrous results.  p 
+ p We have two Asian elephants:  strong Burma and Anjalee  strong . Find out more below.  p 
+ p  strong Encounter schedule  strong   p 
+ p Monday - 11.15am  p 
+ p Tuesday - 12.30pm  p 
+ p Wednesday - 12:00pm  p 
+ p Thursday - 1.45pm  p 
+ p Friday - 11am  p 
+ p Saturday - 12.30pm  p 
+ p Sunday - 2.15pm  p 
+ p Now in her 30s, Burma, who arrived at Auckland Zoo in 1990, is the elder of these two beautiful pachyderms.  She has matured into a lovely gentle elephant, and while still very energetic and playful, is slightly less mischievous than Anjalee!  p 
+ p Anjalee was born in 2006 and is now the equivalent of a teenager. She has boundless energy, confidence and curiosity, and since arriving here in 2015, has developed an incredible bond with Burma.  p 
+ p data-reactid="151" Anjalee and Burma have been making headlines since Anjalee's arrival in late June 2015 and the two have been getting on famously ever since. Watch Zoo Tales and see their first outing together as well as their friendship blossom!  p 
+ p class="description" itemprop="openingHours" title="9:30am to 5:30pm every day except Christmas" data-reactid="163"  span class="heading-2" data-reactid="164"  time datetime="09:30" data-reactid="165" 9:30am  time  !-- react-text: 166 --   !--  react-text --  !-- react-text: 167 -- - !--  react-text --  !-- react-text: 168 --   !--  react-text --  time datetime="17:30" data-reactid="169" 5:30pm  time   span  br data-reactid="170"  span data-reactid="171"  !-- react-text: 172 -- (Last entry at  !--  react-text --  !-- react-text: 173 -- 4:15pm !--  react-text --  !-- react-text: 174 -- ) !--  react-text --   span  br data-reactid="175"  span data-reactid="176" Open every day except Christmas  span   p 
+ p class="subtitle || heading-3" data-reactid="202" Sign up to our newsletter  p 
+ p data-reactid="245"  small class="fine-text" data-reactid="246" ©2018 Auckland Zoo  small  small class="fine-text" data-reactid="247"  a class="link" href=" terms-and-privacy-policy" data-reactid="248" Terms and Privacy Policy  a   small   p 

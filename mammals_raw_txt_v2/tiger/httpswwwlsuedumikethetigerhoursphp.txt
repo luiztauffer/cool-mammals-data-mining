@@ -1,0 +1,32 @@
+ p tag manager container  p 
+ p class="text-center"  span class="icon-lsu_icon"   span  br  span class="lsulogotext" Mike the Tiger  span   p 
+ p    p 
+ p Mike the Tiger is the only live tiger living on a college campus in the U.S. The Tiger
+                  Habitat is located on North Stadium Drive in Baton Rouge; the habitat sits between
+                  the Bernie Moore Track Stadium and the Pete Maravich Assembly Center and is across
+                  the street from Tiger Stadium. There is no fee to see Mike the Tiger.
+                 p 
+ p    p 
+ p There is visitor parking (including handicapped spaces) located on North Stadium Drive
+                  and adjacent to Tiger Stadium.
+                 p 
+ p    p 
+ p Mike is outside usually every day between 8 a.m. and 8 p.m. (though times may vary),
+                  including weekends and holidays. Yard work is scheduled each Thursday morning, so
+                  Mike remains inside until that is done. When Mike is kept inside for yard work, maintenance
+                  or some other reason, it will be posted on Mike's social media platforms (facebook.com mikethetiger,
+                  @mikethetiger and instagram.com mikethetiger_lsu). 
+                 p 
+ p    p 
+ p You can see Mike the Tiger via a web cam at  a href="http:  www.mikethetiger.com" www.mikethetiger.com  a . 
+                 p 
+ p    p 
+ p    p 
+ p class="balance-text" itemprop="address" itemscope="itemscope" itemtype="http:  schema.org PostalAddress"  span itemprop="streetAddress"  a href="http:  www.lsu.edu index.php?utm_source=lsuhomepage&amp;utm_medium=footer&amp;utm_content=textlink&amp;utm_campaign=internal_site_traffic" title="Homepage" Louisiana State University  a   span  br 
+				 span itemprop="addressLocality" Baton Rouge, Louisiana  span   span itemprop="postalCode" 70803  span  br 
+				 span class="email"  a itemprop="email" href="mailto:webmaster@lsu.edu" webmaster@lsu.edu  a   span  br  br 
+				 a href=" feedback index.php" Provide Website Feedback  a 
+			 br 
+	 a href=" accessibility index.php" Accessibility Statement  a  br 
+				 a href=" privacy index.php" Privacy Statement  a   p 
+ p  small Copyright  a id="directedit" title="Alternate OU Campus Dashboard Link provided below" aria-hidden="true" ©  a  2019  span itemprop="name"  a href=" index.php" Louisiana State University  a   span . All Rights Reserved.  small   p 

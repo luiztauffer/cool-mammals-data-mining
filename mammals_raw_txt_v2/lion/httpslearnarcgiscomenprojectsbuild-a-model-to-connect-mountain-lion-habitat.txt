@@ -1,0 +1,15 @@
+ p class="text-white trailer-half" Find suitable corridors to connect dwindling mountain lion populations &amp;nbsp  span class="font-size--3 icon-ui-time-clock" 1 hour 50 minutes  span   p 
+ p Mountain lions need room to roam, and the rugged mountains northwest of Los Angeles provide this protected species the space it needs to hunt and breed. The problem? Their population is suffering as these creatures are killed crossing the roads intersecting their habitat. The solution? Build bridges over these roads enabling mountain lions to proliferate in safety. In this lesson, you'll use ArcGIS Pro to create the geoprocessing models identifying the best locations for these overpasses.  p 
+ p Mapping &amp; Visualization | Spatial Analytics  p 
+ p class="font-size--1 card-last" Answer questions about the earth's climate models.  p 
+ p class="font-size--1 card-last" Redraw Political Boundaries with Public Participation  p 
+ p class="font-size--1 card-last" Edit a vector tile layer's style to make glowing earthquake points.  p 
+ p class="font-size--1 card-last" Identify the information needed to stop insurgent missile attacks on your base.  p 
+ p class="font-size--1 card-last" In this one-hour training seminar, learn why every map is a story waiting to be told.  p 
+ p class="font-size--1 card-last" This five-step learning plan teaches you the basics of creating maps that resonate with your audience.  p 
+ p class="font-size--1 card-last" This free poster, available via download, lists the vocabulary and questions that will help you understand spatial analytics.  p 
+ p class="font-size--3" 
+          Copyright © 2019 Esri. All rights reserved. |
+           a data-langlabel="privacy" href="  www.esri.com legal privacy" Privacy  a  |
+           a data-langlabel="legal" href="  www.esri.com legal software-license" Legal  a 
+        p 

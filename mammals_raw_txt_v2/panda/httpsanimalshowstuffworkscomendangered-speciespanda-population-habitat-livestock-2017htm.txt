@@ -1,0 +1,44 @@
+ p class="followText" Follow us  p 
+ p  a class="symbol ss-social-circle ss-facebook" href="https:  www.facebook.com HowStuffWorks" target="_blank" Facebook  a   p 
+ p  a class="symbol ss-social-circle ss-youtube" href="https:  www.youtube.com user HowStuffWorks?sub_confirmation=1" target="_blank" YouTube  a   p 
+ p  a class="symbol ss-social-circle ss-twitter" href="https:  twitter.com intent follow?source=followbutton&amp;variant=1.0&amp;screen_name=HowStuffWorks" target="_blank" Twitter  a   p 
+ p  a class="symbol ss-social-circle ss-pinterest" href="https:  www.pinterest.com HowStuffWorks " target="_blank" Pinterest  a   p 
+ p Good news is hard to come by these days, but here's a little: China's wild panda numbers are up! In 2016, the bamboo-eating giant panda ( i Ailuropoda melanoleuca  i ) native to southern central China was reclassified as "vulnerable" by the International Union for Conservation of Nature (IUCN), after spending nearly 30 years on the "endangered" list. The species' wild population has grown by 17 percent in the past decade, bringing its numbers up to more than 1,800 pandas living in the wild, according to the  a href="https:  www.worldwildlife.org magazine issues spring-2017 articles wild-pandas-get-a-boost--2" most recent census  a .  p 
+ p And although this is terrific news, two new pieces of research show risk still exists for the giant panda due to infrastructure development and livestock grazing.  p 
+ p The first  a href="https:  www.nature.com articles s41559-017-0317-1" new study  a , published in the Sept. 25, 2017, issue of the journal Nature Ecology and Evolution, looks at what brought about this population growth, and whether it's likely to continue.  p 
+ p "What my colleagues and I wanted to know was how the panda's habitat has changed over the last four decades, because the extent and connectivity of a species' habitat is also a major factor in determining its risk of extinction," said coauthor Stuart Pimm, professor of conservation ecology at  a href="https:  nicholas.duke.edu" Duke University's Nicholas School of the Environment  a , in a  a href="https:  nicholas.duke.edu about news giant-pandas-habitat-shrinking-and-becoming-more-fragmented" press release  a .  p 
+ p The researchers used satellite imagery data to figure out the change in land use over the panda's entire geographic range. They found that between 1976 and 2001, panda habitat decreased by 23 percent — but that it actually increased slightly between 2001 and 2013. This encouraging trend has been due mostly to bans on commercial logging in panda habitat, as well as the establishment of 67  a href="https:  animals.howstuffworks.com mammals panda-hibernation.htm" panda  a  preserves and education for people living within these preserves.  p 
+ p But the changes in these panda-friendly areas of China haven't all been good: Loads of new infrastructure like roads and hydropower stations has been built since 2001.  p 
+ p "These have been the major factor in fragmenting the habitat," said Pimm. "There was nearly three times the density of roads in 2013 than in 1976."  p 
+ p Although there's no aingle permanent solution to securing the conservation of these  a href="https:  animals.howstuffworks.com mammals panda-birth-rate.htm" iconic animals  a , the research team suggests establishing panda corridors between the existing patches of habitat. That would allow the remaining wild pandas to find each other, and prevent any part of the population from becoming isolated.  p 
+ p A separate cooperative research initiative conducted by Chinese and U.S. scientists looked at the impact of livestock on panda habitats. The  a href="http:  www.sciencedirect.com science article pii S0006320717307231?via%3Dihub" second study  a , published online Oct. 3, 2017, in the journal Biological Conservation, found that over the past 15 years, livestock numbers in China's Wanglang National Nature Preserve have increased 900 percent, damaging one third of all giant panda habitat in the park.  p 
+ p "These problems are not unique to our study area, but common throughout the panda nature reserves and habitats. It is not just an ecological problem, but also a gamble between the communities, the nature reserves, local governments and other stakeholders," added Li Sheng, an assistant professor of conservation biology at Peking University involved in the second study.  p 
+ p "This long-term monitoring shows that the pandas are being driven out of the areas that are heavily used by the livestock, especially the park's valleys," said Pimm, who participated in research for both studies. "These lower elevation areas are crucial for giant pandas, especially during winter and spring."  p 
+ p  span class="hidden-sm hidden-xs"   a href="https:  animals.howstuffworks.com endangered-species panda-population-habitat-livestock-2017.htm printable" rel="nofollow" Print  a   |   span   a class="citation" data-toggle="popover" data-container="body" data-placement="bottom" data-html="true" data-title="Cite This!" data-content='Please copy paste the following text to properly cite this HowStuffWorks.com article:&lt;br  &gt;&lt;br  &gt;	
+		
+											&lt;a data-track-gtm="Byline" href="https:  www.howstuffworks.com about-jesslyn-shields.htm"&gt;
+		
+		Jesslyn Shields
+					&lt; a&gt;
+			 "Panda Populations Are Growing, But Their Habitat Remains at Risk" 3 October 2017.&lt;br  &gt;HowStuffWorks.com. &amp;lt;https:  animals.howstuffworks.com endangered-species panda-population-habitat-livestock-2017.htm&amp;gt; 19 March 2019' href="#" Citation &amp; Date  a  |  a target="_blank" href="http:  www.hswreprints.com " Reprint  a   p 
+ p  span class="hidden-sm hidden-xs"   a href="https:  animals.howstuffworks.com endangered-species panda-population-habitat-livestock-2017.htm printable" rel="nofollow" Print  a   |   span   a class="citation" data-toggle="popover" data-container="body" data-placement="bottom" data-html="true" data-title="Cite This!" data-content='Please copy paste the following text to properly cite this HowStuffWorks.com article:&lt;br  &gt;&lt;br  &gt;	
+		
+											&lt;a data-track-gtm="Byline" href="https:  www.howstuffworks.com about-jesslyn-shields.htm"&gt;
+		
+		Jesslyn Shields
+					&lt; a&gt;
+			 "Panda Populations Are Growing, But Their Habitat Remains at Risk" 3 October 2017.&lt;br  &gt;HowStuffWorks.com. &amp;lt;https:  animals.howstuffworks.com endangered-species panda-population-habitat-livestock-2017.htm&amp;gt; 19 March 2019' href="#" Citation &amp; Date  a  |  a target="_blank" href="http:  www.hswreprints.com " Reprint  a   p 
+ p class="panel-label"  strong Culture  strong   span class="text-muted" · Previous Story  span   p 
+ p class="panel-label"  span class="text-muted" Next Story ·  span   strong Health  strong   p 
+ p class="h5"  a href="https:  money.howstuffworks.com personal-finance budgeting dollar-store.htm" How Do Dollar Stores Make Money?  a   p 
+ p class="h5"  a href="https:  science.howstuffworks.com engineering civil seiichi-miyake-tactile-paving-system-visually-impaired.htm" Seiichi Miyake Created Tactile Paving System to Help Visually Impaired  a   p 
+ p class="h5"  a href="https:  science.howstuffworks.com environmental conservation issues ethiopias-church-forests.htm" Ethiopia's Church Forests Are Last Oases of Green  a   p 
+ p data-track-gtm="Copyright" Copyright © 2019  a href="  www.%7B%7B%20DOMAIN%20%7D%7D.com" HowStuffWorks  a , a division of  a href="http:  www.infospace.com " InfoSpace Holdings LLC,  a  a  a href="https:  system1.com " System1 Company  a   p 
+ p  small This site is protected by reCAPTCHA and the Google
+	     a href="https:  policies.google.com privacy" Privacy Policy  a  and
+	     a href="https:  policies.google.com terms" Terms of Service  a  apply.  small   p 
+ p class="h4" Newsletter
+				  p 
+ p Get the best of HowStuffWorks by email. Keep up to date on:  p 
+ p class="h5" Sign Up Now!  p 
+ p  a href="  www.howstuffworks.com newsletter.htm" Newsletter Policy &amp; Terms  a   p 

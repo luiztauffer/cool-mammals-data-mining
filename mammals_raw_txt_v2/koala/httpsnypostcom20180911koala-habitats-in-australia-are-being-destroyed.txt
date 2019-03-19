@@ -1,0 +1,64 @@
+ p Thanks for contacting us. We've received your submission.  p 
+ p class="section-tag" 
+						 a href=" living " class="background-color" Living  a 
+					  p 
+ p class="byline" By Stephanie Bedo, News.com.au  p 
+ p class="contact-submit" 
+		 button type="submit" class="pushbutton-wide" Submit  button 		 input type="hidden" name="contact-form-id" value="widget-text-4" 
+		 input type="hidden" name="action" value="grunion-contact-form" 
+		 input type="hidden" name="contact-form-hash" value="c4b73003bd4b26a16a066823ea46f34274e30536" 
+	  p 
+ p class="byline-date" 
+									September 11, 2018  span class="separator" |  span  3:54pm
+												  p 
+ p Shocking photos of koalas in their diminishing natural habitat have exposed the dire plight of the Australian marsupial.  p 
+ p The World Wildlife Fund has released satellite imagery showing a massive spike in the destruction of New South Wales koala forests.  p 
+ p A whopping 14 football fields of koala habitat is bulldozed each day. The rate of tree clearing has tripled in the state’s north since the axing of the NSW Native Vegetation Act in August 2017.  p 
+ p Following the removal of laws protecting koala forests, more than 12,300 acres of koala habitat has been bulldozed in the NSW districts of Moree and Collarenebri.  p 
+ p That translates to a rate of about 14 football fields a day,  a href="https:  www.nature.org.au media 324148 2018_bulldozing_of_bushland_nearly_triples_wwf_ncc_final_singles.pdf" rel="noopener" target="_blank" according to a new report by WWF-Australia and the NSW Nature Conservation Council.  a   p 
+ p And an image of two koalas huddled together on cleared land in NSW makes the problem difficult to ignore.  p 
+ p WWF-Australia conservationist Stuart Blanch said the organization estimated there were likely less than 20,000 koalas left in NSW and at the current rate, they were on track to be extinct in the state by as early as 2050.  p 
+ p “We have to stop this excessive tree-clearing if we want to keep koalas alive in the wild for future generations,” Blanch said.  p 
+ p “We are releasing this report on National Threatened Species Day to highlight that the destruction of koala habitat is accelerating in NSW and to call on the government to urgently strengthen the laws to ensure koalas and other threatened native animals are given the protections they need.”  p 
+ p Nature Conservation Council boss Kate Smolski said the group’s satellite imagery analysis confirmed the dire predictions of the government’s own advisers, who warned the new laws would permit bulldozing of 99 percent of identified all koala habitat on private land in the state.  p 
+ p “The area where this habitat destruction has occurred is one of the most heavily cleared in the state, with only six percent of forest remaining while an additional 11 percent was in sparse woodlands,” Smolski said.  p 
+ p “The NSW Government is responsible for opening the floodgates to the destruction of koala forests and woodlands on a scale we have not seen for more than 20 years. This report looks at a fraction of the state, so we fear this spike in deforestation in the north is just the tip of the iceberg.”  p 
+ p The report concludes that repeal of the NSW Native Vegetation Act in August 2017 was likely the major reason behind the dramatic surge in forest and woodland destruction in this known clearing hotspot.  p 
+ p WWF-Australia and the Nature Conservation Council have launched petitions today to call on both sides of government to take action to protect koalas in NSW for future generations.  p 
+ p class="read-next" 
+			 a href="https:  nypost.com 2018 09 11 spas-vampire-facial-clients-urged-to-get-tested-for-hiv " Read Next  a 
+		  p 
+ p class="read-next-link" 
+			 a class="desktop postid-12950470" href="https:  nypost.com 2018 09 11 spas-vampire-facial-clients-urged-to-get-tested-for-hiv " 
+				Spa's 'Vampire Facial' clients urged to get tested for HIV			  a 
+		  p 
+ p class="read-next" 
+			 a href="https:  nypost.com 2018 09 11 spas-vampire-facial-clients-urged-to-get-tested-for-hiv " Read Next  a 
+		  p 
+ p class="read-next-link" 
+			 a class="desktop postid-12950470" href="https:  nypost.com 2018 09 11 spas-vampire-facial-clients-urged-to-get-tested-for-hiv " 
+				Spa's 'Vampire Facial' clients urged to get tested for HIV			  a 
+		  p 
+ p id="text-share-popup-title" Share Selection  p 
+ p class="share-count" tabindex="-1" 
+							 span class="screen-reader-text" This story has been shared 68,088 times.  span 
+							 span aria-hidden="true" 68,088  span 
+						  p 
+ p class="share-count" tabindex="-1" 
+							 span class="screen-reader-text" This story has been shared 49,537 times.  span 
+							 span aria-hidden="true" 49,537  span 
+						  p 
+ p class="share-count" tabindex="-1" 
+							 span class="screen-reader-text" This story has been shared 44,494 times.  span 
+							 span aria-hidden="true" 44,494  span 
+						  p 
+ p class="su-widget__item-text" Up to 75% off on designer handbags at Macy's  p 
+ p class="su-widget__item-text" $10 off first order of $50 or more with Walmart promo code  p 
+ p class="su-widget__item-text" Enjoy $5 off $50 with this Target exclusive  p 
+ p class="su-widget__item-text" Neiman Marcus promo code - 25% off men's  p 
+ p class="su-widget__item-text" Sephora free shipping on orders worth $50 or more   p 
+ p 
+			 span id="copyright" © 2019 NYP Holdings, Inc. All Rights Reserved  span  span class="desktop"  |   span  a href="https:  nypost.com terms " Terms of Use  a  |  a href="https:  nypost.com privacy " Privacy  a   span class="desktop" |  a href="https:  nypost.com privacy #adchoices" Your Ad Choices  a   span  |  a href="https:  nypost.com sitemap " Sitemap  a 
+		  p 
+ p class="newscorp-slider-description" 
+							News Corp. is a network of leading companies in the world of diversified media, news, and information services.						  p 

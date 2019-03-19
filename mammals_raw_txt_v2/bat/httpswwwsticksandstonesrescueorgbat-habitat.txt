@@ -1,0 +1,123 @@
+ p  !--[if gte vml 1]  v:shapetype id="_x0000_t75" coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f" 
+  v:stroke joinstyle="miter"  
+  v:formulas 
+ v:f eqn="if lineDrawn pixelLineWidth 0"  
+ v:f eqn="sum @0 1 0"  
+ v:f eqn="sum 0 0 @1"  
+ v:f eqn="prod @2 1 2"  
+ v:f eqn="prod @3 21600 pixelWidth"  
+ v:f eqn="prod @3 21600 pixelHeight"  
+ v:f eqn="sum @0 0 1"  
+ v:f eqn="prod @6 1 2"  
+ v:f eqn="prod @7 21600 pixelWidth"  
+ v:f eqn="sum @8 21600 0"  
+ v:f eqn="prod @7 21600 pixelHeight"  
+ v:f eqn="sum @10 21600 0"  
+   v:formulas 
+  v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"  
+  o:lock v:ext="edit" aspectratio="t"  
+  v:shapetype  v:shape id="Picture_x0020_1" o:spid="_x0000_s1026" type="#_x0000_t75"
+ alt="Description: Flying Foxes, Bat, Tropical Bat" style='position:absolute;
+ margin-left:211.8pt;margin-top:8.15pt;width:264pt;height:176pt;z-index:251657728;
+ visibility:visible;mso-wrap-style:square;mso-width-percent:0;
+ mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;
+ mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;
+ mso-position-horizontal:absolute;mso-position-horizontal-relative:text;
+ mso-position-vertical:absolute;mso-position-vertical-relative:text;
+ mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;
+ mso-height-relative:page' 
+  v:imagedata src="file:  localhost Users sarahgorton Library Caches TemporaryItems msoclip 0clip_image001.jpg"
+o:title="Flying Foxes, Bat, Tropical Bat"  
+  w:wrap type="square"  
+  v:shape  ![endif]-- Most zoos exist to promote animal care, conserve threatened species, and educate visitors about the environment and global sustainability (World Association of Zoos and Aquariums). The zoo is a place where visitors can learn about different species, why they should care about animals, and benefits many animals provide to humans. Some zoos even do research abroad to expand their conservation efforts. Overall, Zoos are places that provide long-term shelter to the animals, and promote environmental education.  p 
+ p The San Antonio Zoo is considering creating a new bat exhibit to showcase native species, and for visitors to be able to observe the bats from any angle of the exhibit. The exhibit needs to be aligned with the zoo’s mission to inspire its community to love, engage with, act for and protect animals and the places they live. There are ten species of bats that live in San Antonio. However, only a few species will be chosen for the exhibit. Two possibilities are native cave-dwelling bats (Mexican Freetail Bats, Tricolor Bats, and Cave Myotis Bats) and tree bats (Northern Yellow Bats and Eastern Red Bats).    p 
+ p Help the San Antonio Zoo design a new bat exhibit by providing them with an exhibit design that emulates natural habitats bats would occupy in the wild, allows visitors to admire bats (even at times when bats are less active), and encourages visitors to appreciate bats and not be afraid of them.    p 
+ p When designing exhibits for animals, the goals of the zoo and welfare of the animals need to be considered. One big challenge when building a zoo exhibit for bats is available space. The San Antonio zoo has an available space of 8’ wide x 11’ long x 12’ tall to build the bat exhibit. Keep in mind that people have different perceptions of bats, and many people dislike bats due to myths that bats are dirty and diseased. The exhibit must also be attractive and educate visitors about bats.  p 
+ p Write a letter to the San Antonio Zoo describing your exhibit design and how each of the aspects included in your design address the exhibit requirements, the Zoo mission and the maintenance work needed. Provide rationales that will allow the Zoo designers to make modifications if any changes occur in the bat species or space available. You can include drawings or an actual model of the exhibit. Be sure to address the following questions:  p 
+ p 1.     How many bats of each species can you have in your exhibit? They need space to fly around but also love to cuddle.  p 
+ p 2.     What will the bats eat? Be more specific than just “bugs” or “fruit”!  p 
+ p 3.     What materials will you build the exhibit with?  p 
+ p 4.     Do they need any kind of regular maintenance work done such as cleaning?  p 
+ p 5.     What objects will decorate their exhibit?  p 
+ p 6.     How will the exhibit be set up so that guests can easily see the bats? Keep in mind that bats are nocturnal  p 
+ p  strong  span style="font-size:21.6px" Bat Care Guidelines  span   strong   p 
+ p  style data-preserve-html-node="true" type="text css" 
+  em  Wobble Top   em  
+@-webkit-keyframes hvr-wobble-top {
+  16.65% {
+    -webkit-transform: skew(-12deg);
+    transform: skew(-12deg);
+  }
+  33.3% {
+    -webkit-transform: skew(10deg);
+    transform: skew(10deg);
+  }
+  49.95% {
+    -webkit-transform: skew(-6deg);
+    transform: skew(-6deg);
+  }
+  66.6% {
+    -webkit-transform: skew(4deg);
+    transform: skew(4deg);
+  }
+  83.25% {
+    -webkit-transform: skew(-2deg);
+    transform: skew(-2deg);
+  }
+  100% {
+    -webkit-transform: skew(0);
+    transform: skew(0);
+  }
+}
+@keyframes hvr-wobble-top {
+  16.65% {
+    -webkit-transform: skew(-12deg);
+    transform: skew(-12deg);
+  }
+  33.3% {
+    -webkit-transform: skew(10deg);
+    transform: skew(10deg);
+  }
+  49.95% {
+    -webkit-transform: skew(-6deg);
+    transform: skew(-6deg);
+  }
+  66.6% {
+    -webkit-transform: skew(4deg);
+    transform: skew(4deg);
+  }
+  83.25% {
+    -webkit-transform: skew(-2deg);
+    transform: skew(-2deg);
+  }
+  100% {
+    -webkit-transform: skew(0);
+    transform: skew(0);
+  }
+}
+.hvr-wobble-top {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  -webkit-transform-origin: 0 100%;
+  transform-origin: 0 100%;
+}
+.hvr-wobble-top:hover, .hvr-wobble-top:focus, .hvr-wobble-top:active {
+  -webkit-animation-name: hvr-wobble-top;
+  animation-name: hvr-wobble-top;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+}
+  style   p 
+ p data-preserve-html-node="true" align="center" 
+ a data-preserve-html-node="true" href="https:  www.paypal.com cgi-bin webscr?cmd=_s-xclick&amp;hosted_button_id=DR957YCEUC2AC" class="hvr-wobble-top"  img data-preserve-html-node="true" src="http:  i.imgur.com CclQhnD.png" alt="paypal"   a   p 
+ p data-preserve-html-node="true" align="center" 
+Powered by Squarespace  p 

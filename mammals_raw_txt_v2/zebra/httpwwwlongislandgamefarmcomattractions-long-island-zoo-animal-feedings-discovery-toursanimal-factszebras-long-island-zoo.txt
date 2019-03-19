@@ -1,0 +1,64 @@
+ p  span class="reefer_previous"  strong The Game Farm’s Featured Zoo Animals   strong  font color="#999999" (click an animal to learn more)  font   span  br 
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts alligators-long-island-zoo " title="Long Island Alligators" Alligators  a    
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts alpaca-long-island-zoo " title="Long Island Alpaca" Alpaca  a    
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts aoudads-long-island-zoo " title="Long Island Aoudads" Aoudad  a    
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts bison-long-island-zoo " title="Long Island Bison" Bison  a   
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts black-white-lemurs-long-island-zoo " title="Long Island Black and White Lemurs" Black and White Lemurs  a     
+ !--
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts bobcats-long-island-zoo " title="Long Island Bobcats" Bobcats  a    -- 
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts camels-long-island-zoo " title="Long Island Camels" Camels  a    
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts chickens-long-island-zoo " title="Long Island Chickens &amp; Roosters" Chickens &amp; Roosters  a    
+   a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts donkeys-long-island-zoo " title="Long Island Donkeys" Donkey  a                                                      
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts ducks-long-island-zoo " title="Long Island Ducks" Ducks  a    
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts elk-long-island-zoo " title="Long Island Elk" Elk  a    
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts emu-long-island-zoo " title="Long Island Emu" Emu  a    
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts fallow-deer-long-island-zoo " title="Long Island Fallow Deer" Fallow Deer  a    
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts gecko-long-island-zoo " title="Long Island Gecko" Gecko  a    
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts giraffe-long-island-zoo " title="Long Island Giraffes" Giraffe  a    
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts goats-long-island-zoo " title="Long Island Goats" Goats  a    
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts horses-ponies-long-island-zoo " title="Long Island Horses &amp; Ponies" Horses &amp; Ponies  a    
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts iguanas-long-island-zoo " title="Long Island Iguanas" Iguana  a   
+   a href="attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts jersey-cattle-long-island-zoo " title="Long Island Jersey Cattle" Jersey Cattle  a                                                         
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts kinkajous-long-island-zoo " title="Long Island Kinkajous" Kinkajous  a    
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts llamas-long-island-zoo " title="Long Island Llamas" Llamas  a    
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts monkeys-long-island-zoo " title="Long Island Monkeys" Monkeys  a    
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts ostrich-long-island-zoo " title="Long Island Ostrich" Ostrich  a    
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts patagonian-cavy-long-island-zoo " title="Long Island Patagonian Cavy" Patagonian Cavy  a    
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts parrots-long-island-zoo " title="Long Island Parrots" Parrots  a    
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts peacocks-long-island-zoo " title="Long Island Peacocks" Peacocks  a    
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts pigs-long-island-zoo " title="Long Island Pigs" Pigs  a    
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts rabbits-long-island-zoo " title="Long Island Rabbits" Rabbits  a   
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts red-foxes-long-island-zoo " title="Long Island Red Foxes" Red Foxes  a     
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts red-kangaroos-long-island-zoo " title="Long Island Red Kangaroos" Red Kangaroo  a    
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts ring-tailed-lemurs-long-island-zoo " title="Long Island Ring-Tailed Lemurs" Ring-Tailed Lemurs  a    
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts blackbelly-sheep-long-island-zoo " title="Long Island Blackbelly Sheep"  Sheep  a    
+   a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts skunks-long-island-zoo " title="Long Island Skunks" Skunks   a           
+ a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts snakes-long-island-zoo " title="Long Island Snakes" Snakes   a                                                          
+   a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts tortoise-long-island-zoo " title="Long Island Tortoise" Tortoise   a   
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts turkeys-long-island-zoo " title="Long Island Turkey" Turkeys  a   
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts wallaby-long-island-zoo " title="Long Island Wallaby" Wallaby  a   
+  a href=" attractions-long-island-zoo-animal-feedings-discovery-tours animal-facts zebras-long-island-zoo " title="Long Island Zebras" Zebras  a   p 
+ p class="bodytext" Zebras are a part of African Equids, or more commonly, they are members of the horse family. They are broken into three different species. The plain zebra, the Grevy’s zebra, and the mountain zebra are all characterized by their black-and-white stripes. They are said to reach up to four and a half feet in height, eight and a half feet in length and weigh up to 770 pounds. They are social animals that live among other zebras, but they have not been able to be domesticated.  p 
+ p class="bodytext" The zebra can survive in various habitats such as grasslands, savannas, woodlands, thorny scrublands, mountains and coastal hills, which allows them to live all over the world. Zebras are herbivores and obtain their nutrients from mostly grasses, but also consume shrubs, herbs, twigs, leaves, and bark.  p 
+ p class="bodytext" Zebras communicate with each other through high-pitched noises, while their ears portray how they are feeling at any given time. When zebras are in a calm or friendly mood, their ears stand upright. When zebras are frightened, their ears are pushed forward, and when angry, their ears are pulled backward. When zebras inspect an area for predators, their ears stand straight up.  p 
+ p class="bodytext" Due to hunting for zebra skin and the destruction of their habitat, the Grevy’s zebra and the mountain zebra are endangered species.  p 
+ p 
+
+ a href="http:  www.facebook.com LongIslandGameFarm" target="_blank"  img src=" wp-content themes ligf-childtheme images icon-facebook.png" alt="Facebook" title="Facebook"   a 
+
+ a href="https:  plus.google.com b 111417703721256510058 111417703721256510058 posts" target="_blank"  img src=" wp-content themes ligf-childtheme images icon-googleplus.png" alt="Google+" title="Google+"   a 
+
+ a href="http:  instagram.com longislandgamefarm" target="_blank"  img src=" wp-content themes ligf-childtheme images icon-instagram.png" alt="Instagram" title="Instagram"   a 
+
+ a href="https:  twitter.com GameFarmLI" target="_blank"  img src=" wp-content themes ligf-childtheme images icon-twitter.png" alt="Twitter" title="Twitter"   a 
+
+ a href="https:  www.youtube.com channel UCPS0txxZKQtZVM744bM2fpw" target="_blank"  img src=" wp-content themes ligf-childtheme images icon-youtube.png" alt="YouTube" title="YouTube"   a 
+
+  p 
+ p 
+
+ a href="https:  www.facebook.com pg LongIslandGameFarm reviews " target="_blank"  span class="inline-block-text"  img src=" wp-content themes ligf-childtheme images icon-reviews.png" alt="Reviews" title="Reviews"  Reviews  span   a 
+
+ a href=" news-long-island-petting-zoo photo-galleries "  span class="inline-block-text"  img src=" wp-content themes ligf-childtheme images icon-camera.png" alt="Photos" title="Photos"  Photos  span   a 
+
+  p 

@@ -1,0 +1,47 @@
+ p class="text-line" or  p 
+ p Signing up enhances your TCE experience with the ability to save items to your personal reading list, and access the interactive map.  p 
+ p 
+	 span style="background-color: initial;" The fox is a small, carnivorous   span  a href=" article mammal " style="background-color: initial;" MAMMAL  a  span style="background-color: initial;"  of the   span  a href=" article dog " style="background-color: initial;" DOG  a  span style="background-color: initial;"  family. Four species inhabit Canada: red or coloured, swift, grey, and Arctic foxes (  span  em style="background-color: initial;" Vulpes vulpes  em  span style="background-color: initial;" ,   span  em style="background-color: initial;" V. velox  em  span style="background-color: initial;" ,   span  em style="background-color: initial;" Urocyon cinereoargenteus  em  span style="background-color: initial;" ,   span  em style="background-color: initial;" Alopex lagopus  em  span style="background-color: initial;" , respectively). Red and Arctic foxes have circumpolar distribution; grey and swift foxes are New World foxes; swift foxes are mostly found in the US and Mexico.  span 
+  p 
+ p 
+	  img data='{"url": "https:  tce-live2.s3.amazonaws.com media media 22ed0aa6-c360-460e-a60c-24d3876b9b33.jpg", "pk": 10830, "model": "core.media", "content_class": "image", "fields": {"source_fr": "27984761 \u00a9 Northof60 | Dreamstime.com", "source_en": "27984761 \u00a9 Northof60 | Dreamstime.com", "caption_fr": "27984761 \u00a9 Northof60 | Dreamstime.com", "title_en": "Red Fox", "caption_en": "A little curious red fox sneaking up on my just outside of Yellowknife, NWT. Photo taken on: September 8, 2012. 27984761 \u00a9 Northof60 | Dreamstime.com", "title_fr": ""}}' src="https:  tce-live2.s3.amazonaws.com media media thumbnails a464af72-61d4-400f-abbd-3bc24361f596.jpg" 
+  p 
+ p 
+	 a href="javascript:DisplayMedia('1831',%20'1831',%20'1831',%20283,%20300,%200,%200,%200);" name="1831"   a  Red foxes are the largest of the species (2.5-6.5 kg) in Canada and may be reddish with a "cross" on the back or, rarely, black or may have silver-tipped hairs. Feet and ear tips are black; tail tip, white. Common in farming and wooded areas, they extend from the US border to the  a href=" article tundra " TUNDRA  a  in all provinces, but are absent from coastal British Columbia.
+  p 
+ p 
+	  img data='{"url": "https:  tce-live2.s3.amazonaws.com media media 607a179a-6229-41ea-b5d7-aaf52f1ebbfe.jpg", "pk": 10868, "model": "core.media", "content_class": "image", "fields": {"source_fr": " 15067271 \u00a9 Pictureguy66 | Dreamstime.com", "source_en": " 15067271 \u00a9 Pictureguy66 | Dreamstime.com", "caption_fr": " 15067271 \u00a9 Pictureguy66 | Dreamstime.com", "title_en": "Red Fox", "caption_en": "Red Fox pup in Saskatchewan. Photo taken on: January 1, 2000. 15067271 \u00a9 Pictureguy66 | Dreamstime.com", "title_fr": ""}}' src="https:  tce-live2.s3.amazonaws.com media media thumbnails 1006eb12-8353-401c-afc5-be1b9a01c49a.jpg" 
+  p 
+ p 
+	    They eat rodents,  a href=" article insect " INSECTS  a ,  a href=" article frog " FROGS  a , seeds, fruit, eggs and some poultry. They breed in January and February; usually 4-5 cubs (range 1-10) are born 52-54 days later in a den of earth. Both parents feed them. Cubs become independent at about 6 months and breed in their second year.
+  p 
+ p 
+	  img data='{"url": "https:  tce-live2.s3.amazonaws.com media media 9701551f-5f56-4366-b8ae-3124ffb26bf1.jpg", "pk": 11306, "model": "core.media", "content_class": "image", "fields": {"source_fr": "33334417 \u00a9 John Woodnutt | Dreamstime.com", "source_en": "33334417 \u00a9 John Woodnutt | Dreamstime.com", "caption_fr": "", "title_en": "Black Arctic Fox", "caption_en": "Black arctic fox in the snow, Churchill, Manitoba. Photo taken on: October 13, 2012", "title_fr": ""}}' src="https:  tce-live2.s3.amazonaws.com media media thumbnails 4ba64145-f23f-4e60-9c36-4bbc6cd1ccda.jpg" 
+  p 
+ p 
+	 a href="javascript:DisplayMedia('1873',%20'1873',%20'1873',%20400,%20279,%200,%200,%200);" name="1873"   a  Arctic foxes are smaller, with rounded ears and heavy, white winter fur, and dark brownish summer fur. They are normally restricted to the tundra and northern coasts. Diet is similar to that of red foxes, and they scavenge other carnivore kills. Mating is in February, with 5-6 (maximum 14) cubs born 50-57 days later. Red and Arctic foxes were farmed for their pelts, but artificial furs have reduced the market.
+  p 
+ p 
+	 a href="javascript:DisplayMedia('1634',%20'1634',%20'1634',%20283,%20300,%200,%200,%200);" name="1634"   a  Grey foxes, similar in food habits and size to red foxes, are slimmer, with slightly rounded ears, a black back stripe and speckled grey sides. Undersides are off-white; neck, back of ears and legs are yellowish buff. They are found in southernmost Manitoba, Ontario and Québec.
+  p 
+ p 
+	    They prefer wooded or broken country and live in hollow logs or overhangs. Grey foxes often climb trees, enjoy sunning themselves and are not strictly nocturnal. Mating is in February to March with litters averaging 4 cubs (range 1-7), born about 63 days later. Young become independent in autumn and breed the following season.
+  p 
+ p 
+	 a href="javascript:DisplayMedia('1312',%20'1312',%20'1312',%20399,%20343,%200,%200,%200);" name="1312"   a  The swift fox is the smallest Canadian fox. It occurred from southern Alberta to southwestern Manitoba but was considered extirpated from Canada by 1970. Individuals selected from a captive population, bred from animals obtained from Colorado in 1972, have been released since 1983 in the short-grass prairie of southeastern Alberta, near Manyberries and Medicine Hat, and in southwestern Saskatchewan. Some successful breeding in the wild is recorded. Its habits are essentially the same as those of red foxes.
+  p 
+ p 
+	 em See also  em  a href=" article fur-farming " FUR FARMING  a .
+  p 
+ p 
+	  a href="http:  www.hww.ca en species mammals arctic-fox.html"  strong Arctic Fox  strong See a description of the natural history and typical habitat of the arctic fox in Canada. From the "Hinterland Who's Who" website. Also covers related conservation and biodiversity issues and includes related multimedia and educational resources.  a 
+  p 
+ p 
+	  a href="http:  www.hww.ca en species mammals red-fox.html"  strong Red Fox  strong See an illustrated description of the natural history and habitat of the red fox in Canada. From the "Hinterland Who's Who" website. Also includes video clips, summaries of related conservation issues, and educational resources.  a 
+  p 
+ p 
+	  a href="http:  nature.ca notebooks english mon2.htm"  strong Natural History Notebooks  strong View illustrated descriptions of a huge variety of Canadian animal species, prehistoric creatures, and endangered extinct animals. A Canadian Museum of Nature website.  a 
+  p 
+ p 
+	  a href="http:  canadianbiodiversity.mcgill.ca "  strong Canadian Biodiversity Website  strong A great information source for all budding biologists. Learn about biodiversity theory, natural history, and conservation issues. From McGills Redpath Museum.  a 
+  p 

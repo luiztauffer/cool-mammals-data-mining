@@ -1,0 +1,30 @@
+ p Hedgehogs have guaranteed survival by adapting to new habitats.  p 
+ p class="details__duration episode-panel__meta" 
+                         svg tabindex="-1" aria-hidden="true" focusable="false" class="gelicon gelicon--centi gelicon--leading"  use xlink:href="#gelicon--core--duration"   use   svg 1 minute
+                      p 
+ p class="programme__synopsis text--subtle" Be captivated, informed and inspired by the world's wildlife.  p 
+ p class="programme__service micro" 
+                    Duration: 01:54
+              p 
+ p class="programme__service micro" 
+                    Duration: 01:05
+              p 
+ p class="programme__service micro" 
+                    Duration: 02:41
+              p 
+ p class="programme__service micro" 
+                    Duration: 02:26
+              p 
+ p class="programme__service micro" 
+                    Duration: 00:55
+              p 
+ p class="programme__service micro" 
+                    Duration: 02:46
+              p 
+ p class="programme__service micro" 
+                    Duration: 02:11
+              p 
+ p class="programme__service micro" 
+                    Duration: 01:59
+              p 
+ p class="icon-box__note micro" View all  p 

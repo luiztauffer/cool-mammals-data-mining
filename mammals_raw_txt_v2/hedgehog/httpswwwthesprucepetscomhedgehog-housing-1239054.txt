@@ -1,0 +1,68 @@
+ p class="article-meta__byline" 
+By  a href="https:  www.thesprucepets.com lianne-mcleod-dvm-3384099" data-tooltip-trigger="true" class="article-meta__byline-link" Lianne McLeod, DVM  a 
+ span data-tooltip="Lianne is a veterinarian, epidemiologist, and freelance writer who's written nearly 400 articles for The Spruce Pets." class="article-meta__byline-tooltip"   svg class="icon icon-bio-avatar article-meta__byline-tooltip-icon" 
+ use xmlns:xlink="http:  www.w3.org 1999 xlink" xlink:href="#icon-bio-avatar"   use 
+  svg 
+  span 
+  p 
+ p class="article-meta__updated-label" Updated 01 28 19  p 
+ p One Yu   Getty Images  p 
+ p There is some debate on ideal housing for pet hedgehogs, but for any hedgehog cage, the most important considerations are size, safety, ventilation and ease of cleaning. There are pros and cons for different types of cages—find a cage that meets the unique requirements of hedgehogs and fits your budget and preferences.  p 
+ p Hedgehogs in the wild usually cover a lot of ground in their search for food.  a href="https:  www.thesprucepets.com do-hedgehogs-get-along-with-other-pets-1239058" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1" Pet hedgehogs  a  need lots of room to move about, too. Two square feet (e.g. 1 foot by 2 feet) is sometimes quoted as the minimum floor space for a hedgehog, but this should be considered an absolute bare minimum; use this size only if you have a wheel and give your hedgehog ample time to roam around outside the cage for exercise. Better yet, aim for a minimum of about 4 square feet (e.g. 2 feet by 2 feet).  p 
+ p A hedgehog cage needs to have a solid floor, so avoid any cages with wire or wire mesh flooring as hedgehogs may catch and injure their legs or feet on wire floors. Cages should not have any sharp edges or spaces in which the animal could get their head stuck. The cage must also be secure to prevent escape.  p 
+ p Good ventilation is necessary to keep humidity levels down and to prevent ammonia (from urine) and odor from building up in the cage. Wire cages offer the best ventilation.  p 
+ p Your hedgehog's cage will need frequent cleaning, and a large, heavy, or awkward cage will make this chore very unpleasant. Don't underestimate the importance of this as cleaning is critical!  p 
+ p Many owners use wire cages since they are readily available and have good ventilation. In addition, they are usually pretty lightweight and easy to clean. However, hedgehogs can be very particular when choosing a cage. Avoid any cages with wire flooring; if absolutely necessary, cover the wire with wood, plastic, or a Vellux blanket cut to fit securely. Additionally, cages  a href="https:  www.thesprucepets.com african-pygmy-hedgehogs-as-pets-1236866" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="1" large  a  enough for hedgehogs might have wire spacing that is too large for safely housing hedgehogs. Look for ferret or  a href="https:  www.thesprucepets.com pet-rabbit-housing-1237192" data-component="link" data-source="inlineLink" data-type="internalLink" data-ordinal="2" rabbit cages  a  with a spacing of 1 inch or less.  p 
+ p There are a couple of manufacturers producing wire cages specifically for hedgehogs: Martin's Cages (choose from the larger ones as the Hedgehog Home is very small) and Hedgehogs by Vicki. Some people recommend multilevel ferret cages, but the height of these cages could lead to falls from the platforms or from climbing the sides of the cages.  p 
+ p Aquariums will work but you'll need a large one (30 gallons is a good minimum) and a wire mesh top. On the downside, aquariums lack ventilation, and they are heavy and awkward to clean.  p 
+ p Many owners have gotten quite creative with creating cages out of plastic storage bins. With some slight modifications, you can make a large cage for little money out of clear plastic storage containers (solid color containers would be quite dark for a hedgehog). The biggest detriment is once again ventilation. You can make holes in the sides and lid with a soldering iron or drill, but it is difficult to make enough holes to provide great ventilation. If you get a deep enough container and don't have anything around the walls that the hedgehog can use for climbing (including water bottles), you may be able to get away with having no lid.  p 
+ p Alternatively, you can fashion a lid out of hardware wire mesh or screen material, either on its own or attached to a large opening cut in the lid of the storage container. The Michigan Hedgehog Owners Group site has an ingenious idea for a two-container home with instructions. Hedgehog Valley suggests cutting panels in the sides of the container and fixing wire mesh or plastic canvas over the openings to aid ventilation in this type of home. With a little creativity, these homes can work quite well.  p 
+ p Wading pools (solid plastic with high sides) and home-made wooden cages are possibilities. As long as a cage is large enough, escape proof, safe, ventilated, and easy to clean, then your imagination is the limit!  p 
+ p class="card__tag" 
+Hedgehogs
+  p 
+ p class="card__tag" 
+Hedgehogs
+  p 
+ p class="card__tag" 
+Hedgehogs
+  p 
+ p class="card__tag" 
+Hedgehogs
+  p 
+ p class="card__tag" 
+Hedgehogs
+  p 
+ p class="card__tag" 
+Hedgehogs
+  p 
+ p class="card__tag" 
+Hedgehogs
+  p 
+ p class="card__tag" 
+Hedgehogs
+  p 
+ p class="card__tag" 
+Hedgehogs
+  p 
+ p class="card__tag" 
+Hamsters
+  p 
+ p class="card__tag" 
+Hedgehogs
+  p 
+ p class="card__tag" 
+Hamsters
+  p 
+ p class="card__tag" 
+Hedgehogs
+  p 
+ p class="card__tag" 
+Pet Mice
+  p 
+ p class="card__tag" 
+Hedgehogs
+  p 
+ p class="card__tag" 
+Pet Rats
+  p 

@@ -1,0 +1,32 @@
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$2" Poaching is the illegal hunting of animals.   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$3" It happens in lots of countries around the world and is driving many species to the brink of extinction.  p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$6" If poaching continues at its current rate, creatures like elephants and rhino may be gone in our lifetime.   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$9" Poachers hunt animals such as rhino, elephants and tigers to sell their body parts.   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$10" Rhino horn and ivory, which is found in elephant tusks, can be illegally sold for huge amounts of money.   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$12" They're sold to countries like China and Vietnam, where they can be carved into ornaments, jewellery and even chopsticks.   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$13" Some people buy them to show off how rich they are, and others believe they have magical healing powers and use them as medicines, but scientists say these medicines don't work.  p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$14" There's not just a demand for ivory and horns, leopards and tigers are targeted by poachers for their skin, which some people use as rugs or decoration.   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$16" Some species of sea turtle have become critically endangered too, which means they're at risk of dying out, because they're hunted for their eggs.   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$17" In other cases, animals are poached for their meat. The pangolin, for example, is thought by some to be special to eat.   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$19" Around 100,000 pangolins a year are being taken from the wild and sent to China and Vietnam, where their scales are also used to make medicine.   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$22" Hunting is legal, poaching is illegal.  p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$23" It's not illegal to hunt some animals in certain places, if the government allows it and if the hunter has the right permissions and licences.  p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$24" But they cannot hunt species that are protected.   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$25"  span   span  a href=" newsround 33719206" What happened to Cecil the lion?  a   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$28" Many people, governments and charities, are involved in the protection of animals.  p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$29" The Royal family are also involved in the fight against poaching.   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$30" Prince William is the president of United for Wildlife and patron for conservation charity Tusk.  p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$31" Leaders around the world have made agreements to stop illegal animal parts coming into their countries, but it's still happening and it hasn't stopped poachers.  p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$32" Recently, thousands of elephant tusks were destroyed in Kenya to send a stronger message to poachers.   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$34" Technology is playing a part in helping to stop poaching too.  p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$35" In places like South Africa, rangers patrol areas and keep a look out for poachers and now new technology like drones and night vision goggles are helping them in their fight.   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$36"  span   span  a href="https:  www.bbc.co.uk newsround 35217659" Scientists are developing other technology that can trace fingerprints on ivory being sold illegally.   a   p 
+ p class="newsround-story-body__text" data-reactid=".1lxpvf2gg66.1.4.2.0.0.0.$37" Some rhino also have their horns shaved off to protect them from being poached.  p 
+ p class="newsround-promo__headline" data-reactid=".1lxpvf2gg66.1.5.0.1.$36280756.0.0.1.0" Ayshah joins park rangers on night patrol in South Africa  p 
+ p class="newsround-promo__headline" data-reactid=".1lxpvf2gg66.1.5.0.1.$36247103.0.0.1.0" Defending the Rhino: A Newsround Special  p 
+ p class="newsround-promo__headline" data-reactid=".1lxpvf2gg66.1.5.0.1.$36073502.0.0.1.0" Defending the Rhino: Fifteen fantastic rhino facts  p 
+ p class="newsround-promo__headline" data-reactid=".1lxpvf2gg66.1.5.0.1.$36143830.0.0.1.0" Defending the Rhino: How poo can help you find a rhino  p 
+ p class="newsround-promo__headline" data-reactid=".1lxpvf2gg66.1.5.0.1.$36143832.0.0.1.0" Defending the Rhino: Baby rhino survives poaching attack  p 
+ p class="newsround-promo__headline" data-reactid=".1lxpvf2gg66.1.7.0.1.$47514335.0.0.1.0" Bieber: I've been feeling super disconnected  p 
+ p class="newsround-promo__headline" data-reactid=".1lxpvf2gg66.1.7.0.1.$47514337.0.0.1.0" Watch these adorable rare leopard cubs play together  p 
+ p class="newsround-promo__headline" data-reactid=".1lxpvf2gg66.1.7.0.1.$47513673.0.0.1.0" Six Nations: Are England going to take the Grand Slam?  p 

@@ -1,0 +1,120 @@
+ p class="sow-headline" 						 a href="http:  mnzoo.org plan-your-visit " 
+					 strong TICKET INFORMATION  strong   a   p 
+ p class="hoursnew"  a href="https:  mnzoo.org plan-your-visit "  strong Ticket Prices  strong   a   p 
+ p  a class="button-3 button large custom" title="" href="https:  my.mnzoo.org" target="_blank" DAYTIME ZOO TICKETS  a   p 
+ p  a class="button-4 button large custom" title="" href="http:  mnzoo.org get-involved membership " target="_blank" BECOME A MEMBER  a   p 
+ p  a href="https:  my.mnzoo.org account login.aspx" Log In  a   br 
+ a href="https:  my.mnzoo.org account logout.aspx" Log Out  a   br 
+ a href="https:  my.mnzoo.org cart cart.aspx" target="_blank" rel="noopener" Shopping Cart  a  br 
+ a href="http:  mnzoo.org minnesota-zoo-gift-certificates "  strong Gift Cards  strong   a   p 
+ p class="sow-headline"  strong HOURS  strong   p 
+ p class="hoursnew"  a href="http:  mnzoo.org plan-your-visit "  strong Plan Your Day  strong   a   p 
+ p class="hoursnew"  a href="http:  mnzoo.org calendar "  strong Calendar of Events  strong   a   p 
+ p class="hoursnew"  a href="http:  mnzoo.org plan-your-visit special-events "  strong Special Events  strong   a   p 
+ p class="sow-headline" 						 a href="http:  mnzoo.org plan-your-visit " 
+					 strong GETTING HERE  strong   a   p 
+ p class="hoursnew" 13000 Zoo Boulevard br 
+Apple Valley, MN 55124 br 
+Phone: 952.431.9200, 1.800.366.7811  p 
+ p class="hoursnew"  a href="https:  goo.gl maps Vy8eSkqb5ez" target="_blank" rel="noopener"  strong Directions  strong   a   p 
+ p class="sow-headline" 						 a href="http:  mnzoo.org events adult-night-out-at-the-zoo " 
+					 strong ADULT NIGHT OUT  strong   a   p 
+ p class="sow-sub-headline" 						 a href="http:  mnzoo.org events adult-night-out-at-the-zoo " 
+					 strong April 17  strong   a   p 
+ p class="sow-headline" 						 a href="https:  mnzoo.org farmbabies " target="_blank" rel="noopener noreferrer" 
+					 strong FARM BABIES  strong   a   p 
+ p class="sow-sub-headline" 						 a href="https:  mnzoo.org farmbabies " target="_blank" rel="noopener noreferrer" 
+					 strong March 22 - April 30  strong   a   p 
+ p class="sow-headline" 						 a href="http:  mnzoo.org plan-your-visit close-encounters " 
+					 strong CLOSE ENCOUNTERS  strong   a   p 
+ p class="sow-sub-headline" 						 a href="http:  mnzoo.org plan-your-visit close-encounters " 
+					 strong Daily br   strong   a   p 
+ p class="sow-headline" 						 a href="https:  mnzoo.org education " 
+					 strong CAMPS AND CLASSES  strong   a   p 
+ p class="sow-sub-headline" 						 a href="https:  mnzoo.org education " 
+					 strong Opportunities All Year Long  strong   a   p 
+ p class="sow-headline" 						 a href="https:  mnzoo.org us freetoexplore " 
+					 strong FREE TO EXPLORE  strong   a   p 
+ p class="sow-sub-headline" 						 a href="https:  mnzoo.org us freetoexplore " 
+					 strong Zoo Admission Program (ZAP)  strong   a   p 
+ p class="sow-headline" 						 a href="http:  mnzoo.org zoo-experiences " 
+					 strong ZOO EXPERIENCES  strong   a   p 
+ p class="sow-sub-headline"  strong Explore Behind the Scene  strong   p 
+ p class="sow-headline" 						 a href="http:  mnzoo.org get-involved take-action minnesotans-for-an-amazing-zoo " 
+					 strong MINNESOTANS FOR AN AMAZING ZOO  strong   a   p 
+ p class="sow-sub-headline"  strong Support the Minnesota Zoo  strong   p 
+ p class="sow-headline" 						 a href="http:  mnzoo.org plan-your-visit daily-activities " 
+					 strong DAILY ACTIVITIES  strong   a   p 
+ p class="sow-sub-headline"  strong Don't Miss Out  strong   p 
+ p class="sow-headline" 						 a href="https:  mnzoo.org get-involved volunteer " 
+					 strong Want to be a Volunteer?   strong   a   p 
+ p class="sow-headline" 						 a href="https:  mnzoo.org internships " 
+					 strong Looking for an Internship?  strong   a   p 
+ p class="sow-headline" 						 a href="https:  mnzoo.org us job-opportunities " 
+					 strong Job Opportunities   strong   a   p 
+ p class="sow-headline" 						 a href="https:  mnzoo.org get-involved contact-membership " 
+					 strong Contact Us  strong   a   p 
+ p class="sow-headline"  strong LEADER IN CONSERVATION  strong   p 
+ p  img class="alignleft wp-image-15629 size-thumbnail" src="http:  mnzoo.org wp-content uploads 2013 11 tiger-150x150.jpg" alt="" width="150" height="150" The Minnesota Zoo is a leader in the conservation of animals and their habitats. We support and lead in wildlife conservation projects here at the Zoo, across the state of Minnesota, and around the globe. strong Learn more about our efforts in Minnesota and around the world  strong .  p 
+ p class="sow-headline"  strong EDUCATION  strong   p 
+ p  img class="alignleft wp-image-40288 size-thumbnail" src="http:  mnzoo.org wp-content uploads 2016 01 education-topics-header-150x150.jpg" alt="" width="150" height="150" The Minnesota Zoo offers all sorts of fun, educational programs throughout the entire year!  strong Learn more  strong   p 
+ p class="sow-headline"  strong Stay Connected  strong   p 
+ p  strong Accredited and member of  strong   p 
+ p  img class="alignnone wp-image-43071" src="http:  mnzoo.org wp-content uploads 2013 09 AZA_Logo-300x93.jpg" alt="" width="161" height="50" srcset="http:  mnzoo.org wp-content uploads 2013 09 AZA_Logo-300x93.jpg 300w, http:  mnzoo.org wp-content uploads 2013 09 AZA_Logo-768x239.jpg 768w, http:  mnzoo.org wp-content uploads 2013 09 AZA_Logo-1024x319.jpg 1024w, http:  mnzoo.org wp-content uploads 2013 09 AZA_Logo-700x220.jpg 700w, http:  mnzoo.org wp-content uploads 2013 09 AZA_Logo-201x63.jpg 201w" sizes="(max-width: 161px) 100vw, 161px"        img class="alignnone size-full wp-image-8529" src="http:  mnzoo.org wp-content uploads 2013 11 waza_head_new.gif" alt="" width="150" height="61"    p 
+ p    p 
+ p  strong Supported by  strong   p 
+ p style="text-align: center;"  span style="color: #ffffff;" Copyright 2019, Minnesota Zoo | All Rights Reserved |  a style="color: #ffffff;" href="http:  mnzoo.org vote-minnesota-zoo index.php?page_id=10012" Privacy Policy   a    span  br 
+ span style="color: #ffffff;"  13000 Zoo Boulevard, Apple Valley, MN 55124. Phone: 952.431.9200, 1.800.366.7811  span   p 
+ p  !-- Google Tag Manager --  br 
+ !--
+ noscript  iframe src='  www.googletagmanager.com ns.html?id=GTM-5LGVFQ'
+height='0' width='0' style='display:none;visibility:hidden'   iframe 
+ script (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'  www.googletagmanager.com gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5LGVFQ');  script 
+--  br 
+ !-- End Google Tag Manager --   p 
+ p  !-- Facebook Pixel Code --  br 
+ script 
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https:  connect.facebook.net en_US fbevents.js');  p 
+ p fbq('init', '274237129578389');
+fbq('track', 'PageView');  script  br 
+ noscript  img height="1" width="1" style="display:none" src="https:  www.facebook.com tr?id=274237129578389&amp;ev=PageView&amp;noscript=1"   noscript  br 
+ !-- End Facebook Pixel Code --  br 
+ !-- ADARA --  br 
+ script type="text javascript" src="  tag.yieldoptimizer.com ps ps?t=s&amp;p=3423&amp;sg=y&amp;pg=ot&amp;"   script  br 
+ !-- End ADARA --  br 
+ !--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: MN Zoo Homepage
+URL of the webpage where the tag is expected to be placed: http:  mnzoo.org 
+This tag must be placed between the  body  and  tags, as close as possible to the opening tag.
+Creation Date: 06 01 2016
+--  br 
+ script type="text javascript" 
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write(' iframe src="https:  5570848.fls.doubleclick.net activityi;src=5570848;type=mnzoo0;cat=mnzoo0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"   iframe ');
+  script  br 
+ noscript  br 
+ iframe src="https:  5570848.fls.doubleclick.net activityi;src=5570848;type=mnzoo0;cat=mnzoo0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"   iframe  br 
+  noscript  br 
+ !-- End of DoubleClick Floodlight Tag: Please do not remove --   p 
+ p  script type="text javascript" 
+(function () {
+var tagjs = document.createElement("script");
+var s = document.getElementsByTagName("script")[0];
+tagjs.async = true;
+tagjs.src = "  s.btstatic.com tag.js#site=sPLaZHQ";
+s.parentNode.insertBefore(tagjs, s);
+}());
+  script  br 
+ noscript  br 
+ iframe src="  s.thebrighttag.com iframe?c=sPLaZHQ" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"   iframe  br 
+  noscript   p 

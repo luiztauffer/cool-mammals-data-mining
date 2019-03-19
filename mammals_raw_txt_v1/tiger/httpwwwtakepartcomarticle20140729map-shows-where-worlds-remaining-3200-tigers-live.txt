@@ -1,0 +1,14 @@
+ p id="article-comments-link" class="comments-link" 
+                     a href="#article-comments" Comments span class="count"   span   a 
+                  p 
+ p (Photo: Rupak De Chowdhuri Reuters)  p 
+ p Today is International Tiger Day, and frankly, there’s not much to celebrate. Wild  a href="http:  www.worldwildlife.org species tiger" tiger populations have plunged 97 percent  a  over the past century, and the big cats have lost 93 percent of their historic habitat in Asia, according to the World Wildlife Fund.  p 
+ p This map shows the location of the estimated 3,200 tigers that remain in the wild.  p 
+ p How did this happen? It’s the usual suspects: us.  p 
+ p As Asia’s human population has boomed, people have logged the tiger’s forest home, pushing the cat onto ever shrinking patches of habitat. That in turn has ratcheted up human-tiger conflicts as the cats, deprived prey, raid farmers’ livestock.  p 
+ p Poaching is also  a href="http:  www.takepart.com article 2014 06 26 csi-tiger-dna-evidence-helps-convict-three-tiger-poachers-india" decimating the tiger  a . “Every part of the tiger—from whisker to tail—is traded in illegal wildlife markets,” according to the WWF. “Poaching is the most immediate threat to wild tigers. In relentless demand, their parts are used for traditional medicine, folk remedies, and increasingly as a status symbol among some Asian cultures.”  p 
+ p Climate change is slowly but surely taking a toll as rising sea levels inundate the Sundarbans, a vast mangrove forest that straddles India and Bangladesh and is home to the world’s largest tiger population.  p 
+ p The good news is that countries like India are taking aggressive measures to fight poaching, and international nonprofits are increasingly deploying high-tech technology such as drones to keep track of tigers and find poachers. Not least, international outcry from ordinary citizens keeps the pressure on governments to prevent the tiger from slipping into oblivion.   p 
+ p    p 
+ p    p 
+ p class="p1"  span class="s1" TakePart is the digital news and lifestyle magazine from  a href="http:  www.participantmedia.com " target="_blank" Participant Media  a , the company behind such acclaimed documentaries as  em CITIZENFOUR  em ,  em An Inconvenient Truth  em  and  em Food, Inc.  em  and feature films including   em Lincoln  em  and  em Spotlight  em .  span   p 

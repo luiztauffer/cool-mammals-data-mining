@@ -1,0 +1,11 @@
+ p class="a-spacing-small a-size-small a-color-secondary" 
+        Find answers in product info, Q&amp;As, reviews
+        p 
+ p class="a-spacing-base a-spacing-top-base a-color-error askError askBadQuestionError" 
+                Please make sure that you are posting in the form of a question.
+                p 
+ p Available in a trendy assortment of patterns and designs, Duck Tape brand duct tape is the simple solution for your toughest or most creative craft and DIY projects. Use Printed Duck Tape to enhance your latest fix around the house, decorate and customize your space or even make a colorful Duck Tape wallet or rose. Offering the same trusted quality and durability as traditional silver duct tape, Printed Duck Tape is the perfect medium for repair, crafting, decorating and fashion projects. With so much style and versatility, the possibilities are endless with Duck Tape.
+				    	
+					  p 
+ p class="nav_p nav-bold" There's a problem loading this menu right now.  p 
+ p class="nav_p"  a href=" gp prime" class="nav_a" Learn more about Amazon Prime.  a   p 

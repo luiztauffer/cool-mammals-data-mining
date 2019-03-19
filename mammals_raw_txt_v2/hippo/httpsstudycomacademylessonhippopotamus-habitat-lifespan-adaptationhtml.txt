@@ -1,0 +1,68 @@
+ p Sarah has two Master's, one in Zoology and one in GIS, a Bachelor's in Biology, and has taught college level Physical Science and Biology.  p 
+ p class="nowrap" style="font-style: italic" Want to watch this again later?  p 
+ p  span class="nowrap" Log in or sign up to add this  span   span class="nowrap" lesson to a Custom Course.  span   p 
+ p class="nowrap"  a href=" academy login.html" data-cname="cust_courses_lesson_cta_login" test-id="cust_courses_lesson_cta_login" Login  a   span style="padding: 0 1em; font-size: smaller" or  span   a data-toggle="modal" href="#partialRegFormModal" data-cname="cust_courses_lesson_cta_register" test-id="cust_courses_lesson_cta_register" class="open-reg-form" Sign up  a   p 
+ p You are likely familiar with the  b hippopotamus  b , an African animal that in my opinion is pretty darn cute. Hippos are short and stocky, have small ears and a BIG mouth with some funny-looking chompers inside. They are the second largest land animal, coming in just after elephants.   p 
+ p The hippopotamus name comes from the Greek word for 'water-' or 'river-horse', and this suits hippos perfectly since they spend a considerable amount of their time in the water. They don't do this to live up to a name though, they do it because their skin needs to be kept wet or they face the risk of dehydration.   p 
+ p Hippos are social creatures and live in groups ranging from a dozen to several hundred animals. There are several females and males in a group, but only one dominant male that mates with the females. Hippo babies  b gestate  b , or develop in the womb, for almost the same amount of time as a human baby, but when born will be about 10 times the size! Life expectancy for a hippo is 36 years, but that's only if a baby hippo survives the crocodiles, hyenas, and other predators in the African wilderness, as well as disease, drought, and other life challenges.   p 
+ p The hippopotamus used to be found all over Africa but because of human development, the places hippos can live has been greatly reduced. Instead, they are now mostly found in East Africa. There is a second species of hippo found on the continent called the  b pygmy  b  hippopotamus, but they are much smaller than the hippos we have been talking about so far. These guys are rare and are limited to small forested areas in West Africa.   p 
+ p Hippos are active night creatures, walking and grazing on land during the cooler evening temperatures. They leave the water around sunset and may eat around 80-90 pounds of grass a night. This sounds like a lot of food but it's just over half of what a cow eats in terms of percent of body weight. Hippos can store two days' worth of that grass in their stomachs, and if necessary, go without eating for three whole weeks.   p 
+ p It turns out that hippos don't just like water, they are well adapted to it. Because a hippo's eyes, nose, and ears sit on top of its head, it can sink the rest of its body down into the water and almost disappear. If it decides to go completely covert and put its head under water too, the ears and nose close to keep water from getting inside. Their eyes have a clear membrane covering them that works like a pair of goggles, keeping the water out while still letting them see.   p 
+ p Hippos can hold their breath for up to 30 minutes while under water, but I think the most amazing adaptation is one that allows them to ''sleep''underwater! They have a body reflex that while sleeping, bobs them up to the surface to take a breath, and then sink back underwater. And they do all of this without waking up! Hippo's are very good swimmers and can also walk under water. Surprisingly, they are very fast runners on land, sometimes getting up to 30 miles per hour. So if you see a hippo coming towards you, you better get moving in the opposite direction because even though they are cute they are very aggressive animals!   p 
+ p class="actionMessage" Get access risk-free for 30 days,
+			 br just create an account.  p 
+ p  em No obligation, cancel anytime.  em   p 
+ p  em Select a subject to preview related courses:  em   p 
+ p Another unique adaptation that hippos have is a secretion that helps protect their skin. From their skin, they produce a thick, red mucous that acts like sunscreen on the hippo's body, and may even help prevent wounds from getting infected while they swim through dirty water. Because it is red and covers the skin it is sometimes called  b blood sweat  b  but despite the resemblance, it's not actually blood.   p 
+ p The  b hippopotamus  b  is an African animal, and the name comes from the Greek for 'water-' or 'river-horse'. In reality, hippos are larger than horses and are the second largest land animal just after elephants. The larger hippo species is found in East Africa, and the  b pygmy  b  or small hippopotamus is found in small forested areas in West Africa. Hippos live in groups with both males and females, but with only one dominant male. The African wilderness is dangerous for a hippo baby, but if you can escape predation and disease you stand a good chance of living to about 36 years old.   p 
+ p Hippos graze on land at night when temperatures are cooler. They may eat around 80-90 pounds of grass a night but can go without eating for up to three weeks. Hippos spend the day in the water so that their skin doesn't dry out, and can even sleep underwater, breathing at the surface every so often without waking up.   p 
+ p To protect their skin from sunburn and infection, hippos secrete a red mucous called  b blood sweat  b . Their eyes, nose, and ears are on top of their head so that they can submerge everything but these parts. And if they want to go completely under water, their ears and nose close up, and their eyes are covered by a protective membrane.   p 
+ p Hippos are also good on land and are very fast runners. They top out at 30 miles per hour, which is a lot faster than you and I can run. They are also very aggressive animals with large teeth, so watch out if you see a hippo coming your way!  p 
+ p 
+				    span class="icon-unlock"   span 
+				   To unlock this lesson you must be a Study.com Member.
+				    br class="visible-xs" 
+
+				    a data-toggle="modal" href="#partialRegFormModal" data-cname="transcript_create_your_account" test-id="transcript_create_your_account" data-track-visible class="open-reg-form" Create your account  a 
+			     p 
+ p class="login-text" Already a member?  a data-cname="transcript_log_in" test-id="transcript_log_in" href=" academy login.html" Log In  a   p 
+ p class="login-text" 
+		Already registered?
+		
+		 a href=" academy login.html?cta=teacherPromo" class="standardLink" data-cname="teacher-promo-paywall__login" test-id="teacher-promo-paywall__login" 
+			Login here for access
+		  a 
+	  p 
+ p Did you know… We have over 160 college
+						courses that prepare you to earn
+						credit by exam that is accepted by over 1,500 colleges and universities. You can test out of the
+						first two years of college and save thousands off your degree. Anyone can earn
+						credit-by-exam regardless of age or education level.  p 
+ p To learn more, visit our  a href=" academy try earn-college-credit.html" data-cname="earning_credit_link" test-id="earning_credit_link" Earning Credit Page  a   p 
+ p Not sure what college you want to attend yet? Study.com has thousands of articles about every
+							imaginable degree, area of
+							study
+							and career path that can help you find the school that's right for you.  p 
+ p Get the unbiased info you need to find the right school.  p 
+ p Browse an area of study or degree level.  p 
+ p class="visible-xs"  span class="icon-arrow-left"   span  Back To Course  p 
+ p 
+							  span class="numChapters" 23  span  chapters |
+							  span class="numLessons" 296  span  lessons
+							 
+						  p 
+ p Next Lesson  p 
+ p ©  copyright 2003-2019 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		  p 
+ p Your Cart is Empty. Please Choose a Product.  p 
+ p Study.com video lessons have helped over  em class="red bold" 30 million  em 
+										students.  p 
+ p "I learned more in  em class="teal bold" 10 minutes  em  than 1 month of chemistry classes"  p 
+ p - Ashlee P.  p 
+ p "I aced the CLEP exam and earned  em class="green bold" 3 college credits!  em "  p 
+ p - Clair S.  p 
+ p test-id="testimonial_control_text" "The videos have changed the way I teach! The videos on Study.com accomplish in
+							 em class="red bold" 5 minutes  em  what would take me an entire class."  p 
+ p - Chris F.  p 

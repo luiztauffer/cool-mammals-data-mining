@@ -1,0 +1,13 @@
+ p Buy online tickets and get over $3 off! br 
+Or become a member for even bigger savings.  p 
+ p Over 40 species of native Northwest animals live in our wildlife park. Discover them here.  p 
+ p All you need to know to visit Northwest Trek: hours, prices, events, tours and more.  p 
+ p We are located in Eatonville, central to Seattle, Tacoma and Olympia.   p 
+ p class="about__body" Since 1975, Northwest Trek Wildlife Park has been the best place to see native Northwest wildlife. But we're also dedicated to conserving that wildlife for our planet. We've been recognized for over 25 years of high standards by the Association of Zoos &amp; Aquariums. And we protect wild habitats with earth-friendly practices.  p 
+ p class="video-card__title" Caribou in the snow  p 
+ p class="video-card__title" Snow day for grizzlies!  p 
+ p class="video-card__title" Tour our black bear habitat  p 
+ p class="video-card__title" Meet the new Kids  p 
+ p class="video-card__title" Fall in love with Northwest Trek  p 
+ p class="video-card__title" Grizzly cubs' first physicals  p 
+ p class="video-card__title" New Keeper Adventure Tour!  p 

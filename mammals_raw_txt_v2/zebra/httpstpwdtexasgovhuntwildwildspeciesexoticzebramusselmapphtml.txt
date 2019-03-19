@@ -1,0 +1,18 @@
+ p  a href="https:  public.govdelivery.com accounts TXPWD subscriber new?topic_id=TXPWD_978" Sign up for zebra mussel news by email  a   p 
+ p Invasive zebra mussels have devastating economic, recreational, and environmental impacts. The first Texas infestation was found in Lake Texoma in 2009. TPWD and partners closely monitor "positive" and "suspect" lakes, as  well as other lakes we consider high risk for zebra mussel introductions (see  black dots on map below).  p 
+ p  a href=" regulations outdoor-annual fishing general-rules-regulations possession-and-transport-of-exotic-aquatic-species" State regulations  a  require draining of water from boats and onboard receptacles when leaving or approaching public fresh waters.  p 
+ p    p 
+ p A native of Eurasia, the zebra mussel had arrived in North America by the late 1980s, invading the Great Lakes Region. Since then the zebra mussel and its close relative the quagga mussel have spread to numerous states through the Mississippi waterway and have traveled overland on boats as far west as California.   p 
+ p class="info" Your contact information is used to deliver requested updates or to access your subscriber preferences. Children under 13 years of age must have a parent guardian's consent before providing
+                any personal information to the agency.  p 
+ p  span class="icon material-icons" aria-label="user circle" aria-hidden="true" account_circle  span  
+                 span ga-on="click" ga-event-category="On-page Email Sign-up" ga-event-action="granicus login" ga-event-label="Manage My Subscription" 
+                   a href="https:  public.govdelivery.com accounts TXPWD subscriber new?preferences=true#tab1" title="Manage My Subscriptions" Manage My Subscriptions  a 
+                  span 
+                p 
+ p  span class="icon material-icons" aria-label="archive" aria-hidden="true" archive  span  
+                   a ga-on="click" ga-event-category="On-page Email Sign-up" ga-event-action="click newsletter archive link" ga-event-label="E-Newsletter Archive" href=" publications newsletters enews_archive.phtml" title="E-Newsletter Archive" E-Newsletter Archive  a 
+                  p 
+ p class="subscriber" Email subscriber  a href="https:  insights.govdelivery.com Communications Subscriber_Help_Center GovDelivery_Privacy_Policy" title="Email Subscriber Privacy Policy" privacy policy  a 
+                 and  a href="https:  insights.govdelivery.com Communications Subscriber_Help_Center Browser_cookies" title="Email Subscriber Cookie Statement" cookie statement  a .
+                p 

@@ -1,0 +1,63 @@
+ p  small  a href=" science science-explorer overview" style="first-col" Science Explorer  a   small   p 
+ p  small  a href=" science mission-areas" style="second-col" Mission Areas  a   small   p 
+ p  small  a href=" science regions" style="third-col" Regions  a   small   p 
+ p  small  a href="https:  www.usgs.gov faq" style="third-col" Frequently Asked Questions  a   small   p 
+ p  small  a href="http:  education.usgs.gov" style="third-col" Education  a   small   p 
+ p  small  a href=" products data-and-tools overview" style="first-col" Data and Tools  a   small   p 
+ p  small  a href=" products maps overview" style="second-col" Maps  a   small   p 
+ p  small  a href=" products publications overview" style="third-col" Publications  a   small   p 
+ p  small  a href=" products software overview" style="fourth-col" Software  a   small   p 
+ p  small  a href=" products multimedia-gallery overview" style="fourth-col" Multimedia Gallery  a   small   p 
+ p  small  a href="http:  store.usgs.gov pass index.html" style="fourth-col" Park Passes  a   small   p 
+ p  small  a href="http:  library.usgs.gov " style="third-col" USGS Library  a   small   p 
+ p  small  a href=" news featured-stories" style="first-col" Featured Stories  a   small   p 
+ p  small  a href=" news news-releases" style="first-col" News Releases  a   small   p 
+ p  small  a href=" news science-snippets" style="first-col" Science Snippets  a   small   p 
+ p  small  a href=" news technical-announcements" style="first-col" Technical Announcements  a   small   p 
+ p  small  a href=" news employees-in-the-news" style="second-col" Employees in the News  a   small   p 
+ p  small  a href=" news get-our-news" style="second-col" Get Our News  a   small   p 
+ p  small  a href=" news media-contacts" style="second-col" Media Contacts  a   small   p 
+ p  small  a href=" news im-a-reporter" style="third-col" I'm a Reporter  a   small   p 
+ p  small  a href=" connect headquarters" style="first-col" Headquarters  a   small   p 
+ p  small  a href=" connect locations" style="first-col" Locations  a   small   p 
+ p  small  a href="https:  answers.usgs.gov " style="second-col" Contact Us  a   small   p 
+ p  small  a href=" connect staff-profiles" style="second-col" Staff Profiles  a   small   p 
+ p  small  a href=" connect social-media" style="third-col" Social Media  a   small   p 
+ p  small  a href=" about about-us" style="first-col" About Us  a   small   p 
+ p  small  a href=" about organization" style="first-col" Organization  a   small   p 
+ p  small  a href=" about key-officials" style="first-col" Key Officials  a   small   p 
+ p  small  a href=" about congressional" style="second-col" Congressional  a   small   p 
+ p  small  a href=" about organization science-support budget" style="second-col" Budget  a   small   p 
+ p  small  a href="https:  www2.usgs.gov humancapital " style="second-col" Opportunities  a   small   p 
+ p  small  a href=" about doing-business" style="third-col" Doing Business  a   small   p 
+ p  small  a href=" natural-hazards emergency-management" style="third-col" Emergency Management  a   small   p 
+ p Bats can be found in almost all parts of the world and in most regions of the United States.  p 
+ p In general, bats seek out a variety of daytime retreats such as caves, rock crevices, old buildings, bridges, mines, and trees. Different species require different roost sites. Some species, such as the Mexican free-tailed and gray bats live in large colonies in caves. A few solitary species, such as the red bat, roost in trees.  p 
+ p In winter, bats either hibernate or migrate to warmer areas. Those that hibernate build up a fat reserve to sustain them through the winter. If they’re disturbed, their fat reserve could become exhausted and they could die prior to spring.  p 
+ p Learn more at the USGS  a href="https:  www.usgs.gov ecosystems status-and-trends-program science bats?qt-science_center_objects=0#qt-science_center_objects" Bats website  a .  p 
+ p OverviewSince its discovery in 2007, the fungal disease known as white-nose syndrome (WNS) has killed more than six million bats. Ten of 47 bat species have been affected by WNS across 32 States and 5 Canadian Provinces. The cold-growing fungus (Pseudogymnoascus destructans) that causes WNS infects skin covering the muzzle, ears, and wings of...  p 
+ p The North American Bat Monitoring Program (NABat) aims to improve the state of conservation science for all species of bats shared by the United States, Canada, and Mexico. To accomplish this goal, NABat offers guidance and standardized protocols for acoustic monitoring of bats. In this document, “A Guide to Processing Bat Acoustic Data for the...  p 
+ p White-nose syndrome is a devastating wildlife disease that has killed millions of hibernating bats. This disease first appeared in New York during 2007 and has continued to spread at an alarming rate from the northeastern to the central United States and throughout eastern Canada. The disease is named for the fungus Pseudogymnoascus destructans,...  p 
+ p USGS Biodiversity Information Serving Our Nation (BISON) is a unique, web-based Federal mapping resource for species occurrence data in the United States and its Territories.
+BISON's size is unprecedented, including records for most living species found in the U.S. and encompassing the efforts of more than a million professional and citizen...  p 
+ p Bat Rabies and Other Lyssavirus Infections offers readers an overview of the virus variants that cause bat rabies, and geographical patterns in occurrence of this disease. The section Species Susceptibility describes infection rates and trends among bats, humans, and other animals. Disease Ecology considers the biological and environmental...  p 
+ p Written by Marisa Lubeck and Ethan Alpern  p 
+ p The cold-loving fungus (Pseudogymnoascus destructans, or Pd) that causes  a href="https:  www.nwhc.usgs.gov disease_information white-nose_syndrome " white-nose syndrome  a , a disease that has killed millions of North American bats during hibernation, could also spread in summer months. Bats and humans visiting contaminated caves and mines can inadvertently contribute to the spread of the fungus, according to a recently published study by the  a href="http:  www.jwildlifedis.org doi abs 10.7589 2016-09-206" U.S. Geological Survey  a .  p 
+ p     p 
+ p This photo shows clustered southeastern bats, or Myotis austroriparius. As of June 2017, the species joins eight other hibernating bat species in North America that are afflicted with the deadly bat fungal disease known as white-nose syndrome.  p 
+ p  em A   em little brown bat ( em Myotis lucifugus  em ) with white-nose syndrome hibernating in a Virginia cave during late spring of 2016. Patches of the fungus that causes white-nose syndrome can be seen growing out of the skin (white areas) near the nose and across the folded wing skin of this bat.  Spherical drops of water condensation coat the bat's outer fur, a  p 
+ p Recorded Bat Calls: Recorded 'echolocation' calls are later evaluated by computer programs and visual inspection to ascribe bat species identities.  p 
+ p An Arizona bat or Occult bat (Myotis occultus) roost from southern Colorado.  p 
+ p A map of bat diversity in the U.S. Map by Paul Cryan, USGS.  p 
+ p A map showing the areas that hibernating species of bats live in in the U.S. Map by Paul Cryan, USGS.  p 
+ p A map showing the areas that non-hibernating species of bats live in in the U.S.  p 
+ p Bats emerging from the trees in the early evening sky.  p 
+ p Imagery from temperature-sensing cameras showing bats in hibernation. This new footage suggests that bats who warm up from hibernation together throughout the winter may be better at surviving white nose syndrome, a disease caused by a cold-loving fungus ravaging insect-eating bat populations in the United States and Canada. Locations: Gap Cave,125 Cumberland Gap National  p 
+ p Opening of a large lava tube at El Malpais National Monument in western New Mexico and likely roost for bats, 2011.  p 
+ p Insect-eating bats provide pest-control services that save the U.S. agriculture industry over $3 billion per year, according to a study released today in the journal Science. However, scientists with the U.S. Geological Survey, University of Pretoria in South Africa, University of Tennessee, and Boston University who contributed to the study warn that these valuable  p 
+ p Little brown bat with fungus on muzzle.  p 
+ p class="block-title" Science  p 
+ p class="block-title" Products  p 
+ p class="block-title" News  p 
+ p class="block-title" Connect  p 
+ p class="block-title" About  p 

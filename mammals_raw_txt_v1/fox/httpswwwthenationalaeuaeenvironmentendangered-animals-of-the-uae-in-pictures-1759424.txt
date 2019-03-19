@@ -1,0 +1,70 @@
+ p class="separator" |  p 
+ p class="city" Abu Dhabi  p 
+ p class="location" UAE i class="fa fa-map-marker" aria-hidden="true"   i 
+                              p 
+ p class="date" 
+                                Sunday Mar 10, 2019
+                              p 
+ p class="temp" 20°  p 
+ p class="high-low" H:20 °  p 
+ p class="high-low" L:17 °  p 
+ p H:21 °  p 
+ p L:14 °  p 
+ p H:23 °  p 
+ p L:18 °  p 
+ p H:22 °  p 
+ p L:17 °  p 
+ p H:28 °  p 
+ p L:15 °  p 
+ p H:25 °  p 
+ p L:20 °  p 
+ p H:27 °  p 
+ p L:18 °  p 
+ p class="city" Abu Dhabi  p 
+ p class="location" 
+                            EMU  i class="fa fa-map-marker" aria-hidden="true"   i 
+                          p 
+ p class="date" Thursday Jan 31,2019  p 
+ p class="date-text" Abu Dhabi, UAE span class="separtor"   span Sunday 10 March 2019  p 
+ p class="location-date visible-xs visible-sm" Abu Dhabi, UAE span class="separtor"   span Sunday 10 March 2019  p 
+ p class="published-date" Aug 13, 2018  p 
+ p class="published-date" August 13, 2018  p 
+ p The recent sighting of a Rueppell's fox and crested porcupine place the spotlight on the country's most at-risk creatures  p 
+ p The Arabian tahr has been categorised as an endangered species, with a global population of less than 5,000.  Courtesy TDIC  p 
+ p class="published-date" Aug 13, 2018  p 
+ p class="published-date" August 13, 2018  p 
+ p From the top of mountains to the depths of the sea, the UAE is home to hundreds of animals.  p 
+ p Many of these animals are at risk of extinction but recently a rodent, thought to be extinct, and a fox, last sighted in Abu Dhabi 13 years ago, were snapped in the capital's deserts.  p 
+ p The photos, taken by camera traps deployed by the Environment Agency — Abu Dhabi, have brought hope that other endangered or elusive animals could also be living across the country.  p 
+ p Here are some of the most endangered or vulnerable animals living in the UAE.  p 
+ p  strong ______________  strong   p 
+ p  strong Read more:  strong   p 
+ p  a href="https:  www.thenational.ae uae environment watch-the-gulf-species-at-risk-of-extinction-1.759183"  strong WATCH: The Gulf species at risk of extinction  strong   a   p 
+ p  strong  a href="https:  www.thenational.ae uae rarely-sighted-fox-species-photographed-in-rak-mountains-1.25682" Rarely sighted fox species photographed in RAK mountains  a   strong   p 
+ p  strong  a href="https:  www.thenational.ae uae hope-for-arabian-sand-cats-despite-death-of-three-kittens-1.757501" Hope for Arabian sand cats despite death of three kittens  a   strong   p 
+ p class="last-updated" Updated: August 13, 2018 12:40 PM  p 
+ p class="news-heading-h4" UAE weather: rough seas, strong winds and blowing dust  p 
+ p class="news-heading-h4" Abandoned fishing nets pose huge threat to UAE's marine life, say experts  p 
+ p class="news-heading-h4" Dubai climber aims high with Mount Everest  p 
+ p class="news-heading-h4" Environmental leaders vow to tackle scourge of plastic pollution  p 
+ p class="news-heading-h4" Climate change a major threat to UAE's wetlands  p 
+ p class="news-heading-h4" UAE weather: rough seas, strong winds and blowing dust  p 
+ p class="news-heading-h4" Abandoned fishing nets pose huge threat to UAE's marine life, say experts  p 
+ p class="news-heading-h4" Dubai climber aims high with Mount Everest  p 
+ p class="news-heading-h4" Environmental leaders vow to tackle scourge of plastic pollution  p 
+ p class="news-heading-h4" Climate change a major threat to UAE's wetlands  p 
+ p class="news-heading-h4" The long read: the UAE's street cat epidemic   p 
+ p class="news-heading-h4" Change in Algeria may spur overdue overhaul of economy  p 
+ p class="news-heading-h4" The art of the khanjar: how Oman's famous daggers are made  p 
+ p class="news-heading-h4" Farah Al Qasimi casts the Arab world in a different light  p 
+ p class="news-heading-h4" Could Cillian Murphy be the next James Bond?  p 
+ p class="news-heading-h4" UAE launches plan to save its turtles  p 
+ p class="news-heading-h4" The story of the 'punk turtle' and why UAE is fighting its corner  p 
+ p class="news-heading-h4" UAE issues call to arms to help boost fish stocks   p 
+ p class="news-heading-h4" UAE weather: cloudy with a chance of rain  p 
+ p class="news-heading-h4" World Ocean Summit: Arabian Gulf faces climate change challenge  p 
+ p class="news-heading-h4" UAE launches plan to save its turtles  p 
+ p class="news-heading-h4" The story of the 'punk turtle' and why UAE is fighting its corner  p 
+ p class="news-heading-h4" UAE issues call to arms to help boost fish stocks   p 
+ p class="news-heading-h4" UAE weather: cloudy with a chance of rain  p 
+ p class="news-heading-h4" World Ocean Summit: Arabian Gulf faces climate change challenge  p 

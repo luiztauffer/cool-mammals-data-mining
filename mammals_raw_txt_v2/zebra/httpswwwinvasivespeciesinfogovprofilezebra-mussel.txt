@@ -1,0 +1,20 @@
+ p class="skip-link__wrapper" 
+       a href="#main-content" class="skip-link visually-hidden visually-hidden--focusable" id="skip-link" Skip to Main Content  a 
+      p 
+ p An official website of the United States government  p 
+ p 
+               strong The .gov means it’s official.  strong 
+               br 
+              Federal government websites always use a .gov or .mil domain. Before sharing sensitive information online, make sure you’re on a .gov or .mil site by inspecting your browser’s address (or “location”) bar.
+              p 
+ p This site is also protected by an SSL (Secure Sockets Layer) certificate that’s been signed by the U.S. government. The  strong https:    strong  means all transmitted data is encrypted  — in other words, any information or browsing history that you provide is transmitted securely.  p 
+ p  abbr title="Department of the Interior" DOI  abbr . Bureau of Reclamation.  p 
+ p The Bureau of Reclamation has launched a new prize competition seeking innovative solutions for the 100-percent eradication of invasive quagga and zebra mussels from large reservoirs, lakes and rivers in a cost-effective and environmentally sound manner. Invasive mussel infestations pose significant logistical and economic challenges for local communities, recreationists, and water managers by potentially disrupting water deliveries, increasing facility maintenance cost, and impacting the local ecology.  p 
+ p DOI. FWS. Fish and Aquatic Conservation.  p 
+ p The section below contains selected highly relevant resources for this species, organized by source. To view all related content for this species, click on "View all resources for  strong  em species  em   strong " in the top left of this page.  p 
+ p Texas Commission on Environmental Quality, Galveston Bay Estuary Program; Houston Advanced Research Center (HARC).  p 
+ p Indiana Department of Natural Resources.  p 
+ p Kansas Department of Wildlife, Parks, and Tourism.  p 
+ p Wisconsin Department of Natural Resources.  p 
+ p See also:  a href="https:  dnr.wi.gov topic Invasives documents classification LR_Dreissena_polymorpha.pdf" Scientific review and assessment (PDF | 106 KB)  a   p 
+ p Maryland Sea Grant.  p 

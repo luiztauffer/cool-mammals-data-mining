@@ -1,0 +1,80 @@
+ p The giraffe is the tallest land animal in the world – a male giraffe stands up to 5.5m high and weighs nearly 2 tons. Despite its long neck, the giraffe only has seven neck vertebrae - the same number as humans and nearly all other mammals - the bones are simply extremely elongated.    p 
+ p Giraffes are strong and fast – a well-placed kick could shatter the skull of a predatory lion, while a running giraffe can reach speeds in excess of 55km per hour.   p 
+ p Nine subspecies of giraffe exist in Africa, each with distinctive patchwork markings believed to have evolved as a camouflage to help giraffes blend in with the dappled lighting underneath the trees in their wooded savannah habitat.  p 
+ p Giraffes have a 25-year life span and live in unstable herds that might consist of males and females of any age, whilst older males live in bachelor herds.  Long-term associations do exist, seemingly depending on factors like family relationships, sex, age, etc.    p 
+ p After a 15-month gestation, the female will give birth to a single calf – babies are 1.8m at birth and grow 2cm a day until maturity.   p 
+ p  em *International Union for Conservation of Nature is the world’s main authority on the conservation status of species   em   p 
+ p Vulnerable  p 
+ p &lt;100,000 ⬇️ - with small populations in West and Central Africa seriously threatened  p 
+ p Herbivorous – leaves and twigs from over 100 different tree and shrub species, but prefer acacia, as well as grass and fruit  p 
+ p Open woodlands, wooded grassland and savannah  p 
+ p Mostly eastern and southern Africa, although small and isolated populations also exist in western and central Africa  p 
+ p Habitat loss and fragmentation due to human population growth are the main threats to giraffes in the wild, although civil conflict, hunting for their meat, pelt, and tails, and environmental conditions like severe drought can also pose risks.  p 
+ p Giraffes are also exploited in zoos and circuses. Wild giraffes are specialized herbivores, living complex lives and roaming over large expanses, so being confined to small enclosures can lead to extreme frustration and boredom. Captive giraffes often exhibit abnormal behaviours, such as repeatedly twisting their necks or licking the bars of their cage.  br 
+   p 
+ p class="subheader"    p 
+ p    p 
+ p    p 
+ p    p 
+ p Born Free works alongside the Giraffe Conservation Foundation (GCF) to conserve the highly threatened giraffes of Niger and protect other giraffes throughout Africa.  p 
+ p  a class="button large" href=" giraffeconservation" GIRAFFE CONSERVATION FOUNDATION  a   p 
+ p class="h2 black background text-white" UPDATE DIRECT TO YOUR INBOX  p 
+ p Sign up to get the latest Born Free news about our work and how you can help, delivered straight to your inbox.  p 
+ p class="h3 with-icon header-mb"  i class="fas fa-rss"   i  NEWS  p 
+ p 
+             a :href="props.record.uri" v-text="props.record.name"   a  br 
+             span v-text="props.record.excerpt"   span 
+          p 
+ p class="h3 with-icon header-mb"  i class="fab fa-twitter"   i  SOCIAL MEDIA  p 
+ p class="header-mb" FOLLOW US ON  p 
+ p 
+                © 2019 - Born Free Foundation br 
+                Broadlands Business Campus, Langhurstwood Road br 
+Horsham, West Sussex, RH12 4QP br 
+ br 
+The Born Free Foundation is a registered charity. br 
+(Charity Number: 1070906). Registered as a company limited by guarantee (Number 03603432) (England &amp; Wales). br 
+Registered office: Broadlands Business Campus, RH12 4QP
+              p 
+ p 
+
+        
+             a href=" contact" 
+                Contact
+              a  |
+        
+             a href=" annual-reports" 
+                Annual Reports
+              a  |
+        
+             a href=" report-animal-suffering" 
+                Captive Animal Report Form
+              a  |
+        
+             a href=" faqs" 
+                FAQs
+              a  |
+        
+             a href=" privacy-policy" 
+                Privacy Policy
+              a  |
+        
+             a href=" data-policy" 
+                Data Policy
+              a  |
+        
+             a href=" terms-and-conditions" 
+                Terms &amp; Conditions
+              a  |
+        
+             a href=" sitemap" 
+                Sitemap
+              a  |
+        
+             a href=" careers" 
+                Careers
+              a 
+        
+      p 
+ p 
+                Website by  PMW               p 

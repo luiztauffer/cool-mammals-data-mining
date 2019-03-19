@@ -1,0 +1,32 @@
+ p  span class="dzoo-qib-times"  span class="dzs-park-hours" 10 a.m. to 4 p.m.  span  br 
+  span   p 
+ p  span style="text-decoration: underline;"  a href=" schedule-of-hours " Schedule  a   span   p 
+ p Buy early and save  p 
+ p  strong as low as $53  strong   p 
+ p The Detroit Zoo is home to animals from A to Z, including anteaters and zebras and hundreds of other species in between.  More than 2,000 animals representing 230 species of amphibians, mammals, birds and reptiles live in the Zoo’s 125-acres of true-to-life habitats that bring visitors face-to-face with these exotic creatures.  p 
+ p class="text-right" 
+ a href="https:  detroitzoo.org animals zoo-animals " class="button button-icon"  span class="main-icon"  span class="background"   span  span class="dzs-icon-pawprint-circle"   span   span MORE  a    p 
+ p The Detroit Zoo’s 125 acres feature award-winning attractions such as the National Amphibian Conservation Center, Great Apes of Harambee and Arctic Ring of Life. The newest attraction – the 33,000-square-foot Polk Penguin Conservation Center – is the largest facility for penguins in the world. Expansive, naturalistic habitats are home to 2,000 animals of 240 species, […]  p 
+ p class="text-right" 
+ a href="https:  detroitzoo.org animals habitats " class="button button-icon"  span class="main-icon"  span class="background"   span  span class="dzs-icon-pawprint-circle"   span   span MORE  a    p 
+ p The Detroit Zoological Society’s mission of  em Celebrating and Saving Wildlife  em  extends far beyond our front gates. We participate in dozens of cooperative national and local programs to ensure the long-term survival of animal populations, including the Great Lakes piping plover, eastern massasauga rattlesnake, Wyoming toads, Puerto Rican crested toads, snow leopards, polar bears and zebras.  p 
+ p class="text-right" 
+ a href="https:  detroitzoo.org animals wildlife-conservation " class="button button-icon"  span class="main-icon"  span class="background"   span  span class="dzs-icon-pawprint-circle"   span   span MORE  a    p 
+ p As the home of the Center for Zoo Animal Welfare, the Detroit Zoological Society is a leader in the care and treatment of animals in captivity, developing best practices to meet their physical and social needs. CZAW is a resource center for captive animal welfare knowledge; a convener and forum for exotic animal welfare science, practice and policy discussions; and a center conducting research and training, and recognizing advances in exotic animal welfare.   p 
+ p class="text-right" 
+ a href="https:  detroitzoo.org animals center-for-zoo-animal-welfare " class="button button-icon"  span class="main-icon"  span class="background"   span  span class="dzs-icon-pawprint-circle"   span   span MORE  a    p 
+ p Classes held in January, February and March at the Detroit Zoo The Detroit Zoological Society (DZS) is inviting Southeast Michigan residents to hop to it and join the local chapter of FrogWatch USA. The citizen science program teaches volunteers how to identify frogs and toads by their breeding calls and to gather and record data […]  p 
+ p class="text-right" 
+ a href="https:  detroitzoo.org animals frogwatch " class="button button-icon"  span class="main-icon"  span class="background"   span  span class="dzs-icon-pawprint-circle"   span   span MORE  a    p 
+ p class="hide-for-large" 
+Celebrating and Saving Wildlife
+  p 
+ p class="footer-meta" 
+8450 W. 10 Mile Road, Royal Oak, MI 48067  span class="separator" |  span   span class="phone" 248-541-5717  span 
+  p 
+ p class="footer-blurb" 
+  p 
+ p The Detroit Zoological Society – a renowned leader in br 
+humane education, wildlife conservation, animal welfare br 
+and environmental sustainability – operates the br 
+Detroit Zoo and Belle Isle Nature Center.  p 

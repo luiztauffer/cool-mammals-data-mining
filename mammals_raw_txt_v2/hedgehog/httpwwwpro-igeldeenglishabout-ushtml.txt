@@ -1,0 +1,66 @@
+ p  img src=".. pics print-logo.gif" width="100" height="55" border="0" alt="Printlogo"     
+         span class="h1" Printable version  span   p 
+ p  span class="h1" About us  span   p 
+ p  span class="h4" Contents:  span  br 
+                -  a class="nav1" href="#aufg" Aims and objectives  a  br 
+                -  a class="nav1" href="#adress" Addresses  a  br 
+                -  a class="nav1" href="#bank" Bank details – account for donations  a  br 
+                -  a class="nav1" href="#netz" Hedgehog Help Network  a  br 
+                -  a class="nav1" href="#center" Hedgehog Information Centre  a  br 
+                -  a class="nav1" href="#presse" Press releases  a  br 
+                -  a class="nav1" href="#taetig" Activity reports  a  br 
+                  p 
+ p Pro Igel, the Association for Integrated Nature Conservation in Germany is a nationwide association active
+                throughout Germany which advocates conservation of the native hedgehog ( span class="wiss" Erinaceus europaeus
+                Linné 1758  span ) by public relations and numerous publications.
+                  p 
+ p ... inform the public about  problems faced by hedgehogs and  promote conservation measures
+                  p 
+ p ... support research projects into the behaviour, biology and habitat of the hedgehog  p 
+ p ... collect and communicate relevant information to encourage a professional level of care for sick and
+                injured hedgehogs  p 
+ p ... to contribute to the exchange of practical knowledge and co-operation between hedgehog conservationists or
+                to endorse them.  p 
+ p ... anyone who has found a hedgehog by giving advice over the phone, by correspondence and also in sending them
+                our publications on hedgehog help  p 
+ p ... hedgehog lovers, editors, university staff and students and anyone interested in hedgehogs with advice and with our
+                info-material on any questions and or projects on anything concerning hedgehogs  p 
+ p ... with the help of specialists, consistent and regularly updated information on the conservation and care of hedgehogs
+                for rehabilitators, veterinary surgeons and anyone who is interested in hedgehogs  p 
+ p ... our magazine "Igel-Bulletin" twice a year, 8000 copies of which are read in fifteen european countries  p 
+ p ... the first educational software on hedgehogs for schools from year 2, for environmental studies institutes and for
+                everyone who cares about hedgehogs  p 
+ p ... with the Swiss Association "pro Igel" a video film "Igel-Leben"- (the Life of the Hedgehog)  p 
+ p ... in co-operation with the Arbeitskreis Igelschutz Berlin e.V. (The Working Group for Hedgehog Conservation  in Berlin)
+                the CD entitled „Parasitoses and Mycoses of the Hedgehog“ as an aid to diagnosis and treatment  p 
+ p ... scientific theses and endorsed research projects and dissertations on the subject of hedgehogs  p 
+ p ... Press releases for and contributions to all types of media  p 
+ p ... the "Hedgehog Hotline" where anyone at any time can hear seasonally updated information on hedgehogs, which can also be
+                received as a fax. Our information service not only promotes the professional care of hedgehogs in need of help but
+                frees hedgehog and animal rescue associations from having to give advice over the telephone  p 
+ p ... a code of practice for hedgehog rescue centres to raise the standards of hedgehog care  p 
+ p ... the "Hedgehog Help Network" run by dedicated carers to provide advice for hedgehog finders  p 
+ p ... the "Hedgehog House" in Laatzen near Hannover in co-operation with IGSI. There we created the
+                "Hedgehog Information Centre", the first and ten year persistent exhibition in Germany with almost 100 square
+                metres of information all about our native hedgehog  p 
+ p ...the first conference in Stuttgart in 1993 "All about the Hedgehog"  p 
+ p ...the second conference in Muenster Westfalen in 2001 "All about the Hedgehog"  p 
+ p ...the international Symposium of the European Hedgehog Research Group (EHRG) in Muenster Westfalen in 2004  p 
+ p ...the third conference in Muenster Westfalen in 2009 "All about the Hedgehog"  p 
+ p ... an extensive collection of specialist literature which is available to anyone who is interested  p 
+ p ... to work with publishers reviewing manuscripts and giving specialist advice  p 
+ p ... schools and colleges help with projects and seminars  p 
+ p ... with authorities, environmental agencies, gardening clubs, landscape gardeners and companies to promote the maintenance
+                and improvement of hedgehog habitats  p 
+ p ... with the Deutscher Tierschutzbund (German Animal Protection Federation), the
+                BUND (Bund für Umwelt und Naturschutz Deutschland = The German Association for Environment and Nature Conservation), the
+                NABU (Naturschutzbund Deutschland = German Association for Nature Conservation) and other animal and nature concervation
+                organisations to further hedgehog conservation and rescue.  p 
+ p Sparkasse Münsterland Ost br 
+                Konto-Nummer: 341 39 345 br Bankleitzahl: 400 501 50 br 
+                BIC-Swift-Code: WELADED1 MST br IBAN: DE14 4005 0150 0034 1393 45  p 
+ p Our work for hedgehogs, hedgehog conservation and rescue costs money – we are an association of specialists not
+                a membership society with members’ contributions. We finance our extensive work entirely from donations!
+                Of course we issue certificates for donations for presentation to the tax office.  p 
+ p  span class="h2a" Please support our work for hedgehog conservation and rescue!  span   p 
+ p  span class="h4" Copyright 1996-2013 Pro Igel e.V.  span   p 

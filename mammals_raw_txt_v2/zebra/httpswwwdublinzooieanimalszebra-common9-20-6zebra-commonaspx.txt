@@ -1,0 +1,8 @@
+ p class="btn" style="background: url( Images Uploaded Buttons btn-giraffe.jpg) no-repeat;"  a href=" 153 Buy-tickets.aspx"  strong Buy Tickets Online  strong  br   span Get your day ticket or annual pass here  span   a   p 
+ p class="btn" style="background: url( Images Uploaded Buttons btn-cams.jpg) no-repeat;"  a href=" 17 Webcams.aspx"  strong Animal Cams  strong  br   span Watch penguins &amp; elephants live!  span   a   p 
+ p class="btn" style="background: url( Images Uploaded Buttons btn-sealion.jpg) no-repeat;"  a href=" 67 Adopt-an-Animal.aspx"  strong Adopt an Animal  strong  br   span The ideal gift for someone special.  span   a   p 
+ p class="irish" 
+        Séabra
+      p 
+ p Zebras live in family groups of a single stallion with his mares and their offspring. Under threat from predators such as hyenas and lions, zebras bunch together to confuse attackers with a mass of stripes, or run away at speeds of up to 40mph. The stallion guards the rear and will attack predators with hooves and teeth if necessary.  p 
+ p Each zebra has a unique pattern of stripes – much like our fingerprints, in fact!  p 

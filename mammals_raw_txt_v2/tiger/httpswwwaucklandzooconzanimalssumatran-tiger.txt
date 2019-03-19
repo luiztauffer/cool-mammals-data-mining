@@ -1,0 +1,16 @@
+ p class="heading-5 || tag" data-reactid="95" Critically endangered  p 
+ p class="inline-tag" data-reactid="96"  i lang="la" data-reactid="97" Panthera tigris sumatrae  i   p 
+ p  em  strong 20 02 19  strong  Over the next few weeks our zoo crew are continuing work on the  a href="https:  www.aucklandzoo.co.nz south-east-asia" new habitat for our Sumatran tigers  a , and while we’re working on a particular section of his new home, we will temporarily close off viewing into our current tiger habitat where our tiger Berani lives. We’ll make sure to update you on when you can next visit Berani.  em   p 
+ p Sumatran tigers are the smallest and most brightly coloured of the six subspecies of tiger - they're also the most endangered with fewer than 500 left in the wild.  p 
+ p Their stripes provide camouflage against the shadows of their forest habitat. They use their excellent night-time vision and move slowly and quietly to stalk their prey.  p 
+ p Our tigers eat chicken, horse, venison, wallaby, rabbit, beef and goat and each meaty meal contains bone and hide (fur and hair) so they can gnaw on the bones and keep their digestive systems healthy.  p 
+ p Auckland Zoo is currently home to Sumatran tiger Berani (born 2008) – cared for by our dedicated team of Carnivore keepers.  p 
+ p  strong Encounter schedule  strong   p 
+ p Monday - 12.30pm  p 
+ p Friday - 12.30pm  p 
+ p Saturday - 3pm  p 
+ p Sunday - 12.30pm  p 
+ p class="subtitle" data-reactid="174" You can help save critically endangered wildlife and their homes.  p 
+ p class="description" itemprop="openingHours" title="9:30am to 5:30pm every day except Christmas" data-reactid="186"  span class="heading-2" data-reactid="187"  time datetime="09:30" data-reactid="188" 9:30am  time  !-- react-text: 189 --   !--  react-text --  !-- react-text: 190 -- - !--  react-text --  !-- react-text: 191 --   !--  react-text --  time datetime="17:30" data-reactid="192" 5:30pm  time   span  br data-reactid="193"  span data-reactid="194"  !-- react-text: 195 -- (Last entry at  !--  react-text --  !-- react-text: 196 -- 4:15pm !--  react-text --  !-- react-text: 197 -- ) !--  react-text --   span  br data-reactid="198"  span data-reactid="199" Open every day except Christmas  span   p 
+ p class="subtitle || heading-3" data-reactid="225" Sign up to our newsletter  p 
+ p data-reactid="268"  small class="fine-text" data-reactid="269" ©2018 Auckland Zoo  small  small class="fine-text" data-reactid="270"  a class="link" href=" terms-and-privacy-policy" data-reactid="271" Terms and Privacy Policy  a   small   p 

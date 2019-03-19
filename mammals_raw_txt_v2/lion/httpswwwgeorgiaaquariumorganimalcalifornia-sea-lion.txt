@@ -1,0 +1,16 @@
+ p class="prehead" Animal Guide  p 
+ p  strong Size  strong   p 
+ p  strong Swimming Diving  strong   p 
+ p  strong Vision  strong   p 
+ p California sea lions can smell on land, but not underwater  p 
+ p  strong Lifespan  strong   p 
+ p  strong Social Units Behavior  strong   p 
+ p  strong Swimming  strong   p 
+ p class="name" California Sea Lion Webcam  p 
+ p class="prehead" Experiences  p 
+ p Jump in on a wide variety of experiences and events that will make your trip to Georgia Aquarium even more memorable.  p 
+ p class="promo-slider-blurb" With our unique Seal Encounter, you'll go behind the scenes of our Cold Water Quest gallery and enjoy 30 minutes with our seals in their Aquarium home.  p 
+ p class="promo-slider-blurb" With our unique Seal Lion Encounter, you'll go behind the scenes and enjoy 30 minutes with our seal lions in their Aquarium home.  p 
+ p  a href=" privacy-policy" Privacy &amp; Terms  a   p 
+ p ©2019 Georgia Aquarium br   a href="https:  www.google.com maps @33.7638778,-84.3979549,17z" target="_blank" rel="noopener" 225 Baker Street Northwest, Atlanta, GA  a   p 
+ p  big Georgia Aquarium is a nonprofit committed to inspiring awareness and preservation of our ocean and aquatic animals worldwide.  big   p 

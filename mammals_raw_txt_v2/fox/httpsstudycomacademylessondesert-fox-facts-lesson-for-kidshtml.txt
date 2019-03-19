@@ -1,0 +1,65 @@
+ p Sara is a recently graduated PhD in Education with interdisciplinary experience in K-12 education.   p 
+ p class="nowrap" style="font-style: italic" Want to watch this again later?  p 
+ p  span class="nowrap" Log in or sign up to add this  span   span class="nowrap" lesson to a Custom Course.  span   p 
+ p class="nowrap"  a href=" academy login.html" data-cname="cust_courses_lesson_cta_login" test-id="cust_courses_lesson_cta_login" Login  a   span style="padding: 0 1em; font-size: smaller" or  span   a data-toggle="modal" href="#partialRegFormModal" data-cname="cust_courses_lesson_cta_register" test-id="cust_courses_lesson_cta_register" class="open-reg-form" Sign up  a   p 
+ p The desert is an intense place to live, with extremely hot days and very cold nights. How can a little creature like the desert fox survive in such an intense habitat? Desert foxes, also known as Fennec Foxes, have found some pretty incredible ways to adapt. Let's take a look at the desert fox.   p 
+ p One of the most surprising things about the desert fox is just how small it is. A full-grown desert fox might only weigh about two pounds. That's much smaller than even the smallest pet cat, and just a little bit heavier than a bunch of six bananas! This makes the desert fox the smallest member of the  i canid  i  family, which also includes dogs, wolves, and other foxes.   p 
+ p Despite their small size, desert foxes have giant ears. Their ears might measure as long as six inches! These long ears are great for listening for prey. Desert foxes have cream-colored fur, similar in color to the dry desert sands where they live, as well as a black-tipped tail. Their ears, color, and size are all important  b adaptations  b , or body features that help the foxes survive in a difficult environment like the desert.   p 
+ p Desert foxes have many physical and behavioral adaptations that make it possible for them to live in the desert. First, desert foxes are nocturnal, which means that they sleep through the most intense heat of the day, and are awake to hunt, eat, and play during the cooler desert nights. Their bodies are covered in insulating fur that keeps them warm during their nocturnal adventures.   p 
+ p Desert foxes also live in dens that they dig underground. These dens provide protection from the intense desert sun, as well as from predators like eagles.   p 
+ p Foxes' bodies are also well-suited to live in this harsh climate. Those big ears help desert foxes release heat, keeping their bodies at a healthy temperature. Their fur extends down to cover their feet, which provides protection from the heat of the desert sand.   p 
+ p class="actionMessage" Get access risk-free for 30 days,
+			 br just create an account.  p 
+ p  em No obligation, cancel anytime.  em   p 
+ p  em Select a subject to preview related courses:  em   p 
+ p Desert foxes also have specialized kidneys, which are body organs responsible for filtering the blood and creating urine. A desert fox's kidneys can clean their blood while also saving water, which helps the animal survive for longer periods of time without drinking.   p 
+ p Desert foxes are  b omnivores  b , meaning they survive by eating both plants and meat. Because they live in the hot, dry desert where it can be hard to find water to drink, it is important for desert foxes to eat food that has a lot of water in it. Desert foxes eat foods like fruit and plants that contain the nutrients and water that they need to survive. In addition, desert foxes can eat rodents, insects, bird eggs, and rabbits.   p 
+ p Desert foxes, also known as Fennec Foxes, are small foxes that live in the deserts of Northern Africa. Desert foxes are  b omnivores  b , eating fruits, plants, and meat to get the water and nutrients they need to survive in the desert. These animals have important  b adaptations  b , like big ears and extra-furry feet, that also help protect them from a difficult life in the desert.  p 
+ p 
+				    span class="icon-unlock"   span 
+				   To unlock this lesson you must be a Study.com Member.
+				    br class="visible-xs" 
+
+				    a data-toggle="modal" href="#partialRegFormModal" data-cname="transcript_create_your_account" test-id="transcript_create_your_account" data-track-visible class="open-reg-form" Create your account  a 
+			     p 
+ p class="login-text" Already a member?  a data-cname="transcript_log_in" test-id="transcript_log_in" href=" academy login.html" Log In  a   p 
+ p class="login-text" 
+		Already registered?
+		
+		 a href=" academy login.html?cta=teacherPromo" class="standardLink" data-cname="teacher-promo-paywall__login" test-id="teacher-promo-paywall__login" 
+			Login here for access
+		  a 
+	  p 
+ p Did you know… We have over 160 college
+						courses that prepare you to earn
+						credit by exam that is accepted by over 1,500 colleges and universities. You can test out of the
+						first two years of college and save thousands off your degree. Anyone can earn
+						credit-by-exam regardless of age or education level.  p 
+ p To learn more, visit our  a href=" academy try earn-college-credit.html" data-cname="earning_credit_link" test-id="earning_credit_link" Earning Credit Page  a   p 
+ p Not sure what college you want to attend yet? Study.com has thousands of articles about every
+							imaginable degree, area of
+							study
+							and career path that can help you find the school that's right for you.  p 
+ p Get the unbiased info you need to find the right school.  p 
+ p Browse an area of study or degree level.  p 
+ p class="visible-xs"  span class="icon-arrow-left"   span  Back To Course  p 
+ p 
+							  span class="numChapters" 34  span  chapters |
+							  span class="numLessons" 317  span  lessons
+							 
+						  p 
+ p Next Lesson  p 
+ p ©  copyright 2003-2019 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		  p 
+ p Your Cart is Empty. Please Choose a Product.  p 
+ p Study.com video lessons have helped over  em class="red bold" 30 million  em 
+										students.  p 
+ p "I learned more in  em class="teal bold" 10 minutes  em  than 1 month of chemistry classes"  p 
+ p - Ashlee P.  p 
+ p "I aced the CLEP exam and earned  em class="green bold" 3 college credits!  em "  p 
+ p - Clair S.  p 
+ p test-id="testimonial_control_text" "The videos have changed the way I teach! The videos on Study.com accomplish in
+							 em class="red bold" 5 minutes  em  what would take me an entire class."  p 
+ p - Chris F.  p 

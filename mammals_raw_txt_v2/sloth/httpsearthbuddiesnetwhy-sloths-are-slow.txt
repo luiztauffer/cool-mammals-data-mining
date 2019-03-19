@@ -1,0 +1,35 @@
+ p 
+			 input name="s" placeholder="enter keywords" value="" type="text" 
+			 button type="submit" class="cmsms-icon-search-7"   button 
+		  p 
+ p When you see a sloth, you might think how can such animal be so lazy, sleeping all day and once they wake up they are moving so slowly. Even its name is translated as laziness in some languages, it even belongs to one of Dante’s seven deadly sins.  p 
+ p A French naturalist, Georges Buffon mentioned this animal in his  a href="http:  theday.co.uk opinion why-i-believe-the-sloth-is-a-hero-of-evolution" target="_blank" rel="noopener" encyclopedia of life science  a  that was published in 1749. “These sloths are the lowest form of existence. One more defect would have made their lives impossible,” he stated.  p 
+ p Indeed, sloth is the slowest mammal on earth, but being slow is the choice that the animal made on its own. There is a secret behind its slowness that keeps them living on earth. Here we will talk about this secret and some other secrets that sloth keeps slowly.  p 
+ p The reason why they are so slow is not because they are lazy, this is an act of survival that they do. And the fact that they have roamed this earth since 64 million years ago proved that this act of survival is one of the most successful act than others.  p 
+ p To track how could they become so slow, we have to go back to 40 million years ago when the ancient sloth named megatherium was not climbing up in the trees but dwelling on the land. It was a giant species the size of elephant, even more.  p 
+ p The ground sloth roamed South America and North America until human appeared about 10 thousand years ago. Human appearance was predicted to make the megatherium disappeared because of hunting activities and the giant animal chose a way to avoid human.  p 
+ p That’s when they choose to climb up the trees and hide from their threats on the ground. They learned to eat only leaf on the trees and maintain to not coming down to the ground. But how can it make sloths to be a slow animal? We will explain it.  p 
+ p Animal who are eating only leaf is so rare among animal world, because even herbivores are still eating other parts of the trees like seeds, fruits, and even the woods. But sloth maintain to eat only the leaf and that’s why they are so slow.  p 
+ p Leaf contain so little energy and nutrients, thus, adapting to eat only leaf means that they have to also adapt to the less nutrients and energy. it affected their metabolism rate, making their sloth having very slow metabolism rate.  p 
+ p Their stomachs consist of large and slow-acting multiple compartments where symbiotic bacteria break down the leaves. And inside those stomachs there is great number of leaves eaten, even as two-thirds of a sloth’s body is the leaves they eat and being digested in the stomach.  p 
+ p They digest all the food in their stomachs very slowly, making them to only poop once in a week. And for your information, this pooping activity is the only time sloths coming down to the ground. This is maybe the only time they are vulnerable to the predators, and human.  p 
+ p This is why they move in a slow motion, having very slow metabolism rate means that they have so little energy spare. And moving slowly consume very less energy than moving in a high pace. They move slowly because they want to conserve their energy spare to survive.  p 
+ p Being a slow animal means that the world revolves around sloths in a faster pace. Not only that, being a slow animal means that they live in a ‘colder’ world. The average temperature of a three-toed sloth is only 32 degrees Celsius, compared to human which is 36 degrees Celsius.  p 
+ p To maintain that low body temperature, sloths not only consuming so many leaves, but also spend their times sleeping up to 18 hours a day. Also, if the day seems too cold to do something, they just stay in one place and make themselves warm.  p 
+ p Although being a slow-moving animal, but sloth is a good swimmer. And once they are in the water, they can swim fast enough to cross a flowing river.  This is a big difference compared to how they can only crawl slowly on the land.  p 
+ p Even a sloth is so slow that it can only travel about 41 yards per day. That’s why, pooping is a high-risk activity for sloths. On the ground, they are easily noticeable, unlike when they are up on the tree where they are relatively hard to find.  p 
+ p When being on top of the trees, sloths are hard to notice because they have some kind of camouflage on their backs. A kind of algae growing on their backs which function both as a camouflage and snacks. Yes, those algae are snacks for the sloths anytime they want to just stay in a place in a cold day.  p 
+ p Sloth lacks of escape mechanism when being exposed to danger, they tend to only depend on their camouflaging ability from the algae. That’s why, when being exposed to danger they can just try to run away with their slow pace, making them impossible to get away from it.  p 
+ p Although basically not an endangered animal, but sloths are still facing dangers from animal trafficking and habitat destruction. Sloths are usually hunted for its meat, since some people who have tasted it the meat tastes like pork.  p 
+ p Habitat destruction is also a great danger for the sloths. Deforestation for many reasons cuts down the trees the sloths depend their lives on whether as food sources or for habitat. Some people are also known to take sloths as pet, but sloths need special attention since they live in specialized ecology.  p 
+ p Some conservationists have started an act to protect the animal like the Sloth Sanctuary in Costa Rica. The Sloth Institute Costa Rica is also known for caring, rehabilitating, and releasing sloths back in the wild. About 130 individual sloths have been known to be released back in the wild by them.  p 
+ p Sources:  p 
+ p  a href="https:  en.wikipedia.org wiki Sloth" target="_blank" rel="noopener" https:  en.wikipedia.org   a   p 
+ p  a href="https:  theconversation.com sloths-arent-lazy-their-slowness-is-a-survival-skill-63568" target="_blank" rel="noopener" https:  theconversation.com   a   p 
+ p  a href="https:  animals.howstuffworks.com mammals sloths-slow1.htm" target="_blank" rel="noopener" https:  animals.howstuffworks.com   a   p 
+ p  a href="http:  www.iflscience.com plants-and-animals sloths-arent-lazy-their-slowness-is-a-survival-skill " target="_blank" rel="noopener" http:  www.iflscience.com   a   p 
+ p class="akismet_comment_form_privacy_notice" This site uses Akismet to reduce spam.  a href="https:  akismet.com privacy " target="_blank" rel="nofollow noopener" Learn how your comment data is processed  a .  p 
+ p 
+			 input name="s" placeholder="enter keywords" value="" type="text" 
+			 button type="submit" class="cmsms-icon-search-7"   button 
+		  p 

@@ -1,0 +1,55 @@
+ p Here are some facts about hedgehogs.  p 
+ p What next? Check out these related links.  p 
+ p this is beautiful, i love them with all my heart, i’d like to kiss one, but it would prick me, and thats really upsetting:( I LOVE HEDGEHOGS &lt;3  p 
+ p this helps me with my homework  p 
+ p This is good br 
+ it helped me with my homework  p 
+ p Thank you for the help! br 
+Love hedgehogs to pieces!  p 
+ p Thank you so much this helped me with my work  in school today  p 
+ p class="comment-form-comment"  label for="comment" Comment  label   textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"   textarea   p 
+ p class="comment-form-author"  label for="author" Name  span class="required" *  span   label   input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"   p 
+ p class="comment-form-email"  label for="email" Email  span class="required" *  span   label   input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"   p 
+ p class="comment-form-url"  label for="url" Website  label   input id="url" name="url" type="text" value="" size="30" maxlength="200"   p 
+ p class="comment-form-cookies-consent"  input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"  label for="wp-comment-cookies-consent" Save my name, email, and website in this browser for the next time I comment.  label   p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Post Comment"   input type="hidden" name="comment_post_ID" value="1269" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+  p 
+ p class="akismet_comment_form_privacy_notice" This site uses Akismet to reduce spam.  a href="https:  akismet.com privacy " target="_blank" rel="nofollow noopener" Learn how your comment data is processed  a .  p 
+ p  a href="https:  www.wattpad.com story 149316380-batu-a-tale-of-ellusia-book-one"  br 
+   img src="http:  primaryfacts.com wp-content uploads 2018 06 Batuad.jpg"  br 
+  a   p 
+ p class="post-title" 
+             a href="http:  primaryfacts.com 4771 red-admiral-butterfly-facts-and-information " title="Red Admiral Butterfly: Facts and Information" 
+              Red Admiral Butterfly: Facts and Information              a 
+            p 
+ p class="post-title" 
+             a href="http:  primaryfacts.com 4744 facts-about-platypus " title="Facts About Platypus" 
+              Facts About Platypus              a 
+            p 
+ p class="post-title" 
+             a href="http:  primaryfacts.com 4753 where-do-hedgehogs-live " title="Where do hedgehogs live?" 
+              Where do hedgehogs live?              a 
+            p 
+ p class="post-title" 
+             a href="http:  primaryfacts.com 128 lion-facts-and-information " title="Lion Facts and Information" 
+              Lion Facts and Information              a 
+            p 
+ p class="post-title" 
+             a href="http:  primaryfacts.com 4751 are-hedgehogs-lactose-intolerant " title="Are hedgehogs lactose intolerant?" 
+              Are hedgehogs lactose intolerant?              a 
+            p 
+ p class="post-title" 
+             a href="http:  primaryfacts.com 4746 do-badgers-eat-hedgehogs " title="Do badgers eat hedgehogs?" 
+              Do badgers eat hedgehogs?              a 
+            p 
+ p class="post-title" 
+             a href="http:  primaryfacts.com 80 facts-about-ancient-egyptian-pets " title="Facts About Ancient Egyptian Pets" 
+              Facts About Ancient Egyptian Pets              a 
+            p 
+ p class="post-title" 
+             a href="http:  primaryfacts.com 1825 stag-beetle-facts " title="Stag Beetle Facts" 
+              Stag Beetle Facts              a 
+            p 
+ p class="copyright footer-copyright" Copyright © 2019 Primary Facts  p 
+ p class="footer-responsive-grid-link-container footer-responsive-grid-link-disable-container"  a href="http:  primaryfacts.com 1269 hedgehog-facts ?full-site=true" rel="nofollow" class="footer-responsive-grid-link footer-responsive-grid-disable footer-link" View Full Site  a   p 

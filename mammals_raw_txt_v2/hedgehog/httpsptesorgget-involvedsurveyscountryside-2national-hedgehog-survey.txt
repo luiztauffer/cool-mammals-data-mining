@@ -1,0 +1,39 @@
+ p class="menu-title"  a class="left-off-canvas-toggle" Menu  a   p 
+ p 
+         a href=" basket" id="mobile-basket" Basket  a          a href=" donate" id="mobile-donate" Donate  a 
+         a href="#" id="mobile-search" data-reveal-id="mobile-search-modal" search  a 
+        p 
+ p class="bold" Help us protect wildlife today  p 
+ p class="bold" Help us protect wild places today  p 
+ p class="bold" Support our work today  p 
+ p class="bold" Support our work today  p 
+ p class="bold" Be a part of the success  p 
+ p class="bold" Support our work today  p 
+ p class="bold" Visit our shop today  p 
+ p class="bold" Help save endangered species today  p 
+ p class="bold" Help us protect wildlife today  p 
+ p class="bold" Help us protect wild places today  p 
+ p class="bold" Support our work today  p 
+ p class="bold" Support our work today  p 
+ p class="bold" Be a part of the success  p 
+ p class="bold" Support our work today  p 
+ p class="bold" Visit our shop today  p 
+ p class="bold" Help save endangered species today  p 
+ p We need your help to carry out a survey of hedgehogs across sites in England and Wales.   p 
+ p Long-term studies by ourselves, People’s Trust for Endangered Species, and the British Trust for Ornithology have found that hedgehogs have undergone a drastic decline within Britain over the last two decades (see  a href="https:  ptes.org wp-content uploads 2014 06 SOBH2011lowres.pdf" State of Britain’s Hedgehogs 2011  a ). Our humble hedgehog is now listed as a species of principal importance to protect.  p 
+ p That is why the  em National Hedgehog Survey  em  was carried out by  a href="http:  www.reading.ac.uk " target="_blank" University of Reading  a  and  a href="http:  www.ntu.ac.uk " target="_blank" Nottingham Trent University  a , in collaboration with  a href="http:  www.britishhedgehogs.org.uk " target="_blank" British Hedgehog Preservation Society  a  and  a title="Home" href="https:  ptes.org " target="_blank" People’s Trust for Endangered Species.  a   p 
+ p Until recently it has been difficult to find out how our nations’ hedgehogs are being affected by certain factors because of the lack of a suitable and reliable technique to study them. However, a recent pilot study by The Mammal Society, the University of Reading and Nottingham Trent University has demonstrated that special ‘footprint-tunnels’ meet this need.  p 
+ p  strong The survey has now closed and we are in the process of analysing the data.  strong   p 
+ p The devastating loss of this iconic British animal is potentially linked to a range of factors that this survey is investigating, including:  p 
+ p Together we are trying to find out:  p 
+ p Overall, we aimed to survey a minimum of 400 chosen sites across England and Wales during the summers of 2014 and 2015.  p 
+ p The data is currently being processed and once analysed will empower us to take suitable urgent action where it is most needed to save hedgehogs.  p 
+ p We have a number of other simple ways you can help us to record and save hedgehogs before it is too late.  p 
+ p Thank you.  p 
+ p We'd love to tell you about our conservation work through our regular newsletter  strong Wildlife World  strong , and also how you can save endangered species through volunteering, taking action or donating. 
+						 em You must be 18 or over. The information that you provide will be held by People’s Trust for Endangered Species.  For information on how PTES processes personal data, please see our  a href=" privacy-policy " privacy policy  a .  em   p 
+ p class="social" You can also follow us on...  p 
+ p class="social"  a href="https:  www.facebook.com ptes.org" class="facebook" Facebook  a   a href="https:  twitter.com PTES" class="twitter" Twitter  a   a href="https:  www.instagram.com ptes_org ?hl=en" class="instagram" Instagram  a   p 
+ p People's Trust for Endangered Species, 3 Cloisters House, 8 Battersea Park Road, London SW8 4BG  p 
+ p Registered Charity Number:  a href="http:  www.charitycommission.gov.uk find-charities " target="_blank" 274206  a   •  Site Design:  a href="http:  www.mikeleachcreative.co.uk" target="_blank" Mike Leach Creative  a  at  a href="http:  www.waters-creative.co.uk " target="_blank" Waters  a   •  Branding: a href="http:  www.becolourful.co.uk" target="_blank"  Be Colourful  a   p 
+ p Copyright PTES 2019  p 

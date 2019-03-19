@@ -1,0 +1,103 @@
+ p 
+
+ br A male elephant can grow up to 4 metres in height and weigh up to 7 tonnes; whilst their females counterparts can still weigh in at a mere 3.5 tonnes.
+
+  p 
+ p To feed an animal of such gigantic proportions takes a lot of food.  Their daily food intake is almost as much as 4-7% of their body weight. When you are an elephant, that equates to finding and eating an awful lot of food.  As you would expect, all that food needs to be digested and dozed off, which is why our elephant friends can deposit upwards of 150 kg of dung daily!  Eew!
+
+  p 
+ p Elephants are herbivores and only eat grasses, herbs, fruit, plants and trees. Their healthy, vegetarian diet is obviously good for them as the average elephant has a life span of around 70 odd years, a bit like we do
+
+
+  p 
+ p Despite their size, they are actually pretty nimble and can walk up to 195 km per day, although they usually only average is only 25 km on a daily basis. They can also run faster than you would expect, easily reaching speeds of 40 mph, which is a lot faster than us humans can run. 
+
+  p 
+ p Where once elephants roamed across the whole of Africa, they are now limited to conservation areas and the Savannah.  African and Asian elephants can currently be found in 37 African countries, and across 13 Asian countries. 
+
+
+  p 
+ p Most people believe that there are only two species of elephant in the word, but in fact there are three: br 
+  p 
+ p There are actually two very different species of African elephants living on the African continent, both very different in their culture and appearance. 
+
+  p 
+ p Elephants are gentle, intelligent creatures that must be protected to ensure that they remain part of our natural ecosystem for centuries to come. 
+  p 
+ p Elephants for Africa is a registered charity in England &amp; Wales (number 1179318) and a registered NGO in Botswana (number CR12058).  p 
+ p style="text-align: left;" 	 style 
+		.widget_mailchimpsf_widget .widget-title {
+		line-height: 1.4em;
+		margin-bottom: 0.75em;
+	}
+	#mc_subheader {
+		line-height: 1.25em;
+		margin-bottom: 18px;
+	}
+	.mc_merge_var {
+		margin-bottom: 1.0em;
+	}
+	.mc_var_label,
+	.mc_interest_label {
+		display: block;
+		margin-bottom: 0.5em;
+	}
+	.mc_input {
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		width: 100%;
+	}
+	.mc_input.mc_phone {
+		width: auto;
+	}
+	select.mc_select {
+		margin-top: 0.5em;
+		width: 100%;
+	}
+	.mc_address_label {
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+		display: block;
+	}
+	.mc_address_label ~ select {
+		width: 100%;		
+	}
+	.mc_list li {
+		list-style: none;
+		background: none !important;
+	}
+	.mc_interests_header {
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+	}
+	.mc_interest label,
+	.mc_interest input {
+		margin-bottom: 0.4em;
+	}
+	#mc_signup_submit {
+		margin-top: 1.5em;
+		width: 80%;
+	}
+	#mc_unsub_link a {
+		font-size: 0.75em;
+	}
+	#mc_unsub_link {
+		margin-top: 1.0em;
+	}
+	.mc_header_address,
+	.mc_email_format {
+		display: block;
+		font-weight: bold;
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+	}
+	.mc_email_options {
+		margin-top: 0.5em;
+	}
+	.mc_email_type {
+		padding-left: 4px;
+	}
+	  style 
+	
+  p 

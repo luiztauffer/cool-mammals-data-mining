@@ -1,0 +1,66 @@
+ p Lauren has taught intermediate reading in an English Language Institute, and she has her Master's degree in Linguistics.  p 
+ p class="nowrap" style="font-style: italic" Want to watch this again later?  p 
+ p  span class="nowrap" Log in or sign up to add this  span   span class="nowrap" lesson to a Custom Course.  span   p 
+ p class="nowrap"  a href=" academy login.html" data-cname="cust_courses_lesson_cta_login" test-id="cust_courses_lesson_cta_login" Login  a   span style="padding: 0 1em; font-size: smaller" or  span   a data-toggle="modal" href="#partialRegFormModal" data-cname="cust_courses_lesson_cta_register" test-id="cust_courses_lesson_cta_register" class="open-reg-form" Sign up  a   p 
+ p Animals can be named for many different things. Some are named after their geographic range, while others are named for a physical feature. Sometimes a single animal might end up being named after both! A good example of this is the  b Indian rhinoceros  b  ( i Rhinoceros unicornis  i ). The name 'Indian rhino' refers to its geographic range. However, it is also called the greater one-horned rhino, which refers to a physical trait. This rhino has only one horn, where many rhino species have two or more. Clearly, how animals are named can vary, even within a single species!   p 
+ p The majority of the Indian rhino's geographic range is in India, as the name implies. Specifically, it is found in northern India, near the Himalayan mountain range. The Indian rhino is also found in southern Nepal, along the Himalayas where Nepal borders India. In the past, this species had a much wider territory, but as their numbers have dwindled, they are more restricted, and are now mostly found along the India-Nepal border.   p 
+ p Indian rhinos often live in  b flood plains  b , which are areas near rivers that flood in the rainy season. The soil in these areas is rich and grows a lot of vegetation, which is perfect for the grass-eating rhinoceros. In addition, these rhinos sometimes live in the forests and swamps near flood plains, or in other grassland areas.   p 
+ p The part of the world where this species lives is surrounded by humans, so rhinos sometimes find themselves living in human-made fields or forests. For the most part they are a solitary species, and live alone except for a mother with her baby.   p 
+ p In general, rhinoceroses are very large animals. Adult male Indian rhinos can grow up to five feet and eight inches in height, and weigh more than 5,500 pounds! They are gray and wrinkly all over, and their skin folds in places so it looks like they are wearing plates of armor.   p 
+ p Indian rhinos, like other rhino species, have terrible eyesight. However, their excellent hearing and sense of smell helps make up for that. In addition, their upper lip is  b prehensile  b , which means they can use it to grip things. This helps them grab and pull up grass, or pull leaves off of shrubs and trees.   p 
+ p One interesting thing about Indian rhinos is that they can swim very well. In fact, they are the best swimmers among all the rhino species. They can also run up to 34 miles per hour, though they can't stay at this speed for very long. One more interesting thing is that the males do not have strict territorial boundaries. They have a general range that they stay within, but this range often overlaps with the ranges of other males.   p 
+ p Unfortunately, back in the early 1900s Indian rhinos suffered a severe drop in numbers. They were hunted for their horn, which is used in traditional Chinese medicine as a treatment for many different ailments. In addition, much of their habitat was destroyed. The fertile soil in their flood plains made the plains a good place for farms, so the rhinoceroses' habitat was converted, leaving the rhinos with nowhere to go. At one point, there were less than 200 left in the wild.   p 
+ p class="actionMessage" Get access risk-free for 30 days,
+			 br just create an account.  p 
+ p  em No obligation, cancel anytime.  em   p 
+ p  em Select a subject to preview related courses:  em   p 
+ p However, the Indian rhino is actually an ongoing conservation success story! They have been actively protected since 1975, and their population numbers are now up to more than 2500. Though that is still low, it is a vast improvement. Conservation efforts are continuously underway, and there is a long-term project in place called Indian Rhino Vision 2020. Following this plan, conservationists are instituting protected areas, increasing security to stop  b poaching  b , or illegal hunting, and moving rhinos so that they are not all concentrated within one small park. Hopefully, with these actions going on, the Indian rhino's numbers will continue to increase.   p 
+ p  b Indian rhinos  b  are also called greater one-horned rhinos, and they were named for both their geographic range and their single horn. They are found in northern India and southern Nepal, at the base of the Himalayan mountain range. They prefer to live in  b flood plains  b , though they also live in nearby swamps and forests, or other grasslands. Indian rhinos are quite large, and have terrible eyesight, though their hearing and smell are good. They also have  b prehensile  b  upper lips. Of all the rhino species, Indian rhinos are the best swimmers, and they can run up to 34 miles per hour. Their conservation is ongoing, and has been largely successful. There are now around 2500 in the wild, up from less than 200 in the early 1900s. Back then, they were hunted for their horn, and their flood plains were converted into farms. Current conservation actions such as increasing security against  b poaching  b  and adding protected areas have helped increase the rhino's numbers.  p 
+ p 
+				    span class="icon-unlock"   span 
+				   To unlock this lesson you must be a Study.com Member.
+				    br class="visible-xs" 
+
+				    a data-toggle="modal" href="#partialRegFormModal" data-cname="transcript_create_your_account" test-id="transcript_create_your_account" data-track-visible class="open-reg-form" Create your account  a 
+			     p 
+ p class="login-text" Already a member?  a data-cname="transcript_log_in" test-id="transcript_log_in" href=" academy login.html" Log In  a   p 
+ p class="login-text" 
+		Already registered?
+		
+		 a href=" academy login.html?cta=teacherPromo" class="standardLink" data-cname="teacher-promo-paywall__login" test-id="teacher-promo-paywall__login" 
+			Login here for access
+		  a 
+	  p 
+ p Did you know… We have over 160 college
+						courses that prepare you to earn
+						credit by exam that is accepted by over 1,500 colleges and universities. You can test out of the
+						first two years of college and save thousands off your degree. Anyone can earn
+						credit-by-exam regardless of age or education level.  p 
+ p To learn more, visit our  a href=" academy try earn-college-credit.html" data-cname="earning_credit_link" test-id="earning_credit_link" Earning Credit Page  a   p 
+ p Not sure what college you want to attend yet? Study.com has thousands of articles about every
+							imaginable degree, area of
+							study
+							and career path that can help you find the school that's right for you.  p 
+ p Get the unbiased info you need to find the right school.  p 
+ p Browse an area of study or degree level.  p 
+ p class="visible-xs"  span class="icon-arrow-left"   span  Back To Course  p 
+ p 
+							  span class="numChapters" 23  span  chapters |
+							  span class="numLessons" 296  span  lessons
+							 
+						  p 
+ p Next Lesson  p 
+ p ©  copyright 2003-2019 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		  p 
+ p Your Cart is Empty. Please Choose a Product.  p 
+ p Study.com video lessons have helped over  em class="red bold" 30 million  em 
+										students.  p 
+ p "I learned more in  em class="teal bold" 10 minutes  em  than 1 month of chemistry classes"  p 
+ p - Ashlee P.  p 
+ p "I aced the CLEP exam and earned  em class="green bold" 3 college credits!  em "  p 
+ p - Clair S.  p 
+ p test-id="testimonial_control_text" "The videos have changed the way I teach! The videos on Study.com accomplish in
+							 em class="red bold" 5 minutes  em  what would take me an entire class."  p 
+ p - Chris F.  p 

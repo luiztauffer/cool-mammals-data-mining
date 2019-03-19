@@ -1,0 +1,30 @@
+ p mlns:og="http:  ogp.me ns#" xmlns:fb="http:  www.facebook.com 2008 fbml" xmlns:website="http:  ogp.me ns website#"&gt;
+
+ !--[if lte IE 8]   html class="no-js ie8" lang="en"   ![endif]-- 
+ !--[if IE 9]       html class="no-js ie9" lang="en"   ![endif]-- 
+ !--[if gt IE 9]  !--    !-- ![endif]-- 
+  p 
+ p class="small type--bold"  i class="icon icon--facebook"   i 
+			2
+			  p 
+ p class="small type--bold"  i class="icon icon--twitter"   i 
+			0
+			  p 
+ p We are very excited to announce the arrival of four Capybaras who arrived from Paris Zoological Park this week!  p 
+ p  span style="font-size: 1.6rem; line-height: 2.6rem;" Our male Capybara, Guarani and three females, Vara, Guara and Iapa have just recently been moved into their new home near the entrance to the Zoo and are settling in well.  span   p 
+ p The Capybara is the world’s largest rodent and they share similar features with rats, mice and Guinea pigs, such as their ever-growing front teeth. One of their notable features is their partially webbed feet, making the Capybara excellent swimmers!  p 
+ p You can easily tell the difference between a male and female Capybara - just look for the scent gland found on the nose of a male Capybara. This bump is called a morillo and is used as a way of sending out a chemical signal, particularly during breeding season.  p 
+ p Although Capybaras are not endangered, their populations have been affected by hunting and habitat loss. Capybaras are native to Central America and South America with many other animals sharing nearby habitats, such as the Golden Lion Tamarins and the Cotton-Top Tamarins which are listed as endangered by the IUCN.  p 
+ p Wellington Zoo actively supports a range of both local and global conservation projects to help save animals that live in the same home range as Capybara. We have partnered with organizations such as Associatcão Mico-Leão-Dourado (AMLD) in Rio de Janeiro, Brazil to save the Golden Lion Tamarin, as well as Proyecto Titi in Colombia, to monitor wild populations of Cotton Top Tamarins.  p 
+ p Good zoos work together with field conservation projects to help local communities to save animals in their home range. We then share those stories with all of you so we all know how we can help to save animals in the wild br If you’re out and about the Zoo these school holidays, make sure you say hi to our Capybaras and learn all about these charismatic animals and how we can protect their habitat in the wild.  p 
+ p  strong Did you know?  strong   p 
+ p The Capybara is a semi-aquatic mammal and is found predominantly near ponds, rivers or lakes throughout southern Central America and northern South America. They love water and can stay submerged for up to five minutes!  br Capybaras are herbivores, eating mostly grass, water plants and vegetables, as well as fruit and tree bark. They are also a herd species, which means they are a very social animal.  p 
+ p class="related__lead" You may also like:  p 
+ p class="splash__lead" 
+							Our email newsletter keeps you up to date with what's happening at the Zoo.
+						  p 
+ p class="small clearfix" 
+						 a href="https:  wellingtonzoo.com " class="footer__logo" 
+							 i class="icon icon--logo"   i 
+						  a 
+						Wellington Zoo is a charitable trust and a member of Zoo and Aquarium Association Australasia (ZAA) and the World Association of Zoos and Aquariums (WAZA). Wellington Zoo is the world's first carboNZero certified zoo.  p 

@@ -1,0 +1,59 @@
+ p class="role" 
+      Assistant Professor of Natural Resources Science, University of Rhode Island
+      p 
+ p  span Brian Gerber does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.  span   p 
+ p The Conversation UK receives funding from these organisations  p 
+ p  a href=" uk partners"  strong View the full list  strong   a   p 
+ p 
+       a class="license-logo" href="http:  creativecommons.org licenses by-nd 4.0 "  img src=" assets call-to-actions republish-ca547a7c5135cc6d1a28933dc8b6823c.png" alt="Republish"   a 
+      Republish our articles for free, online or in print, under Creative Commons licence.
+      p 
+ p The Javan rhino ( em Rhinoceros sondaicus  em ) is found only at the very western tip of the Indonesian island of Java, in the rainforest habitats of Ujung Kulon National Park (UKNP). However, this wasn’t always so. Many species have small natural ranges, but Javan rhinos once inhabited much of Southeast Asia. Now landscape changes, habitat loss and hunting have reduced their numbers to a precarious few. The last known Javan rhino in  a href="https:  doi.org 10.1016 j.biocon.2014.03.014" mainland Asia  a  was poached in 2009. Today Javan rhinos are  a href="http:  www.iucnredlist.org details 19495 0" listed as critically endangered  a  by the International Union for the Conservation of Nature.   p 
+ p Recovering any wild animal population with so few individuals remaining is very difficult. Small populations grow slowly even in the best of circumstances. And if even a few animals are lost to poaching, disease or other factors, the loss represents a relatively large proportion of the population.   p 
+ p It also is very hard to count small populations and characterize their distribution accurately. Often this critical information is poorly known, which makes it challenging for scientists to track the population and evaluate whether their actions are having positive effects. Nonetheless, scientists and the Indonesian government are forming a plan to rescue this imperiled species.  p 
+ p The rhino lineage has survived 50 million years through ice ages and attacks from prehistoric animals, such as the  a href="http:  prehistoric-fauna.com Hemicyon" “dog-bear” ( em Hemicyon sansaniensis  em )  a . Rhinos play a significant role in structuring ecosystems. The Javan rhino creates unique habitats within the rainforest by dispersing seeds, creating mud wallows and removing large amounts of understory plants. Losing it would mean a less diverse forest.  p 
+ p But despite almost a century of studies on the Javan rhino, we still know relatively little about them. The first estimate of the rhino population in UKNP, made in 1937, put their numbers at  a href="http:  www.rhinoresourcecenter.com index.php?s=1&amp;act=pdfviewer&amp;id=1354686368&amp;folder=135" 20 to 25  a . Since then, at least 36 population surveys have attempted to count the rhinos, but most have failed to account reliably for the entire population or provide much insight into the factors that drive their distribution within UKNP.   p 
+ p Javan rhinos range over large areas of dense and swampy rainforest, and researchers rarely see them. Instead we find tracks and dung, which help us understand the habitats that rhinos use, but are rarely good indicators of population size. More recently, scientists set up camera traps to capture images of rhinos, but without high-quality images it was hard to tell individual animals apart.  p 
+ p Over the past four years, I have worked as an external scientific advisor with researchers and biologists from  a href="http:  www.wwf.or.id " World Wildlife Fund Indonesia  a  and  a href="https:  www.worldwildlife.org " the United States  a , UKNP biologists,  a href="https:  www.globalwildlife.org " Global Wildlife Conservation  a  and the Indonesian nongovernment agency  a href="http:  badak.or.id " YABI  a  to help create a robust strategy for monitoring Javan rhinos.  p 
+ p Building on past efforts, my colleagues developed a systematic approach to deploy camera traps throughout the rhino habitat of UKNP. Expert field biologists trekked over intense rainforest terrain to install cameras at 178 locations. Each camera was set to record a high-quality video clip of any animal that walked past. While biologists are rarely lucky enough to see one of the rhinos, their hard work keeping the cameras operating over the course of a year led to obtaining 36,104 video clips, of which 1,660 were of rhino.   p 
+ p My role was to work with these expert biologists to develop robust statistical methods using these video data to provide estimates of population size and distribution. First, however, we had to ensure that we could reliably identify individuals from the videos. We did this by having three independent teams identify rhinos and compare results. This led to a multi-step identification process that uses morphological features, such as sex, horn shape and position, skin wrinkles around the eyes, neck skin folds and scars.  p 
+ p Once we could recognize individual rhinos, we could figure out how often we saw each rhino and where. We fit these data using statistical models to estimate rhino movement, population size and spatial distribution. We outline our developments and findings in a  a href="http:  dx.doi.org 10.1111 conl.12366" new research paper, published in the journal Conservation Letters  a .  p 
+ p Most importantly, we were able to precisely estimate the population of Javan rhinos at 62 animals. We saw some positive signs, such as videos of calves and juvenile rhinos, but the population does not appear to be growing. Javan rhino populations generally do not grow very fast. Females typically reach sexual maturity by three to four years of age, but males typically aren’t mature until six years of age. Females have only one calf at a time and will typically not produce another for four to five years. Their gestation period is 16 months.  p 
+ p Using our statistical model, we also found that male rhinos range over larger areas than females and that both sexes prefer low-elevation areas, often near the coastline. They almost completely avoid mountainous regions of the national park. Rhinos also prefer to be close to mud wallows, where they can spend much of a day caking their skin with mud to regulate their body temperature, ward off biting insects and remove parasites.  p 
+ p With this new information in hand, we are working to help the Indonesian government and its conservation partners take steps to further protect Javan rhinos in UKNP and preserve the species. Our research shows that the rhinos are at serious risk from tsunamis, since their preferred habitat is  near the coastline.   p 
+ p Just off the coast of UKNP lies the  a href="http:  volcano.si.edu region.cfm?rn=6" Sunda Arc  a , an area of converging tectonic plates that routinely cause earthquakes which can trigger tsunamis. And just north of UKNP is  a href="http:  volcano.oregonstate.edu krakatau" Anak Krakatau  a  volcano, which has been forming since the 1920s within the caldera of Krakatau (often misspelled Krakatoa), the famous volcano that exploded in 1883, creating tsunamis that killed more than 30,000 people. Anak Krakatau, or “child of Krakatau,” erupts frequently and has high potential to produce tsunamis.  p 
+ p Protecting the Javan rhino from extinction will require establishing additional populations, which in turn will require removing some rhinos from UKNP. Translocating wild animals is  a href="https:  theconversation.com galapagos-giant-tortoises-make-a-comeback-thanks-to-innovative-conservation-strategies-67591" a common approach in conservation  a , although it can pose notable risks to the animals. But given the risks to Javan rhinos as a species, doing nothing is not a viable solution.   p 
+ p This recovery effort will require significant investment and partnerships across governments, nongovernment agencies and universities. Conservationists and the Indonesian government have discussed the idea of establishing additional Javan rhino populations for decades. Our research provides the scientific rigor to ensure we have the basic demographic information needed to make these decisions and the impetus to move forward without delay.  p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events inofrugal-uk-6967" 
+           span class="name" Inofrugal UK  span 
+          —
+           span class="location" Cambridge, Cambridgeshire  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events britains-housing-crisis-designing-future-homes-and-cities-6751" 
+           span class="name" Britain's Housing Crisis - designing future homes and cities  span 
+          —
+           span class="location" Reading, Reading  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events karate-kid-vs-rocky-balboa-the-science-of-strength-and-power-6915" 
+           span class="name" Karate kid vs. Rocky Balboa: The science of strength and power  span 
+          —
+           span class="location" Cambridge, Cambridgeshire  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events depression-and-decolonisation-revisiting-the-1930s-in-the-british-and-french-caribbean-6686" 
+           span class="name" Depression and Decolonisation: Revisiting the 1930s in the British and French Caribbean  span 
+          —
+           span class="location" London, London, City of  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events beethoven-mayer-and-dvorak-royal-holloway-symphony-orchestra-6560" 
+           span class="name" Beethoven, Mayer and Dvořák: Royal Holloway Symphony Orchestra  span 
+          —
+           span class="location" Egham, Surrey  span 
+  a         p 
+ p class="copyright" 
+       span Copyright © 2010–2019  span  span class="comma" ,   span  span  a href=" uk who-we-are" The Conversation Trust (UK) Limited  a   span 
+      p 

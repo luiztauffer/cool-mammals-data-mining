@@ -1,0 +1,45 @@
+ p class="menu-title"  a class="left-off-canvas-toggle" Menu  a   p 
+ p 
+         a href=" basket" id="mobile-basket" Basket  a          a href=" donate" id="mobile-donate" Donate  a 
+         a href="#" id="mobile-search" data-reveal-id="mobile-search-modal" search  a 
+        p 
+ p class="bold" Help us protect wildlife today  p 
+ p class="bold" Help us protect wild places today  p 
+ p class="bold" Support our work today  p 
+ p class="bold" Support our work today  p 
+ p class="bold" Be a part of the success  p 
+ p class="bold" Support our work today  p 
+ p class="bold" Visit our shop today  p 
+ p class="bold" Help save endangered species today  p 
+ p class="bold" Help us protect wildlife today  p 
+ p class="bold" Help us protect wild places today  p 
+ p class="bold" Support our work today  p 
+ p class="bold" Support our work today  p 
+ p class="bold" Be a part of the success  p 
+ p class="bold" Support our work today  p 
+ p class="bold" Visit our shop today  p 
+ p class="bold" Help save endangered species today  p 
+ p class="fact-file-status" Native, common and widespread  p 
+ p 225,000 (rural), 33,000 (urban)  p 
+ p class="latin" Vulpes vulpes  p 
+ p The distinctive red-brown fur and long bushy tail of the fox are a familiar sight almost everywhere in the British Isles. Foxes are intelligent, adaptable mammals, opportunistic, with unfussy palates, and they make use of a wide range of habitats, including those of towns and cities. They are social animals, living in family groups of a breeding pair, together with cubs in the spring, and sometimes other subordinate juveniles and adults. The latter are usually young born the previous year and help with the rearing of cubs, feeding, grooming and playing with them. Each group occupies a territory, which is marked with urine and scats. Dens (called ‘earths’) may be dug in banks or make use of (disused or occupied) badger setts or old rabbit burrows. In urban areas, favoured sites for dens are under buildings or sheds, and in overgrown gardens and cemeteries.  p 
+ p Foxes hunt and scavenge with keen senses of smell and hearing, and probably use the latter to locate earthworms, which can make up a large part of their diet.  p 
+ p Head-body Length: 56 – 75cm br 
+Tail length: Slightly more than half the head-body length br 
+Weight: 4.0 – 9.5kg br 
+Lifespan: Maximum age in the wild is 10 – 11 years. In areas where they are controlled, fewer than 1% will survive more than 6 years  p 
+ p Foxes mate between December and February, and litters of 4 – 5 blind and deaf cubs are born between March and May. Mothers spend almost all of their time with the cubs for the first 2 – 3 weeks, receiving food from the male or other members of the group. The young are weaned at four weeks and are independent by the autumn, typically moving away between October and January.  p 
+ p Almost anything from rabbits, field voles, earthworms and insects, to fruit and vegetables. In urban areas, they scavenge food from rubbish bins and gardens. Food is often stored to be eaten later.  p 
+ p Most abundant in habitats offering a variety of shelter and food, including woodland, farmland, scrub and upland areas, as well as residential suburbs and gardens.  p 
+ p Few natural predators but cubs may be killed by badgers, dogs, and golden eagles. Most deaths are caused by humans.  p 
+ p Road traffic, accidental and deliberate poisoning, and shooting.  p 
+ p Native, common and widespread. Hunting with dogs is illegal in England and Wales under the Hunting Act 2004 and is also illegal in Scotland.  p 
+ p GB population 225,000 (rural); 33,000 (urban). There has been little change in the population over the last 10 years. Foxes are widely distributed in Britain and Ireland but are absent from all the Scottish islands, except Skye and Harris, and from the Scilly and Channel isles.  p 
+ p Foxes communicate with each other using a wide range of calls, facial expressions and body postures, as well as scent markings. Twelve adult and eight pup vocalisations have been identified and 28 groups of sounds described. The loud contact calls made by both sexes, particularly in the winter, include a blood-chilling ‘scream’ that has unsettled many an urban resident.  p 
+ p We'd love to tell you about our conservation work through our regular newsletter  strong Wildlife World  strong , and also how you can save endangered species through volunteering, taking action or donating. 
+						 em You must be 18 or over. The information that you provide will be held by People’s Trust for Endangered Species.  For information on how PTES processes personal data, please see our  a href=" privacy-policy " privacy policy  a .  em   p 
+ p class="social" You can also follow us on...  p 
+ p class="social"  a href="https:  www.facebook.com ptes.org" class="facebook" Facebook  a   a href="https:  twitter.com PTES" class="twitter" Twitter  a   a href="https:  www.instagram.com ptes_org ?hl=en" class="instagram" Instagram  a   p 
+ p People's Trust for Endangered Species, 3 Cloisters House, 8 Battersea Park Road, London SW8 4BG  p 
+ p Registered Charity Number:  a href="http:  www.charitycommission.gov.uk find-charities " target="_blank" 274206  a   •  Site Design:  a href="http:  www.mikeleachcreative.co.uk" target="_blank" Mike Leach Creative  a  at  a href="http:  www.waters-creative.co.uk " target="_blank" Waters  a   •  Branding: a href="http:  www.becolourful.co.uk" target="_blank"  Be Colourful  a   p 
+ p Copyright PTES 2019  p 

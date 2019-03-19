@@ -1,0 +1,25 @@
+ p Tigers are incredibly adaptable animals that can be found in a variety of climates and habitat types across Asia. They can survive in extreme temperatures: from -40°c (Russia) to +40°c (India)! Take a look through the gallery below to learn more about the types of habitat that tigers live in.  p 
+ p 
+                p 
+ p A picture is worth a thousand words. br 
+Take a look at tiger conservation work through a visual lens!   p 
+ p 
+  Get all the latest news on the work to double wild tiger numbers straight to your inbox!
+   br 
+   a href="http:  wwf.panda.org privacy " target="_blank" title="Open privacy policy in new window" Privacy Policy  a 
+  p 
+ p 
+     input type="text" name="FULLNAME" placeholder="Your Name" required 
+	 input type="email" name="EMAIL" placeholder="Your email address" required 
+  p 
+ p 
+  Please choose the frequency of your Tiger News Update
+  p 
+ p 
+ label 
+     input name="GROUPINGS[5693]" type="radio" value="20729" checked   span Daily Digest  span 
+  label 
+ label 
+     input name="GROUPINGS[5693]" type="radio" value="20733"   span Monthly Digest  span 
+  label 
+  p 

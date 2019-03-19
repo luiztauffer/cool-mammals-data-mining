@@ -1,0 +1,83 @@
+ p  strong By Product Type  strong   p 
+ p  strong By Research Area  strong   p 
+ p  strong Other  strong   p 
+ p style="margin-top: 10px; padding: 0rem 0.8rem;"  strong By Product Type  strong   p 
+ p  a href=" products polyclonal-antibodies " Polyclonal Antibodies  a   p 
+ p  a href=" products monoclonal-antibodies " Monoclonal Antibodies  a   p 
+ p  a href=" products tagcontrol-antibodies " Tag Control Antibodies  a   p 
+ p  a href=" products secondary-antibodies " Secondary Antibodies  a   p 
+ p  a href=" products recombinant-proteins %20" Recombinant Proteins  a   p 
+ p  a href=" products cytokines " Cytokines  a   p 
+ p  a href=" products growth-factors " Growth Factors  a   p 
+ p  a href=" products fusion-proteins " Fusion Proteins  a   p 
+ p  a href=" products elisa-kits " ELISA Kits  a   p 
+ p  a href=" products custom-production " Custom production  a   p 
+ p style="margin-top: 10px; padding: 0rem 0.8rem;"  strong By Research Area  strong   p 
+ p  a href=" products cancer " Cancer  a   p 
+ p  a href=" products cardiovascular " Cardiovascular  a   p 
+ p  a href=" products cell-division-and-proliferation " Cell Division and Proliferation  a   p 
+ p  a href=" products developmental-bio " Developmental biology  a   p 
+ p  a href=" products epigenetics " Epigenetics  a   p 
+ p  a href=" products immunology " Immunology  a   p 
+ p  a href=" products metabolism " Metabolism  a   p 
+ p  a href=" products neuroscience " Neuroscience  a   p 
+ p  a href=" products signal-transduction " Signal Transduction  a   p 
+ p  a href=" products stem-cells " Stem cells  a   p 
+ p style="margin-top: 10px; padding: 0rem 0.8rem;"  strong Other  strong   p 
+ p  a href=" products replace-santa-cruz-antibodies " Replace Santa Cruz  a   p 
+ p  a href=" promotions bulk-order-promotion" Bulk order promotion  a   p 
+ p  a href=" products featured-products " Featured Products  a   p 
+ p style="margin-top: 10px; padding: 0rem 0.8rem;"  strong Essentials  strong   p 
+ p  a href="https:  www.ptglab.com news blog product-specific-protocols " Product-specific protocols  a   p 
+ p  a href="https:  www.ptglab.com support protocols " Standard protocols  a   p 
+ p  a href="https:  www.ptglab.com support technical-faqs " Technical FAQs  a   p 
+ p  a href="https:  www.ptglab.com support service-faqs " Service FAQs  a   p 
+ p style="margin-top: 10px; padding: 0rem 0.8rem;"  strong By Application  strong   p 
+ p  a href="https:  www.ptglab.com support western-blot-protocol western-blot-protocol " Western Blot  a   p 
+ p  a href="https:  www.ptglab.com support immunohistochemistry-protocol immunohistochemistry-overview " IHC  a   p 
+ p  a href="https:  www.ptglab.com support immunofluorescence-protocol immunofluorescence-introduction " IF  a   p 
+ p  a href="https:  www.ptglab.com support immunoprecipitation-protocol introduction-to-immunoprecipitation " IP ChIP  a   p 
+ p  a href="https:  www.ptglab.com support cell-culture-protocol introduction-to-cell-culture " Cell Culture  a   p 
+ p style="margin-top: 10px; padding: 0rem 0.8rem;"  strong Other  strong   p 
+ p  a href="https:  www.ptglab.com support guarantee " Guarantee  a   p 
+ p  a href="https:  www.ptglab.com webinar-wednesdays " Webinar Wednesdays  a   p 
+ p  a href="https:  www.ptglab.com news events technical-workshops " Technical Workshops  a   p 
+ p  a href="https:  www.ptglab.com news blog pathway-poster-library " Pathway posters  a   p 
+ p  a href="https:  www.ptglab.com support resources " Resources Literature  a   p 
+ p  a href="https:  www.ptglab.com support sirna-knockdown " siRNA knockdown  a   p 
+ p  a href="https:  www.ptglab.com news blog proteintech-product-reviews " Product Reviews  a   p 
+ p  a href="javascript:history.go(-1);"  i class="fa fa-caret-left"   i  Back  a   p 
+ p class="left teal" 
+                     span class="tag tag-Featured" HEK293 expressed  span 
+                     span class="tag tag-Featured" style="margin-left: 5px;" Endotoxin-free  span 
+                     span class="tag tag-Featured" style="margin-left: 5px;" Animal-component free  span 
+                  p 
+ p class="small-12 left"  a href="https:  www.ptglab.com customer-review ?catNo=HZ-1306"  strong  u Be the first to review this product  u   strong   a   p 
+ p class="product_shipping small-text-center" data-initialshipping="00.00" Freight Packing  span class="teal"  strong id="spFreightFee" £00.00  strong   span   p 
+ p class="small-text-center" style="display:none;" id="spUKLink" Important:  br  a href="https:  www.ptglab.com news company-news customer-announcement-france " target="_blank" Products now available direct. Save €50.  a   p 
+ p class="small-text-center"  span id="spPowder" data-ispowder="1" Format: Lyophilized  span   p 
+ p class="teal" Please visit your regions distributor:  p 
+ p class="text-center hide-for-small" You can also br  a href="https:  ptglab.com promotions bulk-order-promotion "  u Request A Quote  u   a   p 
+ p class="products_thumbails_controls" 
+                                                Images
+                                                 span  a href="#" class="thumbnails_view_all" data-text="Close" See all  a   span 
+                                              p 
+ p class="imgdes" The activity was determined by ability to induce alkaline phosphatase production in C3H10T1 2 mouse embryonic fibroblast cells using pNPP as chromogenic substrate.  p 
+ p class="imgdes" The protein was resolved by SDS-polyacrylamide gel electrophoresis and the gel was stained with Coomassie blue. R represents reducing conditions and NR represents non-reducing conditions.  p 
+ p Animal-free Recombinant Human SHH (Sonic Hedgehog) protein is the orthologue of drosophila hedgehog (Hh) and plays a critical role in vertebrate limb development. SHH gene encodes for a 45 kDa protein that undergoes autoproteolysis activated by its own C-terminal domain. Furthermore, the C-terminal domain also carries out cholesterol transferase activity. This auto-cleavage results in the formation of a 174 amino acid N-terminal product with covalently linked cholesterol moiety and a palmitoyl modification. The presence of the cholesterol and palmitoyl moieties is required for the activity of the mature SHH protein. These modifications are found in SHH derived from human cells, but are absent in bacterially expressed SHH. The N-terminal (active) form of SHH shares 98% aa homology to mouse, rat, canine, porcine and chicken SHH. It has been associated with tissue regeneration following injury and development of certain cancers in adults.  p 
+ p SHH, also named as HHG-1, belongs to the hedgehog family. SHH binds to the patched receptor (PTC), that in association with smoothened (SMO) activate the transcription of target genes. In the absence of SHH, PTC represses the constitutive signaling activity of SMO.  SHH is synthesized as a 45 kDa protein precursor that is autocatalytically cleaved to yield of 20 kDa N-terminal fragment (24-197 in the human gene sequence) knowing as being responsible for all known hedgehog biological activity and a 25 kDa C-terminal fragment that contains the auto-processing machinery (PMID:10753901).  p 
+ p Proteintech North America (HQ)  p 
+ p  a href="tel:1-888-478-4522" 1-888-478-4522  a  br 
+			   	    a href="mailto:proteintech@ptglab.com" proteintech@ptglab.com  a   p 
+ p Proteintech Europe  p 
+ p  a href="tel:(+44)%20161%2022%2066%20144" (+44) 161 22 66 144  a  br 
+			   	    a href="mailto:europe@ptglab.com" europe@ptglab.com  a   p 
+ p Wuhan Sanying  p 
+ p  a href="tel:027-87531629" 027-87531629  a  br 
+			   	    a href="mailto:027-87531627" 027-87531627  a   p 
+ p 
+			 a class="show-for-small-only" href=" contact" Contact Us  a 
+                         a href="https:  www.ptglab.com news blog privacy-policy " target="_blank" Privacy Policy  a 
+			 a href=" terms-of-use" Terms of use  a 
+			 a href="#" © 2019 Proteintech Group  a 
+		  p 

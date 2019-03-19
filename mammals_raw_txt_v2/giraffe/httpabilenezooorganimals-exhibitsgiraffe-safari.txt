@@ -1,0 +1,73 @@
+ p 
+             strong class="VisitingTheZooBlockHeader" Admission:  strong  br 
+             strong $8.00 for Adults  strong  (ages 13-59) br 
+             strong $7.00 for Seniors  strong  (ages 60+) br 
+             strong $5.50 for children  strong  (ages 3-12) br 
+             strong Children under 3 free!  strong  br  
+          p 
+ p 
+             strong class="VisitingTheZooBlockHeader" style="line-height:1.1em" Hours:  strong  br 
+            Open 9 a.m. to 5 p.m. daily br 
+            Last admittance at 4 p.m. br  
+            Every Thurs. June–August, 9 a.m. to 9 p.m. br 
+            Last admittance at 8 p.m.
+          p 
+ p 
+             strong class="VisitingTheZooBlockHeader" style="line-height:1.1em" Contact:  strong  br 
+            2070 Zoo Lane, Abilene, TX br 
+            (325) 676-6085 br 
+             a href="mailto:abilene.zoo@abilenetx.com" class="VisitingTheZooLink" abilene.zoo@abilenetx.com  a 
+          p 
+ p class="tribe-events-widget-link" 
+		 a href="http:  abilenezoo.org events " rel="bookmark" View All Events  a 
+	  p 
+ p style="text-align: center;"  em Giraffe Live Feed Underwritten by  a href="http:  www.ktxs.com weather radar"  strong KTXS-TV Storm Alert  strong  br 
+  a   em  a href="http:  www.ktxs.com weather radar" Animals are out between 10 a.m and 4 p.m. daily.  a   p 
+ p The Abilene Zoo’s exciting Giraffe Safari exhibit is the result of four years of staff and volunteer work and $3.8 million of support from the community. An impressive 1,000 people and organizations donated to the project, which opened in April 2016. The multi-species exhibit is 30,400 square feet – double the space of the old giraffe habitat, allowing the animals to run and display more behaviors found in the wild.  p 
+ p  strong  a href="http:  abilenezoo.org wp-content uploads 2016 06 MesiEncounter.jpg"  img class=" wp-image-1461 alignleft" style="border: 5px solid #F98432; padding: 0px;" src="http:  abilenezoo.org wp-content uploads 2016 06 MesiEncounter-200x300.jpg" alt="MesiEncounter" width="234" height="351" srcset="http:  abilenezoo.org wp-content uploads 2016 06 MesiEncounter-200x300.jpg 200w, http:  abilenezoo.org wp-content uploads 2016 06 MesiEncounter.jpg 600w" sizes="(max-width: 234px) 100vw, 234px"   a The feeding deck is part of an area dubbed Twiga Terrace; “Twiga” is Swahili for “giraffe.” Open daily for the season: Hours are 10 a.m. to 12:30 p.m. and 1:30 p.m. to 4 p.m. Open until 7:30 p.m. on Thursdays all summer!  strong   p 
+ p Guests can experience giraffe encounters on the new deck, hand-feeding the giraffe healthful romaine lettuce, available for $4. The zoo’s herd is comprised of four adult female reticulated giraffe, one male Rothschild giraffe, and one young male reticulated giraffe. The zoo is breeding this endangered species according to the direction of the Association of Zoos and Aquariums’ Species Survival Plan.  p 
+ p  em Giraffe News:   em  a href="http:  www.usatoday.com story news world 2016 12 08 giraffe-extinction-list-threatened-endangered-species 95128734 "  em  u  span style="color: #0066cc;" Conservationists upgrade giraffe to “vulnerable” on endangered species list after 40 percent population loss.    span   u   em   a   p 
+ p  img class=" size-medium wp-image-1417 aligncenter" src="http:  abilenezoo.org wp-content uploads 2016 06 GiraffeBridge-300x237.jpg" alt="GiraffeBridge" width="90%" srcset="http:  abilenezoo.org wp-content uploads 2016 06 GiraffeBridge-300x237.jpg 300w, http:  abilenezoo.org wp-content uploads 2016 06 GiraffeBridge.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" Giraffe have a storied history at the Abilene Zoo. Abilene received its first pair of young giraffe in 1968 thanks to an anonymous donation of $10,000. The mayor declared May 24, 1968, as “G-Day” and cut the ribbon on the “Highneck Bridge.” The community fell in love with the animals. Indeed, the bridge was cutting-edge zoo design in its day — making Abilene one of the first zoos in the nation to let guests interact with the leggy animals.  p 
+ p  span style="font-size: 14px;" These omnivores live in the scrubs and grasslands of Africa and have lifespans of up to 150 years.  Aldabras are the second largest tortoise in the world – second only to the Galapagos tortoise. Interestingly, Charles Darwin had a hand in saving the species from extinction when he asked government officials to protect their breeding grounds.  span   p 
+ p  span style="font-size: 14px;" These monkeys live in the rainforests of Africa and are vulnerable because of diminishing habitat. Unlike other monkeys, Colobus do not have thumbs, but they manage to swing gracefully using four digits cupped in the shape of a hook. Our troupe likes to dine on vegetables and nap.  span   p 
+ p  span style="font-size: 14px;" Our colorful pair is a guest favorite! Red river hogs live in the African rainforest, dining on berries, roots, and other plants, as well as small reptiles and insects. We have a male and female named Shooter and Amber.  When Shooter catches up in size to the female, the two will be a breeding pair.  span   p 
+ p  span style="font-size: 14px;" This petite member of the antelope family typically lives in the rainforests of central Africa, dining on fallen fruit, nuts, flowers and fungi. The smallest of these can weigh in at only 8 pounds, spending 75 percent of its day foraging for food.  span   p 
+ p  span style="font-size: 14px;" These large birds are thought to be the heaviest creature capable of taking flight, which they only do when in danger. Native to the grasslands of Africa, they are ground-dwellers that dine on insects and reptiles.  span   p 
+ p  span style="font-size: 14px;" The intriguing birds like to keep an eye on zoo guests. Their kinfolk live on the savannahs of Africa and are known for not being too picky about food. They’re scavengers that will eat anything. Their lifespan can be 25 to 40 years, and they mate for life.  span   p 
+ p style="text-align: center;"  em Reticulated Giraffe  em   p 
+ p Born: Abilene Zoo, Sept. 10, 2016  p 
+ p The first birth in the new Giraffe Safari area was this little darling to proud parents Punk and Mesi — an AZA Species Survival Plan- approved breeding pair.  p 
+ p He was 120 pounds when born, and has grown to more than 300 pounds and is more than 7 feet tall.  p 
+ p His name means “pineapple” in Swahili. The tropical fruit was  animal staff’s code word on the radio for when his mom went into labor! He is Punk’s first calf.  p 
+ p    p 
+ p    p 
+ p style="text-align: center;"  em Reticulated Giraffe  em   p 
+ p Born: Tulsa Zoo on July 17, 1997 br 
+Arrived at the Abilene Zoo: June 25, 1998  p 
+ p The senior lady of the herd, Abilene Zoo fans have admired Asha for nearly two decades — since she arrived here as a youngster.  p 
+ p How to Spot Her: She has the shortest tail and a long history of eating from guests’ hands. She is “aunting” little Kito.  p 
+ p style="text-align: center;"  em Reticulated Giraffe  em   p 
+ p Born: White Oak Conservation Center in Florida on June 10, 2009 br 
+Arrived at the Abilene Zoo: Feb. 29, 2016  p 
+ p One of the newest to our herd, she arrived at the Abilene Zoo in 2016 after time at the Dallas Zoo.  p 
+ p How to Spot Her: She has the longest tail of all the females and has darker coloring.  p 
+ p style="text-align: center;"  em Reticulated Giraffe  em   p 
+ p Born: Fossil Rim Wildlife Center on Nov. 27, 1999 br 
+Arrived at the Abilene Zoo: May 27, 2003  p 
+ p Zoo guests have gleefully handfed Punk rye crackers for many years. Now she gets a healthier diet! She is an approved animal to breed with Mesi.  p 
+ p How to Spot Her: She has a little notch in her left ear.  p 
+ p style="text-align: center;"  em Reticulated Giraffe  em   p 
+ p Born: Dallas Zoo on July 23, 2011 br 
+Arrived at the Abilene Zoo: Feb. 29, 2016  p 
+ p Jamie is named after James Camden Sikes, a Dallas infant who died from a brain tumor.  p 
+ p How to Spot Her: Her face is darker and her spots are highly contrasted with bright white outlines.  p 
+ p style="text-align: center;"  em Reticulated Giraffe  em   p 
+ p Born: Fossil Rim Wildlife Center on Dec. 27, 2015 br 
+Arrived at the Abilene Zoo: Jan. 20, 2016  p 
+ p His name was chosen in a public naming contest and means “precious gem” in Swahili.  p 
+ p    p 
+ p style="text-align: center;"  em Rothschild Giraffe  em   p 
+ p Born: San Diego Zoo Safari Park on March 4, 2005 br 
+Arrived at the Abilene Zoo: Oct. 7, 2014  p 
+ p Mesi arrived at the Abilene Zoo in 2014 from the Little Rock Zoo. He weighs roughly 2700 pounds and is more than 18 feet tall!  p 
+ p How to Spot Him: He’s the tallest of the herd, and his coloring is much darker.  p 

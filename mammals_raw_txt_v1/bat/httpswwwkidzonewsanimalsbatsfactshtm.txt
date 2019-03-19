@@ -1,0 +1,7 @@
+ p  b  a href="facts1.htm" CLICK HERE  a  to begin reading through in order   b   p 
+ p  b or hop right to a particular section:  b   p 
+ p    p 
+ p style="text-align: right"  b  a href="index.htm" &lt; PREV  a    
+	 a href="facts1.htm" NEXT &gt;  a   b 
+  p 
+ p style="font-size: small;"  a href="https:  www.dltk-kids.com copyright.htm" rel="nofollow" Copyright  a  © 1998-2019 DLTK's Inc. - All Rights Reserved  p 

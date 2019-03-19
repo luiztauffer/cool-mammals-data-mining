@@ -1,0 +1,18 @@
+ p class="byline" data-link-name="byline" data-component="meta-byline"  span itemscope="" itemtype="http:  schema.org Person" itemprop="author" 
+ a rel="author" class="tone-colour" itemprop="sameAs" data-link-name="auto tag link" href="https:  www.theguardian.com profile ianmackinnon"  span itemprop="name" Ian MacKinnon  span   a   span , south-east Asia correspondent  p 
+ p class="content__dateline" aria-hidden="true" 
+ time itemprop="datePublished" datetime="2007-07-05T14:33:34+0100" data-timestamp="1183642414000" class="content__dateline-wpd js-wpd" 
+Thu 5 Jul 2007  span class="content__dateline-time" 14.33 BST  span 
+  time 
+  p 
+ p The Sumatran rhino, one of the world's most endangered species, is being driven closer to extinction due to reproductive problems that may be the result of habitat loss, wildlife scientists believe.  p 
+ p Low sperm counts and other reproductive problems such as cysts are hampering pregnancies among Malaysian rhinos, according to a three-year study spearheaded by Malaysia's wildlife department.  p 
+ p Only between 30 and 50 Sumatran rhinos - the only two-horned rhino in Asia - are left in the jungles of Malaysia's Sabah state, on Borneo. The entire Sumatran rhino population numbers just 300, halved in the last 15 years by poaching.  p 
+ p But illegal logging on Borneo has also destroyed much of the habitat of the animal, also called the "hairy rhino" because of its unusual covering of long hair that allows it to live at high altitudes.  p 
+ p The fragmentation of their habitat - now mainly confined to Sabah's Tabin Wildlife Sanctuary and the Danum Valley - keeps the animals apart and may reduce their chances to reproduce as female rhinos only come "on heat" in the company of males.  p 
+ p "It's a mystery," Laurentius Ambu, deputy director of Malaysia's wildlife department, told Kuala Lumpur's New Straits Times. "We're anxious to find out more.  p 
+ p "Maybe because they live in fragmented locations deep in the jungles they rarely get the opportunity to mate. It's to do with the conversion of land. Forested areas are split, hence trapping some animals in different locations and this causes the fragmentation."  p 
+ p Efforts to encourage rhinos to breed in captivity have failed, partly because some females developed tumours in their uterus.  p 
+ p "It's more of a psychological disease due to imbalances of hormones or stress," said Nan Schaffer, of the conservation group SOS Rhino. "It certainly has interfered with the reproduction of the animals in captivity."  p 
+ p The rhinos are highly secretive and it was only three months ago that the first pictures were taken. A remote hidden camera placed by the World Wide Fund for Nature captured two minutes of footage of the animal in the wild.  p 
+ p Rhino horn is reputed to have aphrodisiac qualities and is so highly prized in Asian medicine it can fetch up to £100 a gram.  p 

@@ -1,0 +1,24 @@
+ p id="excludeProductPageCampaign" class="hideOnFrame very-tiny-text title half-spacing-top float-left full-w weight-medium-bold " 
+					        	Not included in discounts and deals    
+					          p 
+ p id="tooltipTxt" class="spacing-left" 
+		     span id="frameInfo"   span 
+		     span id="frameInStock" class="block very-small-text"   span 
+		    p 
+ p We have saved the products so that you can find them easily again.  p 
+ p class="helvetica uppercase tiny-text" Fast br deliveries  p 
+ p class="helvetica uppercase tiny-text" Matte premium paper br &amp; quality printing  p 
+ p class="helvetica uppercase tiny-text" Secure br payments  p 
+ p class="helvetica uppercase tiny-text" Trustpilot br  reviews  p 
+ p 
+				We use cookies to provide you with the best experience of our website and for marketing and statistical purposes. 
+			  p 
+ p Some cookies are necessary for the website to work, for example those that allow products to be added to your shopping cart, while others help us to improve your experience and the experience of others by analysing how the website is used. Read more about the cookies we use and how we process data in our  a href=" us info policy-2.html" Privacy Policy  a  and under  a href=" us info cookies-4-2.html" Cookies Information  a . You are able to block cookies by changing your  a href=" us info cookies-4-2.html" browser settings  a .   p 
+ p We have cookies that store information on the products you have viewed and added to your shopping cart. These can then be used to personalise ads on other websites or for sending service emails to you when, for example, you leave the site with items still in your shopping cart. You can unsubscribe from emails at any time via the link at the end of the email or at the bottom of  a href=" us info policy-2.html" this page  a .   p 
+ p class="text-center spacing-bottom" 
+		.html
+	  p 
+ p class="contactFileInfo no-transform italic raleway" The file must be less than  strong 5 MB.  strong  br Permitted file types:  strong gif jpg png  strong   p 
+ p class="medium-tiny-text info" One or more of your selected products are temporarily out of stock and could not be added to your shopping cart. The following products are out of stock. br  br Enter your email address and select the products you wish to track  p 
+ p id="noMoreWatch" class="hidden weight-bold raleway uppercase black-color" No more products to track  p 
+ p Search for a specific location, either by typing in an address or by dragging the red cursor on the map. Once you have selected your location, click “Set these coordinates” to confirm and continue.  p 

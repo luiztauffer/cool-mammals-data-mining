@@ -1,0 +1,11 @@
+ p class="heading heading--list" About  p 
+ p class="heading heading--list" Assessment Process  p 
+ p class="heading heading--list" Resources and Publications  p 
+ p class="heading heading--list" Support  p 
+ p class="heading heading--list" Follow us  p 
+ p class="colophon__citation" IUCN 2019. The IUCN Red List of Threatened Species. Version 2018-2. &lt;http:  www.iucnredlist.org&gt;  p 
+ p class="colophon__issn" ISSN 2307-8235  p 
+ p © International Union for Conservation of Nature and Natural Resources.  p 
+ p This website was made possible through generous support from:   p 
+ p class="u--margin-top-md u--margin-bottom-md text-body" You must log in to access advanced IUCN Red List functionality. Please enter your e-mail address and password below.  p 
+ p class="u--margin-bottom-md text-body" To save searches and access a historical view of information you have downloaded you are required to register for an account.  p 

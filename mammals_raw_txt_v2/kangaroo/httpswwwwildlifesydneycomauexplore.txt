@@ -1,0 +1,118 @@
+ p class="title" Our br location  p 
+ p Address: WILD LIFE Sydney Zoo  p 
+ p 1-5 Wheat Road Darling Harbour  p 
+ p Sydney 2000  p 
+ p class="sub-title" GET YOUR HANDS   p 
+ p class="title" ON OUR NEWSLETTER   p 
+ p I'd like to receive updates from WildLife Sydney Zoo and other Merlin attractions.  p 
+ p 
+                                 i class="fa fa-clock-o" aria-hidden="true"   i 
+                                Open 10am daily | Last entry 4pm
+                              p 
+ p I'd like to receive updates from WildLife Sydney Zoo and other Merlin attractions.  p 
+ p class="title" Our location  p 
+ p Address: WILD LIFE Sydney Zoo  p 
+ p 1-5 Wheat Road Darling Harbour  p 
+ p Sydney 2000  p 
+ p Kangaroo Walkabout  p 
+ p Butterfly Tropics  p 
+ p Devil's Den  p 
+ p Gumtree Valley  p 
+ p Wallaby Cliffs  p 
+ p Nightfall  p 
+ p Along the way you’ll encounter some of the world’s most exciting animals, including cute koalas, daring Tasmanian devils, beautiful birds, deadly snakes and much, much more.  p 
+ p class="desc" Kangaroo Walk-About showcases western grey kangaroos, a quokka, agile wallabies, echidnas and princess parrots, as well as being the stage for our interactive ‘Aussie Animal Encounters’ show. Find out more about our famous Kangaroo Island kangaroo Dot, and our cheeky Quokka, Davey.  p 
+ p 
+                                     span class="small" DISCOVER MORE ABOUT  span 
+                                     span class="main-copy" Kangaroos  span 
+                                     span class="btn-arrow"   span 
+                                  p 
+ p class="title" At a Glance  p 
+ p class="desc" Some of the animals you'll see here...  p 
+ p class="intro-copy" Discover butterflies at  p 
+ p class="desc" Be amazed at the diverse range of animals living in our carefully-created tropical habitat, butterflies flitting through lush ferns and palms to vividly coloured pythons sunning themselves among the vines and slithering through the thick undergrowth. And it wouldn't be the Top End without our fresh water crocodile lazing about by the pool!  p 
+ p 
+                                     span class="small" DISCOVER MORE ABOUT  span 
+                                     span class="main-copy" Butterflies  span 
+                                     span class="btn-arrow"   span 
+                                  p 
+ p class="title" At a Glance  p 
+ p class="desc" Some of the animals you'll see here...  p 
+ p class="intro-copy" Head to Tasmania in   p 
+ p class="desc" Devil’s Den is home to Topsy and Bub the Tasmanian Devils. Topsy and Bub serve as ambassadors to their species that are critically endangered. Make sure you check out the Tasmanian Devil Keeper Talk to learn more about our devils – you may even get to see them have lunch!  p 
+ p 
+                                     span class="small" DISCOVER MORE ABOUT  span 
+                                     span class="main-copy" Tassie Devil's Den  span 
+                                     span class="btn-arrow"   span 
+                                  p 
+ p class="title" At a Glance  p 
+ p class="desc" Some of the animals you'll see here...  p 
+ p class="intro-copy" On our own doorstep  p 
+ p class="desc" Nothing says ‘Australia’ like the distinctive eucalyptus smell of gum trees. You can find these amazing trees all along Australia's East Coast, and especially here in New South Wales. You can also see them here at our Gumtree Valley where our famous koala’s can be seen lazing about and munching away on Eucalyptus leaves.  p 
+ p 
+                                     span class="small" DISCOVER MORE ABOUT  span 
+                                     span class="main-copy" Koalas  span 
+                                     span class="btn-arrow"   span 
+                                  p 
+ p class="title" At a Glance  p 
+ p class="desc" Some of the animals you'll see here...  p 
+ p class="intro-copy" Meet Ringo  p 
+ p class="desc" Home to some of the toughest Australian animals, Wallaby Cliffs main residents include yellow footed rock wallabies like Myrtle, a bare nosed wombat named Ringo, blue tongue lizards and kookaburras.  p 
+ p 
+                                     span class="small" DISCOVER MORE ABOUT  span 
+                                     span class="main-copy" Wallabies  span 
+                                     span class="btn-arrow"   span 
+                                  p 
+ p class="title" At a Glance  p 
+ p class="desc" Some of the animals you will see here...  p 
+ p class="intro-copy" The world's deadliest bird...  p 
+ p class="desc" If you really want to get close to Australia's animals, lose yourself in WILD LIFE Sydney Zoo's replication of Queensland's beautiful Daintree Rainforest. This habitat is home to Princess the cassowary, our family of pademelons, Boyd's forest dragon, carpet python, broad-shelled river turtle and many more!  p 
+ p 
+                                     span class="small" DISCOVER MORE ABOUT  span 
+                                     span class="main-copy" Birds  span 
+                                     span class="btn-arrow"   span 
+                                  p 
+ p class="title" At a Glance  p 
+ p class="desc" Some of the animals you'll see here...  p 
+ p class="intro-copy" Enter if you dare...  p 
+ p class="desc" Enter the daring world of Kakadu Gorge and come face to face with a huge saltwater crocodile. 
+
+Through on-site fast facts and conservation messaging displayed around the crocodile’s new display, you can learn about the conservation issues facing crocodiles in the wild as you go on your amazing journey of discovery to Australia’s Kakadu Gorge.  p 
+ p 
+                                     span class="small" DISCOVER MORE ABOUT  span 
+                                     span class="main-copy" Crocodiles  span 
+                                     span class="btn-arrow"   span 
+                                  p 
+ p class="title" At a Glance  p 
+ p class="desc" Some of the animals you can see...  p 
+ p class="intro-copy" See in the dark!  p 
+ p class="desc" Discover the weird and wonderful creatures that venture out after dark at our Nightfall habitat. Some of the nocturnal habitats featured in this zone are the ghost bat and yellow-bellied gliders. This section of the zoo is an immerse experience as the animals can be viewed in their ‘day time’!  p 
+ p 
+                                     span class="small" DISCOVER MORE ABOUT  span 
+                                     span class="main-copy" Nocturnal Species  span 
+                                     span class="btn-arrow"   span 
+                                  p 
+ p class="title" At a Glance  p 
+ p class="desc" Some of the animals you'll see here...  p 
+ p class="intro-copy" Get up close...  p 
+ p class="desc" Koala Rooftop is your opportunity to get up close to Australia’s favourite animal. You can choose the koala encounter option to go inside our koala enclosure to meet our fluffy girls and have your photo taken with Australia's most iconic animal. You can also experience WILD Flight – a self-propelled ride where visitors will fly through the attraction’s aviary! After all that hungry work, make sure you settle in to enjoy a delicious lunch from our Outback Adventurers Café.  p 
+ p 
+                                     span class="small" DISCOVER MORE ABOUT  span 
+                                     span class="main-copy" Koalas  span 
+                                     span class="btn-arrow"   span 
+                                  p 
+ p class="title" At a glance  p 
+ p class="desc" Some of the animals you'll see here...  p 
+ p class="intro-copy" Search for our platypus pals in...  p 
+ p class="desc" The search is on for our curious and graceful platypus friends at Platypus Pools. Learn some fascinating facts on how these protected mammals lay eggs, their feeding behaviours and what makes these iconic Australian animals incredibly unique. Having trouble finding our platypus friends? They might be resting amongst the logs and branches in the water. Take a closer look; you might just see that beaver like tail of theirs!  p 
+ p 
+                                     span class="small" DISCOVER MORE ABOUT  span 
+                                     span class="main-copy" Platypus  span 
+                                     span class="btn-arrow"   span 
+                                  p 
+ p class="title" At a glance  p 
+ p class="desc" Some of the animals you'll see here...  p 
+ p Share this  p 
+ p  a href="https:  www.deepend.com.au " target="_blank" Digital Agency Deepend  a   p 
+ p class="title" Wait...Don't hop off just yet  p 
+ p Want to save up to 20% off entry to WILD LIFE Sydney Zoo?  p 

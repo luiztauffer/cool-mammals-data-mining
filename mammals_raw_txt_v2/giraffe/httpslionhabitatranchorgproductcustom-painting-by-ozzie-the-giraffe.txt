@@ -1,0 +1,24 @@
+ p itemprop="headline" class="site-title"  a href="https:  lionhabitatranch.org " The Lion Habitat Ranch  a   p 
+ p class="entry-meta"  time class="entry-time" itemprop="datePublished" datetime="2016-08-24T07:52:46+00:00" August 24, 2016  time  by   span class="entry-comments-link"  a href="https:  lionhabitatranch.org product custom-painting-by-ozzie-the-giraffe #comments" 6 Comments  a   span    p 
+ p class="price"  span class="woocommerce-Price-amount amount"  span class="woocommerce-Price-currencySymbol" $  span 40.00  span  –  span class="woocommerce-Price-amount amount"  span class="woocommerce-Price-currencySymbol" $  span 60.00  span   p 
+ p Purchase a painting created by Ozzie the Giraffe.  p 
+ p With a visit to Lion Habitat Ranch, you have the opportunity to purchase a custom painting from Ozzie the Painting Giraffe.  Ozzie loves to paint!  p 
+ p Please note that each of these paintings is an original.  The photos shown here are samples.  p 
+ p    p 
+ p 8" x 10", 9" x 12"  p 
+ p class="entry-meta"    p 
+ p class="comment-author" itemprop="author" itemscope itemtype="https:  schema.org Person" 
+				 img alt="" src="https:  secure.gravatar.com avatar 4203b497026053f585c1b3ab04111741?s=48&amp;d=mm&amp;r=g" srcset="https:  secure.gravatar.com avatar 4203b497026053f585c1b3ab04111741?s=96&amp;d=mm&amp;r=g 2x" class="avatar avatar-48 photo" height="48" width="48"  span itemprop="name" keith  span   span class="says" says  span 			  p 
+ p class="comment-meta"  time class="comment-time" datetime="2019-02-18T18:50:48+00:00" itemprop="datePublished"  a href="https:  lionhabitatranch.org product custom-painting-by-ozzie-the-giraffe #comment-969" class="comment-time-link" itemprop="url" February 18, 2019 at 6:50 pm  a   time   p 
+ p i d like to see the picture first  p 
+ p class="comment-notes"  span id="email-notes" Your email address will not be published.  span  Required fields are marked  span class="required" *  span   p 
+ p class="comment-form-comment"  label for="comment" Comment  label   textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"   textarea   p 
+ p class="comment-form-author"  label for="author" Name  span class="required" *  span   label   input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"   p 
+ p class="comment-form-email"  label for="email" Email  span class="required" *  span   label   input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"   p 
+ p class="comment-form-url"  label for="url" Website  label   input id="url" name="url" type="url" value="" size="30" maxlength="200"   p 
+ p class="aiowps-captcha"  label for="aiowps-captcha-answer" Please enter an answer in digits:  label   p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Post Comment"   input type="hidden" name="comment_post_ID" value="894" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+  p 
+ p  span class="location-icon" 382 Bruner Ave Henderson, NV 89044   span   span class="mail-icon" Email:  a href=" cdn-cgi l email-protection#e08b85899488a08c898f8e8881828994819492818e8388ce8f9287"  span class="__cf_email__" data-cfemail="513a34382539113d383e3f3930333825302523303f32397f3e2336" [email protected]  span   a   span   span class="phn-icon"  a href="tel:1-702-595-6666" 1-702-595-6666  a   span   p 
+ p Copyright © 2019 ·  a href="http:  my.studiopress.com themes metro " Metro Pro  a  on  a href="https:  www.studiopress.com " Genesis Framework  a  ·  a href="https:  wordpress.org " WordPress  a  ·  a href="https:  lionhabitatranch.org wp-login.php" Log in  a   p 

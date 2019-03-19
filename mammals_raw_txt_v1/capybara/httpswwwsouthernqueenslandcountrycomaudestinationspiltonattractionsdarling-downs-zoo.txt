@@ -1,0 +1,41 @@
+ p class="resort-meta" 
+                 strong Location:  strong   a id="dnn_ctr46759_ViewProductProfile_lnkDestination" href="https:  www.southernqueenslandcountry.com.au destinations pilton" Pilton  a , QLD |
+                 strong Type:  strong  Zoos, Sanctuaries, Aquariums and Wildlife Parks
+              p 
+ p  strong Address:  strong  br 
+               21 Baines Road br Pilton, Queensland 4361  p 
+ p  b Phone:  b  07 4696 4107 br 
+
+                 b Email:  b 
+                 a id="dnn_ctr46759_ViewProductProfile_lnkEmail1" href="javascript:profileShowTab('liEnquiry');TrackEmailAddress();" admin@darlingdownszoo.com.au  a  br 
+                 b Website:  b 
+                 a id="dnn_ctr46759_ViewProductProfile_lnkWebsite1" onclick="TrackViewWebsite()" data-gtm-click-event="TRUE" data-gtm-category="Interaction" data-gtm-action="Website Link Click" data-gtm-label="Zoos, Sanctuaries, Aquariums and Wildlife Parks - Darling Downs Zoo" href="http:  www.darlingdownszoo.com.au" target="_blank" www.darlingdownszoo.com.au  a 
+               p 
+ p 
+                  a id="dnn_ctr46759_ViewProductProfile_lnkFacebook" data-gtm-click-event="TRUE" data-gtm-category="Interaction" data-gtm-action="Facebook Click" data-gtm-label="Zoos, Sanctuaries, Aquariums and Wildlife Parks - Darling Downs Zoo" href="http:  www.facebook.com Darling.Downs.Zoo" target="_blank" 
+                      img src=" Portals 10 Skins SouthernCountry images icons icon-facebook-dark.png" alt="" 
+                   a 
+                 
+                 
+              p 
+ p 
+                                The Darling Downs Zoo is situated in a beautiful rural setting on the eastern Downs - midway between Toowoomba and Warwick - just over two hours drive from the Brisbane Central Business District. br  br This Zoo is being developed so that you travel the animal world with a walk through the geographical areas of Australia, South-east Asia, Africa and South America. br  br Already the Zoo features the only pride of African Lions in Queensland, Giraffe, Cheetah, Baboons, Monkeys, Marmosets, African Serval, endangered Sumatran Tiger, tropical birds, Kangaroos and White Wallabies, Deer, Crocodiles and Alligator, Boa Constrictors and Tortoises, unusual South American animals like Brazilian Tapir and Capybara and much, much more.  The Zoo is also home to the only White Lions living permanently in Queensland and the largest herd of Zebras and Giant Tortoises in this State!  br  br The zoo is open to the public from 9am every day.  Closed only on Christmas Day. br  br Picnic facilities are available, there is a kiosk and gift shop with EFTPOS and free parking for all vehicles including coaches and caravans. The entire zoo is wheelchair accessible.  p 
+ p class="propertyDetails" 
+                             span class="pprice" 
+                                $18.00  span 
+                            To
+                            $35.00
+                            
+                          p 
+ p 
+                             b Phone:  b  07 4696 4107 br 
+  p 
+ p 
+                             b Email:  b 
+                             a id="dnn_ctr46759_ViewProductProfile_InformationTab_lnkEmail" href="javascript:profileShowTab('liEnquiry');TrackEmailAddress();" admin@darlingdownszoo.com.au  a 
+                             br 
+                             b Website:  b 
+                             a id="dnn_ctr46759_ViewProductProfile_InformationTab_lnkWebsite" onclick="TrackViewWebsite()" href="http:  www.darlingdownszoo.com.au" target="_blank" www.darlingdownszoo.com.au  a 
+                          p 
+ p © 2019 Southern Queensland Country Tourism - All right reserved  p 
+ p This is the official website of 2019 Southern Queensland Country Region  | guerrilla digital agency  p 

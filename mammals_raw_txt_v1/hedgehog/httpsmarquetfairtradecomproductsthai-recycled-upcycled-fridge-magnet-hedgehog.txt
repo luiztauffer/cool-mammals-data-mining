@@ -1,0 +1,42 @@
+ p  em  strong Free Shipping  strong  on Orders over $49 -  strong $4.95  strong  Flat Rate Shipping on All Other Orders!   em   p 
+ p class="modal_price" itemprop="offers" itemscope itemtype="http:  schema.org Offer" 
+           meta itemprop="priceCurrency" content="USD" 
+           meta itemprop="seller" content="Marquet Fair Trade" 
+           link itemprop="availability" href="http:  schema.org InStock" 
+           meta itemprop="itemCondition" content="New" 
+
+           span class="sold_out"   span 
+           span itemprop="price" content="12.00" class="" 
+             span class="current_price " 
+              
+                 span class="money" $12.00  span 
+              
+              span 
+            span 
+           span class="was_price" 
+            
+            span 
+          p 
+ p 
+           label for="contact[email]" Notify me when this product is available:  label 
+          
+          
+             input required type="email" class="notify_email" name="contact[email]" id="contact[email]" placeholder="Enter your email address..." value="" 
+          
+          
+           input type="hidden" name="challenge" value="false" 
+           input type="hidden" name="contact[body]" class="notify_form_message" data-body="Please notify me when Hedgehog - Fridge Magnet Made from Old Phone Books becomes available - https:  marquetfairtrade.com products thai-recycled-upcycled-fridge-magnet-hedgehog" value="Please notify me when Hedgehog - Fridge Magnet Made from Old Phone Books becomes available - https:  marquetfairtrade.com products thai-recycled-upcycled-fridge-magnet-hedgehog" 
+           input class="action_button" type="submit" value="Send" style="margin-bottom:0px"     
+          p 
+ p Made by the Recycled Paper Product artisan group in Bangkok, our handcrafted animal friends come in a variety of shapes and sizes. Each piece is rolled, dyed, and hand woven into fun friends for Christmas or all-year cheer.  p 
+ p Marquet is dedicated to importing handmade accessories, gifts, and decor from Thailand and Vietnam. We travel around the world to meet craftsmen and find new and exciting products. Our goal is to empower artisans and entrepreneurs in developing countries by expanding their potential to reach a larger audience.  p 
+ p Sign up to get the latest on sales, new releases and more …  p 
+ p  span Get in touch with our team or join the conversation on social media!  span   p 
+ p style="text-align: left; display: block !important;"  span  a href="https:  www.instagram.com marquetfairtrade " title="Marquet on Instagram"  img alt="Marquet on Instagram" src="  cdn.shopify.com s files 1 0270 4871 files instagram-logo-marquet_icon.png?v=1501019203" style="float: none;"   a    a href="https:  twitter.com Marquet_Fair" title="Marquet on Twitter"  img alt="Marquet on Twitter" src="  cdn.shopify.com s files 1 0270 4871 files twitter-logo-marquet_icon.png?v=1501019203" style="float: none;"   a    a href="https:  www.facebook.com marquetfairtrade " title="Marquet on Facebook"  img src="  cdn.shopify.com s files 1 0270 4871 files facebook-logo-marquet_icon.png?v=1501019203" alt="Marquet on Facebook"   a    a href="mailto:hello@marquetfairtrade.com" title="Contact us!"  img src="  cdn.shopify.com s files 1 0270 4871 files email-logo_icon.png?v=1501019203" alt="Email the Marquet Team"   a    span   p 
+ p class="headline" 
+        Fair Trade + Ethically Made
+        p 
+ p 
+         img src="  cdn.shopify.com s files 1 0270 4871 files Marquet_Fair_Trade_Jewelry_Scarves_580x@2x.jpg?v=1536777005" alt="" class="lazyload transition-in" 
+        p 
+ p Join the Fair Trade community and receive 10% off your first order.  p 

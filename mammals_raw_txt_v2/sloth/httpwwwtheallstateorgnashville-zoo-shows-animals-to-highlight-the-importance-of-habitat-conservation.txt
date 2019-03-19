@@ -1,0 +1,42 @@
+ p class="post-meta" 
+		
+	 span class="post-meta-author"  i class="fa fa-user"   i  a href="http:  www.theallstate.org author dominic-gonzales " title="" Dominic Gonzalez   a   span 
+	
+		
+	 span class="tie-date"  i class="fa fa-clock-o"   i 2 days ago  span 	
+	 span class="post-cats"  i class="fa fa-folder"   i  a href="http:  www.theallstate.org category features " rel="category tag" Features  a   span 
+	
+	 span class="post-comments"  i class="fa fa-comments"   i  a href="http:  www.theallstate.org nashville-zoo-shows-animals-to-highlight-the-importance-of-habitat-conservation #respond" Leave a comment  a   span 
+ span class="post-views"  i class="fa fa-eye"   i 86 Views  span    p 
+ p class="p1" Students filled the lecture room in waves to catch a glimpse of the wildlife, with just four shy of two dozen people waiting in the hallway.  p 
+ p class="p1" On Tuesday, March 12, the Nashville Zoo brought to campus a few of their exclusive ambassador animals, including a porcupine, a sloth, a black palm cockatoo, a kinkajou and a binturong. The handlers taught students about conservation efforts and raise awareness of the dwindling populations of the five ambassador animals.  p 
+ p class="p1" “This started with the SASI grant which is supposed to bring faculty and staff together outside of class for something likely to increase student academic engagement,” Biology department faculty Michelle Rogers said. “I thought what we could really use on campus is more awareness and interest in conservation issues. They [The Nashville Zoo] do this on a regular basis so they are organized and easy to invite.”  p 
+ p class="p1" Outreach Specialist Keeper Josh Wiseman and Outreach Supervisor Robin Mahoney were the two Nashville Zoo employees that visited campus. Together, they showed each animal and described their rarity and importance to nature. According to Wiseman, because these animals are ambassadors it would not be healthy for the animals to be seen all the time.  p 
+ p class="p1" “Their homes are behind the scenes. It wouldn’t be fair for us to take them out in front of people every day just to take them back to the zoo to be in front of people when they are at home as well,” Wiseman said.  p 
+ p class="p1" After each animal was presented, the floor was open for student questions or concerns. Students seemed particularly curious to learn about the quality of living for these animals kept in the zoo.  p 
+ p class="p1" Wiseman ensured the students that the animals were well protected and given the most natural lifestyle possible without having them be in the wild because a lot of these animals are endangered.  p 
+ p class="p1" Finding ambassador animals is no easy task. The Zoo must consider whether they can support the animal with living space and resources. According to Mahoney, the Zoo will look at what other Zoos are using for their ambassadors and use that information to determine which animal is a right and reasonable fit for them.  p 
+ p class="p1" “We find animals that cannot be released into the wild. Most of them are rehabilitated or orphaned that need a home anyway,” Mahoney said. “Being an ambassador gives them a good new quality of life.”  p 
+ p class="p1" The hour-long presentation ended with a Q&amp;A where Wiseman and Mahoney answered personal questions from students looking to work in their career field. Being a zookeeper is very competitive. The Nashville Zoo will often get over one hundred applications for a single position.  p 
+ p class="p1" Wiseman ensures students that the major does not matter as much as the experience and encourages everyone interested in becoming a Zookeeper to volunteer and be willing to take up unpaid internships for the position, work in vet clinics, and animal rehab centers.  p 
+ p class="p1" “I want to work with the conservation of elephants so I thought it would be fun to come and see some of the other animals that I could potentially work with before being able to do that,” Junior Biology major Sydney Williams said. “I love this. I love the information that I got. I thought it was so helpful.”  p 
+ p class="p1" The Nashville Zoo is at the forefront of conserving many species like the Giant Anteater. They currently have the largest collection of Giant Anteaters than any facility in North America. Similarly, they are working long and hard to protect Nashville’s very own endangered species: the Nashville crayfish.  p 
+ p class="p1" For more information about the Nashville Zoo, their conservation efforts and their zoo sponsored events like the upcoming Climbing for Clouds event at Climb Nashville and Rocking for Rhinos, which is a concert series that supports Rhino conservation, follow their Facebook page and stay up to date on their official  a href="https:  nashvillezoo.org" homepage.  a   p 
+ p  strong Watch our video of the Nashville Zoo animals below.  strong   p 
+ p class="post-tag" Tags  a href="http:  www.theallstate.org tag ambassadors " rel="tag" ambassadors  a   a href="http:  www.theallstate.org tag animals " rel="tag" animals  a   a href="http:  www.theallstate.org tag anteaters " rel="tag" anteaters  a   a href="http:  www.theallstate.org tag conservation " rel="tag" conservation  a   a href="http:  www.theallstate.org tag elephants " rel="tag" elephants  a   a href="http:  www.theallstate.org tag internships " rel="tag" internships  a   a href="http:  www.theallstate.org tag nashville-zoo " rel="tag" Nashville Zoo  a   a href="http:  www.theallstate.org tag robin-mahoney " rel="tag" Robin Mahoney  a   a href="http:  www.theallstate.org tag sydney-williams " rel="tag" Sydney Williams  a   a href="http:  www.theallstate.org tag wildlife-society " rel="tag" wildlife society  a   a href="http:  www.theallstate.org tag wiseman " rel="tag" Wiseman  a   p 
+ p class="post-meta"  span class="tie-date"  i class="fa fa-clock-o"   i 13 hours ago  span   p 
+ p class="post-meta"  span class="tie-date"  i class="fa fa-clock-o"   i 2 days ago  span   p 
+ p class="post-meta"  span class="tie-date"  i class="fa fa-clock-o"   i 2 days ago  span   p 
+ p “Captain Marvel” leads audiences through a fresh and new ‘90s filtered lens of the Marvel Cinematic ...  p 
+ p class="comment-notes"  span id="email-notes" Your email address will not be published.  span  Required fields are marked  span class="required" *  span   p 
+ p class="comment-form-comment"  label for="comment" Comment  label   textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"   textarea   p 
+ p class="comment-form-author"  label for="author" Name  span class="required" *  span   label   input x-autocompletetype="name-full" id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required="true" required="required"   p 
+ p class="comment-form-email"  label for="email" Email  span class="required" *  span   label   input x-autocompletetype="email" id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required="true" required="required"   p 
+ p class="comment-form-url"  label for="url" Website  label   input id="url" name="url" type="url" value="" size="30" maxlength="200"   p 
+ p  input type="text" value="35ALKk30Rdrw" onclick="this.select()" size="20" 
+		 b * Copy This Password *  b   p 
+ p  input type="text" name="passthis" id="passthis" value="" size="20" 
+		 b * Type Or Paste Password Here *  b   p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Post Comment"   input type="hidden" name="comment_post_ID" value="43641" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+  p 

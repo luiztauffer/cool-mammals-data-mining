@@ -1,0 +1,26 @@
+ p class="info-panel__bold" Become a Member  p 
+ p class="info-panel__copy" Hang out with us all year round for only  span class="info-panel__highlight" 20p a day!  span   p 
+ p class="visitor-info__bold" OPEN TODAY!  p 
+ p class="visitor-info__bold" 10am - 5pm
+  p 
+ p class="visitor-info__bold" FIND US  p 
+ p class="visitor-info__light" Alfriston  p 
+ p class="visitor-info__light" East Sussex  p 
+ p class="visitor-info__light" BN26 5QS  p 
+ p class="info-panel__bold" Become a Member  p 
+ p class="info-panel__copy" Hang out with us all year round for only  span class="info-panel__highlight" 20p a day!  span   p 
+ p class="section__title-subheader" Hydrochoerus hydrochaeris  p 
+ p Capybaras are covered in coarse brown fur. Their eyes, nostrils and ears are at the top of their head; this allows them to see, smell and hear whilst swimming.  p 
+ p Capybaras are found around rivers and in grasslands, marshes and bogs in northern and eastern South America.  p 
+ p Capybaras can live in pairs, family groups or larger mixed herds. They have up to eight young at a time, these are born covered in fur and can run, swim and dive within hours of birth.  p 
+ p class="info-panel__pricing" Standard Membership is available for adults and children. br Gold Membership is available for children aged 2-12 years.  p 
+ p class="explore-more-card__text" Red Pandas  p 
+ p class="explore-more-card__text" Giant Anteaters  p 
+ p class="explore-more-card__text" Linne's Two-Toed Sloths  p 
+ p class="explore-more-card__text" Ring-Tailed Lemurs  p 
+ p class="explore-more-card__text" Meerkats  p 
+ p class="explore-more-card__text" Bactrian Camels  p 
+ p class="explore-more-card__text" Fennec Foxes  p 
+ p class="explore-more-card__text" Servals  p 
+ p class="signup__intro-text" Sign up to our mailing list to receive all the latest vouchers and exclusive offers!  p 
+ p class="signup__outro-text" All emails include an unsubscribe link. You may opt-out at any time. See our privacy policy  a href="https:  www.drusillas.co.uk cookies-and-privacy" target="_blank" here  a .  p 

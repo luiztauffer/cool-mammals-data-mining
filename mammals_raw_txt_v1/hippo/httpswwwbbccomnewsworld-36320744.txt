@@ -1,0 +1,33 @@
+ p class="twite__title" aria-hidden="true" Share this with  p 
+ p class="twite__channel-text" aria-hidden="true" Email  p 
+ p class="twite__channel-text" aria-hidden="true" Facebook  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Twitter  p 
+ p class="twite__channel-text" aria-hidden="true" Pinterest  p 
+ p class="twite__channel-text" aria-hidden="true" WhatsApp  p 
+ p class="twite__channel-text" aria-hidden="true" LinkedIn  p 
+ p class="twite__copy-text" Copy this link  p 
+ p class="twite__new-window" aria-hidden="true" These are external links and will open in a new window  p 
+ p class="story-body__introduction" What would you say is the world's most dangerous animal? A shark? A tiger? What about a crocodile?   p 
+ p Although these apex predators are terrifying killers, the world's deadliest animal, year after year, is actually something much smaller - the mosquito.  p 
+ p Here are some of the world's deadliest animals.  p 
+ p According to the World Health Organization, about 725,000 people are killed every year by mosquito-borne diseases. Malaria alone affects 200 million, of which an estimated 600,000 die. Mosquitoes also carry dengue fever, yellow fever and encephalitis.   p 
+ p The sheer number of mosquitoes adds to the risk they pose to humans. Unlike many other dangerous creatures, they can be found in nearly every part of the world at various times of year, and at peak breeding season they outnumber every other animal except ants and termites.  p 
+ p An estimated 50,000 people are killed every year by snakes. The most venomous snake in the world is the Inland Taipan, also known as the Western Taipan. Its venom is highly toxic and can kill a human being in under 45 minutes. More than 80% of those bitten by the Inland Taipan die. But it is not the biggest killer, because it rarely bites humans.   p 
+ p The saw-scaled viper doesn't rank in the top 10 for venom toxicity - only 10% of bite victims die - but it lives around inhabited areas and it bites fast and often. The saw-scaled viper is estimated to kill about 5,000 people every year - more than any other kind of snake.  p 
+ p The Inland Taipan is native to central Australia, while the saw-scaled viper can be found in Pakistan, India, Sri Lanka, parts of the Middle East and Africa, north of the equator. The various Krait species, also among the world's most deadly, are found mostly in East Asia.  p 
+ p Man's best friend? Perhaps, but not mankind's. Rabid dogs are responsible for the deaths of an estimated 25,000 people per year. In countries where dogs commonly carry rabies they are involved in up to 99% of infections, according to the WHO.  p 
+ p Countries with large numbers of stray dogs, including India, are the worst affected. According to the WHO, about 36% of the world's rabies deaths - 20,000 of about 55,000 deaths worldwide - occur in India each year, most of those when children come into contact with infected dogs.  p 
+ p Dying from an actual dog bite is much more rare. There is no reliable worldwide data, but of the estimated 4.5 million dog bites in the US every year, only about 30 people die on average.  p 
+ p The tsetse fly is roughly similar in size and appearance to the ordinary housefly, but it packs a lot more of a punch. The tsetse fly uses a large proboscis to bite vertebrate animals, including humans, and suck their blood.   p 
+ p It carries African trypanosomiasis, or sleeping sickness, a parasitic disease which causes fevers, headaches, and joint pain, followed by vomiting, swelling of the brain, and trouble sleeping. Somewhere between 20,000 and 30,000 people are thought to be infected with sleeping sickness every year, the vast majority in sub-Saharan Africa. An estimated 10,000 die from the disease.  p 
+ p Crocodiles do not necessarily set out to hunt humans, but they are opportunistic killers. In Africa alone there are several hundred crocodile attacks on humans per year, between a third to half of which are fatal, depending on the species. Many take place in small communities and are not widely reported.   p 
+ p Worldwide, crocodiles are estimated to kill about 1,000 humans per year, many more than sharks.   p 
+ p Alligators, which only occur in the wild in the US and China, are less aggressive than crocodiles but can still be dangerous. In the US state of Florida, 22 people have been killed by alligators since 1948, the state authorities say.  p 
+ p  strong Read more:   strong  a href="http:  www.bbc.co.uk earth story 20150721-when-crocodiles-attack" class="story-body__link" Why do crocodiles attack humans?  a   p 
+ p Ungainly as it is, the hippopotamus is the world's deadliest large land mammal, killing an estimated 500 people per year in Africa. Hippos are aggressive creatures, and they have very sharp teeth.   p 
+ p And you would not want to get stuck under one; at up to 2,750kg they can crush a human to death.  p 
+ p class="top-stories-promo-story__summary top-stories-promo-story__summary--none" The Boeing 737 Max-8 had 157 people on board, including Kenyans, Britons, Canadians and Americans.  p 
+ p class="heron__item-summary" Have you been getting these songs wrong?  p 
+ p class="heron__item-summary" What happens to your body in extreme heat?  p 

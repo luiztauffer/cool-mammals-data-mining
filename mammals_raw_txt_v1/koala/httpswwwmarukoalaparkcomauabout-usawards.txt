@@ -1,0 +1,29 @@
+ p class="login-username" 
+				 label for="user_login" Username or Email Address  label 
+				 input type="text" name="log" id="user_login" class="input" value="" size="20" 
+			  p 
+ p class="login-password" 
+				 label for="user_pass" Password  label 
+				 input type="password" name="pwd" id="user_pass" class="input" value="" size="20" 
+			  p 
+ p class="login-submit" 
+				 input type="submit" name="wp-submit" id="wp-submit" class="button button-primary" value="Log In" 
+				 input type="hidden" name="redirect_to" value="https:  www.marukoalapark.com.au" 
+			  p 
+ p Winner of the People’s Choice Tourist Attraction, as voted by our visitors  br  Winner of the Good Access Good Business Award, in recognition of services and amenities provided for people with special needs  p 
+ p Winner of Good Access is Good Business Award  p 
+ p Winner of Community Event of the Year  p 
+ p In 2009 Maru was nominated for and won the award for the Bass Coast Australia Day Awards "Best Community Event of the Year" for our ‘Dreamnight at the Zoo’ event. ‘Dreamnight at the Zoo’ is a global organization run by volunteers that encourages zoos and parks worldwide to open up their premises for free for one night to special needs children. Maru learned about and joined the program in 2006 and now runs a ‘Dreamnight at the Zoo’ every November. There are currently 35 countries with zoos or parks that host a Dreamnight at the Zoo event. Learn more about the organisation by visiting  a href="https:  www.dreamnightatthezoo.nl " target="_blank" www.dreamnightatthezoo.nl  a   p 
+ p Special needs children and their entire families across the Gippsland area are invited to come along for a free night of fun and entertainment at Maru. This includes children who are mentally and physically challenged, enduring chronic illness, disease or disabilities such as autism and downs syndrome. These special people come along and enjoy entry to the Animal Park and Pirate Pete’s Mini-golf, a BBQ dinner and entertainment at no cost. There are children’s rides, face painting, animal costume characters and lots of entertainment to enjoy. The park keepers are also out with the animals to encourage hands on interaction and introduce the animals to the children. Each family also receives a free showbag of goodies to take home and a photo of them with one of the animals.  p 
+ p Maru staff and other locals all volunteer their time on the night for the children with many local businesses and major Maru business suppliers donating money and goods to make the night possible. The event is also supported by the Bass Coast Shire Council. Receiving this award is recognition of the efforts of all of our volunteers and sponsors, because without them this wonderful event would not be possible.  p 
+ p The night also brings together many local community groups and volunteers including the local CFA, CERT (Community Emergency Response Team) and Lions Club.  p 
+ p Please note that attendance on our ‘Dreamnight’ is strictly by invitation only. However if you work with special needs children in the Gippsland area and would like to have them invited, we encourage you to contact us for an invitation and entry pass for the night.
+  p 
+ p Winner of Encouragement Award  p 
+ p "Place is well maintained, employees are excellent and knowledgeable. The animals are very well taken care of. Excellent tourist attraction. A great experience to be here"  p 
+ p Marie Rosario on her nomination of Maru for People's Choice Tourism Award 2013  p 
+ p "This was a great day out, definitely recommend for a visit. The animals are happy, healthy and playful, with plenty of room to run around. You can definitely tell that they are well looked after and well loved. The staff are extremely helpful and knowledgeable. The young lady who did a talk on the koalas definitely knew her stuff, and I found myself learning a lot of new information. They are approachable too, so don't hesitate if you have any questions about any of the animals. Highly recommend for fun or education. A+"  p 
+ p Trip Advisor review of Maru December 2013  p 
+ p class="page-card__excerpt" Sheep Shearing Shows every day at Maru  p 
+ p  a class="page-card__read-more" href="https:  www.marukoalapark.com.au animal-park what-we-have " Read More  a   p 
+ p © 2019 Maru Koala Park | Designed &amp; Developed by  a href="http:  www.blessdesigns.com.au" target="_blank" Bless Designs  a 						  p 

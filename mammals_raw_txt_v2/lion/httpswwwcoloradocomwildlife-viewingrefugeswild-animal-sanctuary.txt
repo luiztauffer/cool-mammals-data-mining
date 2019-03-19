@@ -1,0 +1,11 @@
+ p class="skip-link__wrapper" 
+       a href="#main-menu" class="skip-link visually-hidden visually-hidden--focusable" id="skip-link" Jump to navigation  a 
+      p 
+ p 30 miles northeast of Denver. See more than 480 lions, tigers, bears, leopards, cougars, wolves and other carnivores rescued from illegal or abusive situations, roaming freely in species-specific habitats on 789 acres of open grassland. The Sanctuary is open daily to the public (except holidays and bad weather), 9am - sunset for educational purposes and features a "Mile Into The Wild" elevated walkway that spans the sanctuary's open habitats and allows visitors to see the animals roaming freely.  p 
+ p  a href="https:  www.colorado.com articles why-families-love-colorado-wild-animal-sanctuary" target="_blank" Learn more about why you and your family will love the Wild Animal Sanctuary &gt;&gt;  a   p 
+ p Colorado ski areas offer acclaimed ski-school learning programs that are the perfect springboard to a lifelong love affair with the slopes.... a href=" articles colorado-ski-school-learn-ski-snowboard-colorado" class="more-link" Read more  a   p 
+ p The meandering Rio Grande River snakes through a vast valley ringed by dramatic mountains and filled with hidden lakes, waterfalls and cool... a href=" articles 2-days-san-luis-valley-great-sand-dunes-national-park" class="more-link" Read more  a   p 
+ p Northwestern Colorado's Dinosaur Diamond Scenic and Historic byway takes drivers through landscapes that once shook under the footfalls of titans... a href=" articles colorado-scenic-byway-dinosaur-diamond" class="more-link" Read more  a   p 
+ p ... a href=" articles crafts-drafts-colorado-springs-breweries-distilleries" class="more-link" Read more  a   p 
+ p ... a href=" articles stunning-places-picnic-colorado" class="more-link" Read more  a   p 
+ p Heavenly Colorado temperatures, quaking aspen melodies and mountainous landscapes saturated with fiery reds, oranges and yellows are just some of... a href=" articles 5-fall-bike-rides-colorado" class="more-link" Read more  a   p 

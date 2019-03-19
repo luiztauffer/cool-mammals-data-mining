@@ -1,0 +1,42 @@
+ p class="exhibit-status" 
+           a href="https:  www.montereybayaquarium.org animals-and-exhibits exhibits life-on-the-bay" Found in Monterey Bay  a 
+  p 
+ p  em Zalophus californianus  em   p 
+ p  a href="https:  www.montereybayaquarium.org animals-and-exhibits animal-guide marine-mammals" Marine Mammals  a   p 
+ p squid, fishes and octopuses  p 
+ p males to 8 feet (2.4 m) long, 750 pounds (340 kg); females generally no larger than 220 pounds (100 kg)  p 
+ p Steller sea lion; Order: Pinnipedia; Family: Otariidae  p 
+ p  a href="https:  www.montereybayaquarium.org animals-and-exhibits animal-guide habitat rocky-shores" Rocky Shores  a   p 
+ p North Pacific from the Japanese coast to California, Mexico and Galapagos Islands  p 
+ p The California sea lion is a member of the "eared seal" family. These pinnipeds are adept at leaping distances out of the water, and are often found sitting on top of rocks, floating docks and beams under fishing piers, and even balancing on floating buoys.  p 
+ p Highly social, sea lions form groups of several hundred to several thousand animals in colonies onshore. They even stick together in the water. It's not unusual to see dozens of sea lions rafted up on the surface of the bay "jugging" with their flippers sticking up out of the water. Scientists suspect this behavior may aid in maintaining a warm internal body temperature.  p 
+ p The California sea lion population in this area fluctuates during the year, with numbers of mature animals migrating to the southern California breeding grounds in the late spring, then returning to Monterey Bay in the summer, often accompanied by more young animals moving up from southern California waters. Traditionally we see more juvenile and male sea lions in the Monterey Bay area, as mature females may stay closer to the breeding colonies in southern California. However, as the California sea lion population is expanding, a growing number of adult females and juveniles are seen in Monterey Bay.  p 
+ p California sea lions are often seen in boating marinas, lounging on wharfs, pilings, buoys and even boats. Their loud barking and boisterous acrobatics make them noticeable neighbors. Always looking for an easy meal, sea lions will follow fishing boats, and even feeding humpback whales and dolphins, hoping to take advantage of fishes that spill from nets or are concentrated by the work of other animals.  p 
+ p Historically the numbers of California sea lions declined north of Monterey Bay and their larger cousin, the Steller sea lion, was more common in the north. In recent decades the numbers of Steller sea lions have declined dramatically and California sea lions are the more common species throughout California and many parts of Oregon and Washington.  p 
+ p Although once depleted, California sea lion populations have rebounded due to the protections afforded by the Marine Mammal Protection Act. Of the five species of sea lions worldwide, the California sea lion is the only one whose population is expanding. Other species are either in decline or limited to very small populations (less than 10,000).  p 
+ p Sea lions that get too close to fishing boats may become entangled in fishing gear. Every year sea lions have to be captured to remove lures, nets or fishing line wrapped around the animal.  p 
+ p 
+          Look for marine life and sailboats on Monterey Bay. br 
+           a href="https:  www.montereybayaquarium.org animals-and-exhibits live-web-cams monterey-bay-cam" Watch now  a 
+          p 
+ p  em Zalophus californianus  em   p 
+ p  a href="https:  www.montereybayaquarium.org animals-and-exhibits animal-guide marine-mammals" Marine Mammals  a   p 
+ p squid, fishes and octopuses  p 
+ p males to 8 feet (2.4 m) long, 750 pounds (340 kg); females generally no larger than 220 pounds (100 kg)  p 
+ p Steller sea lion; Order: Pinnipedia; Family: Otariidae  p 
+ p  a href="https:  www.montereybayaquarium.org animals-and-exhibits animal-guide habitat rocky-shores" Rocky Shores  a   p 
+ p North Pacific from the Japanese coast to California, Mexico and Galapagos Islands  p 
+ p style="margin: -5px 0 15px 0; font-size: .75em; line-height: 1.4em;" The Monterey Bay Aquarium is a 501(c)3 non-profit organization. Tax ID# span style="color: #fff;" -  span 94 span -  span 2487469.  p 
+ p class="about" 
+           a href="https:  www.montereybayaquarium.org about" title="About Us" About Us  a 
+   a href="https:  www.montereybayaquarium.org about contact-us" title="Contact Us" Contact Us  a 
+   a href="https:  www.montereybayaquarium.org about job-opportunities" title="Jobs" Jobs  a 
+   a href="https:  www.montereybayaquarium.org support-us volunteer" title="Volunteer" Volunteer  a 
+   a href="https:  www.montereybayaquarium.org about internships" title="Internships" Internships  a 
+   a class="external" href="http:  newsroom.montereybayaquarium.org " title="Newsroom" Newsroom  a 
+   a href="https:  www.montereybayaquarium.org about privacy-policy" title="Privacy Policy" Privacy Policy  a 
+   a href="https:  www.montereybayaquarium.org about terms-of-use" title="Terms of Use" Terms of Use  a 
+
+ 
+        p 
+ p class="copyright" © 2019 Monterey Bay Aquarium Foundation  p 

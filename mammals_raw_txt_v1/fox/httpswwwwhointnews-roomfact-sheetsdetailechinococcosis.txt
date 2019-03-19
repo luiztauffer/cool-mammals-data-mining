@@ -1,0 +1,81 @@
+ p class="author" ©WHO Yoshi Shimizu  p 
+ p class="author" WHO A. Clements-Hunt  p 
+ p class="author" WHO Rada Akbar  p 
+ p class="author" WHO  p 
+ p class="author" WHO L. Pezzoli  p 
+ p class="author" Ikerender  p 
+ p 
+ span The two most important forms, which are of medical and public health relevance in humans, are cystic echinococcosis (CE) and alveolar echinococcosis (AE).  span   p 
+ p 
+ span A number of herbivorous and omnivorous animals act as intermediate hosts of  em Echinococcus  em . They become infected by ingesting the parasite eggs in contaminated food and water, and the parasite then develops into larval stages in the viscera.  span   p 
+ p 
+ span Carnivores act as definitive hosts for the parasite, and host the mature tapeworm in their intestine. They are infected through the consumption of viscera of intermediate hosts that harbour the parasite.  span   p 
+ p 
+ span Humans act as so-called accidental intermediate hosts in the sense that they acquire infection in the same way as other intermediate hosts, but are not involved in transmitting the infection to the definitive host.  span   p 
+ p 
+ span Several distinct genotypes of  em E. granulosus  em  are recognised, some having distinct intermediate host preferences. Some genotypes are considered species distinct from  em E. granulosus  em . Not all genotypes cause infections in humans. The genotype causing the great majority of cystic echinococcosis infections in humans is principally maintained in a dog–sheep–dog cycle, yet several other domestic animals may also be involved, including goats, swine, cattle, camels and yaks.  span   p 
+ p 
+ span Alveolar echinococcosis usually occurs in a wildlife cycle between foxes, other carnivores and small mammals (mostly rodents). Domesticated dogs and cats can also be infected.  span   p 
+ p 
+ span Human infection with  em E. granulosus  em  leads to the development of one or more hydatid cysts located most often in the liver and lungs, and less frequently in the bones, kidneys, spleen, muscles, central nervous system and eyes.  span   p 
+ p 
+ span The asymptomatic incubation period of the disease can last many years until hydatid cysts grow to an extent that triggers clinical signs, however approximately half of all patients that receive medical treatment for infection do so within a few years of their initial infection with the parasite.  span   p 
+ p 
+ span Abdominal pain, nausea and vomiting are commonly seen when hydatids occur in the liver. If the lung is affected, clinical signs include chronic cough, chest pain and shortness of breath. Other signs depend on the location of the hydatid cysts and the pressure exerted on the surrounding tissues. Non-specific signs include anorexia, weight loss and weakness.  span   p 
+ p 
+ span Alveolar echinococcosis is characterized by an asymptomatic incubation period of 5–15 years and the slow development of a primary tumour-like lesion which is usually located in the liver. Clinical signs include weight loss, abdominal pain, general malaise and signs of hepatic failure.  span   p 
+ p 
+ span Larval metastases may spread either to organs adjacent to the liver (for example, the spleen) or distant locations (such as the lungs, or the brain) following dissemination of the parasite via the blood and lymphatic system. If left untreated, alveolar echinococcosis is progressive and fatal.  span   p 
+ p 
+ span Cystic echinococcosis is globally distributed and found in every continent except Antarctica. Alveolar echinococcosis is confined to the northern hemisphere, in particular to regions of China, the Russian Federation and countries in continental Europe and North America.  span   p 
+ p 
+ span In endemic regions, human incidence rates for cystic echinococcosis can reach more than 50 per 100 000 person-years, and prevalence levels as high as 5%–10% may occur in parts of Argentina, Peru, East Africa, Central Asia and China. In livestock, the prevalence of cystic echinococcosis found in slaughterhouses in hyperendemic areas of South America varies from 20%–95% of slaughtered animals.  span   p 
+ p 
+ span The highest prevalence is found in rural areas where older animals are slaughtered. Depending on the infected species involved, livestock production losses attributable to cystic echinococcosis result from liver condemnation and may also involve reduction in carcass weight, decrease in hide value, decrease of milk production, and reduced fertility.  span   p 
+ p 
+ span Ultrasonography imaging is the technique of choice for the diagnosis of both cystic echinococcosis and alveolar echinococcosis in humans. This technique is usually complemented or validated by computed tomography (CT) and or magnetic resonance imaging (MRI) scans.  span   p 
+ p 
+ span Cysts can be incidentally discovered by radiography. Specific antibodies are detected by different serological tests and can support the diagnosis. Biopsies and ultrasound-guided punctures may also be performed for differential diagnosis of cysts from tumours and abscesses.  span   p 
+ p 
+ span Both cystic echinococcosis and alveolar echinococcosis are often expensive and complicated to treat, sometimes requiring extensive surgery and or prolonged drug therapy. There are 4 options for the treatment of cystic echinococcosis:  span   p 
+ p 
+ span The choice must primarily be based on the ultrasound images of the cyst, following a stage-specific approach, and also on the medical infrastructure and human resources available.  span   p 
+ p 
+ span For alveolar echinococcosis, early diagnosis and radical (tumour-like) surgery followed by anti-infective prophylaxis with albendazole remain the key elements. If the lesion is confined, radical surgery can be curative. Unfortunately in many patients the disease is diagnosed at an advanced stage. As a result, if palliative surgery is carried out without complete and effective anti-infective treatment, frequent relapses will occur.  span   p 
+ p 
+ span Early detection of  em E. granulosus  em  and  em E. multilocularis  em  infections, especially in low-resource settings, is still needed in addition to the evaluation of clinical treatment options. Further assessment and potential commercialization of a vaccine for  em E. granulosus  em  recombinant oncosphere antigen (EG95) is on trial in sheep to impede  em E. granulosus  em  infection of lambs. This could supplement control measures such as the treatment of dogs and culling of older sheep.  span   p 
+ p 
+ span Both cystic echinococcosis and alveolar echinococcosis represent a substantial disease burden. Worldwide, there may be in excess of 1 million people living with these diseases at any one time. Many of these people will be experiencing severe clinical syndromes which are life-threatening if left untreated. Even with treatment, people often face reduced quality of life.  span   p 
+ p 
+ span For cystic echinococcosis, there is an average of 2.2% post-operative death rate for surgical patients and about 6.5% of cases relapse after an intervention, thereby requiring prolonged recovery time.  span   p 
+ p 
+ span The 2015 WHO Foodborne Disease Burden Epidemiology Reference Group (FERG) estimated echinococcosis to be the cause of 19 300 deaths and around 871 000 disability-adjusted life-years (DALYs)  em (1)  em  globally each year.  span   p 
+ p 
+ span Annual costs associated with cystic echinococcosis are estimated to be US$ 3 billion for treating cases and losses to the livestock industry.  span   p 
+ p 
+ span Robust surveillance data is fundamental in order to show burden of disease and to evaluate progress and success of control programmes. However, as for other neglected diseases which are focused in underserved populations and remote areas, data is especially scarce and will need more attention if control programmes are to be implemented and measured.  span   p 
+ p 
+ span Surveillance for cystic echinococcosis in animals is difficult because the infection is asymptomatic in livestock and dogs. Surveillance is also not recognized or prioritized by communities or local veterinary services.  span   p 
+ p 
+ span Cystic echinococcosis is a preventable disease as it involves domestic animal species as definitive and intermediate hosts. Periodic deworming of dogs, improved hygiene in the slaughtering of livestock (including the proper destruction of infected offal), and public education campaigns have been found to lower and, in high-income countries, prevent transmission and alleviate the burden of human disease.  span   p 
+ p 
+ span Vaccination of sheep with an  em E. granulosus  em  recombinant antigen (EG95) offers encouraging prospects for prevention and control. Small-scale EG95 vaccine trials in sheep indicate high efficacy and safety with vaccinated lambs not becoming infected with  em E. granulosus  em .  span   p 
+ p 
+ span A programme combining vaccination of lambs, deworming of dogs and culling of older sheep could lead to elimination of cystic echinococcosis disease in humans in less than 10 years.  span   p 
+ p 
+ span Prevention and control of alveolar echinococcosisis more complex as the cycle involves wild animal species as both definitive and intermediate hosts. Regular deworming of domestic carnivores that have access to wild rodents should help to reduce the risk of infection in humans.  span   p 
+ p 
+ span Deworming of wild and stray definitive hosts with anthelminthic baits resulted in significant reductions in alveolar echinococcosis prevalence in European and Japanese studies. Culling of foxes and unowned free-roaming dogs appears to be highly inefficient. The sustainability and cost–benefit effectiveness of such campaigns are controversial.  span   p 
+ p 
+ span WHO assists countries to develop and implement pilot projects leading to the validation of effective cystic echinococcosis control strategies by 2020. Working with the veterinary and food safety authorities as well as with other sectors is essential to attain the long-term outcomes of reducing the burden of disease and safeguarding the food value chain. WHO supports capacity building through training courses targeting medical and paramedical personnel, focused on the clinical management of cystic echinococcosis in rural areas of affected countries.  span   p 
+ p 
+ span The WHO Informal Working Group on Echinococcosis (WHO-IWGE) continues to identify priorities to develop guidance on detection and clinical management of cystic echinococcosis through improved case detection and management. The group is also working to promote the collection and mapping of epidemiological data.  span   p 
+ p 
+ span Morocco finished a project aimed at decentralizing diagnostic and therapeutic techniques and promoting the PAIR (puncture, aspiration, injection, re-aspiration) strategy in rural and hyperendemic areas. As a complement, the emphasis needs to be put on prevention in the animal and food safety sector.  span   p 
+ p 
+ span Mongolia has recognized the importance of echinococcosis as a public-health problem and, at the request of the Ministry of Health, WHO in 2013 conducted an initial situation analysis. The analysis focused on implementing early diagnosis and building a basic surveillance system covering humans and animals to understand the actual burden of the disease. No significant investment for echinococcosis has been made, and therefore programmatic progress has stalled.  span   p 
+ p 
+ span China is integrating echinococcosis prevention, control and treatment in their economic and development plans to raise attention to the vast problem in the country, especially the Tibetan plateau, as well as in the Central Asian Republics.  span   p 
+ p 
+ span  em (1)  em  One DALY (disability-adjusted life year) can be thought of as one lost year of “healthy” life. The sum of these DALYs across the population, or the burden of disease, can be thought of as a measurement of the gap between current health status and an ideal health situation where the entire population lives to an advanced age free of disease and disability.  span   p 
+ p class="section-header" Related  p 

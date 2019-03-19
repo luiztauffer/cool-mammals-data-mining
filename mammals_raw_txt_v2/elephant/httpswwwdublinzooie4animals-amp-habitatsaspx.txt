@@ -1,0 +1,15 @@
+ p class="btn" style="background: url( Images Uploaded Buttons btn-giraffe.jpg) no-repeat;"  a href=" 153 Buy-tickets.aspx"  strong Buy Tickets Online  strong  br   span Get your day ticket or annual pass here  span   a   p 
+ p class="btn" style="background: url( Images Uploaded Buttons btn-cams.jpg) no-repeat;"  a href=" 17 Webcams.aspx"  strong Animal Cams  strong  br   span Watch penguins &amp; elephants live!  span   a   p 
+ p class="btn" style="background: url( Images Uploaded Buttons btn-sealion.jpg) no-repeat;"  a href=" 67 Adopt-an-Animal.aspx"  strong Adopt an Animal  strong  br   span The ideal gift for someone special.  span   a   p 
+ p class="first"  img style="float: right;" src=" Images Uploaded Animals Asian_Elephant.jpg" alt="" width="167" height="250" Opened in 1831, Dublin Zoo is one of the world's oldest and most popular zoos. It has been transformed in recent decades into a 28 hectare park of gardens, lakes and wonderful natural habitats for over 400 animals.  p 
+ p class="first" Many are rare species and their survival in the wild is under threat so many of our animals are part of international breeding programmes for endangered species.  p 
+ p Dublin Zoo is home to animals from all around the globe.  p 
+ p    p 
+ p    p 
+ p    p 
+ p  img class="alignright" src=" Images Uploaded small_orang.jpg" alt="" width="86" height="102" Learn more about the different mammals, birds, reptiles, amphibians and invertebrates at Dublin Zoo.  p 
+ p  a href=" 9 Animal-Guide.aspx" View More  a   p 
+ p  img class="alignright" src=" Images Uploaded small_kaz.jpg" alt="" width="86" height="91" Dublin Zoo is 28 hectares filled with a wide variety of animal habitats, find out more  p 
+ p  a href=" 23 Habitat.aspx" View More  a   p 
+ p  img class="alignright" src=" Images Uploaded cams_elephant.jpg" alt="" width="86" height="123" View live footage from our Zoo webcams  p 
+ p  a href=" 17 Webcams.aspx" Watch them here  a   p 

@@ -1,0 +1,48 @@
+ p class="g1-mega g1-mega-1st site-title" 
+			
+			 a class="g1-logo-wrapper" href="https:  theuijunkie.com " rel="home" 
+									 img class="g1-logo g1-logo-default" width="300" height="100" src="https:  theuijunkie.com wp-content uploads 2018 05 theuijunkie-logo-new.png" srcset="https:  theuijunkie.com wp-content uploads 2018 05 theuijunkie-logo-new.png 2x,https:  theuijunkie.com wp-content uploads 2018 05 theuijunkie-logo-new.png 1x" alt="I'm A Useless Info Junkie" 							  a 
+
+				  p 
+ p 
+     label Email address:   label 
+	 input type="email" name="EMAIL" placeholder="Your email address" required 
+  p 
+ p 
+	 input type="submit" value="Sign up" 
+  p 
+ p class="g1-meta g1-newsletter-privacy" Don't worry, we don't spam  p 
+ p class="g1-mega g1-mega-1st site-title" 
+			
+			 a class="g1-logo-wrapper" href="https:  theuijunkie.com " rel="home" 
+									 img class="g1-logo g1-logo-default" width="425" height="150" src="https:  theuijunkie.com wp-content uploads 2018 05 theuijunkie-logo-new.png" srcset="https:  theuijunkie.com wp-content uploads 2018 05 theuijunkie-logo-new.png 2x,https:  theuijunkie.com wp-content uploads 2018 05 theuijunkie-logo-new.png 1x" alt="I'm A Useless Info Junkie" 							  a 
+
+				  p 
+ p 
+     label Email address:   label 
+	 input type="email" name="EMAIL" placeholder="Your email address" required 
+  p 
+ p 
+	 input type="submit" value="Sign up" 
+  p 
+ p class="g1-meta g1-newsletter-privacy" Don't worry, we don't spam  p 
+ p class="g1-breadcrumbs-label" You are here:   p 
+ p  span style="color: #000000;" This may sound crazy but there’s an owner for every single panda that exists in this world. All of them. Who’s that?  span   p 
+ p  span style="color: #000000;" Well, if you happen to know which country has Panda as it’s national animal, you’ve probably guessed it by now.  span   p 
+ p  span style="color: #000000;"  strong It’s China. Every panda in the world is owned by China.  strong  In fact, if you happen to see one outside the country, that’s because it’s on loan! And not only does it own the current panda population, it even owns all future offspring of all pandas! Here’s why:  span style="color: #999999;"  em (the article continues after the ad)  em   span   span   p 
+ p  span style="color: #000000;" During the past 15 years, every time China has sent a panda to a foreign zoo, they have required an agreement with the receiving country that China owns the panda and its offspring. According to the contract, the pandas belong to China and so do any of their offspring. If there are any offspring, they must be returned to China  strong before they turn four years old.  strong  The contract also expressly forbids panda cloning research! Click  a href="http:  web.mit.edu mherdeg Public smithsonian-panda-agreement-2011.pdf" target="_blank" rel="noopener" here  a  to see an example of such a contract.  span   p 
+ p  span style="color: #000000;" But there are two exceptions.  span   p 
+ p  span style="color: #000000;" There are two pandas which are owned by Mexico. Xin Xin and Shuan Shuan. One is a child, and the other is a grandchild, of a pair of pandas given to Mexico in the 1970s. This was before China implemented the “I own all the pandas” policy. But, Mexico has agreed that if these pandas have any offspring, they will belong to China.  span   p 
+ p  a href="https:  theuijunkie.com refrigerator-death "  img data-expand="600" class="lazyload alignnone wp-image-5418 size-full" src="https:  theuijunkie.com wp-content plugins media-ace includes lazy-load images blank.png" data-src="https:  theuijunkie.com wp-content uploads 2017 03 buttonprevious.png" alt="" width="709" height="113" data-srcset="https:  theuijunkie.com wp-content uploads 2017 03 buttonprevious.png 709w, https:  theuijunkie.com wp-content uploads 2017 03 buttonprevious-300x48.png 300w" data-sizes="(max-width: 709px) 100vw, 709px"   a  a href="  theuijunkie.com rooster-booster-cockfightings "  img data-expand="600" class="lazyload alignnone wp-image-4129 size-full" src="https:  theuijunkie.com wp-content plugins media-ace includes lazy-load images blank.png" data-src="https:  theuijunkie.com wp-content uploads 2017 02 buttonsurprise.png" alt="" width="709" height="113" data-srcset="https:  theuijunkie.com wp-content uploads 2017 02 buttonsurprise.png 709w, https:  theuijunkie.com wp-content uploads 2017 02 buttonsurprise-300x48.png 300w" data-sizes="(max-width: 709px) 100vw, 709px"   a  br 
+ span style="color: #999999;" Photo: Cimberley   Pixabay   span  br 
+ br Widget not in any sidebars br   p 
+ p class="g1-alpha g1-alpha-1st" The best stories served daily at your email!  p 
+ p 
+     label Email address:   label 
+	 input type="email" name="EMAIL" placeholder="Your email address" required 
+  p 
+ p 
+	 input type="submit" value="Sign up" 
+  p 
+ p class="g1-meta g1-newsletter-privacy" Don't worry, we don't spam  p 
+ p class="g1-footer-text" Copyright © I'm A Useless Info Junkie.  p 

@@ -1,0 +1,22 @@
+ p id="banner-title-text" 
+
+        European  Commission br 
+
+         span id="banner-site-name" Environment  span 
+
+        p 
+ p class="off-screen" Accessibility tools  p 
+ p class="off-screen" Service tools  p 
+ p class="off-screen" Language selector  p 
+ p class="off-screen" Navigation path  p 
+ p class="off-screen" High level navigation  p 
+ p class="off-screen" Page navigation  p 
+ p class="off-screen" Additional tools  p 
+ p In order  to ensure the survival of Europe’s most endangered and vulnerable species, EU  governments adopted the Habitats Directive in 1992  b (  b  a href="http:  eur-lex.europa.eu legal-content EN TXT ?uri=CELEX:01992L0043-20070101" Council  Directive 92 43 EEC  of 21 May 1992  a  on the conservation of natural habitats and of wild fauna and  flora b )  b . Together with the Birds Directive, it sets the standard for nature  conservation across the EU and enables all 27 Member States to work together within  the same strong legislative framework in order to protect the most vulnerable  species and habitat types across their entire natural range within the EU.   p 
+ p The Habitats Directive  protects around 1200 European species other than birds b    b which are considered to be endangered, vulnerable, rare and or  endemic.  Included in the Directive are  mammals, reptiles, fish, crustaceans, insects, molluscs, bivalves and  plants.  The protection provisions for these  species are similar to those in the Birds Directive. They are designed to  ensure that the species listed in the Habitats Directive reach a favourable conservation status within the EU.    p 
+ p                 The  Habitats Directive species and sub-species are protected in various ways:  p 
+ p The European Commission has issued a guidance  document on the species protection provisions of the Habitats Directive in  order to ensure their correct implementation and has supported a number of  strategic initiatives to improve the knowledge of the threatened species in  Europe (the IUCN European Red Data list) and the management of certain groups  of species, such as the large carnivores.   p 
+ p  b Find out more:   b   p 
+ p 
+
+                         img alt="" style="border:0;" src="https:  webgate.ec.europa.eu pwar piwik.php?idsite=15"   p 

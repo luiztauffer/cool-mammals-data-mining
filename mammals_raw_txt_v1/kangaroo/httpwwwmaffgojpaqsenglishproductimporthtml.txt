@@ -1,0 +1,41 @@
+ p class="gnav_nav-mega-title"  a href="#" 動物の輸出入  span class="visible_sp_inline" トップ  span   a   p 
+ p class="gnav_nav-mega-title"  a href="#" 畜産物の輸出入  span class="visible_sp_inline" トップ  span   a   p 
+ p class="gnav_nav-mega-title"  a href="#" 海外旅行される方へ  span class="visible_sp_inline" トップ  span   a   p 
+ p class="gnav_nav-mega-title"  a href="#" 申請·お問い合わせ  span class="visible_sp_inline" トップ  span   a   p 
+ p class="gnav_nav-mega-title"  a href="#" 動物検疫について  span class="visible_sp_inline" トップ  span   a   p 
+ p  img alt="icon_arrow" width="14" height="14" src="http:  www.maff.go.jp aqs languages img icon_arrow.gif" It is a guide to bringing items into Japan.  span style="color: #0082e5;"  a style="color: #0082e5;" href=". export.html" Please see here for guidance on taking items out of Japan.  a   span    p 
+ p Currently, there are outbreaks of domestic animal diseases in many countries, and as it is difficult to obtain an inspection certificate for souvenirs and items for personal consumption, most meat products and animal products cannot be brought into Japan.   p 
+ p  strong  span style="color: #db0000;" Please be aware that bringing in items illegally will be subject to penalties.  span   strong     p 
+ p  a class="icon_pdf" href="http:  www.maff.go.jp aqs topix attach pdf asf2018-7.pdf" target="_blank"  img alt="fmd_ai_jpen_leaflet.jpg" width="35" height="48" src="http:  www.maff.go.jp aqs tetuzuki product img fmd_ai_jpen_leaflet.jpg"  span style="color: #0082e5;" Pamphlet: To everyone traveling overseas or entering Japan（PDF：965KB）  span   a   p 
+ p    p 
+ p It applies to the following items derived from cloven-hoofed animals (such as cattle, pig, sheep, goat and deer), horse, poultry (＊), dog, rabbit and bee. br ＊Poultry: Chicken, quail, pheasant, ostrich, guinea fowl, turkey, as well as duck, geese and other anseriformes.  p 
+ p    p 
+ p There are countries and regions from which items cannot be brought into Japan due to the outbreak situation of domestic animal diseases.  p 
+ p See  span style="color: #0082e5;"  a style="color: #0082e5;" href=".. news im_prohibit.html" here  a   span  for countries and regions from which imports have been suspended due to outbreaks of foot-and-mouth disease, etc.  p 
+ p See  span style="color: #0082e5;"  a style="color: #0082e5;" href=".. news hpai.html" here  a   span  for countries and regions from which imports have been suspended due to outbreaks of avian influenza  p 
+ p In addition, the importing of deer-derived products from countries and regions affected by CWD (chronic wasting disease) has been suspended.  p 
+ p    p 
+ p class="section" Items without an inspection certificate issued by a government agency of the exporting country cannot be brought into Japan, even if they are souvenirs or for personal consumption.  p 
+ p class="section" In countries such as Australia and New Zealand, there are products that are sold with an inspection certificate for Japan attached to them.  p 
+ p class="section"  a class="icon_pdf" href="http:  www.maff.go.jp aqs english product pdf certificate_eng.pdf"  img alt="certificate_eng" width="35" height="50" src="http:  www.maff.go.jp aqs english product img certificate_eng.jpg"  span style="color: #0082e5;" Example of Inspection Certificates attached to animal products.（PDF：432KB）  span   a   p 
+ p class="section"    p 
+ p class="section" You need to undergo import inspection at Animal Quarantine Service counter in the baggage claim area of the arrival airport or seaport.  p 
+ p class="section" Please be aware that even items that can be brought into Japan may not be allowed to be brought in if they have been opened prior to being inspected by Animal Quarantine Service.  p 
+ p class="section"    p 
+ p class="section"    p 
+ p Q1：Is it possible to bring in commercial meat products that have been vacuum packed?  p 
+ p A1：Items that are banned or suspended from being imported and items without an inspection certificate cannot be brought in, even if they are vacuum-packed.  p 
+ p Q2： Is it possible to bring in any heat processed products?  p 
+ p A2：Items that are banned or suspended from being imported and items without an inspection certificate cannot be brought in, even if they have been heated processed.  p 
+ p Q3：I was told by a shop assistant in the duty-free shop that I would be able to bring it in. Is this true?  p 
+ p A3：Items that are banned or suspended from being imported and items without an inspection certificate cannot be brought in, even if they have been purchased at a duty-free store.  p 
+ p Q4：Can I bring any items if they are only an amount I eat myself?  p 
+ p A4：Items that are banned or suspended from being imported and items without an inspection certificate cannot be brought in, even if it is a small quantity as a souvenir or for personal consumption.  p 
+ p class="section"    p 
+ p class="section"    p 
+ p To view PDF files, you will need Adobe Acrobat Reader. If you do not have Adobe Reader, please download it from the banner link. a href="http:  www.adobe.com jp products acrobat readstep2.html"  img alt="Adobe Readerのダウンロードページへ" width="112" height="33" align="right" src="http:  www.maff.go.jp aqs shared shared images btn_reader.gif" border="0"   a   p 
+ p class="footer_title" 公式SNS  p 
+ p  span class="footer_ad-item-title" 住所：  span  span class="footer_ad-item-cont" 〒235-0008 神奈川県横浜市磯子区原町11-1  span   p 
+ p 電話： a href="http:  www.maff.go.jp aqs sosiki address.html" 動物検疫所へのお問合わせ先  a   p 
+ p 法人番号：5000012080001  p 
+ p class="copyright" Copyright : Animal Quarantine Service  p 

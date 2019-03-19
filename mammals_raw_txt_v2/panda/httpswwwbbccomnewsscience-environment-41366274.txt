@@ -1,0 +1,36 @@
+ p class="twite__title" aria-hidden="true" Share this with  p 
+ p class="twite__channel-text" aria-hidden="true" Email  p 
+ p class="twite__channel-text" aria-hidden="true" Facebook  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Twitter  p 
+ p class="twite__channel-text" aria-hidden="true" Pinterest  p 
+ p class="twite__channel-text" aria-hidden="true" WhatsApp  p 
+ p class="twite__channel-text" aria-hidden="true" LinkedIn  p 
+ p class="twite__copy-text" Copy this link  p 
+ p class="twite__new-window" aria-hidden="true" These are external links and will open in a new window  p 
+ p class="story-body__introduction" Despite signs that numbers of giant pandas are rising, suitable habitat has shrunk, according to satellite data.  p 
+ p The forests where the panda lives are in worse shape than in 1988, when it was first listed as endangered, scientists say.  p 
+ p Last year, the giant panda was downgraded from endangered to vulnerable on the IUCN Red List.   p 
+ p Habitat loss is the most serious threat to the animal, which is seen as an icon of global extinction efforts.  p 
+ p "What's new in this study is our ability to assess the status of the giant panda by using satellite imagery and then use that information to come up with recommendations of how better to manage this iconic threatened species," said Prof Stuart Pimm, of Duke University, North Carolina, US, who is a researcher on the study.  p 
+ p The news last year that the giant panda had been taken off the endangered list made headlines around the world.  p 
+ p The decision was made because numbers of wild pandas had risen in surveys. However, with only around 1,800 left in the wild, establishing new reserves and extending existing ones is crucial for the animal's survival.  p 
+ p "I think we now understand we've got to keep an eye on the habitats where pandas live," said Prof Pimm.   p 
+ p "But it also points to the need to try and re-connect isolated panda habitats by building what we call biological corridors."  p 
+ p Chinese and US scientists used geographic mapping, remote sensing data and satellite imagery to assess changes across the panda's entire range from 1976 to 2013.  p 
+ p Their study, published in the journal,  a href="https:  www.nature.com natecolevol " class="story-body__link-external" Nature Ecology &amp; Evolution  a , suggests that suitable panda habitats have substantially reduced.  p 
+ p Earthquakes, human encroachment, agriculture, road building, tourism and logging of forests have had the effect of dividing the areas where pandas live into ever smaller fragments.  p 
+ p "Habitat decreased nearly 5% from 1976 to 2001, but has increased since, said Weihua Xu of the Research Center for Eco-Environmental Sciences at the Chinese Academy of Sciences.   p 
+ p "However, the average size of the habitat patches decreased by 23% from 1976 to 2001. It has increased only slightly since."  p 
+ p Some of the changes in the region are encouraging, such as stopping logging and establishing nature reserves, said Jianguo Liu of Michigan State University.  p 
+ p "But conservation is a dynamic process with humans and nature in a constant push and pull to survive and thrive, so new solutions always are in demand," he added.  p 
+ p The giant panda was once widespread throughout southern and eastern China.   p 
+ p There are now estimated to be about 1,800 giant pandas left in the wild in six mountain ranges in China's Sichuan, Shaanxi and Gansu provinces.  p 
+ p Head of Asian programmes at WWF, John Barker, said pandas are increasingly separated from one another due to developments such as roads, which run through their ranges creating small isolated populations which are unable to meet and breed with each other.  p 
+ p "Creating wildlife-friendly areas and corridors that link these fragmented populations is essential, including finding ways for pandas to move over or under roads," he said.   p 
+ p "If the giant panda is to truly thrive in the wild we need to boost efforts to maintain their habitats, ensure that they are connected and safeguard the future for pandas by making sure that developments are designed responsibly with the lowest possible environment impact."  p 
+ p Follow Helen on  a href="https:  twitter.com hbriggs?lang=en-gb" class="story-body__link-external" Twitter  a .  p 
+ p class="top-stories-promo-story__summary top-stories-promo-story__summary--none" The PM aims for a vote on her Brexit deal next week, after the Speaker rules it must be changed first.  p 
+ p class="heron__item-summary" Have you been getting these songs wrong?  p 
+ p class="heron__item-summary" What happens to your body in extreme heat?  p 

@@ -1,0 +1,9 @@
+ p  br 
+  p 
+ p  br 
+  p 
+ p ... phew, that's a lot of roos!  p 
+ p class="text-center" 
+             img class="img-responsive aimage" src="https:  cdn1.queensland.com Content Images logos teq-qldgov-logo-2017.png?d=20170822T144100" alt="Tourism and Events Queensland | Queensland Government"  br 
+             small © Tourism and Events Queensland  small 
+          p 

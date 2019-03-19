@@ -1,0 +1,153 @@
+ p  font size="+4" face="Georgia" color="#003300" Gray Wolf br 
+            font  font face="Georgia" color="#000000"  b Common Names:   b  Timber 
+          Wolf b  br 
+          Genus:  b  Canis b  br 
+          Species:  b  lupus  font   p 
+ p  font face="Georgia" color="#000000"  table border="0" cellspacing="0" cellpadding="0" width="448" 
+             tr 
+                td valign="top" width="250" 
+                   p  font face="Georgia" color="#000000"  table border="3" cellspacing="1" 
+                      tr 
+                         td 
+                            center  font face="Georgia" color="#000000"  img src="images 2_wolves.jpg" width="221" height="237" align="bottom"   font   center 
+                          td 
+                       tr 
+                    table 
+                     font   p  p   p 
+                 td 
+                td valign="top" width="195" 
+                   p  font face="Georgia" color="#000000" Gray wolves
+                  can survive in many biomes as long as food is
+                  plentiful and the climate is relatively cold. The
+                  Siberian Taiga, one of the habitats they are best
+                  suited to, is a boreal forest with long, cold
+                  winters and short summers. It covers part of
+                  northern Russia, the place where wolves are most
+                  plentiful. All wolf packs defend a territory, which
+                  can greatly vary in size.   font   p 
+                  
+                   p  font face="Georgia" color="#000000" The gray
+                  wolf is the largest wild canine. They are around 3
+                  feet tall at the shoulder and are about 3 to 5 feet
+                  in length from nose to tail tip. Their weight
+                  ranges from 40 to 176 pounds. Male
+                  wolves  font   p 
+                 td 
+              tr 
+           table 
+          are larger than females. Gray wolves have long legs with
+         large paws. Their tails are long and bushy. They have
+         pointed ears and yellow brown eyes. Their rough coats can be
+         varying shades of gray, brown, white, or black, but in
+         Europe can be grayish brown.  font   p 
+ p  font face="Georgia" color="#000000"  table border="3" cellspacing="1" 
+                      tr 
+                         td 
+                            center  font face="Georgia" color="#000000"  img src="images 2_wolves.jpg" width="221" height="237" align="bottom"   font   center 
+                          td 
+                       tr 
+                    table 
+                     font   p 
+ p  font face="Georgia" color="#000000" Gray wolves
+                  can survive in many biomes as long as food is
+                  plentiful and the climate is relatively cold. The
+                  Siberian Taiga, one of the habitats they are best
+                  suited to, is a boreal forest with long, cold
+                  winters and short summers. It covers part of
+                  northern Russia, the place where wolves are most
+                  plentiful. All wolf packs defend a territory, which
+                  can greatly vary in size.   font   p 
+ p  font face="Georgia" color="#000000" The gray
+                  wolf is the largest wild canine. They are around 3
+                  feet tall at the shoulder and are about 3 to 5 feet
+                  in length from nose to tail tip. Their weight
+                  ranges from 40 to 176 pounds. Male
+                  wolves  font   p 
+ p  font face="Georgia" color="#000000" The gray wolf has
+         many special adaptations. Their coats are made up of wooly
+         fur to provide insulation and long guard hairs to keep out
+         moisture. The gray wolf's large paws have fleshy pads and
+         claws for traction and can spread to provide better support
+         in snow. Wolves have a sense of hearing twenty times sharper
+         than a human's and have a sense of smell a hundred times
+         keener. The wolf's jaws can deliver a crushing pressure of
+         over 500 pounds per square inch! Wolves' vision is very
+         motion sensitive. They have a reflective retina, called a
+         tapetum that enhances their night vision. They can't see
+         color. Wolves have great stamina. They can cover a distance
+         of more than eighteen miles at a quick trot. They have a top
+         speed of about 40 miles per hour.  font   p 
+ p  font face="Georgia" color="#000000" The maximum lifespan
+         of a wolf is 17 years. Wolves reach sexual maturity at 1
+         year for females and 2 years for males. Wolves typically
+         mate once every year between January and March. They have a
+         gestation period of about 63 days. The average litter size
+         is 5 or 6, born in a den, such as a rock cavity or a hole in
+         the ground. Wolf pups have a birth weight of about 1 pound.
+         They stay with their mother in the den for 8 weeks before
+         they are weaned. During that time the other wolves bring
+         food for the mother. Wolves are very social animals. They
+         live in groups called packs. A typical pack is lead by an
+         alpha male and female wolf, which are a breeding pair. The
+         other members of the group are their current offspring and
+         young wolves who are the previous year's litter. There may
+         also be some lower ranking adults. Packs can have as few
+         wolves as 4 or as many as 30. There are also many lone
+         wolves. The largest wolf pack ever recorded was made up of
+         36 members!  font   p 
+ p  font face="Georgia" color="#000000" Wolves are
+         carnivores. They eat animals like moose, caribou, and other
+         deer-like animals. When food is scarce, they will eat
+         rodents. They also scavenge. A wolf can eat 22 pounds of
+         meat at one meal. The pack members will track down a herd
+         and select an old, sick, or young animal. They generally use
+         their stamina to wear down prey in long pursuit, but will
+         also sprint to catch it. The predatory success of wolves is
+         mainly due to the flexibility of their hunting methods. They
+         will flush out their prey, stalk it, or use trickery. No
+         humans have ever been killed by healthy wolves in North
+         America.  font   p 
+ p  font face="Georgia" color="#000000" The wolf is at the
+         top of the food chain and has no natural enemies. Their only
+         threat is humans. Wolves help keep the ecosystem's
+         population in check by preying on the weak animals so there
+         will be food for the stronger individuals.  font   p 
+ p  font face="Georgia" color="#000000" In Canada and
+         Alaska, the gray wolf population is stable. In most of North
+         America, however, they are an endangered species. In Europe,
+         Asia, and Africa, the remaining wolf populations are tiny.
+         The largest wolf population in Europe and Asia is found in
+         Russia, which includes the Siberian Taiga.  font   p 
+ p  font face="Georgia" color="#000000" by Bonnie E.
+         2002  font   p 
+ p  font face="Georgia" color="#000000" 
+         
+          hr size="5" width="50%" 
+         
+           font   p 
+ p    p 
+ p  font face="Georgia" color="#000000"  b bibliography  b   font   p 
+ p  font face="Georgia" color="#000000" "Gray Wolf."
+          u Wildlife Explorer  u . International Masters Publishers.
+         USA 1998.  font   p 
+ p  font face="Georgia" color="#000000" Krautwurst, T.
+         "Leaders of the Pack."  u National Geographic World  u .
+         (2001) p. 17-20.  font   p 
+ p  font face="Georgia" color="#000000" "Virtual Wildlife
+         &amp;endash; Timber wolf."   font  a href="http:  www.panda.org kids wildlife mntiwolf.htm" target="_parent"  font face="Georgia" http:  www.panda.org kids wildlife mntiwolf.htm  font   a  font face="Georgia" color="#000000" .
+         (Nov. 2001).  font   p 
+ p  font face="Georgia" color="#000000" "Wolf Fact &amp;
+         Story."   font  a href="http:  www.geocities.com Heartland Canyon 4971 wolves wfacts html" target="_parent"  font face="Georgia" http:  www.geocities.com Heartland Canyon 4971 wolves wfacts 
+         html  font   a  font face="Georgia" color="#000000" . (Nov.
+         2001).   font   p 
+ p  font face="Georgia" color="#000000" "Gray Wolf."
+           font  a href="http:  www.chaffeezoo.org zoo animals greywolf.html" target="_parent"  font face="Georgia" http:  www.chaffeezoo.org zoo animals greywolf.
+         html  font   a  font face="Georgia" color="#000000" . (Nov.
+         2001).  font   p 
+ p    p 
+ p  a href="world_biomes.htm" target="_parent"  font size="+1" face="Georgia" World
+                  Biomes  font   a   p 
+ p  a href="plants.htm" target="_parent"  font size="+1" face="Georgia" Plants  font   a   p 
+ p  a href="animals.htm" target="_parent"  font size="+1" face="Georgia" Animals  font   a   p 
+ p  a href="climate.htm" target="_parent"  font size="+1" face="Georgia" Climate  font   a   p 
+ p  a href="index.htm" target="_parent"  font size="+1" face="Georgia" Index  font   a   p 

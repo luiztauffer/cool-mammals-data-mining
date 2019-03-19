@@ -1,0 +1,91 @@
+ p Flying foxes are intelligent and remarkable. These unique animals help regenerate our forests and keep ecosystems healthy through pollination and seed dispersal. They are a migratory and nomadic 'keystone' species; meaning a species that many other species of plants and animals rely upon for their survival and wellbeing. Flying foxes, like bees, help drive biodiversity, and faced with the threat of climate change, land clearing, and other human-caused ecological pressures, we need them more than ever.   p 
+ p Flying foxes are bats or, more accurately, mega-bats (big bats). They are commonly known as fruit bats, but their diet is predominately nectar, pollen, and fruit — in that order. They don't use sonar like smaller, insect-eating bats; only their eyes and ears like us. They see as well as a cat at night and are just about as smart.  p 
+ p There are four mainland species of flying fox: Black, Grey headed, Spectacled and Little Red. Tragically, populations of flying foxes across Queensland, NSW and Victoria are in decline. Both the Grey-headed flying fox and Spectacled flying fox have declined by at least 95% in the past century, with massive losses in the past 30 years. Some researchers believe they could be functionally extinct by 2050.  p 
+ p The causes include habitat loss (land clearing), camp disturbance, starvation, increased heat events, legal and illegal shooting, and man-made hazards like power lines, barbed wire and backyard fruit tree netting.  p 
+ p Sadly, many flying foxes are shot to keep them from fruit trees — even though there are viable alternatives to doing so.
+Grey headed and Spectacled flying foxes are the species most regularly shot. They are also listed as Vulnerable to extinction under the federal government's Ecological Protection and Biodiversity Conservation Act 1999 and several state wildlife protection laws.  p 
+ p In spite of the dramatic decline in numbers of both Grey headed and Spectacled flying foxes (the latter of which has only a tiny range in Northern Queensland), both Queensland and NSW state governments continue to issue permits to fruit growers to shoot flying foxes.  p 
+ p In fact, on Threatened Species Day in 2012, Queensland reintroduced the shooting of flying foxes, ending a four year ban.  p 
+ p Tragically, shooting flying foxes is not only ineffective, but raises severe cruelty issues. Many animals who are shot are only wounded, and slowly die over days from infection and dehydration. The situation is compounded when this is a female with a pup on board. The result is often that she and her baby perish slowly.  p 
+ p Using safe netting around fruit trees is a simple and very effective alternative to shooting, and helps to protect fruit and our precious flying foxes. But not all nets are created equal. Read on to find out why the wrong kind of netting can also be deadly to these important animals, and discover the simple solution to this problem.  p 
+ p Flying foxes live together in large colonies and fly out every night in search of food. Native flowering eucalypts are the natural food source of flying foxes, and these trees will be visited by bats foraging for nectar. Flying foxes are not just feeding during this time, but performing a crucial role of pollinating native forests and spreading seeds to ensure longevity of our bush.   p 
+ p As natural habitat and food sources shrink, many flying fox roosts are becoming surrounded by urban areas and it is here that they encounter one of the biggest threats to their welfare and survival: backyard fruit tree netting. Backyard fruit trees can be a nourishing source of food for bats but venturing into backyards is unfortunately proving deadly.  p 
+ p Backyard fruit tree netting comes in two types:  a href="http:  www.wildlifefriendlyfencing.com WFF Netting.html" target="_blank" rel="nofollow" safe and unsafe  a . Unsafe netting captures and kills thousands of flying foxes each year.  p 
+ p Strangulation and dehydration are common, and this can mean lactating females are left unable to return to their hungry babies back in the colony.  p 
+ p In January 2011 alone, NSW rescuers undertook 411 bat entanglement rescues. In 2010, Brisbane Bat Rescue performed over 700 rescues. Victorian wildlife carers also respond to hundreds of backyard fruit tree entanglements each year. The endless stream of entanglement rescues and rehabilitation work is an huge and unnecessary burden on wildlife volunteers.  p 
+ p There is also a profound issue of animal cruelty. Bats and other entangled wildlife can be trapped in netting, injured for days before anyone notices. Wings are broken and mouths are torn in their efforts to escape. They are frequently found dead.  p 
+ p But you can help end this preventable cruelty. It's easy to tell safe netting from unsafe netting!  p 
+ p Safe netting: You cannot poke your finger through safe netting — the holes are too small.  strong Any netting you CAN'T poke your finger through is safe  strong  for flying foxes and other animals.  p 
+ p The good news is that many large netting   hardware retailers are already selling wildlife safe netting — including  strong Fruitsaver  strong ,  strong Fruit-sock  strong ,  strong Hailguard  strong  and  strong Coolaroo  strong .  p 
+ p The bad news is that many other retailers continue to sell netting that is unsafe for wildlife.  p 
+ p Australia needs state-by-state regulations to stop the installation of wildlife-unsafe netting on backyard fruit trees.  p 
+ p There are many advantages to regulating netting use in backyards:  p 
+ p  strong Most commercial fruit growers already net orchards safely and do not shoot flying foxes.  strong  However, it would be sensible for state or federal governments to provide netting subsidies to some growers to encourage protection of these vital species.  p 
+ p Queensland and NSW are the only two states that allow the shooting of vulnerable flying fox species. Please email, write or phone the state government representatives below to express your opposition to the shooting of flying foxes.  p 
+ p Hon. Dr Stephen Miles MP br 
+Minister for Environment and Heritage Protection br 
+Level 13, 400 George Street br 
+Brisbane QLD 4000 br 
+GPO Box 2454, Brisbane QLD 4001 br 
+(07) 3719 7330 br  script language="javascript"  !--
+				function writeAddrAuto(a,b,str) {
+					c = '';
+					if (b.indexOf('?')!=-1) {
+						c = b.substr(b.indexOf('?')+1);
+						b = b.substr(0,b.indexOf('?'));
+					}
+					e1=a+'@'+b;
+					if (c) e1 += '?'+c;
+					if(str != ''){
+						e2=str;
+					}else{
+						e2=' b '+a+'  b '+'@'+b;
+					}
+					document.write(' a href=mailto:'+e1+' '+e2+'  a ');
+				}
+			   --   script  script language="javascript"  !--
+				writeAddrAuto('environment','ministerial.qld.gov.au',"");
+			   --   script   p 
+ p The Hon. Gabrielle Upton MP br 
+Minister for Environment br 
+GPO Box 5341, Sydney NSW 2001 br 
+(02) 8574 6107 br  script language="javascript"  !--
+				writeAddrAuto('gabrielle.upton','parliament.nsw.gov.au',"");
+			   --   script   p 
+ p Queensland MPs Bob Katter and Shane Knuth also regularly call for the 'culling' of flying foxes.
+If you live in their electorates you might like to let them know you oppose the shooting of flying foxes.  p 
+ p  strong Mr Shane Knuth, MP  strong  br 
+PO Box 1667 br 
+Atherton, QLD, 4883 br 
+(07) 4091 5861  br  script language="javascript"  !--
+				writeAddrAuto('dalrymple','parliament.qld.gov.au',"");
+			   --   script   p 
+ p  strong Hon Bob Katter, MP  strong  br 
+PO Box 2130 br 
+Mount Isa, Qld 4825 br 
+(07) 4743 3534 br  script language="javascript"  !--
+				writeAddrAuto('Bob.Katter.MP','aph.gov.au',"");
+			   --   script   p 
+ p The vast majority of flying foxes who get entangled in unsafe netting do so in Victoria, NSW and Queensland. Please email or write to the Environment Ministers in these states calling for netting to be regulated so that only wildlife-safe netting can be legally installed over backyard fruit trees.  p 
+ p Hon. Lily D'Ambrosio MP br 
+Minister for Energy, Environment and Climate Change br 
+Level 17, 8 Nicholson Street, East Melbourne, VIC 3002 br 
+(03) 9637 9504 br  script language="javascript"  !--
+				writeAddrAuto('lily.d'ambrosio','parliament.vic.gov.au',"");
+			   --   script   p 
+ p The Hon. Gabrielle Upton MP br 
+Minister for Environment br 
+GPO Box 5341, Sydney NSW 2001 br 
+(02) 8574 6107 br  script language="javascript"  !--
+				writeAddrAuto('gabrielle.upton','parliament.nsw.gov.au',"");
+			   --   script   p 
+ p Hon. Dr Stephen Miles MP br 
+Minister for Environment and Heritage Protection br 
+Level 13, 400 George Street br 
+Brisbane QLD 4000 br 
+GPO Box 2454, Brisbane QLD 4001 br 
+(07) 3719 7330 br  script language="javascript"  !--
+				writeAddrAuto('environment','ministerial.qld.gov.au',"");
+			   --   script   p 
+ p Interested in helping orphaned and injured flying foxes?  a href="http:  www.animalsaustralia.org features being-a-wildlife-carer.php" Click here to find out more  a  about what it's like being a wildlife carer!  p 
+ p  em Thank you to our member society, Victorian Advocates For Animals, for their assistance in compiling this information.  em   p 

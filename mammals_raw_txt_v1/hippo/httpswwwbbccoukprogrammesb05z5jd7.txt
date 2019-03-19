@@ -1,0 +1,47 @@
+ p Biologist Lucy Cooke turns detective to discover why, all over the world, animals are turning up in strange and unexpected places.  p 
+ p All over the world, animals are turning up in strange and unexpected places. Some are showing up thousands of miles from their natural homes - like African hippos now running riot in South America. Other native animals are turning up on our doorsteps - like black bears taking dips in swimming pools. These events are happening more and more across the world, and biologist Lucy Cooke wants to find out what's going on, so she's turning detective.  p 
+ p Animals Unexpected follows her investigation as she travels from the remote peaks of the Italian Alps to the heart of New York, in search of animals where they just shouldn't be! She discovers wolf-like creatures in the Big Apple, North American raccoons in Berlin and ancient sea creatures flocking around vast billowing power stations.   p 
+ p Lucy uncovers the latest research about the superpowers that enable these animals to survive and thrive in new and unexpected places - from lock-picking raccoons to giant pythons that are the masters of staying hidden. Ultimately she discovers how we humans are changing the world - and how animals are reacting in ways we could never have predicted.   p 
+ p This is a very modern tale of our increasingly unnatural history.  p 
+ p class="episode-panel__meta" 
+                 svg tabindex="-1" aria-hidden="true" focusable="false" class="gelicon gelicon--centi gelicon--leading"  use xlink:href="#gelicon--core--duration"   use   svg 1 hour
+              p 
+ p class="programme__service micro" 
+                    Duration: 02:05
+              p 
+ p class="programme__service micro" 
+                    Duration: 01:52
+              p 
+ p class="programme__service micro" 
+                    Duration: 01:24
+              p 
+ p class="no-margin segments-list__header br-keyline br-box-subtle" 
+                        Timings (where shown) are from the start of the programme in hours and minutes
+                      p 
+ p class="no-margin" 
+                                             span Busy  span 
+                                            
+                  p 
+ p class="no-margin" 
+                                             span Ready For The Good Life  span 
+                                            
+                  p 
+ p class="no-margin" 
+                                             span The Great Escape  span 
+                                            
+                  p 
+ p class="no-margin" 
+                                             span In The Heat Of The Moment  span 
+                                            
+                  p 
+ p class="no-margin" 
+                                             span New York, New York  span 
+                                            
+                  p 
+ p class="no-margin" 
+                                             span Man In The Garage (Lemon Jelly Remix)  span 
+                                            
+                  p 
+ p class="programme__synopsis text--subtle" Catch up with just some of the incredible episodes available on iPlayer  p 
+ p class="icon-box__note micro" View all  p 
+ p class="id4-cta" id="id4-cta-9993e910-662f-4efe-892a-5436850db52f"  span class="id5-cta id4-cta-size-small id4-cta-color-blue id4-cta-small-blue"  a href="https:  session.bbc.co.uk session?ptrt=https%3A%2F%2Fwww.bbc.co.uk%2Fmodules%2Fplugin%2Fmusicfavourite%2Finit" class="id4-cta-signin id4-cta-button" Sign in  a  span class="id4-cta-with"  to the BBC,  span  or  a href="https:  session.bbc.co.uk session?action=register&amp;ptrt=https%3A%2F%2Fwww.bbc.co.uk%2Fmodules%2Fplugin%2Fmusicfavourite%2Finit" class="id4-cta-register" Register  a  script type="text javascript" if (require.s.contexts._.config.paths['idcta']) {require(['idcta idcta-1'], function(idcta) {if (idcta && typeof idcta.addUserOrigin === 'function') {idcta.addUserOrigin('id4-cta-9993e910-662f-4efe-892a-5436850db52f');}});}  script   span   p 

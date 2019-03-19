@@ -1,0 +1,84 @@
+ p 
+					 span class="menu" Menu  span 
+					 span class="close" Close  span 
+				  p 
+ p © 2019  a href="https:  data36.com " data-wpel-link="internal" Data36  a .  p 
+ p Powered by  a href="http:  www.wordpress.org" data-wpel-link="external" target="_blank" rel="external noopener noreferrer" WordPress  a .  p 
+ p Let’s continue with the pandas tutorial series. This is the second episode, where I’ll introduce aggregation (such as min, max, sum, count, etc.) and grouping. Both are very commonly used methods in analytics and data science projects – so make sure you go through every detail in this article!  p 
+ p  em Note 1: this is a hands-on tutorial, so I recommend doing the coding part with me!  em   p 
+ p If you haven’t done so yet, I recommend going through these articles first:  p 
+ p Aggregation is the process of turning the values of a dataset (or a subset of it) into one single value. Let me make this clear! If you have a DataFrame like…  p 
+ p …then a simple aggregation method is to calculate the summary of the water_needs, which is 100 + 350 + 670 + 200 = 1320. Or a different aggregation method would be to count the number of the animals, which is 4. So the theory is not too complicated. Let’s see the rest in practice…  p 
+ p Where did we leave off  a href="https:  data36.com pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection " data-wpel-link="internal" last time  a ? We opened a Jupyter notebook, imported pandas and numpy and loaded two datasets:  code zoo.csv  code  and  code article_reads  code . We will continue from here – so if you haven’t done the “ a href="https:  data36.com pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection " data-wpel-link="internal" pandas tutorial – episode 1  a “, it’s time to go through it!  p 
+ p Okay! br Let’s start with our  code zoo  code  dataset! (If you want to download it again, you can find it at  a href="http:  46.101.230.157 datacoding101 zoo.csv" data-wpel-link="external" target="_blank" rel="external noopener noreferrer" this link  a .) We have loaded it by using:  p 
+ p  code pd.read_csv('zoo.csv', delimiter = ',')  code   p 
+ p Let’s store this dataframe into a variable called  code zoo  code . br  code zoo = pd.read_csv('zoo.csv', delimiter = ',')  code   p 
+ p Okay, let’s do five things with this data:  p 
+ p Counting the number of the animals is as easy as applying a count function on the  code zoo  code  dataframe:  p 
+ p  code zoo.count()  code   p 
+ p Oh, hey, what are all these lines? Actually, the  code .count()  code  function counts the number of values in  em each column  em . In the case of the  code zoo  code  dataset, there were 3 columns, and each of them had 22 values in it.  p 
+ p If you want to make your output clearer, you can select the  code animal  code  column first by using one of the selection operators from the previous article:  p 
+ p  code zoo[['animal']].count()  code   p 
+ p Or in this particular case, the result could be even nicer if you use this syntax:  p 
+ p  code zoo.animal.count()  code   p 
+ p This also selects only one column, but it turns our pandas dataframe object into a pandas series object.  em (Which means that the output format is slightly different.)  em   p 
+ p Following the same logic, you can easily sum the values in the  code water_need  code  column by typing:  p 
+ p  code zoo.water_need.sum()  code   p 
+ p Just out of curiosity, let’s run our sum function on all columns, as well:  p 
+ p  code zoo.sum()  code   p 
+ p  em Note: I love how  code .sum()  code  turns the words of the  code animal  code  column into one string of animal names. (By the way, it’s very much in line with the logic of Python.)  em   p 
+ p What’s the smallest value in the  code water_need  code  column? I bet you have figured it out already:  p 
+ p  code zoo.water_need.min()  code   p 
+ p And the max value is pretty similar: br  code zoo.water_need.max()  code   p 
+ p Eventually, let’s calculate  a href="https:  data36.com statistical-averages-mean-median-mode " data-wpel-link="internal" statistical averages, like mean and median  a :  p 
+ p  code zoo.water_need.mean()  code   p 
+ p  code zoo.water_need.median()  code   p 
+ p Okay, this was easy. Much, much easier than the aggregation methods of SQL. br But let’s spice this up with a little bit of grouping!  p 
+ p As a Data Analyst or Scientist you will probably do segmentations all the time. For instance, it’s nice to know the mean  code water_need  code  of all animals (we have just learned that it’s  code 347.72  code ). But very often it’s much more actionable to break this number down – let’s say – by animal types. With that, we can compare the species to each other – or we can find outliers.  p 
+ p Here’s a simplified visual that shows how pandas performs “segmentation” (grouping and aggregation) based on the column values!  p 
+ p Let’s do the above presented grouping and aggregation for real, on our  code zoo  code  DataFrame! br We have to fit in a groupby keyword between our  code zoo  code  variable and our  code .mean()  code  function:  p 
+ p  code zoo.groupby('animal').mean()  code   p 
+ p Just as before, pandas automatically runs the  code .mean()  code  calculation for all remaining columns (the  code animal  code  column obviously disappeared, since that was the column we grouped by). You can either ignore the  code uniq_id  code  column, or you can remove it afterwards by using one of these syntaxes:  p 
+ p  code zoo.groupby('animal').mean()[['water_need']]  code  (This returns a DataFrame object.) br  code zoo.groupby('animal').mean().water_need  code  (This returns a Series object.)  p 
+ p Obviously, you can change the aggregation method from  code .mean()  code  to anything we learned above!  p 
+ p Okay! Now you know everything, you have to know! br It’s time to…  p 
+ p Let’s get back to our  code article_read  code  dataset.  p 
+ p  em (Note: Remember, this dataset holds the data of a travel blog. If you don’t have the data yet, you can download it from  a href="http:  46.101.230.157 dilan pandas_tutorial_read.csv" data-wpel-link="external" target="_blank" rel="external noopener noreferrer" here  a . Or you can go through the whole download, open, store process step by step by reading the previous episode of this  a href="https:  data36.com pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection " data-wpel-link="internal" pandas tutorial  a .)  em   p 
+ p If you have everything set, here’s my first assignment:  p 
+ p  strong What’s the most frequent source in the  code article_read  code  dataframe?  strong  br . br . br . br And the solution is:  strong  em Reddit  em   strong ! br How did I get it? Use this code:  p 
+ p  code article_read.groupby('source').count()  code   p 
+ p Take the  code article_read  code  dataset, create segments by the values of the  code source  code  column ( code groupby('source')  code ), and eventually count the values by sources ( code .count()  code ).  p 
+ p You can – optionally – remove the unnecessary columns and keep the  code user_id  code  column only: br  code article_read.groupby('source').count()[['user_id']]  code   p 
+ p Here’s another, slightly more complex challenge:  p 
+ p  strong For the users of  code country_2  code , what was the most frequent topic and source combination? Or in other words: which topic, from which source, brought the most views from country_2?  strong  br . br . br . br The result is: the combination of Reddit (source) and Asia (topic), with 139 reads! br And the Python code to get this results is: br  code article_read[article_read.country == 'country_2'].groupby(['source', 'topic']).count()  code   p 
+ p Here’s a brief explanation: br First, we filtered for the users of  code country_2  code  ( code article_read[article_read.country == 'country_2']  code ). Then on this subset, we applied a  code groupby  code  pandas method… Oh, did I mention that you can group by multiple columns? Now you know that! 😉 (Syntax-wise, watch out for one thing: you have to put the name of the columns into a list. That’s why the bracket frames go between the parentheses.) (That was the  code groupby(['source', 'topic'])  code  part.) br And as per usual: the  code count()  code  function is the last piece of the puzzle.  p 
+ p This was the second episode of my pandas tutorial series. I hope now you see that aggregation and grouping is really easy and straightforward in pandas… and believe me, you will use them a lot!  p 
+ p  em Note: If you have used SQL before, I encourage you to take a break and compare the pandas and the SQL methods of aggregation. With that you will understand more about the key differences between the two languages!  em   p 
+ p In the next article, I’ll show you the four most commonly used “data wrangling” methods:  code merge  code ,  code sort  code ,  code reset_index  code  and  code fillna  code . Stay with me:  a href="https:  data36.com pandas-tutorial-3-important-data-formatting-methods-merge-sort-reset_index-fillna " data-wpel-link="internal" Pandas Tutorial, Episode 3  a !  p 
+ p  em Cheers,  em  br  strong  em Tomi Mester  em   strong   p 
+ p ← Previous post  p 
+ p Next post →  p 
+ p Great post. learnt a few tricks from it. Thank you.  p 
+ p Cool! Glad it helped! : ) br 
+And thanks for the comment!  p 
+ p class="comment-form-comment" 
+			 label for="comment" Comment  label 
+			 textarea id="comment" name="comment" cols="45" rows="6" required   textarea 
+		  p 
+ p class="comment-form-author" 
+				 label for="author" Name span class="required" *  span   label  
+				 input id="author" name="author" type="text" value="" size="30" 
+			  p 
+ p class="comment-form-email" 
+				 label for="email" Email span class="required" *  span   label  
+				 input id="email" name="email" type="text" value="" size="30" 
+			  p 
+ p class="comment-form-url" 
+				 label for="url" Website  label 
+				 input id="url" name="url" type="text" value="" size="30" 
+			  p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Post Comment"   input type="hidden" name="comment_post_ID" value="2292" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+  p 
+ p data-css="tve-u-105c7d3aec91c25" style="text-align: center;" The Junior Data Scientist's First Month (Class of March, 2019)  p 
+ p data-css="tve-u-225c7d3aec91f13" style="text-align: center;" Registration is now open. (Until 10 March 2019)  p 

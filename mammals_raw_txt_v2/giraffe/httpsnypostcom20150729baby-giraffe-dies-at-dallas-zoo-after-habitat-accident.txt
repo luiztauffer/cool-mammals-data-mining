@@ -1,0 +1,52 @@
+ p Thanks for contacting us. We've received your submission.  p 
+ p class="section-tag" 
+						 a href=" news " class="background-color" News  a 
+					  p 
+ p class="byline" By Reuters  p 
+ p class="contact-submit" 
+		 button type="submit" class="pushbutton-wide" Submit  button 		 input type="hidden" name="contact-form-id" value="widget-text-4" 
+		 input type="hidden" name="action" value="grunion-contact-form" 
+		 input type="hidden" name="contact-form-hash" value="c4b73003bd4b26a16a066823ea46f34274e30536" 
+	  p 
+ p class="byline-date" 
+									July 29, 2015  span class="separator" |  span  9:51am
+												  p 
+ p A baby giraffe whose April birth at Dallas Zoo was watched live by more than 2 million people worldwide died Tuesday in an accident at the park, the zoo said.  p 
+ p As the giraffe herd was shifting inside for the night, Kipenzi made a sharp turn, ran into the edge of the habitat perimeter and broke three vertebrae in her neck, the zoo said in a statement.  p 
+ p The giraffe died immediately, it said.  p 
+ p “While she was only here for a few months, Kipenzi was a beacon of light for her species and for the millions who watched her birth live on Animal Planet,” the zoo said.  p 
+ p After the giraffe’s birth, the zoo held a naming contest that settled on Kipenzi, which translates to “loved one” in Swahili.  p 
+ p Her mother, Katie, visited the calf before veterinarians removed her body from the habitat.  p 
+ p Kipenzi’s birth, broadcast live by Animal Planet on television and the Internet, brought attention to the plight of wild giraffes in Africa and helped raise more than $35,000 for giraffe conservation, the zoo said.  p 
+ p class="read-next" 
+			 a href="https:  nypost.com 2015 07 29 teen-dead-after-dispatcher-tells-911-caller-deal-with-it-yourself " Read Next  a 
+		  p 
+ p class="read-next-link" 
+			 a class="desktop postid-9780479" href="https:  nypost.com 2015 07 29 teen-dead-after-dispatcher-tells-911-caller-deal-with-it-yourself " 
+				Teen dead after dispatcher tells 911 caller: 'Deal with it...			  a 
+		  p 
+ p class="read-next" 
+			 a href="https:  nypost.com 2015 07 29 teen-dead-after-dispatcher-tells-911-caller-deal-with-it-yourself " Read Next  a 
+		  p 
+ p class="read-next-link" 
+			 a class="desktop postid-9780479" href="https:  nypost.com 2015 07 29 teen-dead-after-dispatcher-tells-911-caller-deal-with-it-yourself " 
+				Teen dead after dispatcher tells 911 caller: 'Deal with it...			  a 
+		  p 
+ p id="text-share-popup-title" Share Selection  p 
+ p class="share-count" tabindex="-1" 
+							 span class="screen-reader-text" This story has been shared 68,088 times.  span 
+							 span aria-hidden="true" 68,088  span 
+						  p 
+ p class="share-count" tabindex="-1" 
+							 span class="screen-reader-text" This story has been shared 49,537 times.  span 
+							 span aria-hidden="true" 49,537  span 
+						  p 
+ p class="share-count" tabindex="-1" 
+							 span class="screen-reader-text" This story has been shared 44,494 times.  span 
+							 span aria-hidden="true" 44,494  span 
+						  p 
+ p 
+			 span id="copyright" © 2019 NYP Holdings, Inc. All Rights Reserved  span  span class="desktop"  |   span  a href="https:  nypost.com terms " Terms of Use  a  |  a href="https:  nypost.com privacy " Privacy  a   span class="desktop" |  a href="https:  nypost.com privacy #adchoices" Your Ad Choices  a   span  |  a href="https:  nypost.com sitemap " Sitemap  a 
+		  p 
+ p class="newscorp-slider-description" 
+							News Corp. is a network of leading companies in the world of diversified media, news, and information services.						  p 

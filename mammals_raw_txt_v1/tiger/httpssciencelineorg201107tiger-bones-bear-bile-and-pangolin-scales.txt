@@ -1,0 +1,43 @@
+ p    p 
+ p class="intro"  a href="https:  scienceline.org 2011 06 from-beijing-to-new-york-the-dark-side-of-traditional-chinese-medicine " Traditional Chinese medicine exploits  a  animal ingredients from hundreds of species, ranging from ground-up rhino horns and tiger bones to whole dried carcasses of more obscure genera like geckos and sea horses. Here we take a closer look at three of the most notoriously overtaxed animal groups in traditional Chinese medicine, broken down from data on illegal confiscations in the U.S., China and Vietnam. In general, these data represent only a small subset of the total illegal trade in each country.  p 
+ p class="description" Killing or using the parts of critically endangered tigers is illegal in China and Vietnam, but tigers still find their way into the black market each year. Their bones, especially, are thought to cure a number of maladies. High demand for tiger parts combined with their rarity drives up the blackmarket price, creating an incentive for hunters. Conservationists estimate only about 6,000 tigers still exist in the wild.  p 
+ p What tiger parts are most commonly confiscated?  p 
+ p  img title='"tiger' src="http:  dl.dropbox.com u 30123408 Rachel%20data%20journalism%20final%20project tiger-graph.jpg" alt=""  confiscated” &gt;  p 
+ p class="description" Bears are farmed throughout China for their bile, often suffering appalling conditions throughout their lives. Though bear bile does have some therapeutic effects, bile harvested from sickly farm animals is often contaminated with chemicals. The active ingredient in bear bile can be synthesized in a lab, but demand still exists for the “natural” version.  p 
+ p What bear parts are most commonly confiscated?  p 
+ p  img title='"bear' src="http:  dl.dropbox.com u 30123408 Rachel%20data%20journalism%20final%20project bear-graph.jpg" alt=""  confiscated” &gt;  p 
+ p class="description" Pangolins are small, nocturnal mammals, also known as scaly anteaters. Populations throughout tropical Asia have been decimated to meet demand for Chinese medicine ingredients, like pangolin scales and even unborn fetuses. Many people in the region also consider pangolin meat as a delicacy. Pangolins aren’t as well known as animals like bears and tigers, so they risk being overlooked in conservation efforts.  p 
+ p What pangolin parts are most commonly confiscated?  p 
+ p  img title='"pangolin' src="http:  dl.dropbox.com u 30123408 Rachel%20data%20journalism%20final%20project pangolin-graph.jpg" alt=""  confiscated” &gt;  p 
+ p *’Derivatives’ is a catch-all term for animal items not included in other categories. Traditional Chinese medicine, where it is often unclear what part of the animal composes the confiscated product, is often classed as a derivative.  p 
+ p class="description" Between 2000 to 2009, a total of 469 seizures of illegal bear, tiger, and pangolin products were made at U.S. ports of entry. Each seizure case varies widely; some cases represent a single tiger body, others encompass up to 1,252 bear parts. Most confiscations were for goods labeled for personal use, followed by commercial use. Both of these categories apply to traditional Chinese medicine.  p 
+ p class="description" Case records of illegal tiger, bear, and pangolin exports from Vietnam and China are likely a gross underestimate since many blackmarket wildlife goods often slip by undetected. From the 249 cases reported between 2000 to 2009, 72% were destined for the US. This could mean that the U.S. has more successful detection methods compared to other countries, or that more animals are arriving on U.S. shores, or both.  p 
+ p    p 
+ p  a href="http:  www.cites.org eng resources trade.shtml" Data acquired from CITES trade database  a   p 
+ p    p 
+ p    p 
+ p Spending her early years exploring the bayous and beaches of Southern Mississippi, Rachel Nuwer’s love for nature and science has been a life-long romance. Rachel pursued this passion at Loyola University New Orleans where she earned a bachelor’s degree in biology. During her time at Loyola she had the opportunity to travel to Laos to research Mekong River fishes, sparking a new-found obsession with travel and exploration. This wunderlust has since taken her to 41 countries as well as encouraged her to spend a year teaching in Japan. In 2010 Rachel returned to Southeast Asia to investigate illegal wildlife trade and natural resource use in Vietnam for her ecology master’s thesis at the University of East Anglia.   When not trekking through a swamp, Rachel can be found taking photos, rehabilitating stray kittens, or eating phở.  p 
+ p What can we do to help stop this trade on animal parts?  p 
+ p Nice presentation this. br 
+Does anyone have any evidence for the medical effects of pangolin scales anyway? It’s just matted hair isn’t it? I’ve been looking hard and I haven’t found anything vaguely convincing. A species is being pushed to the brink by an erroneous belief in its healing properties. Some may argue that it’s a perfectly good placebo, but surely the whole point of a placebo is that you can use anything. How do we educate people out of persecuting another extraordinary animal to extinction?  p 
+ p It is now becoming a very damaging trade in animals Tigers, Bears, Pangolins it is wrong to kill these animals for TCM China has to stop this trade give long sentences to the smugglers and black marketeers.  p 
+ p It is cruel and unnecessary these don’t work, same with shark fins and all the other animal by products which is seeing a huge rise at the moment.  p 
+ p China had beeter stop this and stop this now.  p 
+ p class="comment-notes"  span id="email-notes" Your email address will not be published.  span  Required fields are marked  span class="required" *  span   p 
+ p class="comment-form-comment"  label for="comment" Comment  label   textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"   textarea   p 
+ p class="comment-form-author"  label for="author" Name  span class="required" *  span   label   input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"   p 
+ p class="comment-form-email"  label for="email" Email  span class="required" *  span   label   input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"   p 
+ p class="comment-form-url"  label for="url" Website  label   input id="url" name="url" type="text" value="" size="30" maxlength="200"   p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Post Comment"   input type="hidden" name="comment_post_ID" value="11677" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+  p 
+ p Distinguished Writer in Residence, New York University  p 
+ p Professor, New York University  p 
+ p Director, SHERP  p 
+ p class="project" 
+                    A project of the
+                     a href="https:  journalism.nyu.edu graduate programs science-health-and-environmental-reporting " target="_blank" Science, Health and Environmental Reporting Program  a 
+                    in the  a href="https:  journalism.nyu.edu " target="_blank" Arthur L. Carter Journalism Institute  a  at  a href="http:  www.nyu.edu " target="_blank" New York University  a .
+                    Theme by Garrett Gardner.
+                  p 
+ p class="copyright" ©2019  a href="https:  journalism.nyu.edu " target="_blank" NYU Journalism  a   p 

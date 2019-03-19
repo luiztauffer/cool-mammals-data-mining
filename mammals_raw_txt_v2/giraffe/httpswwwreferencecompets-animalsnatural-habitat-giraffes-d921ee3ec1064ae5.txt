@@ -1,0 +1,194 @@
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" art-literature" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":1}' data-qo="" Art &amp; Literature  a 
+                                    
+
+  p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" beauty-fashion" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":8}' data-qo="" Beauty &amp; Fashion  a 
+                                    
+
+  p 
+ p 
+                                            
+ span class="PartialCategoryNavigation-item-link" more  span 
+                                          p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" business-finance" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":22}' data-qo="" Business &amp; Finance  a 
+                                    
+
+  p 
+ p 
+                                            
+ span class="PartialCategoryNavigation-item-link" more  span 
+                                          p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" education" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":39}' data-qo="" Education  a 
+                                    
+
+  p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" family" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":46}' data-qo="" Family  a 
+                                    
+
+  p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" food" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":51}' data-qo="" Food  a 
+                                    
+
+  p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" geography" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":58}' data-qo="" Geography  a 
+                                    
+
+  p 
+ p 
+                                            
+ span class="PartialCategoryNavigation-item-link" more  span 
+                                          p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" government-politics" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":74}' data-qo="" Government &amp; Politics  a 
+                                    
+
+  p 
+ p 
+                                            
+ span class="PartialCategoryNavigation-item-link" more  span 
+                                          p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" health" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":88}' data-qo="" Health  a 
+                                    
+
+  p 
+ p 
+                                            
+ span class="PartialCategoryNavigation-item-link" more  span 
+                                          p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" history" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":102}' data-qo="" History  a 
+                                    
+
+  p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" hobbies-games" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":108}' data-qo="" Hobbies &amp; Games  a 
+                                    
+
+  p 
+ p 
+                                            
+ span class="PartialCategoryNavigation-item-link" more  span 
+                                          p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" holidays-celebrations" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":125}' data-qo="" Holidays &amp; Celebrations  a 
+                                    
+
+  p 
+ p 
+                                            
+ span class="PartialCategoryNavigation-item-link" more  span 
+                                          p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" home-garden" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":135}' data-qo="" Home &amp; Garden  a 
+                                    
+
+  p 
+ p 
+                                            
+ span class="PartialCategoryNavigation-item-link" more  span 
+                                          p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" math" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":149}' data-qo="" Math  a 
+                                    
+
+  p 
+ p 
+                                            
+ span class="PartialCategoryNavigation-item-link" more  span 
+                                          p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" pets-animals" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":161}' data-qo="" Pets &amp; Animals  a 
+                                    
+
+  p 
+ p 
+                                            
+ span class="PartialCategoryNavigation-item-link" more  span 
+                                          p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" science" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":172}' data-qo="" Science  a 
+                                    
+
+  p 
+ p 
+                                            
+ span class="PartialCategoryNavigation-item-link" more  span 
+                                          p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" sports-active-lifestyle" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":186}' data-qo="" Sports &amp; Active Lifestyle  a 
+                                    
+
+  p 
+ p 
+                                            
+ span class="PartialCategoryNavigation-item-link" more  span 
+                                          p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" technology" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":195}' data-qo="" Technology  a 
+                                    
+
+  p 
+ p 
+                                            
+ span class="PartialCategoryNavigation-item-link" more  span 
+                                          p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" vehicles" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":207}' data-qo="" Vehicles  a 
+                                    
+
+  p 
+ p class="PartialCategoryNavigation-category" 
+                                    
+
+ a class="PartialCategoryNavigation-item-link" href=" world-view" data-unified='{"providerSource":"taxonomy","resultType":"taxonomy","level":1,"zoneName":"header","moduleName":"taxHeader","moduleInZone":1,"resultInModule":213}' data-qo="" World View  a 
+                                    
+
+  p 
+ p  strong Giraffes' natural habitat is the tropical African savanna, a grass-covered ecosystem with widely spread trees and shrubs.  strong  The openness allows giraffes to maneuver their tall frames around the vegetation with ease. Giraffes require very little water, but they continually travel the savanna in search of food.  p 
+ p Giraffes consume hundreds of tons of food weekly from the flat-topped acacia trees that are typical in their habitat. The giraffes' height and 21-inch tongues allow them to reach the tops of these trees, where the most leaves and buds grow.  Their height also lets them spot predators, such as lions, across the open areas of the savanna. The biggest threat to the giraffe is man, who continues to encroach on the natural habitat by building roads and clearing land.  p 

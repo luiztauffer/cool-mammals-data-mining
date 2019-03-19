@@ -1,0 +1,84 @@
+ p African elephants are the largest land mammal and have a number of distinctive physical characteristics.  Their trunks are used to pick up food, draw water, breathe, and greet other elephants, and their large ears help them keep cool and communicate a range of emotions.  Adult African elephants have two tusks which are used to peel bark off trees, ‘mine’ for minerals and defend against predators.  p 
+ p African elephants are keystone species, in that they play a crucial role in maintaining their ecosystems. They assist with plant dispersal by depositing undigested plant seeds in their dung, and they alter their landscape by uprooting trees and digging for water during the dry season. These foraging behaviours can also help other animals survive in harsh environmental conditions.  p 
+ p Elephants live in family groups, presided over by a dominant female, called a matriarch. Bull elephants depart the matriarchal herd when they reach sexual maturity, then move alone or in ‘bachelor herds.’ Herds can consist of 100 individuals or more, and they can move huge distances in search of food and water; for example, elephants in the deserts of Mali migrate across an area of 12,355 square miles.  p 
+ p  i *International Union for Conservation of Nature is the world’s main authority on the conservation status of species.  i   p 
+ p Vulnerable  p 
+ p 415,000 (2016) ⬆️  p 
+ p Herbivorous – grass, leaves, twigs, buds, fruit, roots and bark  p 
+ p African savannah elephants can be found in a variety of habitats, including open and closed savannah, and arid deserts (i.e. Namibia and Mali). African forest elephants primarily inhabit dense rainforest, although they can be found in surprising places, like oceanic beaches (i.e. Gabon)  p 
+ p 37 countries in sub-Saharan Africa  p 
+ p African elephants face a risk of extinction in the near future due to a number of threats, including illegal killing for the ivory trade, habitat destruction through human population expansion and agriculture, and subsequent persecution for raiding crops and destroying buildings.   p 
+ p Elephants also experience considerable physical suffering and psychological distress from being kept in captivity for human entertainment, exhibiting uncharacteristic behaviour, higher infant mortality and reduced life spans.   p 
+ p  br 
+ img alt="" src="https:  www.bornfree.org.uk storage media content images GIFS ezgif.com-optimize-7.gif"   p 
+ p    p 
+ p    p 
+ p We work across Kenya, Ethiopia and Cameroon monitoring and protecting wild elephant population. Our dedicated projects work to reduce human-animal conflict and support ranger patrols to protect wild elephants from poaching.  p 
+ p  a class="button" href=" babile" BABILE ELEPHANT SANCTUARY  a   p 
+ p  a class="button success" href=" Banyang-mbo" BANYANG-MBO WILDLIFE SANCTUARY  a    p 
+ p  a class="button alert" href=" amboseli" AMBOSELI ELEPHANT RESEARCH PROJECT  a   p 
+ p    p 
+ p Born Free investigates poaching, exposes illegal ivory smuggling and international ivory trading. Together with the Species Survival Network (SSN) Elephant Working Group, we work to increase protection for elephants from this brutal trade.  p 
+ p  a class="button secondary" href=" ivory-trade" IVORY TRADE  a   p 
+ p  a class="button" href=" trophy-hunting" TROPHY HUNTING  a   p 
+ p    p 
+ p class="h2 black background text-white" UPDATE DIRECT TO YOUR INBOX  p 
+ p Sign up to get the latest Born Free news about our work and how you can help, delivered straight to your inbox.  p 
+ p class="h3 with-icon header-mb"  i class="fas fa-rss"   i  NEWS  p 
+ p 
+             a :href="props.record.uri" v-text="props.record.name"   a  br 
+             span v-text="props.record.excerpt"   span 
+          p 
+ p class="h3 with-icon header-mb"  i class="fab fa-twitter"   i  SOCIAL MEDIA  p 
+ p class="header-mb" FOLLOW US ON  p 
+ p 
+                © 2019 - Born Free Foundation br 
+                Broadlands Business Campus, Langhurstwood Road br 
+Horsham, West Sussex, RH12 4QP br 
+ br 
+The Born Free Foundation is a registered charity. br 
+(Charity Number: 1070906). Registered as a company limited by guarantee (Number 03603432) (England &amp; Wales). br 
+Registered office: Broadlands Business Campus, RH12 4QP
+              p 
+ p 
+
+        
+             a href=" contact" 
+                Contact
+              a  |
+        
+             a href=" annual-reports" 
+                Annual Reports
+              a  |
+        
+             a href=" report-animal-suffering" 
+                Captive Animal Report Form
+              a  |
+        
+             a href=" faqs" 
+                FAQs
+              a  |
+        
+             a href=" privacy-policy" 
+                Privacy Policy
+              a  |
+        
+             a href=" data-policy" 
+                Data Policy
+              a  |
+        
+             a href=" terms-and-conditions" 
+                Terms &amp; Conditions
+              a  |
+        
+             a href=" sitemap" 
+                Sitemap
+              a  |
+        
+             a href=" careers" 
+                Careers
+              a 
+        
+      p 
+ p 
+                Website by  PMW               p 

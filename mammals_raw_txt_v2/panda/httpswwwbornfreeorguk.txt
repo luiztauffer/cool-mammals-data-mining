@@ -1,0 +1,74 @@
+ p  span style="background:#fefefe"  span style="box-sizing:inherit"  span style="text-rendering:optimizeLegibility"  span style='font-family:"Helvetica","sans-serif"'  span style="color:#0a0a0a" Since 1984, we have been working tirelessly to ensure that all wild animals, whether living in captivity or in the wild, are treated with compassion and respect.   span   span   span   span   span  span style="background:#fefefe"  span style='font-family:"Helvetica","sans-serif"'  span style="color:#0a0a0a" We work across the world to preserve and protect wildlife in its natural habitat – finding Compassionate Conservation solutions so that humans and wildlife can co-exist peacefully. #KeepWildlifeInTheWild  span   span   span   p 
+ p  a class="large black button" href=" about-us" READ MORE  a   p 
+ p  strong A century ago there were an estimated 100,000 tigers across Asia. Since then, numbers have collapsed by 96% to just 4,000.   strong  br 
+Wild tigers face many threats to their survival, including human-wildlife conflict, poaching for their body parts and habitat loss due to deforestation rural development.  p 
+ p India without tigers is unimaginable! Our goal is to safeguard wild tiger populations in central India while conserving their habitat and promoting co-existence.  br 
+ strong Will you please help us protect wild tigers for future generations?  strong   p 
+ p class="h1" 
+            WHERE OUR WORK TAKES PLACE
+          p 
+ p 
+             strong 
+                As an international animal welfare and conservation charity, we are involved in projects all over the world.
+              strong 
+          p 
+ p class="h2 black background text-white" UPDATE DIRECT TO YOUR INBOX  p 
+ p Sign up to get the latest Born Free news about our work and how you can help, delivered straight to your inbox.  p 
+ p class="h3 with-icon header-mb"  i class="fas fa-rss"   i  NEWS  p 
+ p 
+             a :href="props.record.uri" v-text="props.record.name"   a  br 
+             span v-text="props.record.excerpt"   span 
+          p 
+ p class="h3 with-icon header-mb"  i class="fab fa-twitter"   i  SOCIAL MEDIA  p 
+ p class="header-mb" FOLLOW US ON  p 
+ p 
+                © 2019 - Born Free Foundation br 
+                Broadlands Business Campus, Langhurstwood Road br 
+Horsham, West Sussex, RH12 4QP br 
+ br 
+The Born Free Foundation is a registered charity. br 
+(Charity Number: 1070906). Registered as a company limited by guarantee (Number 03603432) (England &amp; Wales). br 
+Registered office: Broadlands Business Campus, RH12 4QP
+              p 
+ p 
+
+        
+             a href=" contact" 
+                Contact
+              a  |
+        
+             a href=" annual-reports" 
+                Annual Reports
+              a  |
+        
+             a href=" report-animal-suffering" 
+                Captive Animal Report Form
+              a  |
+        
+             a href=" faqs" 
+                FAQs
+              a  |
+        
+             a href=" privacy-policy" 
+                Privacy Policy
+              a  |
+        
+             a href=" data-policy" 
+                Data Policy
+              a  |
+        
+             a href=" terms-and-conditions" 
+                Terms &amp; Conditions
+              a  |
+        
+             a href=" sitemap" 
+                Sitemap
+              a  |
+        
+             a href=" careers" 
+                Careers
+              a 
+        
+      p 
+ p 
+                Website by   a href="https:  pmwcom.co.uk " target="_blank" PMW  a                p 

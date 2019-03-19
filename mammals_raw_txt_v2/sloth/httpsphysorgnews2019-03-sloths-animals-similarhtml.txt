@@ -1,0 +1,79 @@
+ p Sloths and guppies appear to have little in common – one is an arboreal mammal living in the slow lane, while the other is a tiny tropical fish with a frantic existence. Yet both could hold the key to better understanding a fundamental process of evolution.
+                                  p 
+ p Hanging lazily from tree branches where they barely move for hours on end, sloths hardly seem like born survivors. Yet the sloths that creep through the rainforest canopies of Central and South America are the last remaining members of a group of animals that has roamed the Earth for at least 30 million years and once boasted hundreds of species.  p 
+ p Many of their extinct cousins were giants – some larger than elephants – that spent most of their time on the ground before they died out 10,000 years ago at the end of the last ice age. Modern sloths, however, are thought to have avoided the extinctions that wiped out their larger relatives because they ascended into the trees.  p 
+ p But what makes their survival more extraordinary is that the two types of modern sloths – the two-toed and the three-toed sloths – are thought to have adapted to life in the trees entirely independently of each other. They are an example of what is known in biology as convergent evolution – a process where species develop similar adaptations to a habitat through different evolutionary routes.  p 
+ p "When you look at them hanging in the trees, the two look very similar," said Dr. Marcela Uliano da Silva, a computational biologist at the Leibniz Institute for Zoo and Wildlife Research in Berlin, Germany.  p 
+ p '(But) they have different numbers of toes on their forelimbs and the way the muscles connect from the body to the bones in the arms is also different," she said.  p 
+ p  b  b Evolutionary tree  b   b   p 
+ p These physical differences are signs that two-toed and three-toed sloths found their own ways to adapt to a lifestyle in the trees. They are thought to have last shared a common ground-dwelling ancestor about  a href="https:  www.ncbi.nlm.nih.gov pubmed 26556496" rel="nofollow" target="_blank" 30 million years ago  a , which is around the same time that humans split from baboons on the evolutionary tree.  p 
+ p In most cases, evolution tends to follow a classic route where species diversify from a common ancestor to adapt to different habitats and challenges. Modern sloths, however, are an example of where evolution has gone in the opposite direction by separately adapting to have very similar lives in the trees.  p 
+ p The three-toed sloth was the first to adopt an arboreal lifestyle before the ancestors of the two-toed did the same millions of years later.  p 
+ p Over time those two types of sloths evolved into six species – two species with two toes and four with three toes.  p 
+ p Dr. Uliano da Silva and her colleague Dr. Camila Mazzoni are hoping to solve the mystery of how these two sloth types came to share similar traits with a project called  a href="https:  cordis.europa.eu project rcn 209014 en" rel="nofollow" target="_blank" CONVGENOMS  a .  p 
+ p  b  b Genome  b   b   p 
+ p Over the past year they have been using advanced DNA sequencing techniques to piece together the genome of the Linnaeus's two-toed sloth, which has the scientific name  i Choloepus didactylus  i  i .   i   p 
+ p "We are creating a high-quality reference that we can then compare to the genomes of other sloths and mammals," said Dr. Uliano da Silva.  p 
+ p They are currently compiling the huge amounts of genetic data they have obtained and will soon start focusing on some of the more interesting genes to find out what their function is.  p 
+ p The pair hope to next begin sequencing the genomes of three-toed sloths, known by the scientific name  i Bradypus  i , derived from the Greek words for slow foot.  p 
+ p When complete, their work will form part of the wider  a href="https:  vertebrategenomesproject.org " rel="nofollow" target="_blank" Vertebrate Genomes Project  a , which is aiming to compile reference genomes for all 66,000 living vertebrate species on Earth.  p 
+ p Armed with the genomes of the two sloth types, the scientists will work with other researchers studying the genomes of extinct  a href="https:  phys.org tags sloth " rel="tag" class="textTag" sloth  a  species to begin looking for genes that played a role in helping the animals adapt to life in the trees.  p 
+ p "That is going to be the final step to actually understand the convergence itself as we can see how the sloths are different from each other," said Dr. Mazzoni. "So if they converged in similar ways by using the same metabolic pathways, or even the same genes and the same proteins, then we can start correlating this with the function these convey."  p 
+ p While the evolutionary convergence between sloths occurred over millions of years, researchers are hoping to watch the process as it is happening in a very different kind of animal—guppies. Dr. Bonnie Fraser, an evolutionary geneticist at the University of Exeter, UK, is studying the genomes of Trinidadian guppies, tiny fish found living in the rivers in the north of the Caribbean island.  p 
+ p Along these rivers are waterfalls that create natural barriers that corral predators and guppies into pools. But while the larger predators, such as the pike cichlid, are trapped in the pools below waterfalls, the agile guppies – which grow little more than 1-2cm in length – have been able to scale them to find sanctuary in the safer pools above.  p 
+ p Many of the rivers are also isolated from each other by mountains, meaning guppies in the safe pools in one river are adapting to life without predators separately from those in the hunter-free havens in neighbouring rivers.  p 
+ p  b  b Traits  b   b   p 
+ p "This means you have independent evolution of traits that are suited to low predation in the pools above the waterfalls," said Dr. Fraser, who is studying the fish in a project called  a href="https:  cordis.europa.eu project rcn 212095 factsheet en" rel="nofollow" target="_blank" GUPPYCon  a .  p 
+ p "Low-predation guppies are bigger, more colourful, they mature at a later age and give birth to fewer, but larger offspring. They also have different behaviour as they are a lot easier to collect in low-predation pools. Those living alongside predators are faster and mature much more quickly so they can pass on their genes to the next generation before they are eaten."  p 
+ p Scientists have been able to study this  a href="https:  phys.org tags convergent+evolution " rel="tag" class="textTag" convergent evolution  a  in action by transferring guppies from predator-filled pools and placing them in safe pools out of reach of the carnivorous fish.  p 
+ p "We see time and again these fish start to take on the traits we see in low-predation guppies," said Dr. Fraser. "And it happens really quickly. One study showed it happening in about four years, which is about 12 generations."  p 
+ p Dr. Fraser is looking at genes from 14 different populations to see how these traits have developed. Among the fish she is studying are four populations that scientists deliberately removed from high-predation pools in 2008, 1981, 1978 and in the 1950s and placed in isolated pools with no predators to see how they would adapt.  p 
+ p "Are they using the same genes to adapt or are they taking different routes to the same adaptation?" she said.  p 
+ p By scanning the genomes of the fish from different pools, she is hoping to find signals of natural selection that have driven the fish to adapt to their different environments, such as a gene or set of genes that repeatedly occur in separate populations.  p 
+ p She is also planning to conduct breeding experiments in an attempt to understand what physical or behavioural traits these genes then provide the fish.  p 
+ p "Convergent evolution is often one of the best examples we have of natural selection," said Dr. Fraser. "If you see the same trait being selected again and again, it has to be adaptive. But on the flipside, it also tells us about the limitations of evolution. Why aren't all sorts of adaptations and phenotypes possible?  p 
+ p "Evolution is constrained by all sorts of different factors ... We are only just now starting to unravel this."
+                                                                  p 
+ p class="news-relevant" itemscope itemtype="http:  schema.org WebPage" 
+                                         a href="#" id="inl-rel-href"  img class="toolsicon ic-rel" src="https:  cf3e497594.site.internapcdn.net tmpl v5 img 1x1.gif" width="14" height="16" alt=""   a 
+                                         b Explore further:  b  
+                                         a itemprop="relatedLink" href="https:  phys.org news 2019-01-sloths-realised.html" Sloths are far more adaptable than we realised  a 
+                                      p 
+ p 
+                                                     b Provided by:  b 
+                                                                                                             a rel="news" class="textTag" href="https:  phys.org partners horizon--the-eu-research---innovation-magazine " Horizon: The EU Research &amp; Innovation Magazine  a 
+                                                         a rel="news" href="https:  phys.org partners horizon--the-eu-research---innovation-magazine " class="extra"  img width="25" height="25" title="search and more info" alt="search and more info" class="toolsicon isrc" src="https:  cf3e497594.site.internapcdn.net tmpl v5 img img-dot.gif"   a 
+						                                                         
+                                                         a target="_blank" href="http:  horizon-magazine.eu" class="extra"  img width="25" height="25" title="website" alt="website" class="toolsicon iwbs" src="https:  cf3e497594.site.internapcdn.net tmpl v5 img img-dot.gif"   a 
+                                                                                                      p 
+ p Unless you live in the tropical rainforests of South or Central America, most of the sloths you'll encounter will be two-toed sloths. This is because they are able to eat quite a varied diet and are therefore relatively easy ...  p 
+ p Identifying species, separating out closely related species and managing each type on its own, is an important part of any animal management system. Some species, like the two types of two-toed sloth, are so close in appearance ...  p 
+ p (PhysOrg.com) -- New studies of the movements of sloths have revealed more information about how they move around in the trees, traveling upside down.  p 
+ p Today's sloths might be known as slow, small animals, but their ancestors developed large body sizes at an amazing rate, according to an evolutionary reconstruction published today in the open access journal BMC Evolutionary ...  p 
+ p Zoologists of the Friedrich Schiller University Jena found out how sloths move and how their locomotive system adapted to their unhurried lifestyle in the course of evolution.  p 
+ p Male guppies exposed to predators in the wild or in captivity have heavier brains than those living in relatively predator-free conditions, according to new research published in the journal Functional Ecology.  p 
+ p Light driven movement is challenging in nonliquid environments as micro-sized objects can experience strong dry adhesion to contact surfaces and resist movement. In a recent study, Jinsheng Lu and co-workers at the College ...  p 
+ p Researchers at Caltech have designed a way to levitate and propel objects using only light, by creating specific nanoscale patterning on the objects' surfaces.  p 
+ p European astronomers have investigated a recently discovered hard X-ray transient known as IGR J17503-2636 using space observatories. Results of this study, presented in a paper published March 7 on the arXiv pre-print server, ...  p 
+ p The Abel Prize in mathematics was on Tuesday awarded to Karen Uhlenbeck of the United States for her work on partial differential equations, the first woman to win the award, the Norwegian Academy of Science and Letters said.  p 
+ p For many of us, birds are an interesting distraction or a sign of spring. For Fran Bonier and her former master's student Amelia Cox, bird populations provide vital data about the health of the world. Their new research adds ...  p 
+ p A pair of researchers, one with the Institute of Management and Economics at Clausthal University of Technology, the other the Department of Earth and Environment at Boston University, has found evidence that suggests oil ...  p 
+ p Nanoparticles composed of nickel and iron have been found to be more effective and efficient than other, more costly materials when used as catalysts in the production of hydrogen fuel through water electrolysis.  p 
+ p 
+                        Please  a href="https:  sciencex.com profile login " sign in  a  to add a comment.
+                        Registration is free, and takes less than a minute.
+                         a href="https:  sciencex.com help account " Read more  a 
+                  p 
+ p  input type="email" required="" placeholder="email" data-required="1" maxlength="128" size="10" id="email" name="email" 
+                                  p 
+ p  input type="password" required="" placeholder="password" data-required="1" maxlength="128" size="10" id="passwd" name="passwd" 
+                                 input type="hidden" value="login" name="status" 
+    
+                                  p 
+ p 
+                                         span class="float-right" id="cmPrThr"   span 
+                                         input type="submit" value="Sign in" name="loginsubmit" id="login-submit" class="com-button" 
+                                  p 
+ p class="centered" Enter your Science X account credentials  p 
+ p Connect  p 
+ p class="copyright" © Phys.org 2003 - 2019,  a rel="nofollow" href="https:  sciencex.com " Science X network  a   p 

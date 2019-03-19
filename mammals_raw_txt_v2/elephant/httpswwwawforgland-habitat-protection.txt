@@ -1,0 +1,60 @@
+ p Stop the Killing  p 
+ p Stop the Trafficking   p 
+ p Stop the Demand  p 
+ p Stop the Killing  p 
+ p Stop the Trafficking   p 
+ p Stop the Demand  p 
+ p class="subhead white" DONATE  p 
+ p  span class="white" Wildlife species roam across a mosaic of vast and varied landscapes, that include protected areas, community, private and public lands. These large landscapes provide habitat for wildlife and vital ecosystem services that support rural development.  span   p 
+ p  span class="white" By working across large landscapes that span borders, African Wildlife Foundation supports critically important biodiversity and offers people economic opportunities. With over five decades of experience, skills, and expertise, we have invested in community-based conservation to protect safe havens for wildlife while simultaneously improving human well-being.  span   p 
+ p  span class="white" We believe in empowering communities to engage in sustainable natural resource management. Our programs aim to incentivize conservation through conservation enterprises such as sustainable agriculture and ecotourism development to create benefits for generations to come.  span   p 
+ p class="text-right"  a class="italic carrot" href=" land-protection land-use-planning" Learn more  a   p 
+ p class="text-right"  a class="italic carrot" href=" land-protection climate-change" Learn more  a   p 
+ p Wildlife move in and out of protected areas, such as national parks and reserves, with some migratory species, even traversing vast rangelands along ancient wildlife corridors.   p 
+ p Protected areas alone cannot support ecologically important species and ecosystems, and human development is fragmenting habitat and severing connections between conservation areas.  p 
+ p As development in Africa continues, agriculture, infrastructure such as pipelines and roads, as well as resource extraction contribute to the destruction of wildlife habitats.  p 
+ p These changes in land-use are fragmenting natural habitats and wildlife migration corridors. Not only does this ecological loss impact the long-term survival of wildlife populations, but it also erodes the ecosystem services that will help us mitigate climate change impacts and escalate human-wildlife conflicts.  p 
+ p Worldwide, protected areas are experiencing a multi-billion-dollar funding shortage. AWF has a long history supporting protected area authorities with technical input, infrastructural development, planning, and capacity development.  p 
+ p We provide wildlife authorities across the continent with the training, equipment, and capacity needed to sharpen their response to threats on the ground and enhance protected area management. AWF supports protected areas in business and tourism planning to enable them to generate enough income to support the management of their protected areas and contribute to the local and national economy.  p 
+ p In the interest of making longer-term investments and obtaining joint decision making with partnering protected area authorities, AWF also engages in co-management agreements with authorities. This approach to protected area management allows AWF to provide long-term financial and technical support, allows for a flexible structure that can include additional stakeholders, like neighboring communities, and opens the door for increased financing opportunities.  p 
+ p In addition to supporting protected areas, AWF is also working to expand key protected areas, like Rwanda’s Volcanoes National Park, to increase land under conservation. Expansions provide more habitat for threatened species, supports wildlife-based tourism economy and helps prevent human-wildlife conflict.  p 
+ p AWF supports the development of conservation and land use plans that protect priority conservation targets while simultaneously supporting smart, sustainable development. AWF takes a holistic approach considering ecological values and trends, human population dynamics, infrastructural needs, land tenure, policy framework, climate change, current and projected land use, and natural resource management.  p 
+ p AWF collaborates with local communities and protected area authorities to design, develop, and implement plans for protected area management, tourism development, climate change mitigation and adaptation, species management, micro-and macro-level planning, and ecosystem management.  p 
+ p To reduce habitat loss, AWF provides livelihood alternatives to communities living in Africa’s critical landscapes. From training farmers in sustainable agriculture to developing beekeeping enterprises and beyond, AWF is working with communities to ensure their needs are met without detrimental effects to land.  p 
+ p We are also working directly with communities to create community conservation areas. Serving as a complement to state-owned protected areas, conservancies expand land under conservation protection, provide additional wildlife habitat, and diversify land management to provide a range of habitat types that support a broader diversity of wildlife and ecosystems.  p 
+ p Conservancies provide direct financial benefits to communities and engage community members and private landowners in conservation, incentivizing land and wildlife protection and increasing the number of people benefiting from conservation, and decreasing animosity toward wildlife.  p 
+ p class="subhead" 
+	Become a member  p 
+ p 
+	Join African Wildlife Foundation as a member for just $25. Your partnership is vital to our mission to protect Africa’s most precious - and imperiled - creatures.  p 
+ p 
+	 a class="btn golden" href="https:  secure.awf.org membership" Join Now  a   p 
+ p class="subhead" Spread the word i class="sprite share-orange right"   i   p 
+ p 
+	 span class="red" Note:  span  We’ll need to convert your donation to USD for processing, so you’ll see this amount through checkout. You will still be charged in your native currency.  p 
+ p 
+	With your donation you'll receive:  p 
+ p We’re facing a shortfall. Don’t let elephants pay the price.  u Give now to help raise $105,861.  u   p 
+ p  a href="https:  secure.awf.org fy19lifeboat?utm_source=1902lifeboatinterior&amp;utm_medium=web&amp;utm_campaign=fy19lifeboat&amp;ms=B19A20E02W" &gt; Donate now  a   p 
+ p class="subhead brown"  a href=" news kaddu-sebunya-lead-awf" Kaddu Sebunya to Lead AWF  a   p 
+ p class="subtext"  span class="date-display-single" January 15, 2019  span   p 
+ p class="brown" The African Wildlife Foundation is excited to announce the appointment of Mr. Kaddu Kiwe Sebunya as the new Chief Executive Officer...  p 
+ p style="margin-top: -1.25rem"  a class="italic carrot" href=" news kaddu-sebunya-lead-awf" Read more  a   p 
+ p News  p 
+ p class="brown" In a 1900 census, the cheetah population was around 100,000. Today, less than 9,000 remain in Africa. With less prey and habitat—and pursued by hunters—the cheetah is at a high risk of extinction. With your help, AWF can continue providing incentives to locals to prevent hunting.   p 
+ p class="subhead white"  img src=" sites all themes awf img SPRITES donateheart.png" DONATE  p 
+ p class="brown" The African wild dog population numbers less than 5,000 individuals and continues to decline due to habitat fragmentation, human conflict, and widespread disease. Your support allows for wild dog scouts to monitor and protect this species.   p 
+ p class="subhead white"  img src=" sites all themes awf img SPRITES donateheart.png" DONATE  p 
+ p class="brown" Conservation-minded individuals can work with AWF to designate their lands as protected spaces. These environmental easements help counter the decline of wildlife due to development and habitat fragmentation.   p 
+ p class="brown" Critically endangered black rhino lost an estimated 97.6% of its population since 1960 with numbers bottoming out at 2,410 in 1995. When you support African Wildlife Foundation, you aid in the conservation and growth of endangered species like the rhino.  p 
+ p class="subhead white"  img src=" sites all themes awf img SPRITES donateheart.png" DONATE  p 
+ p class="brown" 
+	Already vulnerable to a number of natural predators, the kudu now faces loss of habitat due to habitat destruction and poaching. When you support African Wildlife Foundation, you support local communities’ efforts to protect wildlife habitats.
+  p 
+ p class="subhead white"  img src=" sites all themes awf img SPRITES donateheart.png" DONATE  p 
+ p class="brown" AWF protects nearly 40 % of Africa's elephants. Support our programs to stop elephant poaching and ivory trafficking.  p 
+ p class="subhead white"  img src=" sites all themes awf img SPRITES donateheart.png" DONATE  p 
+ p class="brown" Lion populations once stood at over 100,000 but have dwindled to less than 25,000. African Wildlife Foundation protects large carnivores and the communities that live near them.  p 
+ p class="subhead white"  img src=" sites all themes awf img SPRITES donateheart.png" DONATE  p 
+ p class="brown" Our canine detection units are helping authorities detect even the smallest dustings of illegal wildlife products to stop wildlife traffickers in their steps.  p 
+ p class="italic orange text-right" ›Learn more  p 

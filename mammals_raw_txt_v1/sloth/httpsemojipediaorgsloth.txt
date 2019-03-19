@@ -1,0 +1,11 @@
+ p  a href="https:  blog.emojipedia.org correcting-the-record-on-the-first-emoji-set " title="Emoji Wrap Podcast with Jeremy Burge"  span class="emoji" ❌  span  A correction on the first emoji set  span class="emoji" ✔️  span   a   p 
+ p 
+ em Sloth  em  was approved as part of  a href=" unicode-12.0 " Unicode 12.0  a  in 2019
+and added to  a href=" emoji-12.0 " Emoji 12.0  a  in 2019.
+  p 
+ p class="boxout" 🚩 New in  a href=" emoji-12.0 " Emoji 12.0  a : coming to devices in 2019.  p 
+ p class="version-name"  a href=" emojipedia 12.0 " 12.0  a   p 
+ p All emoji names are  a href=" faq " official character and or CLDR names  a  and  a href=" emoji " title="😃 Every Emoji by Codepoint" code points  a  listed as part of the  a href="https:  en.wikipedia.org wiki Unicode_Standard" Unicode Standard  a . Additional descriptions are copyright © Emojipedia. Emoji images displayed on Emojipedia are copyright © their respective creators, unless otherwise noted.  p 
+ p Emojipedia® is a voting member of the  a href="https:  en.wikipedia.org wiki Unicode_Consortium" Unicode Consortium  a .  p 
+ p Emojipedia® is a registered trademark of Emojipedia Pty Ltd; Apple® is a registered trademark of Apple Inc; Microsoft® and Windows® are registered trademarks of Microsoft Corporation; Google® and Android™ are registered trademarks or trademarks of Google Inc in the United States and or other countries. EmojiOne™ images provided by EmojiOne.  p 
+ p Follow Emojipedia on  a href="https:  twitter.com emojipedia" rel="me" Twitter  a ,  a href="https:  www.facebook.com Emojipedia " rel="me" Facebook  a ,  a href="https:  www.instagram.com emojipedia " rel="me" Instagram  a  or  a href="http:  micro.blog emojipedia" rel="me" Micro.blog  a .  p 

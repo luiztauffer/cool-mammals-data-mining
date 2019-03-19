@@ -1,0 +1,83 @@
+ p align="right"  span class="font2"  a href="capybara.htm" Capybara  a   span  a href="whale_dolphin.htm" class="font2"    a   p 
+ p  a href="capybara.htm"  img src=".. .. images mammals capybara_range_50h.gif" width="70" height="50" hspace="5" border="0"   a  br 
+              p 
+ p align="right"  span class="font2"   span  span class="font2"  a href="guineapig.htm" Guinea Pig  a   span  br 
+                  p 
+ p  a href="guineapig.htm"  img src=".. .. images mammals guinea_pig_50h.gif" width="79" height="50" hspace="5" border="0"   a  br 
+              p 
+ p    p 
+ p 
+          
+          p 
+ p align="left"  The capybara,  em Hydrochoerus Hydrochaeris  em , is a semi-aquatic rodent of South America. It weighs about 40 kg (hundred pounds) , and is about .6 meters (2 feet) tall at the shoulder. It is the largest rodent. Although a rodent, its scientific name  em Hydrochoerus Hydrochaeris  em  means "water pig."   p 
+ p align="center"  br 
+ script type="text javascript"  !--
+google_ad_client = "pub-2546752751326586";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "ff6600";
+google_color_url = "000000";
+google_color_text = "000000";
+google_ad_channel ="";
+  --   script 
+ script type="text javascript" src="http:  pagead2.googlesyndication.com pagead show_ads.js" 
+  script 
+              p 
+ p     p 
+ p align="left" class="font2"  img src=".. .. .. .. design images animals_divider_appearance.gif" width="500" height="29"  br 
+               strong  font size="-1" R.O.U.S. ( b Rodent  b  of Unusual Size)  font :   strong Full-grown capybaras reach between 105 and 135 cm (40–55 in) in length, and weigh 35 to 65 kg (75–140 lbs). Except for their large size, capybaras are similar to guinea pigs in appearance. Not only is the capybara the largest rodent, it also is more than 3 times the weight of the second largest living rodent, the beaver.  p 
+ p  img src=".. .. .. .. design images animals_divider_behavior.gif" width="500" height="29"  br 
+               strong  strong  img src=".. .. images mammals capybara_two.jpg" width="200" height="162" hspace="15" align="left"   strong Swim Champs:  strong  Capybaras are excellent swimmers, and have partially webbed feet. They mate in the water, use the water to hide from and elude predators, and can stay submerged for several minutes.  p 
+ p  strong At Home in the Water:  strong  It is even possible for capybaras to sleep underwater, which they accomplish by leaving their noses exposed to the air.                p 
+ p  strong A Herd of Giant Rodents:  strong  Capybaras are herd animals. The males of the species have a gland on their noses which exudes a liquid pheromone. In the mating season, they will rub this gland on the surrounding foliage to attract females. They spend most of their time on the banks of rivers, feeding in the mornings and evenings.   p 
+ p  strong  img src=".. .. images mammals capybara_water.jpg" alt="Permission is granted to copy, distribute and or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation." width="200" height="132" hspace="15" vspace="5" align="right" On the Menu:  strong  In the wild they eat grasses and aquatic plants, melons and squashes. An adult capybara eats six to eight pounds of grasses a day. They need special adaptations to digest grass. One is a a large fermentation chamber in the intestines called the cecum.  Another is that they eat some of their own droppings.   p 
+ p  strong Home is where you have your habitat...  strong  They live in grasslands and forests alongside water, such as rivers and lakes.  p 
+ p  img src=".. .. .. .. design images animals_divider_general.jpg" width="500" height="29"  br 
+               strong Capybara Farms:   strong Recently some farmers have started breeding capybaras for their meat. Capybara farms are most common in Venezuela, where capybara meat is a popular dish; but some are found in other countries, usually catering to specialty restaurants. The animals are prolific and relatively easy to raise.  p 
+ p  strong  img src=".. .. images mammals capybara_profile.jpg" width="220" height="200" hspace="10" align="right" Beautiful Rodents:  strong  Capybaras are often kept for "decorative" purposes in public parks, farms, and tourist resorts which have access to suitable water bodies. The animals are usually allowed to roam freely; they adapt easily to human presence, and allow themselves to be petted and hand-fed.  p 
+ p  strong Harbingers of Disease:  strong  However, in Southeast Brazil (states of São Paulo, Rio de Janeiro, and Minas Gerais) this custom has run into trouble recently, after  br 
+              capybaras were found to be a reservoir for Rocky Mountain spotted fever.   p 
+ p The disease can be transmitted to humans by the star tick (Amblyomma cajennense), a common parasite of many animals — including capybaras and humans. Responding to pressure from health authorities and public opinion, many public places in those states have eliminated the capybaras they once kept.  p 
+ p  strong Also Known As:  strong  The animal is also called  em capivara  em  in Portuguese, and  em carpincho  em  or  em chigüire  em  in Spanish. The name originally derives from the Guarani word  em kapiÿva  em , meaning roughly "master of the grasses". In English, it is also sometimes called Water Hog.  p 
+ p align="center" class="font1" All text is available under the terms 
+              of the GNU Free Documentation License   p 
+ p align="left"  b  Kingdom:   b Animalia
+                  p 
+ p align="left"  b  Phylum:   b Chordata
+                  p 
+ p align="left"  b  Class:   b Mammalia
+                  p 
+ p align="left"  b  Order:   b Rodentia  p 
+ p align="left"  b  Suborder:   b Hystricomorpha  p 
+ p align="left"  b  Infraorder:   b Caviomorpha  p 
+ p align="left"  b  Family:   b Caviidae  p 
+ p align="left"  b  Subfamily:   b Hydrochoerinae  p 
+ p align="left"  b  Genus:   b Hydrochoerus  p 
+ p    p 
+ p    p 
+ p    p 
+ p    p 
+ p    p 
+ p  br 
+              script language="" type="text javascript" 
+ !--
+google_ad_client = "pub-2546752751326586";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "E1771E";
+google_color_url = "FFA612";
+google_color_text = "000000";
+  -- 
+  script 
+           script type="text javascript" src="http:  pagead2.googlesyndication.com pagead show_ads.js" 
+          script 
+            p 

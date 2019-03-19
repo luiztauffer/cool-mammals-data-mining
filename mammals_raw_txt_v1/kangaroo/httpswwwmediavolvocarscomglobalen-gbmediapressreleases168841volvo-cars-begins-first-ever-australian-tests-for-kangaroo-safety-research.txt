@@ -1,0 +1,41 @@
+ p id="p_0" class="V-Heading1" Volvo Cars begins first ever Australian tests for kangaroo safety research  p 
+ p id="p_1" class="V-Introduction"    p 
+ p id="p_2" class="V-Introduction" Volvo Cars is developing kangaroo detection technology to solve one of the most costly causes of traffic collisions in Australia.  p 
+ p id="p_3"    p 
+ p id="p_4" A team of Volvo Cars safety experts travelled to the Australian Capital Territory this week to film and study the roadside behaviour of kangaroos in their natural habitat. The data Volvo Cars collects will be used to develop the first ever kangaroo detection and collision avoidance system.   p 
+ p id="p_5"    p 
+ p id="p_6" According to the National Roads &amp; Motorists’ Association (NRMA) there are over 20,000 kangaroo strikes on Australian roads each year costing over AU $75 million in insurance claims. The human cost of serious injuries and fatalities from animal collisions is incalculable.  p 
+ p id="p_7"    p 
+ p id="p_8" To help address this Volvo Cars is developing a unique system that uses radar and camera technology to detect kangaroos and automatically apply the brakes if an accident is imminent.  p 
+ p id="p_10" “Whereas Volvo Cars’ Pedestrian Detection technology is geared towards city driving, our kangaroo detection research is focusing on highway speed situations,” said Martin Magnusson, Senior Safety Engineer at Volvo Cars. “Kangaroos are very unpredictable animals and difficult to avoid, but we are confident we can refine our technology to detect them and avoid collisions on the highway.  p 
+ p id="p_11"    p 
+ p id="p_12" “In Sweden we have done research involving larger, slower moving animals like moose, reindeer and cows which are a serious threat on our roads. Kangaroos are smaller than these animals and their behaviour is more erratic. This is why it’s important that we test and calibrate our technology on real kangaroos in their natural environment.”  p 
+ p id="p_13"    p 
+ p id="p_14" “The Volvo Cars City Safety technology is a true state-of-the-art technology, because the brakes can be primed in milliseconds - much faster than a human reacts,” Martin Magnusson said. “We are only at the beginning of what is possible.”  p 
+ p id="p_15"    p 
+ p id="p_16" Volvo Car Australia Managing Director Kevin McCann said that research into kangaroo detection technology is one of the latest focus areas aimed at realising Volvo Cars’ vision that no one is killed or seriously injured in a new Volvo car by 2020.   p 
+ p id="p_17"    p 
+ p id="p_18" “This type of technology is not designed to take responsibility away from drivers. If the driver is inattentive the car will warn him or her and eventually intervene with hard braking to avoid a potential collision,” added Martin Magnusson.  p 
+ p id="p_19"    p 
+ p id="p_20" Volvo Cars is conducting its kangaroo detection research this week at Tidbinbilla Nature Reserve near Canberra.  Canberra is one of the nation’s hotspots for kangaroo collisions.  p 
+ p id="p_21"    p 
+ p id="p_22"  strong Notes to editors:  strong   p 
+ p id="p_23"    p 
+ p id="p_24"  strong The technology behind the research  strong   p 
+ p id="p_25" The technology behind this research into kangaroo detection is an evolution of City Safety which detects cars, cyclists and pedestrians both during the day and night.  p 
+ p id="p_26"    p 
+ p id="p_27" A radar sensor in the grille scans the road ahead to detect moving objects like animals, cars, cyclists and pedestrians. A very advanced light-sensitive, high-resolution camera in the windscreen works in parallel with the radar to detect which way the object is moving and help the computer decide what action to take, if any.  p 
+ p id="p_28"    p 
+ p id="p_29" When the object is detected, it takes 0.05 seconds for the computer system to react on the situation. This should be compared with the human reaction time of about 1.2 seconds.  p 
+ p id="p_30"    p 
+ p id="p_31"  span style="line-height: 14.4px;" -------------------------------  span   p 
+ p id="p_32"    p 
+ p id="p_33"  strong  em Volvo Car Group in 2014  em   strong   p 
+ p id="p_34"  em For the 2014 financial year, Volvo Car Group recorded an operating profit of 2,252 MSEK (1,919 MSEK in 2013). Revenue over the period amounted to 129,959 MSEK (122,245 MSEK). For the full year 2014, global sales reached a record 465,866 cars, an increase of 8.9 per cent versus 2013. The record sales and operating profit cleared the way for Volvo Car Group to continue investing in its global transformation plan.   em   p 
+ p id="p_35"    p 
+ p id="p_36"  strong  em About Volvo Car Group  em   strong   p 
+ p id="p_37"  em Volvo has been in operation since 1927. Today, Volvo Cars is one of the most well-known and respected car brands in the world with sales of 465,866 in 2014 in about 100 countries. Volvo Cars has been under the ownership of the Zhejiang Geely Holding (Geely Holding) of China since 2010. It formed part of the Swedish Volvo Group until 1999, when the company was bought by Ford Motor Company of the US. In 2010, Volvo Cars was acquired by Geely Holding.  em   p 
+ p id="p_38"    p 
+ p id="p_39"  em As of December 2014, Volvo Cars had over 26,000 employees worldwide. Volvo Cars head office, product development, marketing and administration functions are mainly located in Gothenburg, Sweden. Volvo Cars head office for China is located in Shanghai. The company’s main car production plants are located in Gothenburg (Sweden), Ghent (Belgium) and Chengdu (China), while engines are manufactured in Skövde (Sweden) and Zhangjiakou (China) and body components in Olofström (Sweden).  em   p 
+ p For information on how Volvo Cars process your personal data in relation to Volvo Cars Global Newsroom  a href=" global en-gb about information-notice" click here  a .  p 
+ p Volvo Cars Newsroom makes use of cookies in order to optimize your user experience on this website. The cookies on the website do not store personal information. For more information, read our  a href=" global en-gb about cookies" Cookies Policy page  a .  p 

@@ -1,0 +1,353 @@
+ p style="text-align: justify;margin-left: 10px;margin-right: 13px;margin: 17px;" CITES is an international agreement between governments, aimed to ensure that international trade in specimens of wild animals and plants does not threaten their survival.  p 
+ p  strong Essential information for applying, implementing and enforcing the Convention  strong   p 
+ p  strong Current activities on selected species and other key topics  strong   p 
+ p style="text-align: center;position: relative;left: -35px;"  strong For media enquiries:  strong  br 
+	 a href=" cdn-cgi l email-protection#f5969c819086d89890919c94b5809bdb9a8792"  span class="__cf_email__" data-cfemail="4c2f2538293f61212928252d0c392262233e2b" [email protected]  span   a   p 
+ p  !-- end #main -- The  em CITES Guidelines for the non-air transport of live wild animals and plants  em  were adopted by the Conference of the Parties to CITES at its sixteenth meeting (CoP16, Bangkok, 2013)  p 
+ p The new  em Guidelines  em  replace the 'Guidelines for transport and preparation for shipment of live wild animals and plants' adopted by the Conference of the Parties at its second meeting (San José, 1979)  p 
+ p In Resolution  a href=" eng res 10 10-21R16.php" Conf. 10.21 (Rev. CoP16)  a , on  em Transport of live specimens  em , the Conference of the Parties recommends  em inter alia  em  that:  p 
+ p The new  em Guidelines  em  can be viewed below or downloaded  a href=" sites default files eng resources transport transport_guidelines_2013-english.pdf" here  a  as one single PDF file. The Secretariat would welcome any comments or suggestions for improving the  em Guidelines  em  and these should be addressed to  a href=" cdn-cgi l email-protection#aec7c0c8c1eecdc7dacbdd80c1dcc9"  span class="__cf_email__" data-cfemail="9ef7f0f8f1defdf7eafbedb0f1ecf9" [email protected]  span   a .  p 
+ p  a id="top" name="top"    a   p 
+ p    p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p class="m_green"  strong Introduction  strong   p 
+ p At the first meeting of the Conference of the Parties to the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) (Bern, 1976), it was resolved that guidelines on the care and shipment of live specimens of species listed under the Convention should be prepared. At the special working session of the Conference (Geneva, 1977), it was agreed that such guidelines should apply to all animals and plants, not just those currently listed under the Convention. It was further agreed that such guidelines should cover all forms of transport, be practical, and should be directed to the use of persons actually handling the consignments as well as the enforcement authorities.  p 
+ p The resulting Guidelines for the transport and preparation for shipment of live wild animals and plants were broadly based upon the “Live Animals Regulations” (LAR) of the International Air Transport Association (IATA) and were finalized and made available to Parties in 1981.  p 
+ p At the 12th meeting of the Conference of the Parties (Santiago, 2002), Parties determined that the Guidelines were out of date and directed the Animals Committee to consider their replacement. The Animals Committee’s Transport Working Group (TWG) subsequently determined that the IATA LAR provided appropriate guidance in most situations for the transport of live wild specimens of all CITES-listed species, regardless of the mode of transport.  p 
+ p At the 13th meeting of the Conference of the Parties (Bangkok, 2004), the Parties adopted a Decision directing the Animals Committee, in consultation with the Plants Committee and the Secretariat, to develop up-to-date guidance on the transport of live animals and plants of CITES-listed species to replace the 1981 CITES Guidelines. The subsequent work of the TWG led to a revision of Resolution Conf. 10.21 (Rev. CoP14) at the 14th meeting of the Conference of the Parties (The Hague, 2007). The revised Resolution recommended that Parties promote the use of the IATA LAR and IATA Perishable Cargo Regulations (PCR- for the transport of Plants) by Management Authorities, and that these IATA Regulations be used as a reference to indicate suitable conditions for transport by means other than air where appropriate. The Resolution also recommended that the LAR and PCR be incorporated into Parties' domestic legislation or policies.  p 
+ p At the 15th meeting of the Conference of the Parties (Doha, 2010), the Animals Committee was directed to develop a supplement to the IATA LAR for CITES-listed taxa that required non-air transport conditions different from those listed in the IATA LAR. The Conference also agreed to delete the reference to the use of the Guidelines for the transport and preparation for shipment of live wild animals and plants in box 5 of the CITES permit, leaving references only to the use of the IATA LAR and PCR.  p 
+ p The envisaged supplement to the IATA LAR is presented here. It is a two part document. The first part covers "General Conditions" for the transport of live animals. The second part deals with the "Technical Specifications" that deviate from the IATA LAR in respect to the non-air-transport of certain taxa and only apply to the species listed therein.  p 
+ p Like the IATA LAR, non-air transport methods are continually evolving and this supplement may be amended over time as innovations in live wild animal transport are made. CITES will collaborate with the IATA Live Animals and Perishables Board to determine whether and how this supplement may be included in future IATA editions of the LAR and then made available to Parties.  p 
+ p This supplement was developed to indicate where the IATA LAR is not entirely sufficient for the non-air transport for certain CITES-listed species. The deviations provided in the supplement only apply to the non-air transport of the identified taxa. All wildlife, including the identified taxa herein, may be transported by air, road, rail or ship according to the methods listed in the most current edition of the IATA LAR. a id="1" name="1"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p class="m_green"  strong General conditions  strong   p 
+ p  strong 1. General conditions for plants  strong   p 
+ p For the shipment of plants the IATA PCR apply. a id="2" name="2"    a   p 
+ p  strong 2. General conditions for animals  strong   p 
+ p IATA LAR are appropriate for the non-air-transport of all species of animals. However, for transports exceeding 48 hours additional provisions may be necessary. Such provisions may include but are not limited to:  p 
+ p However, for some taxa, deviations from the LAR are equally appropriate and may be the preferred method chosen by the person responsible for the shipment of live animals.  p 
+ p For taxa and deviations refer to the "Technical Specifications". a id="2_1" name="2_1"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 2.1. General conditions for the transport of live animals  strong   p 
+ p The transport of an animal constitutes an unnatural situation for the animal and is most likely to cause it some degree of stress. High levels of stress may increase metabolic rates, hazardous behaviour, chances of injuries and susceptibility to diseases.  p 
+ p For reasons of animal welfare, animal transport should be quick, efficient and strive to avoid as much stress as possible to the animal.  p 
+ p The transport of live animals must be well planned, well prepared and effectively executed!  p 
+ p For long distances, air transport should be the first consideration!  p 
+ p Animals must:  p 
+ p An animal that is injured or that has physiological weaknesses or pathological problems should not be considered fit for transport especially if:  p 
+ p However, sick and or injured animals may be transported if:  p 
+ p Sedatives should not be used on animals to be transported unless strictly necessary to ensure the welfare of the animals and should only be used under veterinary supervision.  p 
+ p In cases where anaesthesia has been given, the animal must be completely awake, alert and able to balance itself before the transport commences. Detailed information must be clearly noted on the container and accompanying paperwork. a id="2_2" name="2_2"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 2.2. Planning obligations for the transport of live animals  strong   p 
+ p Transporters and organizers of transports have an obligation to plan the transport to ensure that the welfare of the animals is not compromised.  p 
+ p Sound knowledge of the species in transport is of greatest importance. Comprehensive information, when available, about the animal should contain:  p 
+ p Weather conditions, status of transport routes, potential causes for delays, border wait times, legal obligations that may include commercial licenses, driver‘s rest, traffic bans, truck scales, chase vehicles, passport requirements, visas, locations of fuel and repair services, etc. should be investigated and must be taken into account prior to the onset of transport.  p 
+ p National and international laws and regulations as applicable in the countries of origin, transit, and destination must be investigated and complied with. Before preparing a live animal for transport, shippers must always obtain full information well in advance concerning import export, in-transit permit, veterinary health certificate, veterinary import export permit, CITES import export re-export permit, veterinary examination, pre-arrival declaration, and clearance times, quarantine, ports of entry, border inspection posts and prohibition restrictions, which may include traffic bans, veterinary restrictions as well as restrictions for food and bedding provided for the animal.  p 
+ p Customs and veterinary clearances, as well as other relevant services may not be available on weekends and holidays.  p 
+ p It is the shipper's responsibility to ascertain what national legislation regarding the protection of animals during transport is in force for all countries through which the animals are being transported, and to obtain all necessary documents, permits, certificates and licenses prior to departure.  p 
+ p All necessary advance arrangements in compliance with applicable laws and regulations must be made to minimize the duration of the transport and to meet the animals' needs during and after transport. Arrangements must be made for animals to be delivered to the consignee upon arrival at its destination. The shipper is obliged to inform the consignee of the anticipated time of arrival and the receiver should make every effort to be present at the time the animal arrives at its destination.  p 
+ p The shipper is responsible for all necessary marking and labelling regarding the transport and or containers.  p 
+ p Contingency plans in the event of an emergency are strongly recommended.  p 
+ p Contingency plans should contain information on:  p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 2.3. Means of transport  strong   p 
+ p The means of transport, containers and their fittings should be designed, constructed, maintained and operated so as to:  p 
+ p Special consideration must be given to measures to prevent adverse impacts from climatic changes in the case of transports over long distances or over major differences in elevation.  p 
+ p Partitions and compartments must be strong enough to withstand the weight of the animal.  p 
+ p Access to each individual compartment, without disturbing other animals, should be provided in case an animal is in distress or injured.  p 
+ p Animals should be provided with appropriate bedding or equivalent material which guarantees their comfort appropriate to the species, the number of animals being transported, the transportation time, and the weather. The material should adequately absorb urine and faeces and must not contravene legislation as applicable.  p 
+ p A sufficient supply of bedding material should be carried on the vehicle or should be available en route as required.  p 
+ p The means of transport should be equipped with a roof of light colour that is able to prevent animals from escaping.  p 
+ p Containers must always be kept upright and severe jolts or shaking should be minimized.  p 
+ p Containers must be secured throughout the transport so as to prevent displacement due to the movements and or vibrations of the conveyance.  p 
+ p Vehicles should be equipped with appropriate-sized fire-extinguishers.  p 
+ p Shippers should crate-train or otherwise acclimate animals to be transported with transport container and vehicle.  p 
+ p Surveillance systems to monitor animals during transport are highly recommended. a id="2_4" name="2_4"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 2.4. Marking and labelling  strong   p 
+ p Vehicles in which animals are transported should be clearly marked indicating the presence of live animals except when the animals are transported in containers that are clearly marked indicating the presence of live animals and with a sign indicating the top of the container.  p 
+ p All markings and labels must be legible, durable and printed or otherwise marked on or affixed to the external surface of the container or vehicle.  p 
+ p Containers carrying animals which can inflict poisonous or venomous bites and stings must be boldly marked "POISONOUS" or "VENOMOUS".  p 
+ p Poisonous or venomous animals should be double-packed to prevent escape. Vehicles or containers carrying animals that can possibly inflict injury must have an additional warning label "This Animal Bites" or "Dangerous Animal". a id="2_5" name="2_5"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 2.5. Persons accompanying transports  strong   p 
+ p Personnel accompanying and handling animals should be appropriately trained and competent for this purpose and should carry out their duties diligently without using methods likely to cause unnecessary fear, injury, damage to health or suffering of the animal(s) or any personnel connected with the transport.  p 
+ p It is strongly recommended that appropriate training and experience with the respective species be a prerequisite for any person accompanying shipments of that animal and any person handling that animal during and after transport.  p 
+ p No person should transport animals or cause animals to be transported in a way likely to cause unnecessary fear, injury, damage to health, suffering or cruel treatment.  p 
+ p An individual deemed competent to accompany a shipment of live animals should possess the following, as appropriate to the species:  p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p All accompanying personnel should possess a valid passport with visas or equivalent identifying documents as required, and means of communication.  p 
+ p  strong 2.6. Loading and unloading  strong   p 
+ p The loading and unloading facilities should be adequately designed, constructed, maintained, and operated so as to avoid unnecessary fear, injury, damage to health, suffering, cruel treatment, and to ensure the safety of the animals.  p 
+ p Appropriate surfaces and appropriate protections shall be provided so as to prevent animals from escaping.  p 
+ p If ramps are used in the process of loading and unloading they should be installed at a height and angle appropriate for the species, and be so designed as to ensure that the animals can traverse it without risks or difficulties.  p 
+ p All necessary facilities and equipment for crating, hoisting of containers, loading and unloading should be in place and readily available to minimize the time for loading and unloading, to ensure the animal‘s welfare, and to minimize the risk of unnecessary fear, injury, damage to health, suffering and cruel treatment.  p 
+ p Goods such as feed which are being transported in the same conveyance as animals must be positioned and secured so that they do not interfere with the transport of the animals and cause unnecessary fear, injury, damage to health or suffering to the animals.  p 
+ p Advance arrangements should be made so that all appropriate equipment and personnel are in place at the place of destination at the estimated time of arrival to ensure quick and safe unloading of all animals.  p 
+ p Appropriate lighting should be provided during loading and unloading.  p 
+ p It is essential that specific measures are implemented to safeguard the health and welfare of animals and all personnel during and after loading and unloading.  p 
+ p When containers loaded with animals are stacked on top of each other on the conveyance, the necessary precautions shall be taken:  p 
+ p This may not apply to animals from proven compatible groups, animals that are acclimated to each other and or where separation will cause distress, or females accompanied by dependent and or unweaned young.  p 
+ p All animals should be checked upon their arrival at the place of destination by experienced and trained handlers and or veterinary personnel.  p 
+ p Animals must be moved with care at all times.  p 
+ p Appropriate provisions should be taken at the destination to allow transported animals to adapt to its new environment. a id="2_7" name="2_7"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 2.7. During transport  strong   p 
+ p Space allowances shall comply with IATA LAR for transports of all modes of transport for up to 48 hours.  p 
+ p For taxa described in the "Technical Specifications" of this non-air transport supplement, space allowances should comply with the figures laid out therein.  p 
+ p Sufficient ventilation without injurious drafts and adequate protection from the elements must be provided at all times during the transport to ensure that the needs of the animals are fully met. Transporters must take into account the species and number of animals transported, the expected weather conditions during the transport, and the possibility of unexpected stops.  p 
+ p Containers should be stored in a way in which ambient conditions are stable and appropriate, and that does not impede ventilation.  p 
+ p Food and water provided for animals should be appropriate for the species and the individual‘s size and age. It should be made available, at appropriate intervals, depending on ambient climatic conditions encountered during transport.  p 
+ p Food and water should always be offered in a way that is familiar to the animal and that also minimizes contamination.  p 
+ p The conveyance should carry a sufficient quantity of appropriate food for the animals during the transport. The food must be protected from the weather and from contaminants such as dust, fuel, exhaust gases and animal excrements.  p 
+ p Where specific feeding equipment is used for the feeding of animals, that equipment should be transported in the conveyance.  p 
+ p Where feeding equipment is used, it should be so designed that it is not hazardous to the animals, and if necessary, should be affixed to the container or conveyance to prevent its contents from spillage. When the equipment is not in use, it should be stored away from the animals.  p 
+ p In the case of two or more animals per compartment, the natural behaviour of the animals, particularly social aspects, must be considered, and food and water should be offered in a way as to be accessible to every animal.  p 
+ p An adequate supply of water is essential for most species.  p 
+ p The watering devices should be in good working order and be appropriately designed and positioned for the animal in transport.  p 
+ p Sufficient and appropriate floor area and height should be provided for the animals, appropriate to their species, their size, number of animals transported, and the anticipated duration of the transport.  p 
+ p The transport should be carried out without delay to the destination and the welfare conditions of the animals must be regularly checked and appropriately maintained by competent personnel.  p 
+ p In case of a delay during transport, all necessary actions required to safeguard the welfare of the animals and reduce the risk of unnecessary fear, injury, damage to health and suffering should be taken by the transporter.  p 
+ p Appropriate climate conditions and control must be provided with respect to the particular species and must be maintained throughout the transport-taking into consideration possible heat and wind chill factors, weather conditions, and the possibility of unexpected stops.  p 
+ p Appropriate surveillance systems should monitor the temperatures of the compartments of the transported animals at all times and alert the transporter when the temperature in the compartments where animals are located falls outside of the recommended maximum or minimum ranges..  p 
+ p Animals should be offered a rest period at suitable intervals depending on the species and length of transport, and offered appropriate food and water.  p 
+ p When animals fall ill or are injured during transport, they should receive appropriate veterinary treatment as soon as possible and, if necessary, undergo emergency euthanasia in a way which does not cause them any unnecessary suffering in compliance with legislation as applicable.  p 
+ p Waste material that contains organic material produced by the animal, animal feed or bedding material, must be handled, collected and disposed of in compliance with applicable legislation regulation. The legislation regulation of some countries may prohibit the use of certain organic materials such as hay, straw, and other animal feed. Unloading organic waste may be restricted or prohibited in some countries. Appropriate measures may be taken to store such waste safely and securely for the duration of transit. a id="3" name="3"    a   p 
+ p class="m_green"  strong Technical specifications  strong   p 
+ p  strong 3. Technical specifications for plants  strong   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  a id="4" name="4"    a For the shipment of plants the IATA PCR apply.  p 
+ p  strong 4. Technical specifications for animals  strong   p 
+ p IATA LAR apply to the non-air-transport of all taxa.  p 
+ p However, the technical specifications contained in this chapter may also be followed, and only apply to the non-air-transport of the taxa listed below.  p 
+ p For purposes of the technical specifications the term "trailer" refers to a vehicle used to transport animals that is pulled by a car, truck, or train. a id="4_1" name="4_1"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p For purposes of the technical specifications the term "compartment" refers to a separate part, section or chamber within a means of transport.  p 
+ p  strong 4.1. List of taxa  strong   a id="4_1_1" name="4_1_1"    a   p 
+ p 4.1.1.  u Invertebrates  u   p 
+ p No deviations from the LAR apply. a id="4_1_2" name="4_1_2"    a   p 
+ p 4.1.2.  u Crustaceans  u   p 
+ p No deviations from the LAR apply. a id="4_1_3" name="4_1_3"    a   p 
+ p 4.1.3.  u Fish  u   p 
+ p 4.1.4.  u Amphibians  u   p 
+ p No deviations from the LAR apply. a id="4_1_5" name="4_1_5"    a   p 
+ p 4.1.5.  u Reptiles  u   p 
+ p No deviations from the LAR apply. a id="4_1_6" name="4_1_6"    a   p 
+ p 4.1.6.  u Birds  u   p 
+ p 4.1.7.  u Mammals  u   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.2. Fish species CR51 59 60  strong   p 
+ p  u General Care and Loading  u   p 
+ p Fish tanks for road transport should be designed so that the lids do not completely seal and can release excess gases without compromising water loss. a id="4_3" name="4_3"    a   p 
+ p  strong 4.3. Ratite species CR24  strong   p 
+ p  u General Care and Loading  u   p 
+ p Ostriches, emus, and rheas may be transported loose in trucks, trailers or rail cars. Non-slip floors need to be provided. Trucks, trailers and rail cars must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p Birds may not be shipped together in groups if they:  p 
+ p This shall not apply to animals from proven compatible groups, animals that are accustomed to each other, animals where separation will cause distress, or females accompanied by dependent young.  p 
+ p Only one (1) male per container or compartment.  p 
+ p  em Cassowary  em   p 
+ p Cassowary may be transported singly in crates but it is preferable to transport sexually mature, adult cassowaries free standing in a trailer compartment.  p 
+ p Sexually mature animals must always be shipped singly.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For total transport times up to 48 hours, follow density specifications described in the Container Requirements for Ratites.  p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not in motion.  p 
+ p For total transport times over 48 hours air transport is preferred.  p 
+ p Floor space requirements for emus apply to rheas and cassowaries equally.  p 
+ p  u Food and water containers  u   p 
+ p Containers may not be affixed inside trailer or compartment. a id="4_4" name="4_4"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.4. Flamingo species CR17  strong   p 
+ p  u General care and loading  u   p 
+ p Flamingo species may be transported loose in trucks, trailers or rail cars. Flamingos should be transported in clusters or groups rather than in individual compartments as long as they come from an established flock and are familiar with each other. Trucks, trailers and rail cars must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p  u Floor  u   p 
+ p Floor covering must be firmly fixed to the floor so birds do not slide or lose footing. Soft damp bedding must be provided to prevent the foot webbing from drying out during transportation; e.g. soaked carpeting or 5 cm (2 in) foam rubber.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For transport times up to 48 hours, allow a minimum of 0.2 m2 (2 sq. ft.) per bird for a compatible group of flamingos.  p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not in motion.  p 
+ p For longer transport air transport is preferred.  p 
+ p  u Food and water containers  u   p 
+ p Containers may not be affixed inside trailer or compartment. a id="4_5" name="4_5"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.5. Stork and Crane species CR17  strong   p 
+ p  u General care and loading  u   p 
+ p Stork and crane species may also be transported loose in trucks, trailers or rail cars. Trucks, trailers and rail cars must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p Birds may not be shipped together in groups if they:  p 
+ p This shall not apply to animals from proven compatible groups, animals that are accustomed to each other, animals where separation will cause distress, or females accompanied by dependent young.  p 
+ p Large and or aggressive species of storks and cranes should always be transported in single compartments or crates.  p 
+ p  u Floor  u   p 
+ p Floor covering must be firmly fixed to the floor so birds do not slide or lose footing.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For transport times up to 48 hours, allow a minimum of 0.2 m2 (2 sq. ft.) per bird for a compatible group of storks or cranes.  p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not in motion.  p 
+ p For total transport times over 48 hours air transport is preferred.  p 
+ p  u Food and water containers  u   p 
+ p Containers may not be affixed inside trailer or compartment. a id="4_6" name="4_6"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.6. Penguin species CR22  strong   p 
+ p  u General care and loading  u   p 
+ p Temperature is a major concern and cool substrates are needed.  p 
+ p Plastic totes allow better temperature control and avoid leakage of any cooling substrates. Plastic totes may be used instead of other types of containers. Plastic totes must be secured at all times during transport.  p 
+ p Penguin species should not be shipped loose in a trailer.  p 
+ p Penguin species from a warmer climate can be transported as long as they can be sprayed with water and providing transport does not exceed 8 hours.  p 
+ p It is recommended that penguin species from Antarctic or sub-Antarctic climates should be shipped in a climate controlled vehicle.  p 
+ p For long transportations air transport is recommended. a id="4_7" name="4_7"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.7. Pelican species CR21  strong   p 
+ p  u General care and loading  u   p 
+ p Pelican species may be transported loose in trucks, trailers or rail cars. Trucks, trailers and rail cars must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p Birds may not be shipped together in groups if they:  p 
+ p This shall not apply to animals from proven compatible groups, animals that are accustomed to each other, animals where separation will cause distress, or females accompanied by dependent young.  p 
+ p Animals may be offered tubs of water during transports stops.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For total transport times up to 48 hours, allow a minimum of 0.6 m2 (7 sq. ft.) per bird for a compatible group of pelicans.  p 
+ p  em Dalmatian pelican  em  ( em Pelecanus crispus)  em   p 
+ p For total transport times up to 48 hours em ,  em  allow 0.9 m2 (10 sq. ft.) per bird for a compatible group of pelicans.  p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not in motion. a id="4_8" name="4_8"    a   p 
+ p For total transport times over 48 hours air transport is preferred.  p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.8. Big cat species CR72  strong   p 
+ p Big cats may be transported loose in compartments within a truck, trailer or rail car. Compartments must meet the minimum requirements for container construction regarding strength, stability, safety, and size. a id="4_9" name="4_9"    a   p 
+ p  strong 4.9. Bear species CR72  strong   p 
+ p Bear species may be transported loose in compartments within a truck, trailer or rail car.. Compartments must meet the minimum requirements for container construction regarding strength, stability, safety, and size. a id="4_10" name="4_10"    a   p 
+ p  strong 4.10. Wild horse and ass species CR73  strong   p 
+ p  u General care and loading  u   p 
+ p Wild horse and ass species may be transported loose in trucks, trailers or rail cars. Trucks, trailers and rail cars must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p Sexually mature males must be shipped individually and must not be in the same trailer with females.  p 
+ p Females accompanied by unweaned foals may be shipped together if approved by a certified veterinarian.  p 
+ p All other weaned juveniles and mature animals should be transported singly in individual compartments or containers.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not in motion. Additional conditions may be required to meet general transport conditions.  p 
+ p  u Food and water containers  u   p 
+ p Containers may not be affixed inside trailer or compartment.  p 
+ p Feeding of wild horse species should be reduced during the 24 hour period before loading. Wild horse species should not be offered food within three hours before loading. a id="4_11" name="4_11"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.11. Antelope species CR73  strong   p 
+ p  u General care and loading  u   p 
+ p Antelope species may be transported loose in trucks, trailers or rail cars. Trucks, trailers and rail cars must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p Antelope may not be shipped together in groups if they:  p 
+ p This shall not apply to animals from proven compatible groups, animals that are accustomed to each other, animals where separation will cause distress, or females accompanied by dependent young.  p 
+ p Sexually mature males must not be transported in the same trailer with females unless they are in a separate container or a completely segregated compartment.  p 
+ p Antelope species that must be shipped singly include:  p 
+ p It is recommended that all animals be shipped singly in compartments.  p 
+ p Smaller antelope species and antelope species whose normal behaviour includes vertical jumping (e.g. klipspringer) should be transported in containers and not loose in compartments.  p 
+ p Covering the ends of the animal's horns with tubing, elastic material, or other protective devices should be considered.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not in motion. Additional conditions may be required to meet general transport conditions.  p 
+ p  u Food and water containers  u   p 
+ p Containers may not be affixed inside trailer or compartment. a id="4_12" name="4_12"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.12. Sheep species CR73  strong   p 
+ p  u General care and loading  u   p 
+ p Sheep species may be transported loose in trucks, trailers or rail cars. Trucks, trailers and rail cars must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p Sheep may not be shipped together in groups if they:  p 
+ p This shall not apply to animals from proven compatible groups, animals that are accustomed to each other, animals where separation will cause distress, or females accompanied by dependent young.  p 
+ p Sexually mature males must not be in the same trailer with females unless they are in a separate container or a completely segregated compartment.  p 
+ p It is highly recommended that all animals be shipped singly in compartments.  p 
+ p Sheep species whose normal behaviour includes vertical jumping (e.g. bighorn sheep) should be transported in containers and not loose in compartments.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not in motion. Additional conditions may be required to meet general transport conditions.  p 
+ p  u Food and water containers  u   p 
+ p Containers may not be affixed inside trailer or compartment. a id="4_13" name="4_13"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.13. Buffalo and cattle species CR73  strong   p 
+ p  u General care and loading  u   p 
+ p Buffalo and cattle species may be transported loose in compartments within trucks, trailers or rail cars. Compartments must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p Sexually mature males must be shipped individually and must not be in the same trailer with females.  p 
+ p Females accompanied by unweaned calves may be shipped together if approved by a certified veterinarian.  p 
+ p All other weaned juveniles and mature animals should be transported singly in individual compartments or containers.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not motion. Additional conditions may be required to meet general transport conditions.  p 
+ p  u Food and water containers  u   p 
+ p Containers may not be affixed inside trailer or compartment. a id="4_14" name="4_14"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.14. Deer species CR73  strong   p 
+ p  u General care and loading  u   p 
+ p Deer species may be transported loose in compartments within trucks, trailers or rail cars. Compartments must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p Deer may not be shipped together in groups if they:  p 
+ p This shall not apply to non antler-bearing animals from proven compatible groups, non antler-bearing animals that are accustomed to each other, animals where separation will cause distress, or females accompanied by dependent young.  p 
+ p It is recommended that all animals be shipped singly in compartments.  p 
+ p Deer in hard antlers may be transported without their antlers shed or removed, provided that the animals are individually segregated, and the primary container or compartment has been designed and constructed to prevent the antlers from becoming trapped or injuring the animal itself, other animals nearby, attendants, or cargo handlers. Trailers may be used with extreme care.  p 
+ p It is preferable and highly recommended to ship antler-bearing animals after shedding antlers.  p 
+ p Deer in velvet must not be transported.  p 
+ p  em Muntjacs  em   p 
+ p Muntjac species should be shipped according to the LAR.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not motion. Additional conditions may be required to meet general transport conditions.  p 
+ p  u Food and water containers  u   p 
+ p Containers may not be affixed inside trailer or compartment. a id="4_15" name="4_15"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.15. Small camelid species CR73  strong   p 
+ p  u General care and loading  u   p 
+ p Small camelid species may be transported loose in trucks, trailers or rail cars. Trucks, trailers and rail cars must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p Small camelids may not be shipped together in groups if they:  p 
+ p This shall not apply to animals from proven compatible groups, animals that are accustomed to each other, animals where separation will cause distress, or females accompanied by dependent young.  p 
+ p Sexually mature males must not be transported in the same trailer with females.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not motion. Additional conditions may be required to meet general transport conditions.  p 
+ p  u Food and water containers  u   p 
+ p Containers may not be affixed inside trailer or compartment. a id="4_16" name="4_16"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.16. Tapir species CR73  strong   p 
+ p  u General care and loading  u   p 
+ p Tapirs may be transported loose in trucks, trailers or rail cars. Trucks, trailers and rail cars must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p Tapirs may not be shipped together in groups if they:  p 
+ p This shall not apply to animals from proven compatible groups, animals that are accustomed to each other, animals where separation will cause distress, or females accompanied by dependent young.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not motion. Additional conditions may be required to meet general transport conditions.  p 
+ p  u Food and water containers  u   p 
+ p Containers may not be affixed inside trailer or compartment. a id="4_17" name="4_17"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.17. Pig species CR74  strong   p 
+ p  u General care and loading  u   p 
+ p Pigs may be transported singly loose in compartments within trucks, trailers or rail cars. Compartments must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not motion. Additional conditions may be required to meet general transport conditions.  p 
+ p  u Food and water containers  u   p 
+ p Containers may not be affixed inside trailer or compartment. a id="4_17" name="4_17"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.18. Elephant, rhinoceros and hippopotamus species CR71  strong   p 
+ p  u General care and loading  u   p 
+ p Elephants, rhinos and hippos may be transported in trucks, trailers or rail cars. Trucks, trailers and rail cars must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p  em Hippopotamus  em   p 
+ p Animals should be sprayed at regular intervals throughout transport, depending on ambient conditions.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not motion. Additional conditions may be required to meet general transport conditions.  p 
+ p  u Food and water containers  u   p 
+ p Containers should not be affixed inside trailer or compartment. a id="4_19" name="4_19"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.19. Pinnipeds CR76  strong   p 
+ p  u General care and loading  u   p 
+ p Pinnipeds may be transported loose in trucks, trailers or rail cars. Trucks, trailers and rail cars must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p Skin moisture and appropriate body temperature should be maintained by e. g. water sprayers or dripping ice.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not in motion. Additional conditions may be required to meet general transport conditions.  p 
+ p  em Walrus  em   p 
+ p Walrus must always be shipped in an individual container.  p 
+ p  u Food and water containers  u   p 
+ p Containers for food and water do not need to be provided. a id="4_20" name="4_20"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p  strong 4.20. Kangaroo and wallaby species CR83  strong   p 
+ p  u General care and loading  u   p 
+ p Kangaroo and wallaby species may be transported in padded compartments within a truck, trailer or rail car. Compartments must meet the minimum requirements for container construction regarding strength, stability, safety, and size.  p 
+ p Kangaroos should be shipped singly.  p 
+ p This shall not apply to animals, where separation will cause distress or females accompanied by in pouch young attached to nipple.  p 
+ p  u Dimensions and stocking density  u   p 
+ p For total transport times over 48 hours the number of rest stops should be increased and additional space offered while not in motion. Additional conditions may be required to meet general transport conditions.  p 
+ p  u Bedding  u   p 
+ p To avoid the hazard of necrobacillosis, prickly material such as straw must not be used.  p 
+ p  u Food and water containers  u   p 
+ p Containers may not be affixed inside trailer or compartment. a id="members" name="members"    a   p 
+ p style="text-align: right"  a href="#top"   img border="0" height="9" src=" sites default files eng graphics top.gif" width="28"    a   p 
+ p    p 
+ p class="m_green" style="text-align: center"  strong Members of the Joint AC PC Transport Working Group  strong   p 
+ p  strong Chair  strong   p 
+ p Andreas Kaufmann (Austria)  p 
+ p  strong Co-chair  strong   p 
+ p Michael Kiehn (Austria)  p 
+ p  strong Parties  strong   p 
+ p Bandar Al-Faleh (Saudi Arabia), Fawaz Al-Sowaidi (Qatar), Thomas Althaus (Switzerland), Angelica Annaeva (Russian Federation), Igor Bazarow (Russian Federation), Craig Hoover (United States of America), Gong Jien (China), Frank Kohn (United States of America), Mathias Lörtscher (Switzerland), Sansao Bonito Mahanjane (Mozambique), Obed F. Mbangwa (United Republic of Tanzania), Sonja Meintjes (South Africa), Xianglin Meng (China), Anne St. John (United States of America), Ludwig Siege (Ethiopia), Irina Sprotte (Germany), Ashish Kumar Srivastava (India), Miguel Stutzin (Chile), Olivia Vololaniaina (Madagascar)  p 
+ p  strong IGOs and NGOs  strong   p 
+ p Robert Atkinson (Royal Society for the Prevention of Cruelty to Animals ), Eric Bernier (Rare Zoo Logistics S.A.), Gretchen Bickert (Phoenix Zoo), Dave Blasko (Alliance of Marine Mammal Parks and Aquariums), Andy Blue (San Diego Safari Park), Jim Collins (Pet Care Trust), Gerald Dick (World Association of Zoos and Aquariums), Lesley Dickie (European Assocation of Zoos and Aquaria), Heiner Engel (Zoo Hannover), Svein Fossa (Ornamental Fish International), Joan Galvin (Animal Exhibitors Alliance), Cecilia Gasparrou (Fundacion Cethus), Alejandra Goyenechea (Defenders of Widlife), Andrea Gruber (International Air Transport Association), Manuel Jardinel (Birds International), Robin James (Weymouth Sealife Centre), Sarah Kahn (World Organization for Animal Health), Thomas Kauffels (Opel Zoo Kronberg), Nicole Kube (Ozeanum Stralsund), Yves Lecop (Federation of Associations for Hunting and Conservation of the European Union), Bern Marcordes (Cologne Zoo), Lynn McDuffie (Disney's Animal Kingdom), Laura van der Meer (International Environmental Resources), Gerard Meijer (Ouwehands Dierenpark Rhenen ), Anna Melino (Rare Import Export Inc.), Marshall Myers (Pet Industry Joint Advisory Council), Deborah Olson (International Elephant Foundation), Steve Olson (Association of Zoos and Aquariums), Endre Papp (Sosto Zoo), Alex Ploeg (European Pet Organization), Diana Quiliquini (University of Parma), Robert Quest (City of London), Eric Raemdonck (International Air Transport Association), Adam Roberts (Born Free Foundation), Illona Roma (Riga Zoo), Claudia Schoene (Ecoterra International), DJ Schubert (Animal Welfare Institute), Roy Smith (Interzoo), Alice Stroud (Pan African Sanctuary Alliance), Teresa Telecky (Humane Society of the United States), Paul Todd (International Fund for Animal Welfare), Paul Vercammen (Breeding Centre For Endangered Arabian Wildlife Sharjah), Thomas Voracek (Zoo Vienna), Todd Willens (VC International), Kay Wissenbach (GK Airfreight) and Marceil Yeater (CITES Secretariat).  p 
+ p style="text-align: center"  a href="#top"  br 
+	 img border="0" height="22" src=" sites default files i top.gif" width="48"    a   p 

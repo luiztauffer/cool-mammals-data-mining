@@ -1,0 +1,63 @@
+ p Rabies affects multiple sectors, including human and animal (domestic and wild) health. Therefore, a number of different government agencies generally share the responsibility for rabies control. Although the specific agencies involved in rabies prevention and control activities and their responsibilities vary widely across countries, the following agencies should be involved (note that terminology will also vary across countries, e.g. in some countries ministries are referred to as departments):  p 
+ p  strong Ministry of Agriculture:  strong  br class="autobr" 
+Veterinary Services and the Zoonoses Department of National Governments (sometimes within the Ministry of Health) are generally the main agencies responsible for regulation of wildlife rabies control programmes, including ORV campaigns of foxes against rabies, complementary vaccination of domestic animals and surveillance operations. br class="autobr" 
+•	Veterinary Services or Zoonoses Departments may also take the lead in the investigation and operational aspects of containing and controlling a rabies outbreak in foxes. Detailed guidelines on outbreak management are provided in sections  a href="5-6-7-What-do-we-need-to-do-if-dog" class="spip_in" 5.6.7  a  and  a href="5-6-8-What-do-we-need-to-do-if-fox" class="spip_in" 5.6.8  a . br class="autobr" 
+•	National Rabies Laboratories, e.g. NRL and or regional laboratories are generally embedded within the Ministry of Agriculture and or Ministry of Health, depending on whether animal and human samples are processed in the same laboratory.  p 
+ p  strong Wildlife Services:  strong  br class="autobr" 
+•	In some countries, the mission of Wildlife Services (WS) is to provide leadership and expertise to resolve wildlife conflicts and allow people and wildlife to coexist. Depending on the country, WS are responsible for programme delivery, research and other activities and are dedicated to the development of wildlife damage management methods. br class="autobr" 
+•	WS may be subordinate to the Ministry of Natural Resources and Environment Tourism, the Ministry of Agriculture or the Department of the Interior. br class="autobr" 
+•	In the US and Canada, WS are responsible for conducting ORV programmes.  p 
+ p  strong Ministry of Health:  strong  br class="autobr" 
+•	The Ministry of Health is responsible for prevention of rabies in humans (prophylactic and post-exposure vaccinations).  br class="autobr" 
+•	The Ministry of Health also works together with Veterinary Services, Local Authorities and WS to investigate and control rabies outbreaks to protect human health (e.g. surveillance of the population at risk, reporting of cases and bite incidents, education of professionals, provision of advice and guidance on public health control measures, medical interventions and advice to the public). br class="autobr" 
+•	Specialised services within the Ministry of Health can play an important role in community sensitisation and raising awareness.  p 
+ p  strong Ministry of Natural Resources and Environment Tourism (or National Parks and Forestry):  strong  br class="autobr" 
+•	The Ministry of Natural Resources and Environment Tourism has jurisdiction over wildlife and wildlife rabies (surveillance and control) in some countries either for the whole country or selected areas. br class="autobr" 
+•	It may also enforce measures to support fox rabies control (e.g. hunting permits for obtaining animals as part of a surveillance programme). br class="autobr" 
+•	This Ministry usually has resources available, such as personnel (rangers, professional hunters) and equipment – (planes) that are required for fox rabies control programs.  p 
+ p  strong Ministry of Education:  strong  br class="autobr" 
+•	The Ministry of Education can play a critical role in the implementation of rabies awareness programmes (especially educational initiatives targeting children), and in disseminating information about rabies prevention and control to the general public.  p 
+ p  strong Ministry of Finance:  strong  br class="autobr" 
+•	The Ministry of Finance can provide assistance in the development of inter-ministerial financing mechanisms to support sustainable rabies control programmes.  p 
+ p  strong Ministry of Justice:  strong  br class="autobr" 
+•	The Ministry of Justice can provide legal assistance and advice on laws, by-laws and regulations relevant to the implementation and execution of fox rabies control strategies (e.g. distributing baits on private land, liability issues, human contact with ORV).  p 
+ p  strong Ministry of Foreign Affairs:  strong  br class="autobr" 
+•	The Ministry of Foreign Affair may assist to coordinate cross-border ORV activities with neighbouring countries  br class="autobr" 
+ strong Local Authority (County Council, District Council, Municipalities):  strong  br class="autobr" 
+•	Local government authorities usually have responsibility for implementing rabies prevention and control activities at the local level, with advice from higher level authorities (national or state provincial) and in collaboration with private sector veterinarians and non-governmental organisations. br class="autobr" 
+•	In many countries local government authorities are responsible for the development and enforcement of legislation relating to wildlife management (e.g. hunting).  p 
+ p  strong Regulatory authorities for biologicals (sometimes biologicals for human and animal purposes are handled by the same authorities):  strong  br class="autobr" 
+•	National regulatory authorities are concerned with the assessment, licensing, control and surveillance of biological veterinary and or medicinal products, e.g. inactivated rabies virus vaccines for human and veterinary use, rabies immunoglobulins, oral rabies virus vaccines. br class="autobr" 
+•	Selected examples of guidance documentation for regulatory authorities can be found  a href="Guidance-documentation-for" class="spip_in" here  a .  p 
+ p  strong National Aeronautical Authorities or National Federal Aviation Offices:  strong  br class="autobr" 
+•	These authorities are concerned with all aspects of flight safety long before the flight begins. Their terms of reference include the licensing, checking and supervision of commercial flight services and aerospace companies which are involved in aerial distribution of vaccine baits during ORV campaigns. They also grant permission and special authorisation to air traffic.  p 
+ p  strong National Reference Laboratories for Rabies (NRL):  strong  br class="autobr" 
+•	The NRLs play an important role in rabies control from a diagnostic point of view. They are considered to be the leading institutions for standardisation and harmonisation of rabies diagnostic techniques for both rabies surveillance and monitoring of ORV campaigns at a national level. br class="autobr" 
+•	Terms of reference of NRLs may differ from country to country, but in general they should be laid down in national legislation or other ministerial decisions, and may include the following: br class="autobr" 
+1.	To standardise rabies diagnostic techniques and reagents, and distribute standard reagents to regional veterinary laboratories if any.  br class="autobr" 
+2.	To confirm rabies diagnosis and establish a  national rabies virus archive for surveillance. br class="autobr" 
+3.	To collect and analyse rabies surveillance data (see section  a href="2-2-What-are-critical" class="spip_in" 2.2  a ) and to distribute the information to responsible ministries and other collaborating institutes. br class="autobr" 
+4.	To conduct and coordinate research on rabies using the recommendations of WHO OIE expert committees, scientific groups and other consultative meetings. br class="autobr" 
+5.	To provide support and expertise for rabies surveillance and control measures. br class="autobr" 
+6.	To provide training in the fields of epidemiology and laboratory diagnostics. br class="autobr" 
+7.	To participate in proficiency and inter-laboratory comparison tests. br class="autobr" 
+8.	To undertake consultative work for ministries and other laboratories on request.  p 
+ p Read  a href="The-work-of-National-Laboratories" class="spip_in" more  a  about the work of some of these NRLs (e.g. CDC, AHVLA, FLI, ANSES).  p 
+ p  strong Academic Institutions:  strong  br class="autobr" 
+•	Academic and research institutions (e.g. faculties of Veterinary Medicine and Medicine) often have the infrastructure and expertise to conduct operational research and disseminate findings, provide technical advice on design and implementation of rabies control strategies and provide training to human and animal health professionals. Scientific publications or reports generated by such institutions can be used to validate rabies control activities.  p 
+ p  strong Non-governmental organisations:  strong  br class="autobr" 
+•	Local, national and international non-governmental organisations can play a critical role in helping obtain resources, raising public awareness, educating the public, and designing and implementing fox rabies control programmes. NGOs may also be involved in land management and wildlife conservation activities. Read  a href="Some-NGOs-involved-in-rabies" class="spip_in" more  a  about the work of some of these organisations.  p 
+ p  strong Private sector:  strong  br class="autobr" 
+•	Private veterinarians and medical practitioners have key responsibilities for providing advice to the public (e.g. bite victims or people who have come into contact with vaccine bait).  p 
+ p  strong Hunting and trapping organisations:  strong  br class="autobr" 
+•	Hunters and trappers can play an important role in fox rabies control. They can provide an important source of animals required for enhanced rabies surveillance and monitoring of ORV campaigns and, depending on the organisation, may also be actively involved in rabies control programmes (e.g. hand distribution of baits). They are indispensable for red fox population control, which acts as an additional measure for fox rabies control.  p 
+ p  strong Media:  strong  br class="autobr" 
+•	Properly briefed, the media can prove a valuable source of information to the public (e.g. in the case of an outbreak, to increase general awareness or to inform about forthcoming vaccination campaigns). All information disseminated should first be approved by the Veterinary and Public Health Services to ensure correctness and consistency.  p 
+ p  strong Inter-ministerial committee or Task Force:  strong  br class="autobr" 
+•	The establishment of a coordinating body (either an inter-ministerial committee or a Task Force) to facilitate coordination and cooperation between separate ministries with shared responsibilities for rabies control should be considered. The inter-ministerial Task Force should be responsible for orchestrating implementation of the different components in a national rabies prevention and control programme. br class="autobr" 
+•	In exceptional circumstances (e.g. introduction of disease into rabies-free areas), expert commissions can be established, which include representatives from different ministries (e.g. Ministries of Agriculture and Health). br class="autobr" 
+•	In general, inter-ministerial collaborations are essential for successful implementation of many aspects of a national rabies control programme, particularly when implementing large scale ORV programmes.  p 
+ p  strong International bodies and entities:  strong  br class="autobr" 
+•	The  a href="http:  www.who.int" class="spip_out" rel="external" WHO  a ,  a href="http:  www.oie.int eng en_index.htm" class="spip_out" rel="external" OIE  a  and the  a href="http:  europa.eu index_en.htm" class="spip_out" rel="external" EU  a  provide guidelines for the provision and supply of appropriate biologicals. They can also help support national and regional planning of rabies control programmes. br class="autobr" 
+•	These organisations and entities support the control of wildlife rabies through conferences, supra-regional meetings, workshops, etc. br class="autobr" 
+•	These organisations’ associated  a href="Rabies-Collaborating-Centres-and" class="spip_in" collaborating centres and reference laboratories  a  can also provide independent oversight of projects.  p 

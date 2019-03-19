@@ -1,0 +1,22 @@
+ p Posted January 25, 2019 at 1:30 PM ET  p 
+ p  strong CDC and public health officials in several states are investigating a multistate outbreak of  em Salmonella  em  infections linked to contact with pet hedgehogs.  strong   p 
+ p CDC and public health officials in several states are investigating a multistate outbreak of  em Salmonella   em Typhimurium infections linked to contact with pet hedgehogs.  p 
+ p Public health investigators are using the  a href=" pulsenet index.html" PulseNet  a  system to identify illnesses that may be part of this outbreak. PulseNet is the national subtyping network of public health laboratories coordinated by CDC. DNA fingerprinting is performed on  em Salmonella  em  bacteria isolated from ill people by using techniques called  a href=" pulsenet pathogens pfge.html" pulsed-field gel electrophoresis  a  (PFGE) and  a href=" ncezid dfwed keyprograms tracking-foodborne-illness-wgs.html" whole genome sequencing  a  (WGS). CDC PulseNet manages a national database of these DNA fingerprints to identify possible outbreaks. WGS gives a more detailed DNA fingerprint than PFGE. WGS performed on  em Salmonella  em  from ill people in this outbreak showed that they are closely related genetically. This means that the ill people are more likely to share a common source of infection.  p 
+ p As of January 23, 2019, 11 people infected with the outbreak strain of  em Salmonella   em Typhimurium have been reported from eight states. A list of the states and the number of cases in each can be found on the  a href=" salmonella typhimurium-01-19 map.html" map of reported cases page  a .  p 
+ p Illnesses started on dates from  a href=" salmonella typhimurium-01-19 epi.html" October 22, 2018 to December 25, 2018  a . Ill people range in age from 2 to 28 years, with a median age of 12. Forty-five percent are female. Of 11 people, 1 (9%) has been hospitalized. No deaths have been reported.  p 
+ p In interviews, ill people answered questions about animal contact in the week before they became ill. Of 11 people interviewed, 10 (91%) reported contact with hedgehogs before becoming ill. Ill people reported buying hedgehogs from various sources, including pet stores, breeders, or online.  p 
+ p The outbreak strain of  em Salmonella   em Typhimurium was identified in samples collected from three hedgehogs in two ill patients’ homes in Minnesota. A common supplier of hedgehogs has not been identified. Regardless of where hedgehogs are purchased, these animals can carry  em Salmonella   em germs that can make people sick. Hedgehog owners should always follow  a href=" healthypets publications stay-healthy-around-small-pets.html" steps to stay healthy around their pet  a .  p 
+ p This investigation is ongoing, and CDC will provide updates when more information becomes available. br 
+ !--
+
+
+
+
+ h5 class="text-right"  a href=" salmonella newport-10-18 updates.html" Previous Updates &gt;&gt;  a   h5 
+
+
+
+
+--   p 
+ p To receive email updates about this page, enter your email address:  p 
+ p  a href="https:  tools.cdc.gov medialibrary index.aspx# feed id 342774" Sign up for RSS Feed  a   p 

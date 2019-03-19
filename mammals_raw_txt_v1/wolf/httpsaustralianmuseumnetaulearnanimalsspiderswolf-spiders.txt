@@ -1,0 +1,44 @@
+ p class="nav-section-description__text" 
+                                                                        In this section, find out everything you need to know about visiting the Museum, how to get here and the extraordinary exhibitions on display. Check out the 'What's on' calendar of events, workshops, free tours and education programs.
+                                                                      p 
+ p class="nav-section-description__text" 
+                                                                        In this section, there's a wealth of information about our collections of scientific specimens and cultural objects. Come and explore what our researchers, curators and education programs have to offer!
+                                                                      p 
+ p class="nav-section-description__text" 
+                                                                        In this section, explore all the different ways you can be a part of the Museum's groundbreaking research, as well as come face-to-face with our dedicated staff. Join us, volunteer and be a part of our journey of discovery!
+                                                                      p 
+ p Wolf Spiders are found throughout Australia. They are robust, agile hunters that live on the ground in leaf litter or burrows. They are often found in lawns and gardens.  p 
+ p There are many species of Wolf Spider, ranging in size. Their body colours are typically drab, with most having variegated patterns in brown and yellow, grey, black and white; some inland species are a bright salmon pink below. Often the patterns include radiating lines on the carapace (front of the body) and scroll-like patterns on the abdomen. The spider's underside is light grey, cream or black, sometimes salmon pink, often with black or white markings superimposed. The sides of their jaws may have a small raised orange spot or 'boss'. Wolf spiders have eight eyes in three rows (4,2,2), with the four smaller eyes in front and the four largest arranged in a square on top of the high and convex head. Two of the commonest Australian species are  i Lycosa godeffroyi  i  and  i L. leuckartii  i , with a wide range in the temperate parts of the continent.  p 
+ p Wolf Spiders are found in habitats ranging from dry inland shrublands and woodlands to wet coastal forests and alpine meadows. Some species, such as  i Lycosa furcillata   i and  i L. godefffroyi  i  are common in suburban gardens.  p 
+ p Many Wolf Spiders have wide distributions, especially across inland regions. This distribution is aided by their ability to disperse aerially as spiderlings or small juveniles over large distances. Many also have very specific microhabitat preferences such as stream-side gravel beds, montane herb-fields or coastal sand-dunes.  p 
+ p According to the Queensland Museum, two Wolf spider species are known to be predators of cane toads. Lycosa lapidosa will take small toads and frogs while L. obscuroides has been noted biting and killing a large toad within one hour.  p 
+ p Most Wolf Spiders are wanderers but some build burrows, either open or with a trapdoor, while others may make temporary retreats in vegetation. Arid zone species build turrets to deflect floodwaters during rainy periods, while others use pebbles to plug their burrows. In woodlands, twigs may be used to form a palisade around the top of the burrow. Burrows of the Grey Wolf Spider ( i Lycosa simsoni  i ) have a circular trap door that is often left open when the spider is out hunting.The shape and materials used to form burrows and trapdoors may help to distinguish similar-looking species.  p 
+ p The female constructs an egg sac of white papery silk, shaped like a ball with an obvious circular seam, which she then carries around attached with strong silk to her spinnerets. When the spiderlings hatch, they are carried around on the female's back until they are ready to disperse by ballooning or on the ground. Such a high degree of parental care is relatively unusual among spiders.  p 
+ p Wolf Spiders live for up to two years.  p 
+ p Mating takes place outside the female's burrow at night. Some adult male Wolf Spiders of smaller-sized species are known to disperse by air in order to find mates. The male is attracted by scent markings left by the female, often associated with her drag-line silk. Males perform a courtship ritual prior to mating, often involving complex leg and palp signalling to the female.  p 
+ p Symptoms of a Wolf spider bite are usually minor, restricted to local pain or itchiness. Less commonly, symptoms can include swelling, prolonged pain, dizziness, rapid pulse and nausea.  p 
+ p Seek medical attention if symptoms persist.  p 
+ p class="content-card__teaser" Find out how hair helps spiders sense their world, get a grip and protect themselves.  p 
+ p class="content-card__teaser" Several groups of spiders have evolved an effective strategy against being eaten by day-active predators like birds and wasps - they have bodies that look like unappetising bird droppings.  p 
+ p class="content-card__teaser" Spiders and their relatives are called arachnids. Scientist have grouped them together into a class called Arachnida. Arachnology is the study of this group of animals  p 
+ p class="content-card__teaser" Wolf spiders are robust, agile, fast-moving ground hunters that chase down or ambush prey.  p 
+ p class="content-card__teaser" As an artist, John Gould's skills were limited.  p 
+ p class="content-card__teaser" See 95 of the world's best wildlife images in the 2009 Wildlife Photographer of the Year exhibition - on now for a limited time only.
+   p 
+ p class="content-card__teaser" There are eight species of mouse spiders in Australia and they are widely distributed across the mainland.  p 
+ p class="content-card__teaser" Dorab Wolf Herring, Chirocentrus dorab (Forsskal, 1775)  p 
+ p class="content-card__teaser" Gould in his later years was reputed to say that 'there was only one man in the world who could do justice to a splendid creature such as a pheasant, and that was Mr Wolf.'
+(Lambourne, M (1987), John Gould: Bird Man. Osberton Productions, Milton Keynes, p. 105.)  p 
+ p class="content-card__teaser" What is a thylacine? Why did it become extinct?  p 
+ p class="content-card__teaser" Funnel-web spiders, the most notorious members of our spider fauna, are found in eastern Australia.  p 
+ p class="content-card__teaser" Some spiders have life spans of less than a year, while others may live for up to twenty years. However, spiders face many dangers that reduce their chances of reaching a ripe old age.  p 
+ p class="acknowledgement__text" 
+                            The Australian Museum respects and acknowledges the Gadigal people of the Eora Nation as the First Peoples and Traditional Custodians of the land and waterways on which the Museum stands. br 
+                            — br 
+                            We acknowledge Elders past, present and emerging. br 
+                             small class="acknowledgement__disclaimer" This website may contain names, images and voices of deceased Aboriginal and Torres Strait Islander peoples.  small 
+                          p 
+ p class="footer__text" Receive the latest news on events, exhibitions, science research and special offers.  p 
+ p class="footer__text" 
+                                    Login to purchase tickets and manage your museum membership.
+                                  p 

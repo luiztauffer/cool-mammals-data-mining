@@ -1,0 +1,14 @@
+ p class="inline-tag" data-reactid="96"  i lang="la" data-reactid="97" Hydrochoerus hydrochaeris  i   p 
+ p They may not look it, but capybara are excellent swimmers. Their eyes and ears sit high on their head so they can still see and hear what's going on while swimming.  p 
+ p Capybara live near wetlands, rivers and lakes. Being able to swim provides a useful escape from predators like Jaguar, anaconda and birds of prey. They can stay submerged in water for up to 5 minutes.  p 
+ p Capybara means "master of the grasses" - most of their diet is grass.  p 
+ p Our capybara live with our squirrel monkeys in The Rainforest.  p 
+ p  strong Encounter Details  strong   p 
+ p Monday : 12:00pm  p 
+ p Thursday : 12:00pm  p 
+ p data-reactid="155" Watch our capybara pups explore their rainforest enclosure for the first time.  p 
+ p Sharing their home in the Zoo’s Rainforest, our unique Squirrel Monkey and Capybara experience will be one you treasure for years to come.   p 
+ p  a href=" experiences squirrel-monkey-capybara-experience" Find out more &gt;  a   p 
+ p class="description" itemprop="openingHours" title="9:30am to 5:30pm every day except Christmas" data-reactid="175"  span class="heading-2" data-reactid="176"  time datetime="09:30" data-reactid="177" 9:30am  time  !-- react-text: 178 --   !--  react-text --  !-- react-text: 179 -- - !--  react-text --  !-- react-text: 180 --   !--  react-text --  time datetime="17:30" data-reactid="181" 5:30pm  time   span  br data-reactid="182"  span data-reactid="183"  !-- react-text: 184 -- (Last entry at  !--  react-text --  !-- react-text: 185 -- 4:15pm !--  react-text --  !-- react-text: 186 -- ) !--  react-text --   span  br data-reactid="187"  span data-reactid="188" Open every day except Christmas  span   p 
+ p class="subtitle || heading-3" data-reactid="214" Sign up to our newsletter  p 
+ p data-reactid="257"  small class="fine-text" data-reactid="258" ©2018 Auckland Zoo  small  small class="fine-text" data-reactid="259"  a class="link" href=" terms-and-privacy-policy" data-reactid="260" Terms and Privacy Policy  a   small   p 

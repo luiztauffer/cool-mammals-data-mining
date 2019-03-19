@@ -1,0 +1,17 @@
+ p class="title signup auto-quick-login" data-button-id="fluffy-popover-signup-button" 
+            Design and share beautiful newsletters just like this one!
+          p 
+ p class="subtitle signup auto-quick-login" data-button-id="fluffy-popover-signup-button" 
+            Spread the word with an online newsletter.
+            They're easy to make and impossible to mess up :)
+          p 
+ p 
+                my best friend is eva, evatchka makes nice pancakes. i respect eva because of her pancakes.
+          p 
+ p Get email updates from
+                 a href="https:  www.smore.com u yaradarkina" data-track-text="Profile Link" Yara  a :  p 
+ p 
+                    my best friend is eva, evatchka makes nice pancakes. i respect eva because of her pancakes.
+              p 
+ p The days of posting a newsletter around the neighborhood are over.  br 
+                    Smore helps you create amazing pages that you’d be proud to share.  p 

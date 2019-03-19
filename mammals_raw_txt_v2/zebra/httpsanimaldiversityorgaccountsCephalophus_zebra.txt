@@ -1,0 +1,65 @@
+ p audience="intermediate advanced"  span rank="Species" class="taxon-link rank-species" Cephalophus zebra  span  is found in primary forest areas in the mid-western part of Africa; It inhabits the regions of Sierra Leone and the Ivory Coast, but is most commonly distributed in the eastern central country of Liberia (Kingdon, 1997).  p 
+ p audience="intermediate advanced" The zebra duiker is found in primary forests from low-lying areas such as river valleys to hill-forest habitats (Kingdon, 1997).  p 
+ p audience="advanced intermediate"  span rank="Species" class="taxon-link rank-species" Cephalophus zebra  span , also known by the common name zebra duiker, has black vertical stripes over a cream colored area which is located dorsally on the mid-torso.  The ventral surface is a solid cream color.  The head, neck, rump, and limbs are red-brown with some patches of black found near the joints of the limbs (Kingdon, 1997).  p 
+ p audience="advanced intermediate" Zebra duikers have a short, yet muscular stature, standing approximately 40-50 cm tall and weighing up to 20 kg (Kingdon, 1997).  The limbs are short in relation to the body.   span rank="Species" class="taxon-link rank-species" Cephalophus zebra  span  also has a pair of short and rounded horns, these horns taper sharply and point posteriorly (Kingdon, 1997).  Sexual dimorphism occurs in this species with females being consistantly larger than male duikers (Wilson et. al., 1984).  span class="citations"  ( a href="#d5e4b6c002e9247bfe0d270eec75c5e9" class="citation" Kingdon, 1997  a ;  a href="#dca6705a4ddae7612693a4ac4a3f316e" class="citation" Wilson, et al., 1984  a )  span   p 
+ p audience="intermediate advanced" Breeding in zebra duikers occurs about once a year with a gestation period of about 221 to 229 days.  Females can mate again approximately ten days after giving birth (Schweers, 1984).  The rather long gestation period is possibly an explanation for the larger size of females (Wilson et. al., 1984).  p 
+ p audience="intermediate advanced" Scented secretions are found in several glands on the body.  These secretions seem to aid in sexual communication.  Male duikers secrete a more concentrated scent than that of the female (Burger et.al., 1990).  The glands occur in the preorbital region, below the calcaneum on the hind legs, and in the groin (Kingdon, 1997).  p 
+ p audience="intermediate advanced" It is thought that monogamous pair bonds are maintained (Kingdon, 1997).  p 
+ p audience="intermediate advanced" Zebra duikers are solitary animals except when paired with a mate or when raising an infant.  Mating pairs often engage in mutual rubbing or licking of preorbital glands (Vaughan et. al., 2000).  Mating pairs are also defend their territory.  Both sexes have horns and will use them to attack invading duikers.  p 
+ p audience="intermediate advanced" The stripes on the back of  span rank="Species" class="taxon-link rank-species" Cephalophus zebra  span  are a visual defense mechanism.  A predator's attention is focused on the animal's movement, rather than their body outlines (Kingdon, 1997).  p 
+ p audience="intermediate advanced" Infant care in zebra duikers is extremely important for both females and males, especially because of the long gestation period.  In addition, zebra duikers mature slowly "suggesting that prolonged learning may be necessary for successful exploitation of a difficult environment," (Kingdon, 1997).  p 
+ p audience="intermediate advanced" Zebra duikers are fruit and foliage browsers.  Their diet includes leaves, shoots, and seasonal fruits (Owen-Smith, 1997).  Due to the duiker's short stature, they are not able to forage on fruits and leaves that exist in tall trees.  Much of the food they consume is provided by climbing or flying animals such as monkeys, bats, or birds which will accidentally dislodge fruit or leaves to the forest floor during their normal foraging activities.  Duikers will then feed upon this dropped vegetation (Kingdon, 1997).  p 
+ p audience="intermediate advanced"  span rank="Species" class="taxon-link rank-species" Cephalophus zebra  span  have a thickening of the frontal bone in the skull which seems to serve as a tool for cracking open hard-shelled fruits (Kingdon, 1997).  This enables them to access a food source which is not available to many other forest inhabitants which cannot open these fruits.  p 
+ p audience="intermediate advanced" Humans rarely encounter zebra duikers in the wild but they are sometimes hunted for their meat (Kingdon, 1997).  p 
+ p audience="intermediate advanced" Zebra duikers are limited to primary forest areas which are currently becoming restricted due to logging and development.   span rank="Species" class="taxon-link rank-species" Cephalophus zebra  span  is considered threatened due to forest destruction.  In areas such as Sierra Leone and the Ivory Coast populations are considered close to extinction (Kingdon, 1997).  p 
+ p audience="intermediate advanced" Zebra duikers as well as other members of  em Cephalophus  em  are believed to resemble ancestral bovids (Vaughan et. al., 2000).  p 
+ p Michelle Mijal (author), University of Michigan-Ann Arbor, Phil Myers (editor), Museum of Zoology, University of Michigan-Ann Arbor.   p 
+ p living in sub-Saharan Africa (south of 30 degrees north) and Madagascar.  p 
+ p align="center" 
+                           img alt="World Map" src=" images worldmap.2001.jpg" 
+                          p 
+ p having body symmetry such that the animal can be divided in one plane into two mirror-image halves.  Animals with bilateral symmetry have dorsal and ventral sides, as well as anterior and posterior ends.  Synapomorphy of the Bilateria.  p 
+ p uses smells or other chemicals to communicate  p 
+ p animals that use metabolically generated heat to regulate body temperature independently of ambient temperature.  Endothermy is a synapomorphy of the Mammalia, although it may have arisen in a (now extinct) synapsid ancestor; the fossil record does not distinguish these possibilities.  Convergent in birds.  p 
+ p A substance that provides both nutrients and energy to a living thing.  p 
+ p forest biomes are dominated by trees, otherwise forest biomes can vary widely in amount of precipitation and seasonality.  p 
+ p having the capacity to move from one place to another.  p 
+ p the area in which the animal is naturally found, the region in which it is endemic.  p 
+ p reproduction that includes combining the genetic contribution of two individuals, a male and a female  p 
+ p lives alone  p 
+ p uses touch to communicate  p 
+ p The term is used in the 1994 IUCN Red List of Threatened Animals to refer collectively to species categorized as Endangered (E), Vulnerable (V), Rare (R), Indeterminate (I), or Insufficiently Known (K) and in the 1996 IUCN Red List of Threatened Animals to refer collectively to species categorized as Critically Endangered (CR), Endangered (EN), or Vulnerable (VU).  p 
+ p id="5b9506d74655eef315645c914a9e63c2" Burger, B., P. Pretorius, H. Spies, R. Bigalke, G. Grierson. 1990. Mammalian Pheromones VIII.  Chemical Characterization of Preorbital Gland.  span style="font-style: italic" Journal of Chemical Ecology  span , 16: 397-416.   p 
+ p id="d5e4b6c002e9247bfe0d270eec75c5e9" Kingdon, J. 1997.  span style="font-style: italic" The Kingdon Field Guide to African Mammals  span . London: Academic Press.   p 
+ p id="bfb42c08f838869a43b04d2a116d7830" Owen-Smith, N. 1997. Distinctive Features of the Nutritional Ecology of Browsing Versus Grazing Ruminants.  span style="font-style: italic" Zeitschrift fuer Saeugetierkunde  span , 62: 176-191.   p 
+ p id="d7902fa6086df9dfb49cf21bcc236e3e" Schweers, V. 1984. On the Reproductive Biology of the Banded Duiker Cephalophus Zebra in Comparison with Other Species of Cephalophus.  span style="font-style: italic" International Journal of Mammalian Biology  span , 49: 21.   p 
+ p id="d0ed229c1394a44ae5ffe2de2983a9e2" Vaughan, T., J. Ryan, N. Czaplewski. 2000.  span style="font-style: italic" Mammology  span . Orlando, FL: Saunders College Publishing.   p 
+ p id="dca6705a4ddae7612693a4ac4a3f316e" Wilson, V., J. Schmidt, J. Hanks. 1984. Age Determination and Body Growth of the Common Duiker Sylvicapra- Grimmia Mammalia.  span style="font-style: italic" Journal of Zoology  span , 202: 283-298.   p 
+ p The Animal Diversity Web team is excited to announce ADW Pocket Guides!  p 
+ p 
+                   a href=" news 5009059054038197651 " Read more...  a 
+                  p 
+ p 
+        Help us improve the site by  strong  a href="https:  umichlsa.qualtrics.com SE ?SID=SV_8jhna9bCiMYhZKR" target="_blank" taking our survey  a   strong .
+        p 
+ p style="max-height: 35px" 
+                     label for="feature-list" class="offscreen" Search in feature  label 
+                     select size="1" name="feature" class="feature-list input-medium" id="feature-list" 
+                       option value="INFORMATION" Taxon Information  option 
+                       option value="COLLECTIONS" Contributor Galleries  option 
+                       option value="TOPICS" Topics  option 
+                       option value="CLASSIFICATION" Classification  option 
+                      select 
+                    p 
+ p class="content" To cite this page:
+        Mijal, M. 2000. "Cephalophus zebra" (On-line), Animal Diversity Web. Accessed March 19, 2019 at https:  animaldiversity.org accounts Cephalophus_zebra   p 
+ p class="content"  strong Disclaimer:  strong 
+        The Animal Diversity Web is an educational resource  strong written largely by and for college students  strong . ADW doesn't cover all species in the world, nor does it include all the latest scientific information about organisms we describe. Though we edit our accounts for accuracy, we cannot guarantee all information in those accounts.  While ADW staff and contributors provide references to books and websites that we believe are reputable, we cannot necessarily endorse the contents of references beyond our control.
+        p 
+ p This material is based upon work supported by the
+             a href="https:  nsf.gov" National Science Foundation  a 
+            Grants DRL 0089283, DRL 0628151, DUE 0633095, DRL 0918590, and DUE 1122742. Additional support has come from the Marisla Foundation, UM College of Literature, Science, and the Arts, Museum of Zoology, and Information and Technology Services.
+            p 
+ p 
+            The ADW Team gratefully acknowledges their support.
+            p 

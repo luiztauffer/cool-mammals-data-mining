@@ -1,0 +1,24 @@
+ p class="twite__title" aria-hidden="true" Share this with  p 
+ p class="twite__channel-text" aria-hidden="true" Email  p 
+ p class="twite__channel-text" aria-hidden="true" Facebook  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Twitter  p 
+ p class="twite__channel-text" aria-hidden="true" Pinterest  p 
+ p class="twite__channel-text" aria-hidden="true" WhatsApp  p 
+ p class="twite__channel-text" aria-hidden="true" LinkedIn  p 
+ p class="twite__copy-text" Copy this link  p 
+ p class="twite__new-window" aria-hidden="true" These are external links and will open in a new window  p 
+ p class="story-body__introduction" The state of New South Wales in Australia (NSW) is to spend A$45m ($34m; £25m) protecting one of its most iconic creatures - the koala.   p 
+ p The money will be used to establish forest reserves and build a hospital to care for the sick and injured animals.  p 
+ p There will also be adjustments to roadkill hotspots as many koalas are killed by cars.  p 
+ p The koala's decline has been blamed on habitat loss, dog attacks and climate change.  p 
+ p Almost 25,000 hectares (62,000 acres) of state forest will become a koala habitat, for the animals to breed freely.  p 
+ p  strong You may also be interested in:  strong   p 
+ p The koala population has dropped by about 26% over the past two decades in NSW, according to studies.  p 
+ p "We know that there are around 36,000 koalas left in the state, but we don't know that for sure," NSW Premier Gladys Berejiklian said.  p 
+ p "It would be such a shame if this nationally iconic marsupial did not have its future secured."  p 
+ p The Australian Koala Foundation estimates there may be as few as 43,000 koalas left in the wild, down from a population believed to have numbered more than 10 million prior to the European settlement of the continent in the 18th Century.  p 
+ p class="top-stories-promo-story__summary top-stories-promo-story__summary--none" The PM aims for a vote on her Brexit deal next week, after the Speaker rules it must be changed first.  p 
+ p class="heron__item-summary" Have you been getting these songs wrong?  p 
+ p class="heron__item-summary" What happens to your body in extreme heat?  p 

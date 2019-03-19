@@ -1,0 +1,66 @@
+ p class="role" 
+      Professor of Environmental and Natural Resources Law, University of Denver
+      p 
+ p class="role" 
+      Professor of International Law, University of Denver
+      p 
+ p  span Annecoos Wiersema is a member of the Accountability Panel of the Wildlife Justice Commission and a member of the IUCN's World Commission on Environmental Law.  span   p 
+ p  span Federico Cheever does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.  span   p 
+ p The Conversation UK receives funding from these organisations  p 
+ p  a href=" uk partners"  strong View the full list  strong   a   p 
+ p 
+       a class="license-logo" href="http:  creativecommons.org licenses by-nd 4.0 "  img src=" assets call-to-actions republish-ca547a7c5135cc6d1a28933dc8b6823c.png" alt="Republish"   a 
+      Republish our articles for free, online or in print, under Creative Commons licence.
+      p 
+ p On April 19 of this year,  a href="http:  www.ifaw.org united-states news us-endangered-species-act-protection-sought-giraffes" five major wildlife protection groups  a  petitioned the United States Fish and Wildlife Service to list the giraffe ( em Giraffa camelopardalis  em ) as an endangered species.  a href="http:  www.ifaw.org sites default files default Giraffe_ESA_Petition_final.pdf" As the petition asserted  a , “the giraffe has suffered a major reduction in population size across its range primarily due to habitat loss, commercial overutilization, and severe poaching, and such decline continues unabated.”  p 
+ p If the Fish and Wildlife Service agrees to list the giraffe, a set of legal tools will become available to protect this iconic species. But how would listing in the U.S. help this African mammal, whose population numbers in the wild have  a href="https:  giraffeconservation.org giraffe-species " dipped below 100,000  a ?   p 
+ p While extinction can be a natural process, the current rate of extinction is anything but. Scientists estimate that at least 99 out of 100 species extinctions in the world today are  a href="https:  doi.org 10.1126 sciadv.1400253" the result of human action  a . Although people rarely intend to drive species into oblivion, as with the giraffe, they do so through the destruction of habitat, poaching and legal hunting. As the petition notes, “[g]iraffes once occupied much of the savanna and savanna woodlands of Africa…. [It] has undergone a 36 to 40 percent population decline over the past 30 years.”  p 
+ p More than a century ago, scientists began to notice the disappearance of once prominent species around the world. The  a href="http:  www.audubon.org magazine may-june-2014 why-passenger-pigeon-went-extinct" American passenger pigeon  a , the  a href="http:  johnjames.audubon.org last-carolina-parakeet" Carolina parakeet  a  and the  a href="http:  johnjames.audubon.org extinction-great-auk" Great Auk  a  – once well-established in North America – disappeared. Other species like the American bison and many kinds of whales had once played central roles in important ecosystems but had been reduced to small remnant populations.  p 
+ p The existence of species is important to people for many reasons. Sometimes species provide  a href="https:  www.nwf.org %7E media PDFs Wildlife medicinalbenefits9-06.ashx" clues for the development of medicines  a . Often they play a fundamental role in  a href="http:  edis.ifas.ufl.edu pdffiles UW UW06400.pdf" maintaining the functioning of ecosystems  a  on which people depend. As Aldo Leopold – perhaps America’s most famous naturalist –  a href="https:  global.oup.com academic product round-river-9780195015638?cc=us&amp;lang=en&amp;#" noted  a ,   p 
+ p “If the biota, in the course of aeons, has built something we like but do not understand, then who but a fool would discard seemingly useless parts? To keep every cog and wheel is the first precaution of intelligent tinkering.”  p 
+ p What would you say to a child who saw a giraffe in a book and asked where giraffes lived? Would you be comfortable saying they’re all gone?  p 
+ p In 1964, the International Union for the Conservation of Nature (IUCN)  a href="http:  www.iucnredlist.org about introduction" began tracking the conservation status of species  a  on its “ a href="http:  www.iucnredlist.org" Red List  a .” Although the IUCN provides information only  about the status of species, this is the first step in helping to limit extinction because it allows conservation efforts to be directed where they’re most needed.  p 
+ p A few years later in the United States, the  a href="https:  www.fws.gov endangered laws-policies esa-history.html" federal government began keeping an official list  a  of species in danger of extinction – what we call endangered species – and species likely to become endangered within the foreseeable future – threatened species.  p 
+ p The  a href="https:  www.fws.gov endangered laws-policies esa.html" Endangered Species Act  a  (ESA), passed in 1973, goes further than just identifying imperiled species. Under its terms, listed species are protected from actions “authorized, funded or carried out” by the federal government that may jeopardize their continued existence or adversely affect their essential habitat. Species members are also protected from direct harm by any person. Commerce in species protected by the ESA is generally a crime.  p 
+ p The purpose of the ESA is the “conservation” of protected species. In practice, that means bringing the species back to the point where it no longer requires the protection of the ESA. The law’s goal is not to preserve tiny populations on the brink of extinction but to recover species populations that are resilient enough to survive the bad luck which is so often part of living on the planet.  p 
+ p Listing is the public, administrative process whereby a species can become entitled to protection under the Endangered Species Act. It centers around one question: Is this creature or plant in danger of extinction? At the listing stage, the federal government can consider only scientific evidence in making its decision. Anyone can initiate the listing process via petition.  p 
+ p Evidence suggests the ESA works. A recent report in the Endangered Species Bulletin noted that of the 78 species first listed under the federal precursor to the Endangered Species Act in 1967,  a href="https:  www.fws.gov endangered news episodes bu-Spring2017 coverstory index.html" only four have been officially declared extinct  a  after half a century. Many others, such as the California condor, the grizzly bear and  a href="https:  www.fws.gov endangered news episodes bu-Spring2017 story3 " the whooping crane  a , have seen remarkable  a href="https:  www.fws.gov Endangered map index.html" recovery progress  a . Some,  a href="https:  ecos.fws.gov ecp0 profile speciesProfile?spcode=B008" including the bald eagle  a , have even been removed from the list.  p 
+ p There are now  a href="https:  ecos.fws.gov ecp0 reports box-score-report" 1,382 species of animals listed under the Endangered Species Act  a  as threatened or endangered; 711 live largely within the borders of the United States. For these species, the federal Endangered Species Act can help preserve habitat, require “consultation” on projects that need federal approval and make most hunting illegal.  p 
+ p The giraffe, of course, is not native to the United States. How would ESA listing help it? The habitat destruction and overharvesting that threaten the giraffe aren’t happening within U.S. borders.  p 
+ p The answer lies in the role the United States plays in buying and selling giraffe parts. According to a U.S. Fish and Wildlife Service database,  a href="http:  www.ifaw.org sites default files default Giraffe_ESA_Petition_final.pdf#page=%5B8%5D" over the past decade Americans imported  a  more than 21,000 giraffe bone carvings, more than 3,000 skin pieces and 3,744 hunting trophies. If many people want giraffe parts, the demand can be too high for survival of the species. Heightened demand for giraffe products can encourage people to hunt illegally – for example, taking more giraffes than limits allow or hunting in places where it is not permitted.  p 
+ p An international treaty, the  a href="https:  cites.org " Convention on International Trade in Endangered Species of Wild Fauna and Flora  a  (1973), known by its acronym, CITES, also addresses this problem. Countries that are party to the treaty  a href="https:  cites.org sites default files eng disc CITES-Convention-EN.pdf" meet periodically to list species  a  that are threatened due to international trade. The treaty has two appendices for listing species: Appendix I results in an almost complete ban on commercial international trade; Appendix II requires all international trade in that species be monitored and subject to permits. The giraffe is not currently listed on  a href="https:  cites.org eng app appendices.php" either of the CITES appendices  a , but this does not prevent individual countries – such as the United States – from deciding to limit imports.  p 
+ p Around the world, markets for species parts are sometimes driven by traditional uses – things like carving ivory or using certain animal parts in traditional medicines. New uses fuel demand too; think of newly wealthy businessmen in Vietnam  a href="http:  awsassets.panda.org downloads trafficrhinoreportsummary.pdf" consuming rhino horn  a  mixed with water or alcohol to show how rich they are. Sometimes, the two can converge: An increase in  a href="https:  www.theguardian.com science blog 2016 mar 10 shark-fin-soup-a-dangerous-delicacy-for-humans-and-sharks-alike" consumption of shark fin soup  a  has been tied to a traditional celebration dish being served by more people as China’s middle class grew.  p 
+ p Listing on the ESA would require the federal government to limit imports of giraffe parts into the United States and would therefore help curtail global demand. The ESA cannot ensure habitat protection or require other countries to take affirmative conservation action to protect the giraffe. But listing in the U.S. would limit one important threat in which Americans do play a role.  p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events displaying-the-bayeux-tapestry-now-and-then-6837" 
+           span class="name" Displaying the Bayeux Tapestry, now and then  span 
+          —
+           span class="location" York, York  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events marconi-and-hoffmanns-the-legacy-of-the-frederick-roberts-archive-of-industrial-history-6982" 
+           span class="name" Marconi and Hoffmann's: the legacy of the Frederick Roberts archive of industrial history  span 
+          —
+           span class="location" Chelmsford, Essex  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events brexit-where-we-are-and-where-to-next-6965" 
+           span class="name" Brexit: Where we are and where to next  span 
+          —
+           span class="location" Portsmouth, Hampshire  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events advanced-pharmaceutical-3d-printing-6983" 
+           span class="name" Advanced Pharmaceutical 3D Printing  span 
+          —
+           span class="location" Chelmsford, Essex  span 
+  a         p 
+ p 
+         a rel="nofollow" target="_blank" href=" uk events james-kerr-lawson-an-artists-construction-of-rome-6558" 
+           span class="name" James Kerr Lawson: an artist's construction of Rome  span 
+          —
+           span class="location" Egham, Surrey  span 
+  a         p 
+ p class="copyright" 
+       span Copyright © 2010–2019  span  span class="comma" ,   span  span  a href=" uk who-we-are" The Conversation Trust (UK) Limited  a   span 
+      p 

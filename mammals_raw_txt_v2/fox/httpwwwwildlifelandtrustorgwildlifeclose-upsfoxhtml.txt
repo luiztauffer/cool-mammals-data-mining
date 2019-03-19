@@ -1,0 +1,49 @@
+ p 
+                 label for="top_resources_select" Resources For  label 
+                 select size="1" name="donate-menu" id="donate-menu" 
+                     option value="https:  secure.humanesociety.org site Donation2?df_id=1540&amp;1540.donation=form1&amp;s_src=webdn_topnavD1540" Become a Member  option 
+                     option value="http:  www.wildlifelandtrust.org how-you-can-help protect-your-land #" Create a Sanctuary  option 
+                     option value="http:  www.legacy.wildlifelandtrust.org" Create Your Legacy  option 
+                     option value="http:  www.wildlifelandtrust.org how-you-can-help volunteer " Volunteer  option 
+                     option value="http:  www.wildlifelandtrust.org wildlife " Learn About Wildlife  option 
+                     option value="http:  www.wildlifelandtrust.org wildlife living-with-wildlife " Living with Wildlife  option 
+                    option value="http:  www.wildlifelandtrust.org wildlife diy-activities " DIY for Kids  option 
+                  select 
+                 button type="submit" class="donate" onclick="document.location=document.getElementById('donate-menu').options[document.getElementById('donate-menu').selectedIndex].value;return false;" Go  button 
+              p 
+ p class="image"   img src="http:  www.wildlifelandtrust.org assets images 270x224slideshow fox fox-kits.jpg"   p 
+ p class="caption" The female fox can give birth to between 3 and 7 pups, although 4 is average.  p 
+ p class="image"   img src="http:  www.wildlifelandtrust.org assets images 270x224slideshow fox gray-fox-2.jpg"   p 
+ p class="caption" Gray foxes are not observed as frequently as red foxes due to their reclusive nature and more nocturnal habits. Gray foxes tend to be active from the late evening hours until dawn.   p 
+ p class="image"   img src="http:  www.wildlifelandtrust.org assets images 270x224slideshow fox gray-fox-1.jpg"   p 
+ p class="caption" The gray fox  can be identified by its coat color which is silver-gray on its back and face, reddish on its legs and chest and white on its throat, mid-belly, and the insides of it legs.   p 
+ p class="image"   img src="http:  www.wildlifelandtrust.org assets images 270x224slideshow fox gray-fox.jpg"   p 
+ p class="caption" Gray fox ranges from southern Canada into most of the United States and into Mexico, central America and parts of South America. 
+  p 
+ p class="image"   img src="http:  www.wildlifelandtrust.org assets images 270x224slideshow fox red-fox-in-tree.jpg"   p 
+ p class="caption" Using strong, hooked claws, the fox is the only member of the dog family who will climb trees, either to search for prey, sleep, or to escape from predators.   p 
+ p class="image"   img src="http:  www.wildlifelandtrust.org assets images 270x224slideshow fox red-fox-portrait.jpg"   p 
+ p class="caption" If living among humans, foxes will opportunistically dine on garbage and pet food.
+  p 
+ p Foxes are solitary, curious creatures found all around the world. Easily identified by their long bodies, short legs, and soft thick fur, they are seen in many colors including golden, reddish-brown, silver, or even black. Their iconic long bushy tails are very useful for balance, warmth, and signaling communication.  p 
+ p Foxes are the smallest wild members of the canine family, which includes companion dogs, coyotes and wolves. They build small burrows or dens in grasslands to protect themselves from predators such as wolves. Loss of habitat is a threat to foxes, as it is to all wildlife. As more people find uses for land that traditionally was home only to wildlife, foxes are labeled a nuisance and may be hunted or trapped for that reason. Almost all species of foxes are hunted for sport and trapped for their fur. One of the cruelest threats to foxes is  a href="http:  www.humanesociety.org issues fox_penning " target="_blank" fox penning  a .  p 
+ p Some foxes create families but more often they travel solo and do not form packs as wolves do. Their offspring, called kits, will stay with the parents only until they can forage alone.  p 
+ p A fox’s diet consists of small rodents, fruit, berries, grass, and insects. The gray fox will also eat a variety of vegetables. All foxes use a lot of patience and an exceptional sense of smell to catch their prey with a pounce. Then the prey is carried back to the burrow before it is eaten.  p 
+ p They have learned to adapt to the urban environment when it encroaches on their natural environments. In urban areas, they have learned to become active when humans are not, use innovative sources as dens, and supplement their diet with whatever is available. Unless rabid, foxes do not pose a threat to humans because they will most likely choose to run away rather than bite.  p 
+ p  strong The Gray Fox  strong   p 
+ p While the gray fox has some rusty-red fur on its ears, ruffs and neck, the overall coloration is gray, and the darkest color extends in a suggested stripe along the top of the back down to the end of the tail. The belly, throat, and chest areas are whitish in color. The claws on a gray fox are strong, and they are not retractable.  p 
+ p This fox prefers brushy or forested habitats and can be found throughout the United States. They are very territorial with small home ranges of one square mile or even less. The fox will spend years or even its entire life in this small range. Gray fox seldom are seen because they are normally active only during the night and hide well in the brushy habitat they prefer.  p 
+ p The gray fox is unique in that it is a skilled tree climber. They can climb trees that are straight up; they do not require leaning trees to climb. Not only will they climb trees to escape predators but they also climb to take a nap in a sunny location, and they have been known to hide or sleep in hawk and owl nests. Rarely, gray fox will also raise their litter twenty or more feet above ground in a hollow tree. Gray fox climb trees head first, and they have the ability to descend a tree either tail first or head first.  p 
+ p  strong The Red Fox  strong   p 
+ p The Red Fox, named for its reddish-brown fur, is one of the most common species of foxes. Because they adapt to a variety of habitats, currently this animal is not on the endangered species list and can be found throughout North America and Asia.  p 
+ p This fox can be found in grasslands, mountainous areas, deserts, thick forests, and sometimes they are seen in urban areas. They usually look for food in the nighttime or early morning hours, which helps them avoid contact with people.  p 
+ p  strong Northern Swift Fox  strong   p 
+ p Unlike its other fox relatives, the Northern Swift Fox faces endangerment and is already locally extinct in some areas of the United States and Canada. Habitat destruction and intensive hunting and trapping are the most common causes.  p 
+ p The swift fox is the smallest of the fox species, about the size of a house cat, with tan or light orange fur. The Northern Swift Fox earned its name by running up to 40 miles per hour. Just like other fox species, it feeds on small rodents. As predator populations, like the coyote, grow and people take over habitat, this small fox needs our protection.  p 
+ p Receive our monthly br e-newsletter.  p 
+ p 
+                 input id="cons_email" class="required" onfocus="this.value=''" title="Email required" value="Enter Email" maxlength="255" name="cons_email" 
+                 input id="cons_zip_code" class="required" onfocus="this.value=''" title="Zip required" value="Enter Zip" maxlength="40" name="cons_zip_code" 
+                 button type="submit" id="ACTION_SUBMIT_SURVEY_RESPONSE" name="ACTION_SUBMIT_SURVEY_RESPONSE" Submit  button 
+              p 
+ p Coyotes will eat almost anything. They hunt rabbits, rodents, fish, frogs, and even deer. They also happily dine on insects, snakes, fruit, grass, and carrion.  p 

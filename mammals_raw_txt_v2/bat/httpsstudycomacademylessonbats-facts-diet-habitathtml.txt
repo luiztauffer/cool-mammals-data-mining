@@ -1,0 +1,69 @@
+ p Wendy has taught high school Biology and has a master's degree in education.  p 
+ p class="nowrap" style="font-style: italic" Want to watch this again later?  p 
+ p  span class="nowrap" Log in or sign up to add this  span   span class="nowrap" lesson to a Custom Course.  span   p 
+ p class="nowrap"  a href=" academy login.html" data-cname="cust_courses_lesson_cta_login" test-id="cust_courses_lesson_cta_login" Login  a   span style="padding: 0 1em; font-size: smaller" or  span   a data-toggle="modal" href="#partialRegFormModal" data-cname="cust_courses_lesson_cta_register" test-id="cust_courses_lesson_cta_register" class="open-reg-form" Sign up  a   p 
+ p Of all the creatures flying through our skies, there is perhaps none quite as unique as the  b bat  b . You may have seen their dark forms emerging at dusk, flapping quickly as they hunt. The subject of many spooky myths and superstitions, these nocturnal animals are not really dangerous. In fact, they are much more helpful in our world than harmful. Join us as we explore the world of bats and dispel many myths surrounding them.   p 
+ p When a dark object goes flying by at sunset, it might be hard to tell if it is a bat or a bird. However, if you could take a closer look, you would immediately see that a bat is covered in fur. A bat is a winged mammal, giving birth to live young and nursing them. In fact, the bat holds the distinction of being the only mammal that can truly fly.   p 
+ p How, exactly, does a bat take to the skies? Let's take a closer look at its wing, which is quite different than that of a bird. A bat's wing is made up of a very delicate and thin membrane. This membrane is stretched between all of its fingers, like a hand with thin webbing. This makes the wing light and easily maneuvered.   p 
+ p Another quite unique aspect of the bat pertains to its sleeping habits. As you may know, the bat not only sleeps during the day but does so hanging upside down. It grips tightly to a branch or cave ceiling, wraps its wings around its body like a cloak, and off to sleep it goes.   p 
+ p Bats belong to the order  b Chiroptera  b , which literally means ''hand wing.'' It includes over 1000 different species, making it a vastly abundant group. Chiroptera is divided into two main groups, based mostly on size and dietary habits. They include Megachiroptera and Microchiroptera.   p 
+ p  b Megachiroptera  b  includes the larger bats, as you may have guessed from the name. In the ''megabat'' category we find the flying foxes, among others. Flying foxes are named as such due to their furry foxlike face. They are truly the giants of the bat world, with wingspans of over five feet.   p 
+ p  b Microchiroptera  b  includes the smaller bats, which are those commonly seen hunting insects at night. The tiniest of the ''microbats'' is the bumblebee bat, which could fit on the tip of your finger.   p 
+ p Bats have quite a variety of eating habits, depending on the type. The megabats feast mostly on fruits and flower nectar. They live in tropical areas where these types of foods are abundant. Interestingly, the fruit eaters also disperse seeds, making them quite the agricultural helpers. Not only that, but they are also essential pollinators as they fly from plant to plant.   p 
+ p Microbats are those that prey on insects. These are the only bats that inhabit the U.S. They dart quickly through the skies, often eating their weight in mosquitoes and other creepy crawlies.   p 
+ p class="actionMessage" Get access risk-free for 30 days,
+			 br just create an account.  p 
+ p  em No obligation, cancel anytime.  em   p 
+ p  em Select a subject to preview related courses:  em   p 
+ p Microbats are vastly important in keeping down the insect populations. Since they hunt at night, they don't rely on their eyesight. Instead, they use echolocation, which is like a type of sonar that uses sound waves to find their flying food.   p 
+ p Speaking of eyesight, it is a myth that bats are blind. In fact, megabats must use their eyesight as well as their superb sense of smell to locate fruits and flowers. Even microbats can see, but their methods of echolocation are more effective.   p 
+ p There are also several species of bat that are carnivorous, eating other animals. They prey on frogs, lizards and birds. Some even have excellent fishing skills and prefer fish as their main meal. As for vampire bats, they only drink small amounts of blood, typically from a cow.   p 
+ p Essentially, bats are found everywhere in the world except extreme places like polar regions and some deserts. They roost in caves, trees, under bridges, and other man-made structures. Many live together in massive colonies. They come out at night in huge swarms, most likely invoking fear of those around them! Some bats hibernate during the winter, while others migrate to warmer locations.   p 
+ p Bats are nocturnal, flying mammals that belong to the order  b Chiroptera  b , with suborders  b Megachiroptera  b  and  b Microchiroptera  b . Megabats are found in the tropics and are the larger ones, including flying foxes. These bats typically eat fruit and nectar. Microbats are the only bats in the U.S. They are smaller and use echolocation to find insects to eat.  p 
+ p 
+				    span class="icon-unlock"   span 
+				   To unlock this lesson you must be a Study.com Member.
+				    br class="visible-xs" 
+
+				    a data-toggle="modal" href="#partialRegFormModal" data-cname="transcript_create_your_account" test-id="transcript_create_your_account" data-track-visible class="open-reg-form" Create your account  a 
+			     p 
+ p class="login-text" Already a member?  a data-cname="transcript_log_in" test-id="transcript_log_in" href=" academy login.html" Log In  a   p 
+ p class="login-text" 
+		Already registered?
+		
+		 a href=" academy login.html?cta=teacherPromo" class="standardLink" data-cname="teacher-promo-paywall__login" test-id="teacher-promo-paywall__login" 
+			Login here for access
+		  a 
+	  p 
+ p Did you know… We have over 160 college
+						courses that prepare you to earn
+						credit by exam that is accepted by over 1,500 colleges and universities. You can test out of the
+						first two years of college and save thousands off your degree. Anyone can earn
+						credit-by-exam regardless of age or education level.  p 
+ p To learn more, visit our  a href=" academy try earn-college-credit.html" data-cname="earning_credit_link" test-id="earning_credit_link" Earning Credit Page  a   p 
+ p Not sure what college you want to attend yet? Study.com has thousands of articles about every
+							imaginable degree, area of
+							study
+							and career path that can help you find the school that's right for you.  p 
+ p Get the unbiased info you need to find the right school.  p 
+ p Browse an area of study or degree level.  p 
+ p class="visible-xs"  span class="icon-arrow-left"   span  Back To Course  p 
+ p 
+							  span class="numChapters" 23  span  chapters |
+							  span class="numLessons" 296  span  lessons
+							 
+						  p 
+ p ©  copyright 2003-2019 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		  p 
+ p Your Cart is Empty. Please Choose a Product.  p 
+ p Study.com video lessons have helped over  em class="red bold" 30 million  em 
+										students.  p 
+ p "I learned more in  em class="teal bold" 10 minutes  em  than 1 month of chemistry classes"  p 
+ p - Ashlee P.  p 
+ p "I aced the CLEP exam and earned  em class="green bold" 3 college credits!  em "  p 
+ p - Clair S.  p 
+ p test-id="testimonial_control_text" "The videos have changed the way I teach! The videos on Study.com accomplish in
+							 em class="red bold" 5 minutes  em  what would take me an entire class."  p 
+ p - Chris F.  p 

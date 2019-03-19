@@ -1,0 +1,24 @@
+ p class="top-tag" style="display:none;" Use our classwork notes and past questions to prepare and pass Waec, Jamb and Neco once.  p 
+ p style="text-align: justify;" The hedgehog is a short and stout little mammal. Most mammals have fur or hair that is somewhat flexible and soft. But the hair on the back of a hedgehog is a thick layer of spikes (or modified hairs) known as quills. These quills are made of keratin, the same stuff our hair and fingernails are made of.  p 
+ p style="text-align: justify;"  span style="color: #ff0000;"  strong Fast Facts about Hedgehogs  strong   span   p 
+ p style="text-align: justify;" 1. There are 17 species of hedgehog.  p 
+ p style="text-align: justify;" 2. The hedgehog is nocturnal, coming out at night and spending the day sleeping in a nest under bushes or thick shrubs.  p 
+ p style="text-align: justify;" 3. They have about 5000 spines.  Each spine lasts about a year then drops out and a replacement grows.  p 
+ p style="text-align: justify;" 4. The spines of a hedgehogs, are stiff hollow hairs, they are not poisonous or barbed and cannot be easily removed.  p 
+ p style="text-align: justify;" 5. Most hedgehog species will roll into a tight ball if threatened, making it hard for its attacker to get past the spiky defenses.  p 
+ p style="text-align: justify;" 6. A baby hedgehog is called a hoglet.  p 
+ p style="text-align: justify;" 7. Hedgehogs communicate through a combination of snuffles, grunts and squeals.  p 
+ p style="text-align: justify;" 8. These cute animals eat almost any insect, including worms, centipedes,snails, frogs, mice and even snakes.  p 
+ p style="text-align: justify;" 9. Hedgehogs hibernate in the winter in cold areas. In the desert, they burrow under the ground during the day to stay cool.  p 
+ p style="text-align: justify;" 10. For their size hedgehogs have a relatively long lifespan. They live on average for 4 – 7 years in the wild and longer in captivity.  p 
+ p style="text-align: center;"  strong What Digital Skill do you consider most important and relevant to Nigerian Teachers now?  strong   p 
+ p style="text-align: center;"  a href="#ViewPollResults" onclick="poll_result(23); return false;" title="View Results Of This Poll" View Results  a   p 
+ p style="text-align:justify; font-weight:bold;" Passnownow.com digitally democratizes access to education content for Nigerian Students and Teachers.  p 
+ p style="text-align:justify;" By this, we hope to be able to raise enrollment numbers and reduce the poor academic performance of students and the drastic failure rates in exams while also working to enhance Instructional Practice among Teachers using familiar channels of interaction to train and empower them on the use and adoption of technology.  p 
+ p style="text-align:justify;" Get on our mailing list. Be the first to know about new content and opportunities  p 
+ p class="wysija-paragraph" 
+ input type="text" name="wysija[user][email]" class="wysija-input validate[required,custom[email]]" title="Email Address" placeholder="Email Address" value="" 
+ span class="abs-req" 
+ input type="text" name="wysija[user][abs][email]" class="wysija-input validated[abs][email]" value="" 
+  span 
+  p 

@@ -1,0 +1,71 @@
+ p style="color:#9b9b9b;" class="full mobile-center" By Animal Magic  p 
+ p class="right" style="padding: 5px 10px;margin: 20px 0 0 0;border: 3px solid #28ab60;font-weight: 900;color: #28ab60;" Campaign Completed on  br  16-03-2018  p 
+ p class="shares-count-label" Total shares  p 
+ p Our current ones are old and falling apart, so we started looking for new ones.   We found a local welding company who will build us state of the art habitats that will last a lifetime.  They are giving us a massive discount because they know the work we do.  They wil even deliver and set them up at no charge.  Their normal price is almost $10,000, but our cost is only $4800 for everything.  p 
+ p Our sloths &amp; Popcorn (our binturong) really need new indoor enclosures for the winter, but we just don't have the funds.  If you enjoy all our animal photos, videos and stories, then please donate. We are a licensed, no-kill, non-profit exotic animal rescue educational facility.  You can check our web site at www.iwantanimalmagic.com  p 
+ p class="text-light" style="margin-top: 2px !important;" {{ giver.full_name}}   p 
+ p style="float: right; margin-top: 2px !important; width: 100%; text-align: right;" ${{ giver.don_amount }}  p 
+ p class="team-member-name text-light" Mark Rosenthal  p 
+ p class="title title-tiny " style="margin-top:40px;color:#9b9b9b;"  Raised of
+        $ span class="camp_amount_pre" 4,800  span 
+      p 
+ p Please help Animal Magic reach their goal to purchase new sloth habitats.  We rarely ask for help, but we can't afford these by ourselves  p 
+ p class="text-small" style="color:#9b9b9b;font-style:italic;margin-bottom:0px ;" 
+         i class="fa fa-user"   i  Animal Magic
+         i class="fa fa-map-marker"   i 
+         span class="city_pre" Belleville, Michigan, United States  span 
+      p 
+ p class="perks__help"  span Perks  span   p 
+ p class="perk__description" Mark will personally show up at your home, or place of work, with the largest sloth in the United States.  You read that right...you'll get a personal session with Seven, the 43 pound traveling sloth.  Have a bunch of your friends pitch in for the experience of a lifetime.  We will travel anywhere within a 100 mile radius of Belleville, Michiagn  p 
+ p class="perk__image" 
+                 img src="https:  prod-chuffedcontent.s3.amazonaws.com images ls9BYYhiSACPYIDA5XkJ_images jG4Fd3skQZiBNZL3ETkU_Me%20%20Seven.jpg" alt="" 
+              p 
+ p class="perk__meta-copy" 
+                        Est. Delivery Date: We will set up a time and date that is convenient for you br 
+                        0 claimed br 
+
+                                                                                    3 left
+                                                                          p 
+ p class="perk__description" Animal Magic book (personally autographed), Animal Magic Unleashed Book (Personally autographed), The Very Crabby Sloth Book (Personally autographed), 2 different Animal Magic full length DVD's and a 2018 Animal Magic calendar.  We'll even pay the postage!  p 
+ p class="perk__meta-copy" 
+                        Est. Delivery Date: I'll send them out as soon as the fundraiser ends br 
+                        1 claimed br 
+
+                                                    Unlimited left
+                                              p 
+ p class="perk__description" These were filmed in HD at two different sold out performances by a profession film crew.  Each DVD is over 100 minutes long, with five different camera angles.  We'll even pay fo postage  p 
+ p class="perk__meta-copy" 
+                        Est. Delivery Date: We'll send them out as soon as the fundraiser ends br 
+                        1 claimed br 
+
+                                                    Unlimited left
+                                              p 
+ p class="perk__description" Mark will personally show up at your home, or place of work, with Popcorn the binturong.  She is an internet sensation who you will never forget!  You read that right...you'll get a personal session with Popcorn, the 70+ pound traveling bear cat.  Have a bunch of your friends pitch in for the experience of a lifetime.  We will travel anywhere within a 100 mile radius of Belleville, Michiagn  p 
+ p class="perk__image" 
+                 img src="https:  prod-chuffedcontent.s3.amazonaws.com images 0uTL4rxR32VqhHtt4KEK_images YagAShvKSiCNm0wmQgya_Popcorn%20with%20tongue%20out%20#2.JPG" alt="" 
+              p 
+ p class="perk__meta-copy" 
+                        Est. Delivery Date: Anytime after this fundraiser ends. br 
+                        0 claimed br 
+
+                                                    Unlimited left
+                                              p 
+ p class="perk__description" You will receive a Popcorn shirt (your choice of red, white or blue), a Popcorn collectible button, A full length DVD of our sold out April 2017 performance at the Macomb Center for The Performing Arts. This was filmed in HD by a professional company with five different cameras.  Popcorn is featured in this 90+ minute DVD,  A 2018 Animal Magic calendar with different full color photos of Popcorn.  We will even pay for the shipping  p 
+ p class="perk__image" 
+                 img src="https:  prod-chuffedcontent.s3.amazonaws.com images W4gWQJZRDC1H51chi1uQ_images 6g75U9wRQemXVOqvi9bZ_Popcorn%20eating%20ice%20cream%201-20-2018%20#7.jpg" alt="" 
+              p 
+ p class="perk__meta-copy" 
+                        Est. Delivery Date: We will send this as soon as the fundraiser is over br 
+                        1 claimed br 
+
+                                                    Unlimited left
+                                              p 
+ p class="perk__description" You will receive Animal Magic and Animal Magic Unleashed.  Each book contains 39 different true stories.  We'll even pay for the shipping.  p 
+ p class="perk__meta-copy" 
+                        Est. Delivery Date: We'll send it as soon as the fundraiser ends br 
+                        0 claimed br 
+
+                                                    Unlimited left
+                                              p 
+ p class="full btm-margin" What the widget will look like:  p 
+ p class="full btm-margin" Copy and paste this code snipet into your website:  p 

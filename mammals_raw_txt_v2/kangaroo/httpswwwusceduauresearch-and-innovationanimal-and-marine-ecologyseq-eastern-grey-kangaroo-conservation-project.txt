@@ -1,0 +1,28 @@
+ p As a Land for Wildlife property, USC is home to a plethora of wildlife and provides important habitat in an increasingly urban area. We are lucky enough to share the USC campus with a mob of Eastern Grey kangaroos. Staff, students and visitors alike delight in having interactions with the kangaroos and they are part of the daily life on campus.  p 
+ p Since 2011, the population on campus has been in steady decline and with less than 20 kangaroos left on campus the population is now considered at risk.  p 
+ p While the future of the kangaroos at USC is at risk there are many  a href=" research-and-innovation animal-and-marine-ecology seq-eastern-grey-kangaroo-conservation-project get-involved" title="Get involved" ways that we can all help  a  to ensure USC remains a safe place for our kangaroos and other wildlife.  p 
+ p South East Queensland has undergone major population growth in previous decades and during this time wildlife populations have been placed under increased pressure due to urban encroachment   development.  p 
+ p There has been a documented decline in at least some populations of Eastern grey kangaroo ( em Macropus giganteus  em ) in coastal areas where urbanisation is greatest; however there is currently no sound estimate of the extent of this decline across the region.  p 
+ p The School of Science and Engineering are conducting research on Eastern grey kangaroos in South East Queensland, using the population on the University's Sippy Downs campus as a case study.  p 
+ p As part of this study, USC postgraduate research student,  a href="mailto:ebrunton@usc.edu.au" title="Beth Brunton" Beth Brunton  a , is looking at the conservation and effects of urbanisation on Eastern grey kangaroo populations in this area.  p 
+ p The study is being conducted with a view to establishing recommendations for sustainable management of threatened populations of Eastern grey kangaroos in urban areas.  p 
+ p USC and Sunshine Coast Council have launched a “Look after our mob” campaign at Sippy Downs in a bid to conserve the local kangaroo populations.  p 
+ p A USC researcher is calling for greater community involvement and vigilance by motorists at Sippy Downs to help preserve the local kangaroo population.  p 
+ p USC scientists researching the effects of urbanisation on kangaroo populations in South-East Queensland are asking people across the community to share their knowledge.  p 
+ p Pages on the USC website can contain information specific to one, many or all study locations. Make a selection from the options below to control which location-specific information is displayed. All locations are displayed by default.  p 
+ p Pages on the USC website can contain information specific to one, many or all study locations. Make a selection in the location settings (accessed via the footer or the button below) to control which location-specific information is displayed. All locations are displayed by default.  p 
+ p The University of the Sunshine Coast acknowledges the Traditional Custodians of the land on which its campuses sit. We recognise and pay respect to Elders past, present and emerging.  p 
+ p 
+                 strong Pro tip:  strong  To search, just start typing - at any time, on any page.
+                 button type="button" class="close" ng-click="closeAlert()" ×  button 
+              p 
+ p ng-if="(model.MaxResults &lt; model.TotalItems &amp;&amp; model.Results.length &gt; 0)" 
+            Searching {{ model.SearchType }} for  strong ng-bind="model.Query"   strong  returned more than {{ model.MaxResults }} results. br 
+            The top {{ model.MaxResults }} of {{ model.TotalItems }} are shown below.
+          p 
+ p ng-if="model.MaxResults &gt;= model.TotalItems &amp;&amp; (model.Results.length &gt; 0 || model.FeaturedSearchResults.length &gt; 0)" 
+            Searching {{ model.SearchType }} for  strong ng-bind="model.Query"   strong  returned {{ model.TotalItems }} results.
+          p 
+ p ng-if="model.Results.length === 0 &amp;&amp; model.FeaturedSearchResults.length === 0" 
+            Searching {{ model.SearchType }} for  strong ng-bind="model.Query"   strong  returned no results.
+          p 

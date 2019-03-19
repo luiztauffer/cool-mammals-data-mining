@@ -1,0 +1,58 @@
+ p class="mfe-title mfe-title-one-line" data-orig-text="Womens Cute Cat Print Long Scarf Soft Yarn Wrap Shawl Stole Neck Warm Scarves WQ" data-orig-truncated-text="Womens Cute Cat Print Long Scarf Soft..." Womens Cute Cat Print Long Scarf Soft Yarn Wrap Shawl Stole Neck Warm Scarves WQ  p 
+ p class="mfe-price clear"  span class="mfe-pull-left" data-detail="price" 37.78 SEK  span   p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left" data-detail="shipping" Free P&amp;P  span   p 
+ p class="mfe-remove-spaces" style="height:0px"    p 
+ p class="mfe-title " data-orig-text="Women's Fashion Fox Animal Print Long Scarf Butterfly Dolphin Giraffe Wrap Gifts" data-orig-truncated-text="Women's Fashion Fox Animal Print Long..." Women's Fashion Fox Animal Print Long Scarf Butterfly Dolphin Giraffe Wrap Gifts  p 
+ p class="mfe-price clear"  span class="mfe-pull-left" data-detail="price" 20.70 SEK  span   p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left" data-detail="shipping" Free P&amp;P  span   p 
+ p class="mfe-remove-spaces" style="height:2px"    p 
+ p class="mfe-title " data-orig-text="Country Animals Fox Stag Badger Birds Owl Print Scarf Women Scarves Scarfs UK" data-orig-truncated-text="Country Animals Fox Stag Badger Birds..." Country Animals Fox Stag Badger Birds Owl Print Scarf Women Scarves Scarfs UK  p 
+ p class="mfe-price clear"  span class="mfe-pull-left" data-detail="price" 92.29 SEK  span   p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left" data-detail="shipping" + 43.07 SEK  span   p 
+ p class="mfe-remove-spaces" style="height:2px"    p 
+ p class="mfe-title " data-orig-text="Sheep Country Animals Fox Duck Stag Birds  Print Scarf Women Scarves Scarfs uk" data-orig-truncated-text="Sheep Country Animals Fox Duck Stag B..." Sheep Country Animals Fox Duck Stag Birds  Print Scarf Women Scarves Scarfs uk  p 
+ p class="mfe-price clear"  span class="mfe-pull-left" data-detail="price" 61.41 SEK  span   p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left" data-detail="shipping" + 43.07 SEK  span   p 
+ p class="mfe-remove-spaces" style="height:2px"    p 
+ p class="mfe-title " data-orig-text="New Women Dragonfly Print Scarf Ladies Printed Scarves Soft Shawl Hijab Snood " data-orig-truncated-text="New Women Dragonfly Print Scarf Ladie..." New Women Dragonfly Print Scarf Ladies Printed Scarves Soft Shawl Hijab Snood   p 
+ p class="mfe-price clear"  span class="mfe-pull-left" data-detail="price" 36.79 SEK  span   p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left" data-detail="shipping" + 36.79 SEK  span   p 
+ p class="mfe-remove-spaces" style="height:2px"    p 
+ p class="sbin-title" Sheep Country Animals Fox Duck Stag Birds  Print Scarf Women Scarves Scarfs uk  p 
+ p class="mfe-price" data-detail="price" 98.32 SEK  p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left " data-detail="shipping"  span aria-label="+ 122.44 SEK P&amp;P"  span class="mfe-clipped-text" P&amp;P:   span + 122.44 SEK  span   span   p 
+ p class="mfe-remove-spaces" style="height:18px"    p 
+ p class="mfe-price" data-detail="price" 65.10 SEK  p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left " data-detail="shipping"  span aria-label="+ 43.07 SEK P&amp;P"  span class="mfe-clipped-text" P&amp;P:   span + 43.07 SEK  span   span   p 
+ p class="mfe-remove-spaces" style="height:18px"    p 
+ p class="mfe-price" data-detail="price" 1,230.47 SEK  p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left " data-detail="shipping"  span aria-label="+ 61.53 SEK P&amp;P"  span class="mfe-clipped-text" P&amp;P:   span + 61.53 SEK  span   span   p 
+ p class="mfe-remove-spaces" style="height:18px"    p 
+ p class="mfe-price" data-detail="price" 391.33 SEK  p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left " data-detail="shipping"  span aria-label="+ 122.94 SEK P&amp;P"  span class="mfe-clipped-text" P&amp;P:   span + 122.94 SEK  span   span   p 
+ p class="mfe-remove-spaces" style="height:18px"    p 
+ p class="mfe-price" data-detail="price" 74.94 SEK  p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left " data-detail="shipping"  span aria-label="+ 86.02 SEK P&amp;P"  span class="mfe-clipped-text" P&amp;P:   span + 86.02 SEK  span   span   p 
+ p class="mfe-remove-spaces" style="height:18px"    p 
+ p class="mfe-price" data-detail="price" 46.15 SEK  p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left " data-detail="shipping"  span aria-label="+ 153.70 SEK P&amp;P"  span class="mfe-clipped-text" P&amp;P:   span + 153.70 SEK  span   span   p 
+ p class="mfe-remove-spaces" style="height:18px"    p 
+ p class="mfe-price" data-detail="price" 332.14 SEK  p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left " data-detail="shipping" Free P&amp;P  span   p 
+ p class="mfe-remove-spaces" style="height:18px"    p 
+ p class="mfe-price" data-detail="price" 50.21 SEK  p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left " data-detail="shipping"  span aria-label="+ 245.50 SEK P&amp;P"  span class="mfe-clipped-text" P&amp;P:   span + 245.50 SEK  span   span   p 
+ p class="mfe-remove-spaces" style="height:18px"    p 
+ p class="mfe-price" data-detail="price" 369.06 SEK  p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left " data-detail="shipping"  span aria-label="+ 122.94 SEK P&amp;P"  span class="mfe-clipped-text" P&amp;P:   span + 122.94 SEK  span   span   p 
+ p class="mfe-remove-spaces" style="height:18px"    p 
+ p class="mfe-price" data-detail="price" 73.71 SEK  p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left " data-detail="shipping"  span aria-label="+ 49.10 SEK P&amp;P"  span class="mfe-clipped-text" P&amp;P:   span + 49.10 SEK  span   span   p 
+ p class="mfe-remove-spaces" style="height:18px"    p 
+ p class="mfe-price" data-detail="price" 79.99 SEK  p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left " data-detail="shipping"  span aria-label="+ 104.60 SEK P&amp;P"  span class="mfe-clipped-text" P&amp;P:   span + 104.60 SEK  span   span   p 
+ p class="mfe-remove-spaces" style="height:18px"    p 
+ p class="mfe-price" data-detail="price" 18.34 SEK  p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left mfe-strikethrough" aria-label="previous price 20.30 SEK" data-detail="strikethroughPrice" 20.30 SEK  span   p 
+ p class="mfe-reco-detail clear"  span class="mfe-pull-left " data-detail="shipping" Free P&amp;P  span   p 
+ p class="mfe-remove-spaces" style="height:0px"    p 

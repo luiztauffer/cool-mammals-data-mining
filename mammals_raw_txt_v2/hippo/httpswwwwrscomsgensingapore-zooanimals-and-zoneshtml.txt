@@ -1,0 +1,30 @@
+ p class="header-p" 
+							 span class="icon-info" 
+								 img src=" content dam wrs commons icons icon-info.png" alt="info" 
+							  span 
+							 span class="text"  span class="red-hightlight" The following exhibit will be closed due to upgrading works: br 
+  br 
+ 1.  b White Tiger   b (6 Mar - 3 May 2019)  span   span 
+						  p 
+ p class="label" Opening hours  p 
+ p We're open every day of the year.  p 
+ p class="label" Singapore Zoo  p 
+ p 8.30am - 6.00pm (Last entry at 5.30pm)  p 
+ p class="label" Rainforest Kidzworld  p 
+ p 9.00am - 6.00pm  p 
+ p Get up-close to the denizens of a tropical rainforest and delight in its rich biodiversity.  p 
+ p Follow the song of the siamang to your first immersive wildlife experience at the zoo.    p 
+ p Hop over to explore the land of marsupials and get acquainted with our kangaroos!  p 
+ p Slighter in build than its African cousins, Asian elephants also have smaller, rounded ears.  p 
+ p Get up-close to the denizens of a tropical rainforest and delight in its rich biodiversity.  p 
+ p Chill out in the company of raccoon dogs and wolverines.  p 
+ p This 8,000m 2 exhibit is an experiential peek into Ethiopian wildlife, geology and culture.  p 
+ p A large number of the Zoo’s 39 species of primates call Primate Kingdom home.  p 
+ p Right in the heart of the Rainforest Zoo, a world of play is waiting to be discovered!  p 
+ p Want to see a real-life dragon? Ours don’t breathe fire but are similarly scaly and awe-inspiring.  p 
+ p Game for a scaly good time? Slither down to what’s probably the best reptile house yet!  p 
+ p Follow the song of the siamang to your first immersive wildlife experience at the zoo.    p 
+ p You don’t have to get out of Singapore to experience the splendour of the African plains.  p 
+ p We're open every day of the year.  p 
+ p 80 Mandai Lake Road Singapore 729826   p 
+ p class="copy"  span © Copyright 2018, Wildlife Reserves Singapore Group. All rights reserved.  span   p 

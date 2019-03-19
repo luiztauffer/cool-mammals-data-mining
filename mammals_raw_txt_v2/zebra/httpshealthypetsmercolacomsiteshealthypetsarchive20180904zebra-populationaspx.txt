@@ -1,0 +1,109 @@
+ p Call Toll Free:  strong 877-985-2695  strong   p 
+ p class="title"  strong Latest Pet Articles  strong   p 
+ p  a href="https:  healthypets.mercola.com sites healthypets archive 2019 03 19 playing-with-cats.aspx"  strong Simple Boredom Busters You May Never Have Considered  strong   a   p 
+ p class="date" March 19, 2019  p 
+ p  a href="https:  healthypets.mercola.com sites healthypets archive 2019 03 19 hot-dog-hogs-the-water-fountain.aspx"  strong Hot Dog Hogs the Water Fountain!  strong   a   p 
+ p class="date" March 19, 2019  p 
+ p  a href="https:  healthypets.mercola.com sites healthypets archive 2019 03 19 wildlife-crossing.aspx"  strong New Animal Overpass Is Saving Wildlife  strong   a   p 
+ p class="date" March 19, 2019  p 
+ p class="title"  strong Categories  strong   p 
+ p class="title"  strong Latest Pet Videos  strong   p 
+ p  a href="https:  healthypets.mercola.com sites healthypets archive 2019 03 19 hot-dog-hogs-the-water-fountain.aspx"  strong Hot Dog Hogs the Water Fountain!  strong   a   p 
+ p class="date" March 19, 2019  p 
+ p  a href="https:  healthypets.mercola.com sites healthypets archive 2019 03 19 wildlife-crossing.aspx"  strong New Animal Overpass Is Saving Wildlife  strong   a   p 
+ p class="date" March 19, 2019  p 
+ p  a href="https:  healthypets.mercola.com sites healthypets archive 2019 03 18 rescue-squirrel-asks-to-be-adopted.aspx"  strong Rescue Squirrel Asks To Be Adopted  strong   a   p 
+ p class="date" March 18, 2019  p 
+ p class="view-all"  a href="https:  healthypets.mercola.com sites healthypets videos.aspx"  strong View All Pet Videos  strong   a   p 
+ p  strong HEALTHY PETS DISCLAIMER:   strong  This information is for educational purposes only and is not intended to replace the advice of your own veterinarian or doctor. Dr. Karen Becker cannot answer specific questions about your pet's medical issues or make medical recommendations for your pet without first establishing a veterinarian-client-patient relationship. Your pet's medical protocol should be given by your holistic veterinarian.  p 
+ p If you want to use an article on your site please  a rel="nofollow" href=" sites healthypets citation.aspx" click here  a . This content may be copied in full, with copyright, contact, creation and information intact, without specific permission, when used only in a not-for-profit format. If any other use is desired, permission in writing from Mercola.com is required.  p 
+ p class="centered-text"  a href="https:  media.mercola.com assets html terms terms-conditions.html" Terms &amp; Conditions  a  |  a href="https:  media.mercola.com assets html privacy security_privacy.html" Updated Privacy Policy  a   p 
+ p class="centered-text" © 1997-2019 Dr. Joseph Mercola. All Rights Reserved.  p 
+ p  em  a href="https:  media.mercola.com assets html privacy security_privacy.html" target="_blank" View our privacy policy  a   em   p 
+ p class="post-admin-link" 
+ style 
+#menu { font-size: 14px; }
+#menu:hover .admin-menu { display: block; }
+.admin-menu { display:none }
+.admin-label:before {
+float: left;
+content: "";
+background-image: url(  media.mercola.com Themes mercolaArticle images badge-expert-user.png);
+background-size: 15px;
+height: 15px;
+width: 15px;
+margin-right: 6px;
+margin-top: 2px;
+}
+  style 
+  p 
+ p  strong By Dr. Karen Shaw Becker  strong   p 
+ p Everyone knows a zebra has black and white stripes. Native to Africa, they live in several types of habitats: grasslands, woodlands, thorny scrublands, savannas, mountains and coastal hills. Zebras are members of the same family as horses. In fact, they’re called Africa’s wild horse, but all of them are listed under a single genus known as Equus.  p 
+ p In recent years, research has revealed there aren’t six separate species of zebras distinguishable from one another based on the pattern of their stripes. That was the general theory of the world’s scientific community until recently.  p 
+ p Rasmus Heller of the University of Copenhagen contends that zebra stripe patterns have no real meaning in a biological sense, due to DNA evidence found by his team of researchers. As Heller asserts, “At least we can say that the striping pattern does not contain much information about the history of the plains zebra, and how the different populations relate to each other.”  p 
+ p His research, published in the journal Nature Ecology &amp; Evolution, was based on the examination of DNA variations of 59 plains zebras, which suggests there are nine zebra populations living in different areas across the African continent. The importance of the research may relate to conservation efforts for the unique, exotic animal.  p 
+ p According to the BBC’s Science &amp; Environment, the common or plains zebra (Equus quagga) is found in the grasslands areas of eastern and southern Africa, roughly the central portion of the continent from southern Ethiopia in Africa’s “horn” to northern Namibia, located northeast of South Africa. There are two other groups, however: the Grevy’s zebra (E. grevyi) and the mountain zebra (E. zebra), both of which are endangered.  p 
+ p Zebra found in northern Uganda, just above the equator, are significantly more genetically distinct compared to the others. Co-study author Casper-Emil Pedersen, also of the University of Copenhagen, says that to maintain the high levels of genetic diversity present today, suitable “habitat corridors” for zebra to roam need to be maintained. Heller explains:  p 
+ p  em “We now have a much clearer impression of which populations should be monitored, i.e., are more vulnerable to loss of genetic diversity. This is particularly true for the two Ugandan populations, which have markedly lower genetic diversity and are relatively isolated from other populations.” sup style="font-size: 10px;"  span id="edn1" data-hash="#ednref1" 1  span   sup   em   p 
+ p According to Scientific Reports, hybridization is called a “potential risk factor” in the conservation of these zebra populations. Scientists are now taking steps to identify the “admixed” zebra genetically, which will help them determine how their efforts are impacting the Grevy’s zebra numbers. The study authors wrote:  p 
+ p  em “While plains zebras are plentiful, various anthropogenic factors (over hunting, competition with livestock, habitat loss, etc.) have had a severe impact on Grevy’s zebra and mountain zebra populations, which are now listed as Endangered or Vulnerable respectively on the IUCN red list.” sup style="font-size: 10px;"  span id="edn2" data-hash="#ednref2" 2  span   sup   em   p 
+ p Scientists used microsatellite markers (aka Single Sequence Repeats or SSRs) and mitochondrial DNA (aka mtDNA) from mountain zebras and plains zebras to determine the extent of hybridization, but while there are five subspecies of the plains zebra and two of the mountain zebra, the Grevy’s zebra is the only species of the subgenus Dolichohippus.  p 
+ p Sadly, it’s too late for “quagga,” a variety of plains zebra that, although once abundant in South Africa, disappeared more than a century ago. At one time, experts believed their extinction was most likely due to overhunting. However, scientists now believe its isolation from other zebra populations was a significant factor.  p 
+ p In short, Pedersen observed, “The quagga probably went extinct because there were no habitat corridors in the region where it lived,” sup style="font-size: 10px;"  span id="edn3" data-hash="#ednref3" 3  span   sup  which scientists believe 370,000 years ago had been wetlands in the South African region of the Zambezi and the Okavango. sup style="font-size: 10px;"  span id="edn4" data-hash="#ednref4" 4  span   sup   p 
+ p The plains zebras are thought to be about 500,000 strong, but they’re extinct in two of the countries they were once common: Lesotho and Burundi. Experts fear they’re most likely extinct in Somalia, as well.  p 
+ p Distinguishable factors indicate there are nine zebra populations across the African continent. While a zebra’s stripes don’t help differentiate between six subspecies, scientists are now using technologies such as DNA variations to identify them. However, researchers also use methods they’ve been using for decades, including analyzing skull dimensions, coat patterns and whether or not they have a mane.  p 
+ p Scientific Reports recently submitted a study on the many theories regarding  a href="https:  healthypets.mercola.com sites healthypets archive 2015 11 03 zebra-stripe-patterns.aspx" zebra stripes  a . One is that the stripes may serve some sort of “thermoregulatory” purpose, in essence cooling them. To test the theory, scientists used field experiments and thermographic measurements to see if they could detect any differences between zebra-striped bodies. They wrote:  p 
+ p  em “A zebra body was modeled by water-filled metal barrels covered with horse, cattle and zebra hides and with various black, white, grey and striped patterns. The barrels were installed in the open air for four months while their core temperature was measured continuously. Using thermography, the temperature distributions of the barrel surfaces were compared to those of living zebras.  em   p 
+ p  em The sunlit zebra-striped barrels reproduced well the surface temperature characteristics of sunlit zebras. We found that there were no significant core temperature differences between the striped and grey barrels, even on many hot days, independent of the air temperature and wind speed.” sup style="font-size: 10px;"  span id="edn5" data-hash="#ednref5" 5  span   sup   em   p 
+ p Charles Darwin, with his theories of natural selection, as well as the lesser-known A.R. Wallace, who published his essay “The Protective Colours of Animals” in 1879 (according to The Alfred Russel Wallace Page sup style="font-size: 10px;"  span id="edn6" data-hash="#ednref6" 6  span   sup ) have been theorizing about what zebra stripes are for, arriving at some interesting conclusions. There are 18 theories, which Scientific Reports sup style="font-size: 10px;"  span id="edn7" data-hash="#ednref7" 7  span   sup  breaks down into four categories, with numerous studies for each:  p 
+ p Hypothesis 4, regarding possible cooling effects of zebra stripes, is based on the premise that black stripes would absorb more sunlight than white stripes, but as the study explains, surface temperatures don’t represent a body’s internal core temperature, and that’s the most relevant principle in the context of thermoregulation. Further, at night, the opposite is true; the black stripes become cooler than the white ones. sup style="font-size: 10px;"  span id="edn8" data-hash="#ednref8" 8  span   sup   p 
+ p There’s been discussion, too, regarding the way sweat may cool zebra skin as it evaporates, taking things like convective as opposed to buoyancy-driven eddies into consideration. After an immense amount of deliberation and experimental findings, the scientists concluded the evidence didn’t support the theory.  p 
+ p Hypothesis 3, however, was corroborated in scientific experiments. Scientists from the perspectives of evolution, tropical research, the environment and sustainability, and ecology came together to tackle what they called “a problem with too many solutions.” They concluded that “the selective agents driving zebra striping are probably multifarious and complex.” In addition:  p 
+ p  em “Tsetse flies and other biting flies can negatively impact animals in a number of ways: both directly, through loss of time spent foraging and energetic expenditures that lead to weight loss, and indirectly, through the transmission of disease. The possibility that biting flies could be a selective agent favouring striping is supported by experimental evidence that tsetses and tabanids avoid striped surfaces.  em   p 
+ p  em However, we found no relationship between tsetse flies and variation in striping across populations, which suggests the explanation for striping in zebra is more complex than simply the avoidance of biting flies.” sup style="font-size: 10px;"  span id="edn9" data-hash="#ednref9" 9  span   sup   em   p 
+ p Hypothesis 2 is an interesting one, suggesting that individual identification between zebra may hold significance that helps keep herds together, with a single stallion living among a small harem of mares, and stallions without harems together forming small bands, ostensibly for mutual protection. But again, there seem to be no obvious associations between striping and group size measures in several equid subspecies.  p 
+ p While loose bands of zebra congregate in medium- to large-sized aggregations at certain times of the year, long-lasting associations only occur between mare and foal. And while recognition between community members based on striping patterns might be advantageous, several equid species don’t have body stripes. In effect: “Given that domestic horses are capable of recognizing other individuals using visual, auditory and olfactory cues, it seems unlikely that stripes are a critical means of identification.” sup style="font-size: 10px;"  span id="edn10" data-hash="#ednref10" 10  span   sup   p 
+ p As for man’s efforts toward zebra preservation, there’s been a lot of dialogue regarding the stripes serving as a camouflage from predators, such as lions, but hunting by humans, as previously noted, has undoubtedly impacted zebra populations, not to mention those of numerous other animals roaming the African plains, veldts and savannas.  p 
+ p Nevertheless, a PLoS One review determined that although predators’ eyes don’t always “compute” images in the same way human eyes can, it’s very difficult to say definitively how the visual aspects are “viewed” by zebra predators. As a result: “Compared to the uniform pelage (fur or hair) of other sympatric herbivores it appears highly unlikely that stripes are a form of anti-predator camouflage.” sup style="font-size: 10px;"  span id="edn11" data-hash="#ednref11" 11  span   sup   p 
+ p Depending on the time of day, some researchers report that zebra stripes made the animals appear more prominent than a solid color might; others assert that the stripes might help them blend in, depending on the background. One study explained that is humans find moving striped objects difficult to target accurately on a computer screen, stripes might also serve to create a “possible motion dazzle confusion effect.” sup style="font-size: 10px;"  span id="edn12" data-hash="#ednref12" 12  span   sup   p 
+ p The Grevy’s zebra is the species most prominent on conservationists’ lists. The African Wildlife Foundation sup style="font-size: 10px;"  span id="edn13" data-hash="#ednref13" 13  span   sup  notes that while there were 15,000 of them in the 1970s, today there are fewer than 25,000. Partnering with the Kenya Wildlife Service, the organization maintains that continued study for data on the African wild horse is necessary for effective management and conservation of this endangered species.  p 
+ p class="privacy"  a href="https:  media.mercola.com assets html privacy security_privacy.html" target="_blank" View our Privacy Policy  a   p 
+ p class="gdpr-text"  em You will also get free access to more than 100,000 Mercola.com health articles and a totally FREE subscription to my Natural Health newsletter. You can unsubscribe at any time and I guarantee the privacy of your email.  em   p 
+ p class="popular-title"                   
+ strong    strong   p 
+ p class="popular-title"                   
+ strong    strong   p 
+ p class="popular-title"                   
+ strong    strong   p 
+ p class="popular-title"                   
+ strong    strong   p 
+ p  strong Reply to this thread  strong   small (2000 Characters only)  small   p 
+ p  small  span id="countingMessagePostSubComment" Characters remaining:  span   small   p 
+ p  small  span id="subCommentRequiredMessage" class="required" style="display: none;" * Please enter your comment!  span   small   p 
+ p  strong Edit Your Comment  strong   small (2000 Characters only)  small   p 
+ p  small  span id="countingMessageEditComment" Characters Remaining:   span   small   p 
+ p  small  span id="editCommentRequiredMessage" class="required" style="display: none;" * Please enter your comment!  span   small   p 
+ p 
+ input type="submit" name="ctl00$bcr$CommentSectionControl$btnDelandBan" value="Submit" id="bcr_CommentSectionControl_btnDelandBan" class="btnSpam" 
+ input type="submit" name="ctl00$bcr$CommentSectionControl$btnDelandWarn" value="Submit" id="bcr_CommentSectionControl_btnDelandWarn" class="btnSpam" 
+ input type="submit" name="ctl00$bcr$CommentSectionControl$btnDelandTempBan" value="Submit" id="bcr_CommentSectionControl_btnDelandTempBan" class="btnSpam" 
+ input type="submit" name="ctl00$bcr$CommentSectionControl$btnBanNHide" value="Submit" id="bcr_CommentSectionControl_btnBanNHide" class="btnSpam" 
+ input type="submit" name="ctl00$bcr$CommentSectionControl$btnBanNShow" value="Submit" id="bcr_CommentSectionControl_btnBanNShow" class="btnSpam" 
+ input type="submit" name="ctl00$bcr$CommentSectionControl$btnCancel" value="Cancel" onclick="javascript:CloseSpamOptionDiv();return false;" id="bcr_CommentSectionControl_btnCancel" class="btnSpam" data-jsid="cancelBtn" 
+  p 
+ p id="commentsarea" 
+  p 
+ p  a x  a   p 
+ p By continuing to browse our site you agree to our use of cookies, revised  a href="https:  media.mercola.com assets html privacy security_privacy.html" target="_blank" Privacy Policy  a  and  a href="https:  media.mercola.com assets html terms terms-conditions.html" target="_blank" Terms of Service  a .  p 
+ p  a onclick="$('.gdpr-container').css('display', 'none'); createCookie('GDPRNotification', 0, 365); GDPRAudit(); " I agree  a   p 
+ p class="title" Thank you! Your purchases help us support these charities and organizations.  p 
+ p  strong HEALTHY PETS DISCLAIMER:   strong  This information is for educational purposes only and is not intended to replace the advice of your own veterinarian or doctor. Dr. Karen Becker cannot answer specific questions about your pet's medical issues or make medical recommendations for your pet without first establishing a veterinarian-client-patient relationship. Your pet's medical protocol should be given by your holistic veterinarian.  p 
+ p If you want to use an article on your site please  a rel="nofollow" href=" sites healthypets citation.aspx" click here  a . This content may be copied in full, with copyright, contact, creation and information intact, without specific permission, when used only in a not-for-profit format. If any other use is desired, permission in writing from Mercola.com is required.  p 
+ p 
+ a href="https:  healthypets.mercola.com " Home  a  |  a href=" sites healthypets dr-karen-becker.aspx" Dr. Karen Becker  a  | 
+ a href=" sites Current.aspx" Articles  a  | 
+ a href="https:  products.mercola.com healthypets " Products  a  | 
+ a href=" sites healthypets videos.aspx" Videos  a 
+  p 
+ p © 1997-2019 Dr. Joseph Mercola. All Rights Reserved.  p 
+ p Please  a href="https:  login.mercola.com login.aspx?ReturnUrl=https:  healthypets.mercola.com sites healthypets archive 2018 09 04 zebra-population.aspx" id="endScripts_loginLinkbtn" Sign In  a  or  a href="https:  login.mercola.com join default.aspx?ReturnUrl=https:  healthypets.mercola.com sites healthypets archive 2018 09 04 zebra-population.aspx" id="endScripts_loginRegister" Register  a  to continue.  p 

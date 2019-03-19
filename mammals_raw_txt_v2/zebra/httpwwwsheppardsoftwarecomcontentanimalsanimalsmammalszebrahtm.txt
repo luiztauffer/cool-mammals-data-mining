@@ -1,0 +1,60 @@
+ p align="center" class="font2"  a href="javascript:openBrowserWin('.. .. quizzes mammals ZebrageneralGame_1.html')" Zebra Quiz  a  a href="javascript:openBrowserWin('.. .. quizzes mammals AntelopeGame_1.html')"   a  a href="javascript:openBrowserWin('.. .. quizzes mammals ZebrageneralGame_1.html')"  br 
+                                 img src=".. .. images mammals question_button_60h.gif" width="60" height="56" border="0"   a   p 
+ p    p 
+ p align="left" Zebras (members of the horse family), are native to central and southern Africa. They are black with white stripes. These stripes are typically vertical on the head, neck, forequarters, and main body, with horizontal stripes at the rear and on the legs of the animal. The zebra crossing is named after the zebra's white on black striping.  p 
+ p align="center"  br 
+              script type="text javascript"  !--
+google_ad_client = "pub-2546752751326586";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "ff6600";
+google_color_url = "000000";
+google_color_text = "000000";
+google_ad_channel ="";
+  --   script 
+ script type="text javascript" src="http:  pagead2.googlesyndication.com pagead show_ads.js" 
+  script 
+              p 
+ p     p 
+ p  img src=".. .. .. .. design images animals_divider_behavior.gif" width="500" height="29"  br 
+             strong Not Just a Flash in the Pan:   strong A zebra can travel at a top speed of fifty-five kilometers per hour, slower than a horse. However, it has much greater stamina. During the course of a day the plains zebra can walk around forty kilometers (from its herd, and back again in the evening)   p 
+ p  strong Family Ties:   strong There are four species, as well as several subspecies. Zebra populations vary a great deal, and the relationships between and the taxonomic status of several of the subspecies are unclear.  p 
+ p  img src=".. .. images mammals zebra_plains.jpg" width="150" height="127" hspace="15" border="1" align="right" The  strong Plains zebra  strong  ( em Equus quagga  em , formerly  em Equus burchelli  em ) is the most common, and has or had about five subspecies distributed across much of southern and eastern Africa. It, or particular subspecies of it, have also been known as the Common zebra, the Dauw, Burchell's zebra (actually the subspecies  em Equus quagga burchelli  em ), and the Quagga (another, extinct, subspecies,  em Equus quagga quagga  em ).  p 
+ p  img src=".. .. images mammals zebra_mountain.jpg" width="150" height="120" hspace="15" border="1" align="right" The  strong Mountain Zebra   strong ( em Equus zebra  em ) of southwest Africa tends to have a sleek coat with a white belly and narrower stripes than the Plains zebra. It has two subspecies and is classified as endangered.  p 
+ p  strong Grevy's Zebra  strong  ( em Equus grevyi  em ) is the largest type, with an erect mane, and a long, narrow head making it appear rather mule-like. It is an inhabitant of the semi- img src=".. .. images mammals zebra_grevy.jpg" width="150" height="175" hspace="15" border="1" align="right" arid grasslands of Ethiopia, Somalia, and northern Kenya. The Grevy's zebra is one of the rarest species of zebra around today, and is classified as endangered.  p 
+ p  strong Plains Zebras  strong  are mid-sized and thick-bodied with relatively short legs. Adults of both sexes stand about 1.4 meters high at the shoulder, are approximately 2.3 meters long, and weigh about 230 kg. Like all zebras, they are boldly striped in black and white and no two individuals look exactly alike. All have vertical stripes on the forepart of the body, which tend towards the horizontal on the hindquarters. The northern species have narrower and more defined striping; southern populations have varied but lesser amounts of striping on the underparts, the legs and the hindquarters.   p 
+ p  strong Striped and Social:   strong Plains zebras are highly social and usually form small family groups consisting of a single stallion, one, two, or several mares, and their recent offspring. Groups are permanent, and group size tends to vary with habitat: in poor country the groups are small. From time to time, Plains zebra families group together into large herds, both with one another and with other grazing species, notably Blue  img src=".. .. images mammals zebra_profile.jpg" width="180" height="240" hspace="15" vspace="15" align="left" wildebeests. Unlike many of the large ungulates of Africa, Plains zebras prefer but do not require short grass to graze on. In consequence, they range more widely than many other species, even into woodlands, and they are often the first grazing species to appear in a well-vegetated area.   p 
+ p Only after zebras have cropped and trampled the long grasses do wildebeests and gazelles move in. Nevertheless, for protection from predators, Plains zebras retreat into open areas with good visibility at night time, and take it in turns standing watch. They eat a wide range of different grasses, preferring young, fresh growth where available, 
+              and also browse on leaves and shoots from time to time.  p 
+ p  strong Mountain Zebras  strong  are native to South West Africa and are found in dry, stony, mountain and hill habitats. Its diet is tufted grass, bark, leaves, fruit and roots. Zebras' dazzling stripes may be a signaling system for the herd and may also be useful in confusing predators  p 
+ p The  strong Grevy's Zebra  strong  ( em Equus grevyi  em ), sometimes known as the Imperial Zebra, is the largest species of zebra. It is found in the wild in Kenya, Somalia, and Ethiopia, and is considered endangered, partly due to hunting for its skin, which fetches a high price on the world market. Compared to other zebras, it is tall, has large ears, and its stripes are narrower. The species is named after Jules Grévy, a president of France, who, in the 1880s, was given one by the government of Abyssinia.   p 
+ p  strong Sizes and Scales:   strong The Grevy's zebra is the largest of all wild equines. It is 2.5-3 m from head to tail with a 38-75 cm tail, and stands 1.25-1.6 m high at the shoulder. Males weigh 380-450 kg, and females 350-400 kg. The stripes are narrow and close-set, being broader on the neck, and they extend to the hooves. The belly and the area around the base of the tail lack stripes.   p 
+ p The ears are very large, rounded, and conical. The head is large, long, and narrow, particularly mule-like in appearance. The mane is tall and erect; juveniles having a mane extending the length of the back.   p 
+ p  strong  img src=".. .. images mammals zebra_painting.jpg" width="230" height="274" hspace="15" vspace="5" align="left" The Donkey Connection:   strong Grevy's zebra is similar to the asses in many ways. Behaviorally, for example, it has a social system characterized by small groups of adults associated for short time periods of a few months. Adult males spend their time mostly alone in territories of 2-12 km², which is considerably smaller than the territories of the wild asses.   p 
+ p The territories are marked by dung piles and females within the territory mate solely with the resident male. Small bachelor herds are known. This social structure is well-adapted for the dry and arid scrubland and plains that Grevy's zebra primarily inhabits, less for the more lush habitats used by the other zebras.   p 
+ p  strong Fighting for Females:   strong Like all zebras and asses, Grevy's zebra males fight amongst themselves over territory and females. The Grevy's is vocal during fights (an asinine characteristic), braying loudly. Otherwise, the Grevy's communicates over long distances.   p 
+ p  strong Just the Facts:   strong The Grevy's zebra lives 10-25 years and eats grasses and other plants. Gestation lasts 350-400 days, with a single foal being born. Predators of Grevy's zebra include hunters and wild dogs native to the area. Most captive zebras in zoos are Grevy's Zebras.  p 
+ p  img src=".. .. .. .. design images animals_divider_general.jpg" width="500" height="29"  br 
+ strong Why Stripes?   strong Originally, most zoologists assumed that zebras' stripes acted as a camouflage mechanism, while others believed them to play a role in social interactions, with slight variations of the pattern allowing the animals to distinguish between individuals. A more recent theory, supported by experiment, posits that the disruptive coloration is an effective means of confusing the visual system of the blood-sucking tsetse fly.  p 
+ p    p 
+ p align="center" class="font1" All text is available under the terms 
+              of the GNU Free Documentation License   p 
+ p align="left" class="font2"    p 
+ p align="left"  b  Kingdom:   b Animalia
+                    p 
+ p align="left"  b  Phylum:   b Chordata
+                    p 
+ p align="left"  b  Class:   b Mammalia
+                    p 
+ p align="left"  b  Order:   b Perissodactyla
+                    p 
+ p align="left"  b  Family:   b Equidae
+                    p 
+ p align="left"  b  Genus:   b Equus
+                    p 
+ p align="left"  b  Subgenus:   b Hippotigris
+                    p 

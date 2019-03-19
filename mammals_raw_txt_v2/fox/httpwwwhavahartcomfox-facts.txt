@@ -1,0 +1,221 @@
+ p 
+                     strong JavaScript seems to be disabled in your browser.  strong  br 
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                  p 
+ p class="block-subtitle" 
+                 span onclick="Enterprise.TopCart.hideCart()" class="close-btn" Close  span 
+                Recently added item(s)              p 
+ p class="cart-empty" 
+                You have no items in your shopping cart.              p 
+ p class="no-display"  a href="http:  www.havahart.com catalogsearch advanced " Advanced Search  a   p 
+ p  a class="level-top level0" href=" shopbyanimal"  span Shop by Animal  span   a   p 
+ p  a class="level-top  level0" href=" how-to"  span How To  span   a   p 
+ p  a class="level-top last" href="http:  www.havahart.com store sale"  span Sale  span   a   p 
+ p  span class="title" Learn  span   p 
+ p  span class="title" Customer Service  span   p 
+ p  span class="title" Shop Our Other Brands  span   p 
+ p  select id="choose-other-animals" 
+ option value="" Choose another animal...  option 
+ option value="how-to-get-rid-of-armadillos" Armadillos  option 
+ option value="how-to-get-rid-of-beavers" Beavers  option 
+ option value="how-to-get-rid-of-birds" Birds  option 
+ option value="how-to-get-rid-of-feral-cats" Cats  option 
+ option value="how-to-get-rid-of-chipmunks" Chipmunks  option 
+ option value="how-to-get-rid-of-deer" Deer  option 
+ option value="how-to-get-rid-of-dogs" Dogs  option 
+ option value="how-to-get-rid-of-foxes" Foxes  option 
+ option value="how-to-get-rid-of-gophers" Gophers  option 
+ option value="how-to-get-rid-of-groundhogs" Groundhogs  option 
+ option value="how-to-get-rid-of-mice" Mice  option 
+ option value="how-to-get-rid-of-minks" Minks  option 
+ option value="how-to-get-rid-of-moles" Moles  option 
+ option value="how-to-get-rid-of-mosquitoes" Mosquitoes  option 
+ option value="how-to-get-rid-of-muskrats" Muskrats  option 
+ option value="how-to-get-rid-of-opossums" Opossums  option 
+ option value="how-to-get-rid-of-rabbits" Rabbits  option 
+ option value="how-to-get-rid-of-raccoons" Raccoons  option 
+ option value="how-to-get-rid-of-rats" Rats  option 
+ option value="how-to-get-rid-of-shrews" Shrews  option 
+ option value="how-to-get-rid-of-skunks" Skunks  option 
+ option value="how-to-get-rid-of-snakes" Snakes  option 
+ option value="how-to-get-rid-of-squirrels" Squirrels  option 
+ option value="how-to-get-rid-of-voles" Voles  option 
+ option value="how-to-get-rid-of-weasels" Weasels  option 
+  select   p 
+ p Foxes are smart, secretive creatures, which is probably what makes them so fascinating. Foxes can also be destructive — they often cause extensive property damage when scavenging for food, and they pose a significant threat to poultry farmers. Below are a few interesting fox facts to help you get to know your adversary.  p 
+ p class="animal-checkmark" Most Common U.S. Species:  p 
+ p class="animal-checkmark" Average Size: 32-50" long (including tail); 7-15 lbs.  p 
+ p class="animal-checkmark" Average Lifespan in the Wild: 1-3 years.  p 
+ p class="animal-checkmark" Identifying Features: dog-like appearance; reddish or greyish goat with lighter under fur; pointed ears and a snout with a black nose; long, bushy tail.  p 
+ p Over 20 species of foxes can be found inhabiting every continent of the world, except for Antarctica. The most common fox is the red fox, which has a range throughout most of North America, Eurasia and Australia.  p 
+ p The U.S. is home to four different fox species: the red fox, gray fox, swift fox and kit fox. The red fox is most populous, followed by the gray fox, and these two species have the most widespread ranges throughout the country.  p 
+ p Foxes are extremely adaptable - they can thrive in a variety of environments including in and around human habitats such as farms and suburban neighborhoods. While they’re quite flexible, red foxes favor open spaces with available cover. One important element of a fox’s environment is a nearby source of freshwater like a stream, creek or lake.  p 
+ p The feeding habits of a fox are opportunistic. Foxes are omnivores that eat a variety of plant and animal matter, depending on what’s available in thier habitats. Known as cunning predators, foxes commonly hunt small vertibrates and invertibrates, and they’re commonly found raiding farms and other livestock facilities.  p 
+ p Some favorite foods include:  p 
+ p class="animal-checkmark"  span class="lc-lg-text" Activity:  span  Foxes are crepuscular - mostly active during the low-light hours of the early morning and early evening.  p 
+ p class="animal-checkmark"  span class="lc-lg-text" Reproduction:  span  Mating occurs once per year, beginning in early winter. Females give birth to an average of 4-6 pups between March and May.  p 
+ p class="animal-checkmark"  span class="lc-lg-text" Social Interaction:  span  Foxes typically live in small family groups. Within the family group, a strict hierarchy of dominance is established where some kits thrive and others do not. When the young disperse from the group, they are solitary until they find a mate.  p 
+ p class="animal-checkmark"  span class="lc-lg-text" Communication:  span Vocalizations and body language are used to communicate a variety of sentiments among foxes. For example, movements of their ears and tails may communicate dominance, submission, or flirtation. A range of calls and other sounds may indicate pleasure, displeasure, fear or simply a greeting.  p 
+ p The majority of fox damage occurs when they are foraging for food in your garden, farm, barn or poultry house.  p 
+ p Some signs of damage include:  p 
+ p class="animal-checkmark" Foxes are born deaf, blind, and toothless. Their eyes and ears only open for the first time after about two weeks of weaning.  p 
+ p class="animal-checkmark" Male foxes are called "dogs" and females are called "vixens".  p 
+ p class="animal-checkmark" Gray foxes are very skilled climbers, known to scale trees and fences when hunting for food.  p 
+ p class="animal-checkmark" Whiskers are found not only on a fox's face, but also his legs. This helps him to better navigate in his dark den.  p 
+ p class="animal-checkmark" A group of foxes is reffered to as a "leash", "skulk" or "earth".  p 
+ p class="animal-checkmark" Like cats, foxes have vertially oriented pupils, which help them to see in low-light situations.  p 
+ p 
+ script type="text javascript" src="http:  s7.addthis.com js 300 addthis_widget.js#pubid=woodstreamcorp"   script 
+  p 
+ p 
+  p 
+ p Related Products  p 
+ p 	  p 
+ p  
+   
+     script type="text javascript"     ![CDATA[
+(function($) {
+    
+    "use strict";
+    
+    var siteUrl = window.location.hostname;     
+    var sites = [
+        'www.victorpest.com','www.terro.com', 'www.saferbrand.com', 'www.havahart.com', 'www.perkypet.com', 'www.mosquitomagnet.com', 'www.zarebasystems.com'
+    ];
+    var idx = sites.indexOf(siteUrl) + 1;
+    if (idx   0) {
+        $('#brand-slider .panel:nth-child(' + idx + ')').remove();
+    }
+    
+    var BrandSlider = function(id) { 
+        var that = this;
+        this.tmpIdx = 0;
+        this.animationSpeed = 300; 
+        this.id = id;
+        this.count = $(this.id).find('.panel').length;
+        this.prevSlide = function() {
+            var visible = that.visibleItems();
+            var target = $(that.id).find('.panel-wrap');            
+            $(that.id).find('.panel-wrap').css({'left':-1 * (visible * that.itemWidth())});
+            $(that.id).find('.panel').slice(-1 * visible).clone().prependTo(target);
+            
+            $(that.id).find('.panel-wrap').animate({'left':0}, that.animationSpeed, function() {
+                $(that.id).find('.panel').slice(-1 * visible).remove();
+            });
+            $(that.id).find('.panel').attr('aria-hidden', true);
+            $(that.id).find('.panel:first-child').attr('aria-hidden', false);
+        };
+        this.nextSlide = function() {   
+            var count = that.visibleItems();
+            var target = $(that.id).find('.panel-wrap');
+            $(that.id).find('.panel').slice(0,count).clone().appendTo(target);
+            $(that.id).find('.panel-wrap').animate({'left':-1 * (count * that.itemWidth())}, that.animationSpeed, function() {
+                $(that.id).find('.panel').slice(0,count).remove();
+                $(that.id).find('.panel-wrap').css({'left':0});
+                $(that.id).find('.panel').attr('aria-hidden', true);
+                $(that.id).find('.panel:first-child').attr('aria-hidden', false);
+            });
+        };
+        this.clickActive = function() {
+            $(that.id).find('.panel[aria-hidden="false"] a')[0].click();
+        };
+        $(this.id).find('.ctrl.right').on('click', function() { 
+            var target = $(that.id).find('.panel-wrap');
+            if (!target.is(':animated')) { that.nextSlide(); }
+        });    
+        $(this.id).find('.ctrl.left').on('click', function() { 
+            var target = $(that.id).find('.panel-wrap');
+            if (!target.is(':animated')) { that.prevSlide(); }
+        });
+        
+        var startX, endX;
+        
+        $(this.id)[0].addEventListener('touchstart', function(e) { 
+            startX = parseInt(e.changedTouches[0].pageX);
+        }, { capture:true, passive: true});      
+        $(this.id)[0].addEventListener('touchend', function(e) {  
+            endX = parseInt(e.changedTouches[0].pageX); 
+            var xMove = startX - endX;              
+            if (xMove   30 || xMove   -30) { 
+                if (xMove   0) { $(that.id).find('.ctrl.right').trigger('click'); } else { $(that.id).find('.ctrl.left').trigger('click'); }
+            }
+        });        
+        $(this.id).on('keyup', function(e) {
+            var target = $(that.id).find('.panel-wrap');
+            if (!target.is(':animated')) {
+                switch(e.which) {
+                    case 37: that.prevSlide(); break;
+                    case 39: that.nextSlide(); break;
+                    case 13: that.clickActive(); break;
+                }
+            }
+        });
+        $(window).on('resize', function() { that.setMaskWidth(); });
+        this.setMaskWidth();
+    };
+    BrandSlider.prototype.itemWidth = function() {
+        var slideWidth = $(this.id).find('.panel').outerWidth(true);
+        return slideWidth;
+    };
+    BrandSlider.prototype.containerWidth = function() {
+        return $(this.id).innerWidth();
+    };
+    BrandSlider.prototype.navWidth = function() {
+        return $(this.id).find('.ctrl').innerWidth();
+    };
+    BrandSlider.prototype.maxMaskWidth = function() {
+        var maskWidth = (this.containerWidth() - (2 * this.navWidth()));
+        return maskWidth;
+    };
+    BrandSlider.prototype.visibleItems = function() {
+        var visible = Math.floor(this.maxMaskWidth()   this.itemWidth());
+        if (visible   this.count) { visible = this.count; }
+        return visible;
+    };
+    BrandSlider.prototype.setMaskWidth = function() {
+        var maskWidth = this.visibleItems() * this.itemWidth();
+        $(this.id).find('.slider-mask').css({'width':maskWidth + 'px'});
+        if (this.count   this.visibleItems()) { $(this.id).find('.ctrl').show(); } else { $(this.id).find('.ctrl').hide(); }
+    };
+    BrandSlider.prototype.setItemWidth = function() {
+        $(this.id).find('.panel').css({'width':this.itemWidth()});
+    };
+
+    var sliderList = $('.brand-slider:not(".ignore")');
+    var sliderArray = [];
+    sliderList.each(function(index) {
+        var id = $('#' + $(this).attr('id'));    
+        sliderArray[index] = new BrandSlider(id);    
+
+    });
+    
+})(jQuery);
+   ]]   script  
+  p 
+ p class="read-blog a-center"  a title="READ OUR BLOG" href=" articles" target="_self" READ OUR ARTICLES &amp; TIPS  a   p 
+ p  !--{NEWSLETTER_SUBSCRIBE_c51cb058016e2cfb65466f0a27af2db5}--       p 
+ p class="deals-tips " Get Exclusive Deals &amp; Tips with Our eNewsletter!  p 
+ p class="rewards-learn-more"  a title="Learn More" href="http:  www.havahart.com faq#whyenews" Learn More  a   p 
+ p class="need-help-title" Need Help?  p 
+ p class="ph-no"  a title="Havahart Phone Number" href="tel:1-8555-4282-4278" 1-855-5-HAVAHART  a   p 
+ p class="email-us"  a title="EMAIL US" href="http:  www.havahart.com contact-us " Email Us  a   p 
+ p class="read-blog a-center"  a title="READ OUR BLOG" href=" articles" target="_self" READ OUR ARTICLES &amp; TIPS  a   p 
+ p  !--HH US Footer Logos (Blue) hh-us-footer-logos-blue 267-- 
+  p 
+ p © 2019 Woodstream Corporation. All Rights Reserved.  p 
+ p 69 N. Locust St. Lititz, PA 17543  p 
+ p 
+ script type="text javascript"     ![CDATA[
+jQuery(document).ready(function() { 
+        setTabHeight(); 
+    }); 
+
+    jQuery(window).resize(function() { 
+        setTabHeight(); 
+    }); 
+
+    function setTabHeight() { 
+        var tabHeight = jQuery('.tab-container').height(); 
+        jQuery('#collateral-tabs-cms').css({'height':tabHeight}); 
+    }
+   ]]   script 
+  p 

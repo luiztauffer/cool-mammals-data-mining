@@ -1,0 +1,24 @@
+ p They come from a land down under. Most tree kangaroos live in the rainforests of Papua New Guinea and some live in northern Queensland, Australia.  p 
+ p Our tree kangaroos are called Kitawa and Mian and they are both two-years-old.  p 
+ p It is hoped that Mian, who came from Perth in Australia, and Kitawa from Beauval Zoo in France will breed and help to increase the population of tree kangaroos which are Critically Endangered in the wild.  p 
+ p In the wild tree kangaroos have adapted to life in the trees, with shorter legs and stronger forelimbs for climbing. They have been described as a looking like a cross between a kangaroo and a lemur.  p 
+ p The have reddish brown fur for camouflage, long rounded claws and rough gripping skin on their feet for climbing, as well as strong legs.   p 
+ p Tree kangaroos have a good sense of smell which they use for sniffing out leaves, buds and fruits.   p 
+ p Most tree kangaroos live in the rainforests of Papua New Guinea and some live in northern Queensland, Australia.  p 
+ p Our new inhabitants are part of a managed European breeding programme for the species. It is hoped that they will breed in future, and boost numbers of this rare species in captivity.   p 
+ p In the wild tree kangaroos have suffered from hunting and a loss of habitat. At least one species is close to becoming extinct. Another, the Dingiso tree kangaroo, has seen its population fall by more than 80 per cent during the past 30 years. Many of the areas where they used to live have been lost to logging or timber  production or used to grow wheat, rice and coffee plants. This loss of habitat can also leave tree kangaroos prey to domestic dogs.  p 
+ p The tail of each tree kangaroo has a unique pattern.  p 
+ p You can find our Goodfellow's tree kangaroos near the Herbaceous Border, opposite the Conservation Education Centre.  p 
+ p class="panel-body" Help us save endangered wildlife across the world.  p 
+ p class="panel-body" Find out what's on when you visit and what events are coming up.  p 
+ p class="panel-body" Sign up to our newsletter to recieve the latest zoo news.  p 
+ p class="supporting-detail" Book online &amp; save on your admission tickets  p 
+ p class="supporting-detail" style="margin: -10px 20px 0 20px; position: relative; z-index: 10;" Book online &amp; save on your admission tickets  p 
+ p class="large-cta__tagline" Visit whenever you want  p 
+ p class="large-cta__tagline" Online prices will always be cheaper  p 
+ p class="leading leading--success" You are now on our mailing list!  p 
+ p class="leading leading--success" Please fill in the missing fields  p 
+ p class="leading" Sign up to our newsletter to receieve the latest zoo news.  p 
+ p class="email-signup__terms-text" By signing up to the newsletter, you are agreeing to our
+                             a href=" zoo-information privacy-policy" terms and conditions  a 
+                            p 

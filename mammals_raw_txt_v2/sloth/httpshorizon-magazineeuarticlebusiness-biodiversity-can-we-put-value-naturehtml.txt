@@ -1,0 +1,74 @@
+ p class="off-screen" Language selector  p 
+ p Horizon articles can be republished for free under the  a href="https:  eur-lex.europa.eu LexUriServ LexUriServ.do?uri=OJ:L:2011:330:0039:0042:EN:PDF" target="_blank" EU’s copyright notice  a , provided the source is acknowledged. We ask you to do this by linking back to our original story.  p 
+ p HTML for this article, including the attribution and page view counter, is below:  p 
+ p  strong Nature provides people with everything from food and water to timber, textiles, medicinal resources and  a href="http:  ec.europa.eu environment nature biodiversity strategy target2 index_en.htm" target="_blank" rel="noopener noreferrer" pollination  a  of crops. Now, a new approach aims to measure exactly what a specific ecosystem supplies in order to incentivise decision-makers and businesses to help combat biodiversity loss.  strong   p 
+ p The concept of quantifying these so-called ecosystem services, which has grown in recent years, has proved controversial for some environmentalists who oppose reducing nature to numbers. Others see it as a way to get businesses and policymakers to account for nature to make better decisions that preserve biodiversity.  p 
+ p First, though, working out what ecosystem services we have, and how much of them, requires mapping where they are. To aid this process, a project called  a href="https:  cordis.europa.eu project rcn 193873 factsheet en" ESMERALDA  a  tested tools and methods to help decision-makers map and assess ecosystem services across Europe.  p 
+ p The end result is an open access  a href="http:  maes-explorer.eu " online tool  a  that provides full guidance for mapping and assessing ecosystem services.  p 
+ p ‘The key message is to show the human dependence on functioning nature. Everything that we get and receive is related to ecosystems and their functions, and biodiversity,’ said Professor Benjamin Burkhard, a geographer at Leibniz University in Hannover, Germany, and project coordinator of ESMERALDA.  p 
+ p ‘If we can really show how much a tree, for example, provides us with fresh air or how much carbon it’s sequestering, I think we will have more appreciation of nature’s contribution in society and decision-making,’ he said.  p 
+ p  strong Land use  strong   p 
+ p ESMERALDA’s approach takes into account three areas – biophysical, which refers to physical factors such as land use or volume of greenhouse gases – sociocultural and economic.  p 
+ p In its  a href="http:  www.maes-explorer.eu page overview_of_esmeralda_case_studies" target="_blank" rel="noopener noreferrer" country case studies  a , ESMERALDA assessed different ways of valuing the three areas. For example, a study on Germany’s  a href="http:  www.maes-explorer.eu files ckeditor FlGYcuyo1YsDMwx7Dm8x9XPNr5sMqPRwa1PkFziy.pdf" target="_blank" rel="noopener noreferrer" Bornhöved Lakes District  a  combined biophysical data such as crop volumes and numbers of pollinators with sociocultural information including a survey of people on the aesthetic values of landscapes.  p 
+ p Prof. Burkhard says that a wide-ranging assessment is important to obtain a full picture. ‘It doesn’t help you to only have an economic value, but it also doesn’t help you to only have a social value. You need to have the whole set of biophysical, social and economic values for a perfect assessment,’ he said.  p 
+ p 
+  p 
+ p ‘I’m an ecologist and would be happier if people were convinced just by having nice nature and lots of species – but this is not the way the world works at the moment, and usually the most convincing argument is money.’  p 
+ p Prof. Benjamin Burkhard, geographer, Leibniz University, Hannover, Germany  p 
+ p On the thorny issue of attaching economic values to nature, he says this approach can help raise awareness among policymakers and businesses.  p 
+ p ‘I think it’s at least a good tool to convince many people,’ he said. ‘I’m an ecologist and would be happier if people were convinced just by having nice nature and lots of species – but this is not the way the world works at the moment and usually the most convincing argument is money.’  p 
+ p Prof. Burkhard says that awareness among EU decision makers about ecosystem services has grown over the course of the three-and-a-half-year project, which ended last July. The next stage for upcoming projects will be to start applying the ESMERALDA methodology in real-life situations, such as policymaking at a national level on issues such as agriculture, or local spatial planning.  p 
+ p For Guy Duke at the Institute of Chartered Accountants in England and Wales (ICAEW) valuing the world’s natural capital – its stock of natural assets – could help businesses make more environmentally sustainable decisions. However, he says that we are only at the ‘tip of the iceberg’ in terms of the number of companies that have started to understand and address this. ‘There’s a very long way to go,’ he said.  p 
+ p Duke leads the  a href="https:  cordis.europa.eu project rcn 219525 factsheet en" EU-VNP-Net  a  campaign - also known as We Value Nature - which seeks to encourage businesses to embed the value of nature into their decision-making and apply the Natural Capital Protocol. This is a global set of standards that allows businesses to identify, measure and value what role natural capital plays in their business. The project is run by ICAEW, and other organisations that are part of the international collaboration, the Natural Capital Coalition.  p 
+ p  strong Catalyst  strong   p 
+ p ‘We see our role very much as a catalyst of this idea,’ said Duke. ‘There has been a sea change in recent years, with the whole paradigm of natural capital finding its way into the policy space and business.’    p 
+ p Since launching last November, the project has started reviewing barriers and bottlenecks that impede businesses from investing in natural capital, with training to be later developed for companies.  p 
+ p Duke says one aim is to identify industry sectors in which action will bring the most benefit to nature, followed by specific businesses in those sectors and then individuals with the most influence on shaping decisions that affect natural capital and biodiversity.  p 
+ p Richard Spencer, head of sustainability at ICAEW, believes the approach is necessary. ‘To get business to grasp the quite perilous position we’re getting to, you’ve got to couch it in terms that people such as finance directors understand,’ he said. ‘If it’s economically invisible, people don’t make decisions about it.’  p 
+ p Spencer says some companies have recognised, for example, that restoring wetlands acts as an effective flood defence, thus saving money.  p 
+ p  strong Nature  strong   p 
+ p Spencer stresses that the project is not about attaching a single price that commoditises nature but about ascribing a value through a mix of descriptive information and numbers to build a complete story. ‘We never, ever put a price on nature,’ he said.  p 
+ p Natural capital is, however, far from an easy bedfellow of biodiversity and the term has provoked fierce debate among environmental activists such as the British campaigner  a href="https:  www.theguardian.com commentisfree 2018 may 15 price-natural-world-destruction-natural-capital" target="_blank" rel="noopener noreferrer" George Monbiot  a  who argue that the concept is not only wrong, but counterproductive.  p 
+ p Dr Berta Martín-López, a professor for sustainability science at the Leuphana University of Lüneburg, Germany, who worked on an earlier ecosystem services project called  a href="https:  cordis.europa.eu project rcn 105523 factsheet en" target="_blank" rel="noopener noreferrer" OpenNESS  a , warns future biodiversity programmes against putting too much stock in monetary value as a whole.  p 
+ p ‘To me, the homogenisation of world views to only one simplistic view that fits with the mindset of monetary values and capitalism is the most dangerous pressure for biodiversity,’ she said.  p 
+ p ‘By expressing values of nature only in monetary terms, we are not only overlooking the plural ways by which people give importance to nature, but also neglect multiple actors’ voices and their needs and interests.’  p 
+ p Dr Martín-López highlighted that nature goes far beyond just providing basic services – it also offers intangible, non-material benefits that cannot be valued in monetary terms.  p 
+ p ‘The multiple ways by which people develop relationships with nature contribute to the construction of our cultural identity, sense of place and belonging,’ she said.  p 
+ p The approaches that will pave the way for the future, she says, are those that ‘foster a diversity of world views’.  p 
+ p  em The research in this article was funded by the EU. If you liked this article, please consider sharing it on social media.  em   p 
+ p 
+  p 
+ p Valuing the services that we get from nature can also provide a new source of solutions to some of today's most pressing issues such as urbanisation and pollution.  p 
+ p Incorporating more natural features such as trees, parks, green roofs and walls, and water features into Europe's cities, for example, could help to cool the climate, improve air quality and restore habitats and biodiversity.  p 
+ p The EU supports research into  a href="http:  ec.europa.eu research environment index.cfm?pg=nbs" target="_blank" rel="noopener noreferrer" nature-based solutions  a  in order to encourage their development and uptake, with a particular focus on re-naturing cities and territorial resilience.  p 
+ p Sign up for our weekly news alert  p 
+ p  a href="https:  cordis.europa.eu project rcn 193873 factsheet en" target="_blank" rel="noopener noreferrer" ESMERALDA  a    p 
+ p  a href="https:  cordis.europa.eu project rcn 105523 factsheet en" target="_blank" rel="noopener noreferrer" OpenNESS  a   p 
+ p  a href="https:  cordis.europa.eu project rcn 219525 factsheet en" target="_blank" rel="noopener noreferrer" EU-VNP-Net  a   p 
+ p Sloths and guppies appear to have little in common – one is an arboreal mammal living in the slow lane, while the other is a tiny tropical fish with a frantic existence. Yet both could hold the key to better understanding a fundamental process of evolution.
+  p 
+ p class="readmore" Read more  p 
+ p Ecosystems that contain only a few bee species underperform in terms of plant production whereas those with many different species thrive, according to research which highlights the importance of bee diversity to securing the world’s food supply. 
+  p 
+ p class="readmore" Read more  p 
+ p Europe’s position on privacy, regulation and competition could be a key way to attract entrepreneurs who share those values but there is still some work to do in encouraging ambition, according to Nicklas Bergman, a Swedish entrepreneur and technology investor. 
+Over the past two years, he and other entrepreneurs have advised the European Commission on the design of the European Innovation Council (EIC), an initiative to support companies, researchers and entrepreneurs hoping to start their own business or scale up their projects internationally. The second phase of the pilot was launched on 18 March 2019. 
+  p 
+ p class="readmore" Read more  p 
+ p Turns out, green fuels are rocket science.
+  p 
+ p class="readmore" Read more  p 
+ p 
+    He has advised the EU on its new European Innovation Council.  img src=" sites all themes horizon images icon-next.png" width="12" height="10" alt="Read more" 
+    p 
+ p 
+    3D printed catalysts and new propellant types are making rockets more environmentally-friendly.  img src=" sites all themes horizon images icon-next.png" width="12" height="10" alt="Read more" 
+    p 
+ p Sign up for our weekly news alert  p 
+ p 
+    Species loss needs urgent international action, says Prof. Georgina Mace.  img src=" sites all themes horizon images icon-next.png" width="12" height="10" alt="Read more" 
+    p 
+ p 
+    We are entering a second era of lunar exploration, says ESA’s Dr David Parker.  img src=" sites all themes horizon images icon-next.png" width="12" height="10" alt="Read more" 
+    p 
+ p Science is currently undergoing a revolution thanks to a new approach to the scientific process based on openness, inclusiveness and cooperation, known as Open Science.  p 

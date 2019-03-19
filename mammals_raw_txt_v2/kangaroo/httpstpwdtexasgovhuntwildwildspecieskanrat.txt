@@ -1,0 +1,15 @@
+ p class="centerstuff notopmargin" 
+ abbr class="help" title="Texas Parks and Wildlife Department" TPWD  abbr  ©  p 
+ p class="info" Your contact information is used to deliver requested updates or to access your subscriber preferences. Children under 13 years of age must have a parent guardian's consent before providing
+                any personal information to the agency.  p 
+ p  span class="icon material-icons" aria-label="user circle" aria-hidden="true" account_circle  span  
+                 span ga-on="click" ga-event-category="On-page Email Sign-up" ga-event-action="granicus login" ga-event-label="Manage My Subscription" 
+                   a href="https:  public.govdelivery.com accounts TXPWD subscriber new?preferences=true#tab1" title="Manage My Subscriptions" Manage My Subscriptions  a 
+                  span 
+                p 
+ p  span class="icon material-icons" aria-label="archive" aria-hidden="true" archive  span  
+                   a ga-on="click" ga-event-category="On-page Email Sign-up" ga-event-action="click newsletter archive link" ga-event-label="E-Newsletter Archive" href=" publications newsletters enews_archive.phtml" title="E-Newsletter Archive" E-Newsletter Archive  a 
+                  p 
+ p class="subscriber" Email subscriber  a href="https:  insights.govdelivery.com Communications Subscriber_Help_Center GovDelivery_Privacy_Policy" title="Email Subscriber Privacy Policy" privacy policy  a 
+                 and  a href="https:  insights.govdelivery.com Communications Subscriber_Help_Center Browser_cookies" title="Email Subscriber Cookie Statement" cookie statement  a .
+                p 

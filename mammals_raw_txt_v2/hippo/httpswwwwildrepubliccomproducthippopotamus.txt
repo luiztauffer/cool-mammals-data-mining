@@ -1,0 +1,20 @@
+ p  i class="fa fa-paw" aria-hidden="true"   i  Genus:  strong Hippopotamus amphibius  strong   p 
+ p  i class="fa fa-compass" aria-hidden="true"   i  Location:  strong Africa  strong   p 
+ p Hippos will only eat about 1 percent of their body weight in a single evening, which is a very low percentage for such a large animal.  p 
+ p The hippo does not sweat, but is secreting a reddish substance that protects its skin from sunburn and keeps it moist.  p 
+ p A hippo’s hide alone can weigh half a ton.  p 
+ p The name hippopotamus comes from the Greek words ’hippos,’ meaning horse, and ’potamus,’ meaning river. But hippos are not related to horses at all – they are more closely related to pigs.  p 
+ p Hippos will only eat about 1 percent of their body weight in a single evening, which is a very low percentage for such a large animal.  p 
+ p The hippo does not sweat, but is secreting a reddish substance that protects its skin from sunburn and keeps it moist.  p 
+ p A hippo’s hide alone can weigh half a ton.  p 
+ p The name hippopotamus comes from the Greek words ’hippos,’ meaning horse, and ’potamus,’ meaning river. But hippos are not related to horses at all – they are more closely related to pigs.  p 
+ p  strong Adapted for Living in Water  strong  br 
+The hippopotamus or hippo is well adapted for life in the water. These huge animals are found living in slow-moving rivers and lakes in Africa.  With their eyes, ears, and nostrils on the top of the head, hippos can hear, see, and breathe while most of their body is underwater. Hippos also have a set of built-in goggles – a clear membrane which covers their eyes for protection while still allowing them to see underwater. Their nostrils close and they can hold their breath for five minutes or longer when underwater. Yet, in spite of all these adaptations, a hippo is not a good swimmer! Instead, it walks or runs on the river bed. Its grayish body has very thick skin which is virtually hairless. Despite their great weight, hippos can run very fast indeed.  p 
+ p The hippopotamus is the third-largest living land mammal, after elephants and white rhinos.  There are only two types of hippopotamus in the hippo family. One is the common hippo, also known as the river hippo and the other is the much rarer pygmy hippopotamus. The river hippo can grow up to 13 feet in length, and weigh as much as a small truck – around 5000 pounds. The pygmy hippo is much smaller. River hippos spend the majority of their daylight hours in the water to keep cool. They leave the rivers and lakes at night in search of food, often having to travel great distances to find what they like to eat which is grass. They will eat other plants if no grass is available. The main threat to hippos comes from the loss of its grazing lands to development.  p 
+ p class="adr"  span class="street-address" 1955 Midway Drive  span  br 
+ span class="locality" Twinsburg  span  br 
+ span class="region" Ohio  span   span class="postal-code" 44087   span  span class="country-name" US  span   p 
+ p  span class="tel"  a class="value" href="tel:800-800-9678"  strong 800-800-9678  strong   a   span class="type" Toll-Free  span   span  br 
+ span class="tel"  a class="value" href="tel:330-425-2550" 330-425-2550  a   span class="type" Local  span   span  br 
+ span class="tel"  span class="value" 330-425-3777  span   span class="type" Fax  span   span   p 
+ p class="white-text" style="text-align: center;" ©2019. Wild Republic. All rights reserved.  p 

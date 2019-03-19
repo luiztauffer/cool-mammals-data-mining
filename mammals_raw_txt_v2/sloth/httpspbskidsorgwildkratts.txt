@@ -1,0 +1,12 @@
+ p Games  p 
+ p Videos  p 
+ p Creaturepedia  p 
+ p class="forparents" For Parents  p 
+ p Presented By  p 
+ p Major Funding Provided By br 
+                         span 
+                         a href="https:  www.omdc.on.ca "  img alt="OMDC" src=" wildkratts img footer logo_omdc.png" width="93" height="59"   a 
+                         a href="https:  bellfund.ca "  img alt="Bell Fund" class="bell" src=" wildkratts img footer logo_bell.png" width="49" height="61"   a 
+                      span 
+                      p 
+ p Wild Kratts® © 2015 Kratt Brothers Company Ltd.   9 Story Media Group Inc. Wild Kratts® and Creature Power® and associated characters, trademarks, and design elements are owned by Kratt Brothers Company Ltd. Licensed by Kratt Brothers Company Ltd. All Rights Reserved.  p 

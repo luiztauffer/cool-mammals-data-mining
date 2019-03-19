@@ -1,0 +1,32 @@
+ p id="headerLogo"  a href=" zoo " title="Marwell Zoo"  span class="spider"  strong Marwell Zoo  strong   span   a   p 
+ p  i class="fa fa-map-marker redText"   i  In with the greater rhea and tapirs behind the gift shop and alongside the flamingoes. script type="text javascript" document.write(" br  a href=\"#\" onclick=\"return animalLocationMap('Capybara',783,704);\" Show on map  i class='fa fa-angle-right'  \ i  \ a ");  script   p 
+ p  strong Status  strong  Least Concern  p 
+ p  strong Size  strong  Head-body length: 100-130cm; shoulder height: up to 50cm   p 
+ p  strong Weight  strong  27-79kg   p 
+ p  strong Gestation  strong  149-156 days   p 
+ p  strong Young  strong  1-8  p 
+ p  strong Life span  strong  Up to 12 years  p 
+ p Capybaras mostly eat grasses, but will also eat aquatic plants, grains, melons and squashes.  p 
+ p Capybaras are found in most of South America east of the Andes. They live in a variety of habitats close to water, including marshes, estuaries, and in dense vegetation alongside rivers, lakes, ponds and streams.  p 
+ p Young capybaras are able to follow their mother and can eat grass very soon after being born. They are weaned by 16 weeks of age. Capybaras live in family groups of between 2 and 20 individuals, with one male who is dominant and able to mate with the females.  p 
+ p Capybaras, especially young ones, are preyed upon by many large predators including anacondas, caimans, jaguars and humans. Capybaras always remain alert for predators whilst grazing, and they will give a bark if they spot a threat. Capybaras are strong swimmers, and if they are chased they will head towards water and try to swim to safety.  p 
+ p The main threat faced by capybaras is hunting for meat and leather, although there are now some commercial capybara farms which have reduced the demand for capybaras caught in the wild. Capybaras are widely distributed and common in many places, and are found in many protected areas.  p 
+ p Capybaras are the world’s largest living rodent.  p 
+ p Capybaras are excellent swimmers. When they swim only their nostrils, eyes and ears are above the surface. They sometimes hide in floating vegetation, with only their nostrils above the water.   p 
+ p These animals are able to dive and swim completely underwater.  p 
+ p Capybaras are commonly found in groups of up to 20, but as many as 64 have been seen together.  p 
+ p Check our  a href=" zoo tickets-experiences ticket-prices-and-offers" ticket prices  a  or...  p 
+ p  a class="nextButton softFullWidth" href=" booking "  strong Book tickets span class="inline lt-hide"  online  span   strong   a   p 
+ p id="footerStreetAddress" itemscope itemtype="http:  schema.org PostalAddress" 
+															 span itemprop="name" Marwell Wildlife  span ,
+															 span itemprop="addressLocality" Thompsons Lane, Winchester, Hampshire  span 
+															 span itemprop="postalCode" SO21 1JH  span .  p 
+ p id="footerCopyright" class="smallText" Marwell Wildlife is a registered charity, number 275433.
+															 br 
+															 a href="http:  www.redstation.com " target="_blank" Hosted by Redstation  a .
+															 br class="f-hide" © 2017 Marwell Wildlife.
+															 br class="f-hide" 
+															 a href="http:  www.semantic.co.uk " target="_blank" Site designed by Semantic  a .
+															 br class="f-hide" 
+															 a href="https:  www.flickr.com groups marwellphotographiccontributors " target="_blank" Photographic Contributors  a .
+														  p 

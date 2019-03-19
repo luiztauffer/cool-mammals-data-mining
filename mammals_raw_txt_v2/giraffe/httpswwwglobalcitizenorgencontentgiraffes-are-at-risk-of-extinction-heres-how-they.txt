@@ -1,0 +1,69 @@
+ p class="register-flow-link" Not a Global Citizen yet?
+                 a href="#" data-toggle="dialog" data-target="#registerDialog" Sign up  a   p 
+ p 
+          Thanks for signing up as a global citizen. In order to create your account we need you to provide your email address. You can check out our  a href=" about privacy-policy" Privacy Policy  a  to see how we safeguard and use the information you provide us with. If your Facebook account does not have an attached e-mail address, you'll need to add that before you can sign up.
+          p 
+ p  strong This account has been deactivated.  strong   p 
+ p 
+          Please contact us at  a href="mailto:contact@globalcitizen.org" contact@globalcitizen.org  a  if you would like to re-activate your account.
+          p 
+ p 
+        People who want to learn about and take action on the
+        world’s biggest challenges.
+        Extreme poverty ends with you.
+          p 
+ p 
+          
+          Check out original content and videos published every day to help you
+          learn about the issues that mean the most to you.
+          
+          p 
+ p 
+          
+          Send petitions, emails, or tweets to world leaders. Call governments or
+          join rallies. We offer a variety of ways to make your voice heard.
+          
+          p 
+ p 
+          
+          Meet other Global Citizens who care about the same issues you do. Keep
+          updated on what they're doing to change the world.
+          
+          p 
+ p class="learn-more-dropdown-find-out-more"  a href=" about who-we-are " Find out more about Global Citizen  a   p 
+ p class="article-content__meta-info__author-names" 
+              
+
+  By
+  
+    
+       a class="author-link" href=" en authors joe-mccarthy " Joe McCarthy  a   p 
+ p class="article-content__meta-info__author-names" 
+              
+
+  By
+  
+    
+       a class="author-link" href=" en authors joe-mccarthy " Joe McCarthy  a   p 
+ p dir="ltr" The global giraffe population has declined by more than a third over the past 30 years, putting this lanky, curious animal’s future at risk.     p 
+ p dir="ltr" If current trends continue, then giraffes will undergo a “ a href="http:  www.bbc.com news science-environment-38240760" silent extinction  a ,” according to  a href="http:  www.iucnredlist.org " the International Union for the Conservation of Nature  a  (IUCN), vanishing one day without the fanfare that attends the demise of other animals like elephants, lions, rhinos, and tigers.  p 
+ p dir="ltr" “Many species are slipping away before we can even describe them,”  a href="http:  www.iucnredlist.org " said IUCN Director General Inger Andersen  a . “This IUCN Red List update shows that the scale of the global extinction crisis may be even greater than we thought. Governments gathered at the UN biodiversity summit in Cancun have the immense responsibility to step up their efforts to protect our planet’s biodiversity – not just for its own sake but for human imperatives such as food security and sustainable development.”  p 
+ p dir="ltr" The relative invisibility of the giraffe’s bleak position is partly because it isn’t the target of a lurid international poaching network. Elephants get their tusks carved off, rhinos get their horns hacked away, and lions get their heads mounted on boards, but giraffes aren’t prized in this way and so a visceral campaign against such a horrid practice can’t be mobilized.  Instead, they’re mostly hunted for their meat.   p 
+ p dir="ltr"  strong Read More:  a href="https:  www.globalcitizen.org en content most-poached-animals-world-environment-day " Top Poached Animals You Can Help Protect  a   strong   p 
+ p dir="ltr"  strong  span class="filer_image_wrapper "  span class="filer_image_wrapper__inner"  img class="filer_image" alt="Two giraffes with spots" src="https:  media.globalcitizen.org thumbnails b2 bd b2bd8f84-b888-4c7a-a7b6-18ca2c2cf35a giraffe_ithala_kzn_south_africa_luca_galuzzi_2004.jpg__2000x1333_q85_crop_subsampling-2_upscale.jpg"  span class="filer_image_info"  span class="author" Image: Getty Images  span   span   span   span   strong   p 
+ p dir="ltr" But the new designation as “vulnerable to extinction” will bring the giraffe much needed awareness and protection.   p 
+ p dir="ltr" Currently, habitat loss, poaching, and civil unrest are the main drivers of their decline. Habitat loss is perhaps the most prominent factor. As humans develop more land, giraffes are pushed out of their habitats. This story is familiar to animals all throughout the world, especially the 24,000 species who are closing in on extinction.   p 
+ p dir="ltr" Poaching mostly occurs in conflict zones, when militants kill giraffes to feed large groups of soldiers. They’re also killed for their skins. In areas of perpetual violence, giraffes are vulnerable to being wiped out altogether and  a href="http:  wwf.panda.org about_our_earth species giraffe_intro " have nearly vanished in some areas  a  like northern Uganda, western Kenya, and northeastern Africa.   p 
+ p dir="ltr" The good news is that in some parts of Africa, giraffes are thriving. In South Africa, giraffe populations have actually risen over the past 30 years.   p 
+ p dir="ltr" This success is because of strong conservation efforts, which are, in turn, supported by tourism. South Africa understands that to maintain its tourism sector, it has to protect wildlife. This leads to robust investments in parks, strong enforcement mechanisms, and ample space for animals like giraffes to roam.   p 
+ p dir="ltr"  strong Read More:  a href="https:  www.globalcitizen.org en content female-anti-poaching-group-saves-animals-crushes-c " Female anti-poachers save animals, become heroes  a   strong   p 
+ p dir="ltr"  strong  span class="filer_image_wrapper "  span class="filer_image_wrapper__inner"  img class="filer_image" alt="world-giraffe-day-HERO.jpg" src="https:  media.globalcitizen.org thumbnails 56 15 5615c3c0-89eb-47eb-9baf-63dbfb4e4bba world-giraffe-day-hero.jpg__1856x1447_q85_crop_subsampling-2_upscale.jpg"  span class="filer_image_info"  span class="author" Image:
+             a href="https:  www.flickr.com photos 38349568@N07 3623250926 in photostream " target="_blank" 
+              Flickr: Charu Juneja
+              a   span   span   span   span   strong   p 
+ p dir="ltr" Because park rangers are well-trained and well-equipped in South Africa, they’re able to guard against the poaching and habitat loss that devastates giraffe populations elsewhere in Africa.  p 
+ p dir="ltr" Conservation and wildlife protection are, in theory, simple strategies, but in practice they’re difficult to execute.   p 
+ p dir="ltr" The menacing capabilities of militias can overwhelm conservation efforts in some areas. Chronic underinvestment can leave park rangers without the resources they need to do their jobs. In some countries, concern for the habitat loss of animals is dismissed as secondary to human demands. And corruption tends to gut efforts to protect wildlife — when government officials are paid off by criminal networks, poaching flourishes.   p 
+ p dir="ltr" For conservation to succeed in the most vulnerable areas, there needs to be international coordination to build the infrastructure and fund the necessary personnel.   p 
+ p dir="ltr" Fortunately, conservation is an attractive economic model that can ultimately become self-sustaining. When a landscape is dotted with friendly, spotted creatures that stroll with their gangly necks tilted toward the sun, money from tourism just starts pouring in.   p 
+ p class="copyright" © 2012-2019 Global Poverty Project, Inc All Rights Reserved  p 

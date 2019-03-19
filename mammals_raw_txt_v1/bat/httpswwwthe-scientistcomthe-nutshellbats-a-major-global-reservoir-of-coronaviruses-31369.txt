@@ -1,0 +1,13 @@
+ p 
+	 span class="imageBlock" style="display: inline-block; width: 100%; margin-left: 0; margin-right: 0; margin: 0px;"  img alt="" height="360" src="https:  cdn.the-scientist.com assets articleNo 31369 iImg 3700 b06eeb90-a1a5-4e2d-ba95-d7edc92bb8df-bat.jpg" title="" width="640"  span class="caption" A dusky pipistrelle bat ( em Pipistrellus hesperidus  em ) collected in Uganda  span  span class="reference" KIRSTEN GILARDI, UC DAVIS  span   span Bats host a large variety of coronaviruses across Africa, Asia, and the Americas, according to a study published Monday (June 12) in  a href="https:  academic.oup.com ve article-lookup doi 10.1093 ve vex012"  em Virus Evolution  em   a .  p 
+ p 
+	Scientists had previously determined that bats harbor a variety of deadly pathogens, including those linked to major fatal outbreaks in humans. These include  a href="https:  www.cdc.gov sars about faq.html" severe acute respiratory syndrome (SARS)  a , which spread to dozens of countries and caused more than 700 deaths, and  a href="http:  www.who.int emergencies mers-cov en " Middle East Respiratory Syndrome (MERS)  a , which appeared in 27 countries and has killed more than 600 people.  p 
+ p 
+	The scientists who conducted the research say that information collected from this new study could help predict similar epidemics before they spiral out of control. “It’s time to stop being reactive,” Simon Anthony, a virologist at Columbia University and a study coauthor, tells  a href="http:  www.nature.com news bats-are-global-reservoir-for-deadly-coronaviruses-1.22137"  em Nature  em   a . “The point is to take a different approach and be more proactive by understanding the diversity of viruses out there before they actually emerge.”   p 
+ p 
+	Anthony and colleagues conducted a five-year study of animals that typically carry human diseases—bats, rodents, and non-human primates—in countries with the greatest risk of transmission in Africa, Asia, South America, and Central America. By examining thousands of animals, they identified 100 different coronaviruses, and 91 of those were harbored by bats. They found about ten percent in other animals. Additionally, approximately 10 percent of bats hosted coronaviruses, while only 0.2 percent of other animals were carriers.  p 
+ p 
+	The team also discovered that areas with greater virus diversity were also areas with more diverse bat communities. They also found that in some regions, the viruses were more likely to “jump” between species than others.  p 
+ p 
+	“If we ever want to get ahead of the curve,” Anthony tells  em Nature  em , “we need to learn about the process of emergence in the first place.”  p 
+ p class="uppercase" © 1986 - 2019  em The Scientist  em . All rights reserved.  p 

@@ -1,0 +1,22 @@
+ p class="header-promotion__sub-title"  a href=" sign-up " class="header-promotion__sub-title-link" Sign up to our daily email newsletter  a   p 
+ p class="header-meganav__footer-secondary-links"  a href=" registration " Sign up for free  a  span class="divider" |  span  a href=" educational-access " Educational access  a   p 
+ p class="header-meganav__blurb" A selection of top articles hand-picked by our editors available only to registered users.  p 
+ p class="header-meganav__blurb" Check your subscription package, update your details, renew or upgrade.  p 
+ p class="header-meganav__footer-secondary-links"  a href=" activate-subscription " Activate subscription  a   p 
+ p class="credit" Christer Fredriksson Lonely Planet Getty  p 
+ p class="author-byline" By  span class="author" Karl Gruber  span   p 
+ p That’s one small step for an elephant, but a giant leap for the survival of tiny aquatic animals. In the  a href="https:  www.newscientist.com article mg22630215-700-ugandas-forests-dwindle-as-illegal-settlers-hollow-them-out " swamp forests of Kibale National Park, Uganda  a , every step elephants take can give rise to a footprint-shaped mini-pond. They can hold substantial amounts of water – 200 litres, in the case of one formed of two merged footprints – and  a href="https:  www.newscientist.com article dn27161-icy-pools-are-oases-for-unique-glacier-ecosystems " dozens of invertebrate species  a .  p 
+ p “I was surprised to find out that these footprints were water-filled all year round, and that they harboured such a high diversity,” says Wolfram Remmers at the University of Koblenz in Germany. Surveying 30 such prints over a three-day period in 2014, Remmers and his colleagues found over 60 species, including beetles, spiders and worms – plus tadpoles.  p 
+ p Many smaller species may live there, too – the team’s sampling method meant they only caught things bigger than 2 millimetres.
+                      p 
+ p 
+                          p 
+ p The footprints probably play an important role in allowing these small life forms to spread, as they form a network of connected ponds.  p 
+ p “We assume that [the animals] do ‘pond-hop’, especially since many of them can fly,” says Remmers. “The elephant footprints act as ‘stepping-stone-habitats’.”  p 
+ p This makes the presence of elephants unexpectedly important for tiny aquatic species.  p 
+ p “If the elephants disappear those habitats would vanish,” says Remmers. “It is likely that some species – such as some dragonflies – would have a very hard time finding suitable breeding habitats.” Some aquatic species might disappear locally, he adds.  p 
+ p The findings help us understand how  a href="https:  www.newscientist.com article mg22129580-700-rewilding-bring-in-the-big-beasts-to-fix-ecosystems " large herbivores influence their habitat  a , says Gary Haynes at the University of Nevada, Reno. We already had an inkling of that, because of the way elephants remove trees and create gaps in forests – sometimes even encouraging the formation of grasslands. Their dung is also an important fertiliser.  p 
+ p But evidently they have an impact on the microscopic scale too. “Modern-day elephants and other mega-herbivores shape [their habitats] in ways we are just beginning to fully appreciate,” says Haynes.  p 
+ p class="references" Journal reference:  i African Journal of Ecology  i ,  a href="http:  dx.doi.org 10.1111 aje.12358" DOI: 10.1111 aje.12358  a   p 
+ p More on these topics:   p 
+ p class="print-headline"  a href="https:  www.newscientist.com article mg23130894-500-elephants-footprints-leave-behind-tiny-oases-for-aquatic-life " A shorter version of this article  a  was published in  em New Scientist  em  magazine on 3 September 2016  p 

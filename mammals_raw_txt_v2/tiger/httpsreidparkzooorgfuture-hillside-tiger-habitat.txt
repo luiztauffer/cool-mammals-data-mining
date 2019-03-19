@@ -1,0 +1,26 @@
+ p Open Daily  span 9 a.m. to 4 p.m.  span   p 
+ p OPEN DAILY  span 9 a.m. to 4 p.m.  span   p 
+ p class="description" Bigger Spaces. Smiling Faces.  br 
+It’s all starting now!  p 
+ p class="description" Reid Park Zoo is committed to providing experiences that inspire adults and children to care for wild animals and wild places.  p 
+ p class="description" Always check the daily schedule in the front plaza for Keeper Chats, training demonstrations, and activities for kids.  p 
+ p class="description" Click here for a list of upcoming events at your Zoo  p 
+ p class="description" Reid Park Zoo and Taste of the Wild Catering offer a unique experience for your child’s special day.  p 
+ p class="description" Become a “Parent” to Your Favorite Zoo Animal.  p 
+ p class="description" Share your passion for wildlife and conservation with others.  p 
+ p class="description" Turn your passion into a career.   p 
+ p class="description" Can't make it to the Zoo? No worries. With our Zoo to You Outreach programs, we will come to you!   p 
+ p class="description" pre-school groups, scout groups, friends and family groups; we have a variety of programs for everyone! br 
+  p 
+ p class="description" Looking to take your K-12 students on a field trip to the Zoo? We offer a variety of free resources and discounts for teachers!  p 
+ p class="description" A Family membership pays for itself in less than 2 visits with free, UNLIMITED day-time Zoo admission year round. Join Today!  br 
+  p 
+ p class="description" Reid Park Zoo offers a discounted membership rate to 501 (c) (3) non-profit agencies that are a resource for the Tucson community.  p 
+ p class="description" Support from businesses and organizations help further Reid Park Zoo's commitment to saving wild animals and wild places.  p 
+ p class="description" At Reid Park Zoo – conservation is a part of everything we do  p 
+ p class="description" At Reid Park Zoo we are actively involved with conservation programs around the world.   p 
+ p The new tiger habitat will give the big cats more room to roam while you look with wonder as these magnificent carnivores rest atop a lush landscaped hill.  Enjoy the calming sounds of a bubbling waterfall and stream flowing into a sparkling pool perfect for a feline swim. Come closer for a view like none other as you “touch” the tigers through glass in  a dynamic underwater experience set against a backdrop of ancient temple ruins.  p 
+ p  a class="btn-member" href=" category future-of-your-zoo " style="margin: 15px 0 30px;" New Zoo Blog  a   p 
+ p  a class="btn-member" href=" membership benefits" Become a Member  a  br 
+ a class="btn-donate" href=" donate" Donate Now  a   p 
+ p Subscribe to the Reid Park Zoo newsletter and get zoo updates, animal news, special events and more.  p 

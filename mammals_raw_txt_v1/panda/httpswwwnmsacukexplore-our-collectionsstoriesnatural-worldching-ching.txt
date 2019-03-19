@@ -1,0 +1,23 @@
+ p class="byline" 
+                 span class="category" Natural World  span  br 
+                     span class="readTime" 
+                         i class="icon clock"   i 5 min read
+                      span 
+              p 
+ p class="introText" Meet Ching Ching the panda, one of the world’s most endangered species  in Survival at National Museum of Scotland.  p 
+ p  strong Born  strong   p 
+ p c.1972-73  p 
+ p  strong Died  strong   p 
+ p 1985  p 
+ p  strong Acquired  strong   p 
+ p Gifted by Zoological Society of London  p 
+ p  strong Museum reference  strong   p 
+ p  a href=" explore collection-search-results ?item_id=682963"  span Z.1986.19  span   a   p 
+ p  strong On display  strong   p 
+ p  a href="http:  www.nms.ac.uk national-museum-of-scotland discover-the-museum natural-world " Survival  a  span , Level 5, National Museum of Scotland  span   p 
+ p  strong Did you know?  strong   p 
+ p The panda has been the symbol of the World Wildlife Fund since 1961, when the WWF was founded.  p 
+ p There are thought to be just 1,600 giant pandas (Ailuropoda melanoleuca) left in China, mostly living in the mountain areas of the south west. With their natural forest habitat threatened by agriculture and China’s growing human population, giant pandas are one of the world’s most endangered species.  p 
+ p    p 
+ p This giant panda, Ching Ching, along with her partner Chia Chia, was a gift to Britain from the Chinese Government in 1974. During the Cold War China presented several countries with pandas, so that the gifts of the famous black-and-white bears came to be known as ‘panda diplomacy’.  p 
+ p  span Ching Ching was a much loved resident of  a href="http:  www.zsl.org zsl-london-zoo" target="_blank" London Zoo  a  until her death in 1985, aged 12 or 13. Until recently it has been difficult to breed giant pandas in captivity, and sadly, Ching Ching and Chia Chia never produced any cubs.  span   p 

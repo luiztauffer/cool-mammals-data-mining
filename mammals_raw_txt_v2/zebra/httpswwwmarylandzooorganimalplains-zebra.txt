@@ -1,0 +1,41 @@
+ p Tue., Mar. 19th  p 
+ p tabindex="0" class="sr-only" Open 10:00AM to 4:00PM  p 
+ p tabindex="-1" Open  p 
+ p tabindex="-1" Closed  p 
+ p Renovation update: Elephant Overlook is now closed and the lions are off-exhibit due to construction. The giraffes can still be seen inside Giraffe House. For more information about our exciting project, please visit:  a href="http:  www.marylandzoo.org africanjourney" http:  www.marylandzoo.org africanjourney  a   p 
+ p Eastern and Southeastern Africa  p 
+ p Near Threatened  p 
+ p Herbivore - Grasses  p 
+ p Diurnal  p 
+ p Captive: 35‑40 yrs br 
+Wild: 15‑20 yrs  p 
+ p Single young per birth  p 
+ p Up to 59 in (1.5 m) at shoulders  p 
+ p 500‑800 lbs (227‑363 kg)  p 
+ p There are four species of zebra: Plains, Grevy’s, Cape Mountain, and Hartmann’s Mountain. The Plains Zebra, on exhibit at The Maryland Zoo, is the most common and geographically widespread. It is also known as the Common Zebra or Burchell’s Zebra.  Plains Zebras roam Africa’s grasslands and venture into woodland and marshy areas as well. Check them out in their exhibit in the  em African Journey  em  near the Watering Hole at the Maryland Zoo.  p 
+ p The Plains Zebra is very social and lives in family groups made up of a single stallion, one or more mares, and recent offspring. Group size can vary in response to habitat: the better the grazing opportunity, the larger the group can be. Zebras spend their time grazing and watching for predators. They eat mostly short grasses, but other vegetation as well. They prefer to be near herds of other grazing animals, and family groups will sometimes band together to form large herds. Zebras appreciate safety in numbers. Large numbers reduce the likeliness of any individual animal being attacked and also guarantee more eyes watching for predators.  p 
+ p Plains zebra are often the first grazers to enter a well-vegetated area. Wildebeests and gazelles tend to move in only after Plains zebra have trampled and shortened the grasses.  p 
+ p Predators such as lions and spotted hyenas depend on Plains zebra as a staple of their diets. Humans also hunt them for meat and hides.  p 
+ p And what safari to Africa’s grasslands would be complete without zebra? They are among the wildlife that tourists hope and expect to see. As such, they are important contributors to the growing ecotourism industries of several African nations.  p 
+ p Zebra are always on the lookout for lions and other predators. They know that they are more vulnerable to predators in tall grass, which is why they prefer shorter grasses, especially at night. They also know that they are safer in a group. Individual members of a group will take turns standing watch. Members of the group may try to bite or kick attacking predators in order to protect foals and other herd mates. The zebra’s most reliable defense, though, is to flee!  p 
+ p The stallion in a zebra family group mates with each member of his harem, starting with the most dominant or “alpha” female. Plains zebra mating peaks during the rainy season. Moments after birth, a zebra foal is able to stand, walk, and suckle. It will shadow its mother for months to come. If separated from her or the rest of the group, it is highly vulnerable to attack.  p 
+ p There are far fewer Plains zebra today than there once were because of human pressures such as hunting and encroachment on habitat. However, Plains zebra are not currently a threatened or endangered species.  p 
+ p “Striped Herd,”  em Zoogram  em , Winter 2008, pp. 8-9.  p 
+ p Fall 2008  em Zoogram  em , “News from the Zoo,” p. 4.  p 
+ p tabindex="0" itemprop="name" The Maryland Zoo in Baltimore  p 
+ p tabindex="0" itemprop="streetAddress" One Safari Place  p 
+ p tabindex="0"  span itemprop="addressLocality" Baltimore  span ,  span itemprop="addressRegion" MD  span   span itemprop="postalCode" 21217  span   p 
+ p class="social" 
+						 a target="_blank" href="https:  www.facebook.com MarylandZoo"  span class="sr-only" Facebook - Opens in new window  span  i class="fab fa-facebook-square"   i   a 
+						 a target="_blank" href="https:  twitter.com marylandzoo"  span class="sr-only" Twitter - Opens in new window  span  i class="fab fa-twitter"   i   a 
+						 a target="_blank" href="https:  www.instagram.com marylandzoo"  span class="sr-only" Instagram - Opens in new window  span  i class="fab fa-instagram"   i   a 
+						 a target="_blank" href="https:  www.youtube.com user MarylandZooTV"  span class="sr-only" You Tube - Opens in new window  span  i class="fab fa-youtube"   i   a 
+					  p 
+ p  span tabindex="0" ©2019 The Maryland Zoo in Baltimore  span   br class="mobile"  i class="desktop" .  i   span tabindex="0" All Rights Reserved  span   i .  i   span tabindex="0"  a href="http:  www.missionmedia.com" target="_blank" Made @ MISSION  a   span   p 
+ p itemprop="telephone" 410-396-7102  p 
+ p  a href="mailto:mail@marylandzoo.org" itemprop="email" mail@marylandzoo.org  a   p 
+ p The Zoo's monthly newsletter and news updates.  p 
+ p The latest on endangered species and conservation efforts.  p 
+ p Discounts and news about special Zoo savings.  p 
+ p Exclusive member offers, news &amp; renewal information.  p 
+ p Special program information for teachers and instructors.  p 

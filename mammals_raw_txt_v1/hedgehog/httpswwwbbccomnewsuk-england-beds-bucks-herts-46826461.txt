@@ -1,0 +1,26 @@
+ p class="twite__title" aria-hidden="true" Share this with  p 
+ p class="twite__channel-text" aria-hidden="true" Email  p 
+ p class="twite__channel-text" aria-hidden="true" Facebook  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Twitter  p 
+ p class="twite__channel-text" aria-hidden="true" Pinterest  p 
+ p class="twite__channel-text" aria-hidden="true" WhatsApp  p 
+ p class="twite__channel-text" aria-hidden="true" LinkedIn  p 
+ p class="twite__copy-text" Copy this link  p 
+ p class="twite__new-window" aria-hidden="true" These are external links and will open in a new window  p 
+ p class="story-body__introduction" A fat hedgehog is to have hydrotherapy treatment because he is unable to curl into a ball.  p 
+ p The animal, nicknamed Chunkie by vets, weighs about 850g (1lb 13oz) - almost a third more than he should.   p 
+ p A diet has not worked and volunteers looking after him fear he might never be released into the wild, as hedgehogs need to be able to curl up to help protect themselves from predators.  p 
+ p Chunkie is to spend time in a pool to lose weight and build up muscle.  p 
+ p He will also have an X-ray to see if a problem tucking in one of his front legs is stopping him from curling up properly, although vets suspect it is his weight that is the reason.   p 
+ p The prickly patient is in the care of charity Herts Hogline, based in Bishop's Stortford, Hertfordshire, which looks after sick and injured hedgehogs.  p 
+ p Lynne Garner from the charity said: "We never give in so, if we can get this leg to pop inside his prickly skin, and he can protect himself and hibernate, he will be released.   p 
+ p "If not then he'll have to be kept in captivity for the rest of his life.  p 
+ p "His treatment will include hydrotherapy. Swimming will help him lose weight and build up muscle around his leg."  p 
+ p Hedgehog numbers are continuing to decline in the UK,  a href="https:  www.bbc.co.uk news science-environment-42959766" class="story-body__link" according to a report last year  a .  p 
+ p Figures suggest the animals are disappearing more rapidly in the countryside, as hedgerows and field margins are lost to intensive farming.  p 
+ p class="unit__meta" The BBC is not responsible for the content of external Internet sites  p 
+ p class="top-stories-promo-story__summary top-stories-promo-story__summary--none" The Boeing 737 Max-8 had 157 people on board, including Kenyans, Britons, Canadians and Americans.  p 
+ p class="heron__item-summary" Have you been getting these songs wrong?  p 
+ p class="heron__item-summary" What happens to your body in extreme heat?  p 

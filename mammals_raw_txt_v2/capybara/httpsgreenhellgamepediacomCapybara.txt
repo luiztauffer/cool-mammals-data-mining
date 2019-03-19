@@ -1,0 +1,25 @@
+ p  br 
+The  b Capybara  b  is a species of passive animal in  a href=" Green_Hell" title="Green Hell" Green Hell  a . They provide  a href=" Bone" title="Bone" Bone  a  that can be used to make weapons or  a href=" Bone_Needle" title="Bone Needle" Bone Needle  a .
+  p 
+ p  b Capybara  b  can be located in dense forest areas and near bodies of water. They are a medium sized animal and will make a distinctive sound when the player is near by. Approaching a  b Capybara  b  will cause it to flee. 
+  p 
+ p They can be hunted preferably using a  a href=" Weapons#Spears" title="Weapons" spear  a  or ranged  a href=" Weapons" title="Weapons" weapon  a . They can also be caught using large  a href=" Building#Traps" title="Building" traps  a  such as the  a href=" Killer_Trap" title="Killer Trap" Killer Trap  a .
+  p 
+ p Once dead, the  b Capybara  b  can be harvested for raw  a href=" Capybara_Meat" title="Capybara Meat" Capybara Meat  a  and  a href=" Bone" title="Bone" bones  a . The meat then can be cooked on a fire, smoked, stewed, or dried and eaten and is a good source of fats and protein.
+  p 
+ p To harvest the  b Capybara  b  once it has been killed, press  code E  code  while you are looking at the animal.
+  p 
+ p  br 
+  p 
+ p  br 
+  p 
+ p  i For information pertaining specifically to the real-world Capybara, see the relevant  a href="https:  en.wikipedia.org wiki Capybara" class="extiw" title="wikipedia:Capybara" Wikipedia article  a   i 
+  p 
+ p Animal animations fixed. 
+  p 
+ p Improved sounds of animals. 
+  p 
+ p  br 
+  p 
+ p  br 
+  p 

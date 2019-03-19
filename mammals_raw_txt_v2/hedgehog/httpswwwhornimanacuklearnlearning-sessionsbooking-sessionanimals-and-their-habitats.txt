@@ -1,0 +1,31 @@
+ p 
+					[ a title="Skip to content" href="#page_header" Skip to content  a ] 
+					[ a title="Skip to main navigation" href="#secondary" Skip to main navigation  a ] 
+					[ a title="Skip to user navigation" href="#user_nav" Skip to user navigation  a ] 
+					[ a title="Skip to global search" href="#search" Skip to global search  a ]
+					[ a title="Accessibility information" href="https:  www.horniman.ac.uk footer accessibility" Accessibility information  a ]
+					[ a title="Contact us" href="https:  www.horniman.ac.uk about contact-us" Contact us  a ]
+				  p 
+ p 
+								 !-- Exhibition Dates -- 
+								 small 
+									from 16 Feb 2019									 br 									until 27 Oct 2019								  small 
+							  p 
+ p  strong 45 mins  strong   p 
+ p Ever wanted to stroke a squirrel or touch a python skin? Get up close to taxidermy animals from four different habitats, identify them and examine their features. How are the animals adapted to their homes?  p 
+ p  img class="lazyload" style="width: 150px; height: 115px;" alt="taxidermy badger" src="https:  horniman.qi-cms.com media _thumb Habitats_and_Hibernation.jpg" height="103" width="165"          img class="lazyload" style="width: 132px; height: 113px;" alt="Animal Habitats session 2" src="https:  horniman.qi-cms.com media _thumb learn hedgehog.jpg" height="121" width="160"  img alt="Evolution tarantula" src="https:  horniman.qi-cms.com media _thumb learn bones-teeth-tarantula-use-1.jpg"   p 
+ p "They learnt how animals adapt to their surroundings. They also learnt about taxidermy..." Teacher  p 
+ p    p 
+ p Booking a taught session includes a welcome briefing on arrival, timed access to a lunch space, cloakroom facilities and access to toilets for the exclusive use of school groups.  To contact us to make a booking please call 020 8291 8686 or by email  a href="mailto:schools@horniman.ac.uk" schools@horniman.ac.uk  a   p 
+ p  Our taught sessions start at:  p 
+ p When you contact us:  Please have ready the name of the taught session you would like to book or topic you are studying, 1 sup st  sup  2 sup nd  sup  3 sup rd  sup  choice of date and preferred session time, and the number of pupils and adults.  p 
+ p Entrance to the Horniman Museum and Gardens is free of charge. Taught sessions and access to some exhibitions are charged for. We invoice after your visit.  p 
+ p 45 minute object handling, museum and garden sessions (up to 30 pupils): £70.00 ex VAT (£84.00 inc VAT) per session  p 
+ p 30 45 minute object handling sessions for Special Education Needs classes (up to 12 pupils): £35.00 ex VAT (£42.00 inc VAT) per session  p 
+ p 60 minute Gamelan and 90 minute sessions (up to 30 pupils): £120.00 ex VAT (£144.00 inc VAT) per session  p 
+ p We offer a  a href="http:  www.horniman.ac.uk learn schools-bursary-scheme" bursary  a   p 
+ p See our  a href="https:  horniman.qi-cms.com media _file school-terms-and-conditions-2018-19.pdf" terms and conditions   a   p 
+ p See  a href="http:  www.horniman.ac.uk learn plan-your-day" Plan Your Day   a for other essential information including our  a href="https:  horniman.qi-cms.com media _file ra-for-schools-2018-19-2.pdf" Risk Assessment 2018 - 2019  a    a href="https:  horniman.qi-cms.com media _file ra-for-schools-2017-18.doc"  br   a   p 
+ p    p 
+ p 
+							100 London Road br Forest Hill br London SE23 3PQ br  br 020 8699 1872						  p 

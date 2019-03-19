@@ -1,0 +1,744 @@
+ p  i class="icon-search icons"   i 
+               input class="txt_field" type="text" value="" name="s" id="s" placeholder="search" 
+               input class="txt_submit" type="submit" value="" id="searchsubmit" name="ge_srch" 
+               i class="icon_right_arrw icons-arw"   i   p 
+ p class="date" 12 Nov 2018  p 
+ p NaTHNaC reminds all travellers of the global risk of rabies  p 
+ p Rabies is an infectious viral disease that is almost always fatal, once symptoms appear [1]. Rabies is one of the deadliest diseases that can be passed to humans from animals. Worldwide, there are tens of thousands of human cases of rabies each year. Rabies is found in all continents, except Antarctica, occurring in more than 150 countries, with over 95% of human deaths in Africa and Asia [1].  p 
+ p Rabies can affect both domestic and wild animals and is spread to people by animal bites or scratches, usually via saliva. Typically, symptoms do not appear immediately, but two to three months after exposure. However, this can vary from a week to a year, depending on the location of the bite exposure and amount of virus present [1].   p 
+ p In the United Kingdom (UK), no human rabies cases acquired in the UK from animals (apart from bats) have been reported since 1902. Between 1946 and 2017, there were 25 human deaths from travel-related rabies in the UK. Five of these cases occurred between 2000 and 2017 [2]. Additionally, in 2002, a licensed bat handler in Scotland died from infection with a rabies-like virus present in bats in the UK [2]. None of the cases were known to have received pre-or post-exposure rabies treatment [3]. An additional case has been reported in a UK traveller during 2018 [4].  p 
+ p Rabies is spread by contact with saliva from any infected wild or domestic animal (including bats) usually by a bite, scratch or a lick to an open wound. It is usually fatal, once symptoms are present. A course of rabies vaccination can prevent infection and death [5].  p 
+ p Check our  a href="https:  travelhealthpro.org.uk countries" Country information pages  a , vaccine recommendation section to see if rabies is present in bats, wild animals and or domestic animals at your destination.  p 
+ p Rabies risk increases with longer trips and activities such as cycling or running. Certain jobs: vets working overseas, animal control, conservation or wildlife work and volunteering in animal sanctuaries may be very high risk.  p 
+ p Children are at greatest risk, as they are most likely to touch animals, and may not report being bitten, scratched or licked, if they are very young or are worried about getting into trouble.   p 
+ p Consider having a  a href="https:  travelhealthpro.org.uk disease 148 rabies" pre-exposure rabies vaccine  a  course, especially if you are travelling to a high risk country, undertaking activities that might put you at greater risk of an unexpected animal encounter (e.g. cycling, running) and or visiting remote areas, where medical care and rabies post-exposure treatment may not be available.  p 
+ p Get comprehensive travel insurance that covers all medical evacuation costs.  p 
+ p Avoid contact with any wild animals (including bats) and domestic animals pets:  p 
+ p If you are bitten or scratched by an animal, or if an animal licks open skin, you must immediately flush the wound area under a running tap for several minutes, then thoroughly wash with soap detergent and water to remove saliva. Apply a disinfectant like a 70% alcohol or iodine solution, and cover the wound covered with a simple dressing. If you have an animal saliva exposure (usually by spitting) to your mucous membranes such as eyes, nose or mouth, wash thoroughly with clean water as soon as possible [3,5].   p 
+ p Get urgent medical help, even if the wound or incident seems very trivial. Prompt post-exposure treatment is needed, even if you have already had a full pre-exposure vaccine course, as further vaccine doses are necessary.  p 
+ p If you did not have or did not complete a rabies vaccine course before travel, you may need treatment with a blood product called rabies immunoglobulin, as well as a full vaccine course after a potential exposure. In some parts of the world, both rabies immunoglobulin and vaccines may be unavailable. However, getting rabies vaccine (a different product to immunoglobulin) is critical in post exposure treatment and should be started as soon as possible, whether or not immunoglobulin is available. You may need an emergency flight back to the UK or a nearby country for appropriate treatment and vaccines.  p 
+ p Ask for a written record of any post exposure treatment you receive overseas. If you do not feel comfortable with the advice you have received at the time of your consultation overseas, you should contact your medical insurance company.  p 
+ p If you had any potential exposure, however minor, get medical advice immediately on your return to the UK. This is important, even if your received post exposure treatment abroad and the bite exposure was weeks before, as you may need to continue a course of rabies vaccines in the UK. If you have a record of any treatment given, remember to bring this with you.   p 
+ p Health professionals advising travellers can use the TravelHealthPro website  a href="https:  travelhealthpro.org.uk countries" Country information pages  a , vaccine recommendation section to see if rabies is present in bats, wild animals and or domestic animals at the specific destination. Travellers considered at risk of rabies exposure include:  p 
+ p style="padding-left: 30px;" - visiting areas where access to post-exposure treatment and medical care is limited br - planning higher risk activities such as cycling and running br - long-stay travellers (more than one month) br - health workers in rabies risk regions who may look after rabies infected patients [2]  p 
+ p Schedules for pre-exposure vaccination can be found in the  a href="https:  travelhealthpro.org.uk factsheet 20 rabies" TravelHealthPro Rabies factsheet  a .  p 
+ p All travellers to  a href="https:  travelhealthpro.org.uk countries" countries where rabies is known or presumed  a  to occur should be advised of the importance of first aid and of seeking urgent reputable medical attention if they are bitten, scratched or licked by any animal. This advice is important for all travellers, whether or not pre-exposure vaccine was given.  p 
+ p Health professionals must seek urgent specialist advice on assessing risk following rabies exposure for all individuals (including returning travellers and possible UK bat exposures) requiring post-exposure treatment. Expert advice and guidance for health professionals is available (depending on geographical location) from:   p 
+ p PHE Rabies and Immunisation Service, National Infection Service, Public Health England, Colindale on 020 8327 6204 or 020 8200 4400. (PHE Colindale Duty Doctor out of hours: 0208 200 4400)  p 
+ p Information also available on  a href="https:  www.gov.uk government publications rabies-risks-from-bat-bites information-for-individuals-who-have-been-bitten-by-a-bat#specialist-advice-for-health-professionals" target="_blank" PHE Bat rabies page: Specialist advice for health professionals  a   p 
+ p Duty Virologist, University Hospital of Wales, Cardiff: 029 20 742 094 or 029 20 747 747; or Public Health Wales Health Protection Team on 0300 003 0032 (contact via the local ambulance control out of hours)  p 
+ p Public Health Agency Duty Room: 0300 5550119. Rabies vaccine is available from the Royal Victoria Hospital Pharmacy Department, Belfast (028 9024 0503).  p 
+ p Aberdeen Royal Infirmary - 0345 456 6000  p 
+ p Crosshouse Hospital, Ayrshire - 01563 521 133  p 
+ p Queen Elizabeth Hospital, Glasgow - 0141 201 1100  p 
+ p Monklands Hospital, Lanarkshire - 01236 748 748  p 
+ p Ninewells Hospital, Dundee - 01382 680 111  p 
+ p Raigmore Hospital, Inverness – 01463 704 000  p 
+ p Royal Infirmary, Dumfries and Galloway – 01387 246 246  p 
+ p Victoria Hospital, Fife - 01582 643 355  p 
+ p Western General Hospital, Edinburgh - 0131 537 1000  p 
+ p class="sidebar-title" Search News filter  p 
+ p  i class="icon-search icons"   i 
+           input class="txt_field" type="text" name="nw" placeholder="search" 
+           input class="txt_submit" type="submit" value="" name="srch" id="" 
+           i class="icon_right_arrw icons-arw"   i   p 
+ p PERIOD  p 
+ p 
+           select name="period" 
+             option value="6" Six Months  option 
+             option value="1" Last Month  option 
+             option value="year" Year  option 
+            select 
+          p 
+ p COUNTRY  p 
+ p 
+           select name="coun" 
+             option value="All" All  option 
+                         option value="1" Afghanistan  option 
+                         option value="2" Albania  option 
+                         option value="3" Algeria  option 
+                         option value="4" American Samoa  option 
+                         option value="5" Andaman &amp; Nicobar Islands (India)  option 
+                         option value="6" Andorra  option 
+                         option value="7" Angola  option 
+                         option value="8" Anguilla  option 
+                         option value="9" Antarctica  option 
+                         option value="10" Antigua and Barbuda  option 
+                         option value="11" Argentina  option 
+                         option value="12" Armenia  option 
+                         option value="13" Aruba- Caribbean Islands (Netherlands)  option 
+                         option value="14" Ascension, St Helena, Tristan da Cunha  option 
+                         option value="15" Australia  option 
+                         option value="16" Austria  option 
+                         option value="17" Azerbaijan  option 
+                         option value="18" Azores (Portugal)  option 
+                         option value="19" Bahamas  option 
+                         option value="20" Bahrain  option 
+                         option value="21" Balearic Islands (Spain)  option 
+                         option value="22" Bangladesh  option 
+                         option value="23" Barbados  option 
+                         option value="24" Belarus  option 
+                         option value="25" Belgium  option 
+                         option value="26" Belize  option 
+                         option value="27" Benin  option 
+                         option value="28" Bermuda  option 
+                         option value="29" Bhutan  option 
+                         option value="30" Bolivia  option 
+                         option value="256" Bonaire- Caribbean Islands (Netherlands)  option 
+                         option value="31" Borneo (Indonesia)  option 
+                         option value="32" Bosnia and Herzegovina  option 
+                         option value="33" Botswana  option 
+                         option value="34" Brazil  option 
+                         option value="35" Brunei  option 
+                         option value="36" Bulgaria  option 
+                         option value="37" Burkina Faso  option 
+                         option value="38" Burundi  option 
+                         option value="39" Cambodia  option 
+                         option value="40" Cameroon  option 
+                         option value="41" Canada  option 
+                         option value="42" Canary Islands (Spain)  option 
+                         option value="43" Cape Verde  option 
+                         option value="44" Caribbean Islands (Netherlands)  option 
+                         option value="45" Cayman Islands  option 
+                         option value="46" Central African Republic  option 
+                         option value="47" Chad  option 
+                         option value="48" Chile  option 
+                         option value="49" China  option 
+                         option value="50" China (Macao)  option 
+                         option value="51" China (Tibet)  option 
+                         option value="52" Christmas Island (Australia)  option 
+                         option value="53" Colombia  option 
+                         option value="54" Comoros  option 
+                         option value="55" Congo  option 
+                         option value="56" Cook Islands  option 
+                         option value="57" Corsica (France)  option 
+                         option value="58" Costa Rica  option 
+                         option value="112" Côte d'Ivoire (Ivory Coast)  option 
+                         option value="59" Croatia  option 
+                         option value="60" Cuba  option 
+                         option value="257" Curaçao- Caribbean Islands (Netherlands)  option 
+                         option value="61" Cyprus  option 
+                         option value="62" Czech Republic  option 
+                         option value="63" Democratic Republic of the Congo  option 
+                         option value="64" Denmark  option 
+                         option value="65" Djibouti  option 
+                         option value="66" Dominica  option 
+                         option value="67" Dominican Republic  option 
+                         option value="68" East Timor  option 
+                         option value="69" Easter Island (Chile)  option 
+                         option value="70" Ecuador  option 
+                         option value="71" Egypt  option 
+                         option value="72" El Salvador  option 
+                         option value="73" Equatorial Guinea  option 
+                         option value="74" Eritrea  option 
+                         option value="75" Estonia  option 
+                         option value="214" Eswatini (Swaziland)  option 
+                         option value="76" Ethiopia  option 
+                         option value="77" Falkland Islands  option 
+                         option value="78" Faroe Islands (Denmark)  option 
+                         option value="79" Fiji  option 
+                         option value="80" Finland  option 
+                         option value="81" France  option 
+                         option value="82" French Guiana  option 
+                         option value="83" French Polynesia  option 
+                         option value="84" Gabon  option 
+                         option value="85" Galapagos (Ecuador)  option 
+                         option value="86" Gambia  option 
+                         option value="87" Georgia  option 
+                         option value="88" Germany  option 
+                         option value="89" Ghana  option 
+                         option value="90" Gibraltar  option 
+                         option value="251" Gozo (Malta)  option 
+                         option value="91" Greece  option 
+                         option value="92" Greenland  option 
+                         option value="93" Grenada  option 
+                         option value="94" Guadeloupe  option 
+                         option value="95" Guam  option 
+                         option value="96" Guatemala  option 
+                         option value="97" Guinea  option 
+                         option value="98" Guinea-Bissau  option 
+                         option value="99" Guyana  option 
+                         option value="100" Haiti  option 
+                         option value="101" Honduras  option 
+                         option value="102" Hong Kong (China)  option 
+                         option value="103" Hungary  option 
+                         option value="104" Iceland  option 
+                         option value="105" India  option 
+                         option value="106" Indonesia  option 
+                         option value="107" Iran  option 
+                         option value="108" Iraq  option 
+                         option value="109" Ireland  option 
+                         option value="110" Israel  option 
+                         option value="111" Italy  option 
+                         option value="113" Jamaica  option 
+                         option value="114" Japan  option 
+                         option value="253" Java (Indonesia)  option 
+                         option value="115" Jordan  option 
+                         option value="116" Kazakhstan  option 
+                         option value="117" Kenya  option 
+                         option value="118" Kiribati  option 
+                         option value="255" Komodo (Indonesia)  option 
+                         option value="121" Kosovo  option 
+                         option value="122" Kuwait  option 
+                         option value="123" Kyrgyzstan  option 
+                         option value="124" Laos  option 
+                         option value="125" Latvia  option 
+                         option value="126" Lebanon  option 
+                         option value="127" Lesotho  option 
+                         option value="128" Liberia  option 
+                         option value="129" Libya  option 
+                         option value="130" Liechtenstein  option 
+                         option value="131" Lithuania  option 
+                         option value="252" Lombok (Indonesia)  option 
+                         option value="132" Luxembourg  option 
+                         option value="133" Macedonia  option 
+                         option value="134" Madagascar  option 
+                         option value="135" Madeira (Portugal)  option 
+                         option value="136" Malawi  option 
+                         option value="137" Malaysia  option 
+                         option value="138" Malaysia (Borneo)  option 
+                         option value="139" Maldives  option 
+                         option value="140" Mali  option 
+                         option value="141" Malta  option 
+                         option value="142" Marshall Islands  option 
+                         option value="143" Martinique  option 
+                         option value="144" Mauritania  option 
+                         option value="145" Mauritius  option 
+                         option value="146" Mayotte  option 
+                         option value="147" Mexico  option 
+                         option value="148" Micronesia  option 
+                         option value="149" Moldova  option 
+                         option value="150" Monaco  option 
+                         option value="151" Mongolia  option 
+                         option value="152" Montenegro  option 
+                         option value="153" Montserrat  option 
+                         option value="154" Morocco  option 
+                         option value="155" Mozambique  option 
+                         option value="156" Myanmar (Burma)  option 
+                         option value="157" Namibia  option 
+                         option value="158" Nauru  option 
+                         option value="159" Nepal  option 
+                         option value="160" Netherlands  option 
+                         option value="161" New Caledonia  option 
+                         option value="162" New Zealand  option 
+                         option value="163" Nicaragua  option 
+                         option value="164" Niger  option 
+                         option value="165" Nigeria  option 
+                         option value="166" Niue  option 
+                         option value="119" North Korea  option 
+                         option value="167" Northern Mariana Islands  option 
+                         option value="168" Norway  option 
+                         option value="169" Norway (Svalbard and Jan Mayen)  option 
+                         option value="170" Oman  option 
+                         option value="171" Pakistan  option 
+                         option value="172" Palau  option 
+                         option value="173" Palestinian Territories  option 
+                         option value="174" Panama  option 
+                         option value="175" Papua New Guinea  option 
+                         option value="176" Paraguay  option 
+                         option value="177" Peru  option 
+                         option value="178" Philippines  option 
+                         option value="179" Pitcairn Islands  option 
+                         option value="180" Poland  option 
+                         option value="181" Portugal  option 
+                         option value="182" Puerto Rico  option 
+                         option value="183" Qatar  option 
+                         option value="184" Reunion  option 
+                         option value="185" Romania  option 
+                         option value="186" Russia  option 
+                         option value="187" Rwanda  option 
+                         option value="258" Saba- Caribbean Islands (Netherlands)  option 
+                         option value="188" Samoa  option 
+                         option value="189" San Marino  option 
+                         option value="190" Sao Tome and Principe  option 
+                         option value="249" Sardinia (Italy)  option 
+                         option value="191" Saudi Arabia  option 
+                         option value="192" Senegal  option 
+                         option value="193" Serbia  option 
+                         option value="194" Seychelles  option 
+                         option value="250" Sicily (Italy)  option 
+                         option value="195" Sierra Leone  option 
+                         option value="196" Singapore  option 
+                         option value="259" Sint Eustasius- Caribbean Islands (Netherlands)  option 
+                         option value="260" Sint Maarten- Caribbean Islands (Netherlands)  option 
+                         option value="197" Slovakia  option 
+                         option value="198" Slovenia  option 
+                         option value="199" Solomon Islands  option 
+                         option value="200" Somalia  option 
+                         option value="201" South Africa  option 
+                         option value="120" South Korea  option 
+                         option value="202" South Sudan  option 
+                         option value="203" Spain  option 
+                         option value="204" Sri Lanka  option 
+                         option value="205" St Barthélemy  option 
+                         option value="206" St Helena, Ascension, Tristan da Cunha  option 
+                         option value="207" St Kitts and Nevis  option 
+                         option value="208" St Lucia  option 
+                         option value="209" St Martin  option 
+                         option value="210" St Pierre and Miquelon  option 
+                         option value="211" St Vincent and the Grenadines  option 
+                         option value="212" Sudan  option 
+                         option value="254" Sumatra (Indonesia)  option 
+                         option value="213" Suriname  option 
+                         option value="215" Sweden  option 
+                         option value="216" Switzerland  option 
+                         option value="217" Syria  option 
+                         option value="218" Taiwan  option 
+                         option value="219" Tajikistan  option 
+                         option value="220" Tanzania  option 
+                         option value="221" Thailand  option 
+                         option value="222" Togo  option 
+                         option value="223" Tokelau  option 
+                         option value="224" Tonga  option 
+                         option value="225" Trinidad and Tobago  option 
+                         option value="226" Tunisia  option 
+                         option value="227" Turkey  option 
+                         option value="228" Turkmenistan  option 
+                         option value="229" Turks and Caicos Islands  option 
+                         option value="230" Tuvalu  option 
+                         option value="231" Uganda  option 
+                         option value="232" Ukraine  option 
+                         option value="233" United Arab Emirates  option 
+                         option value="234" United Kingdom  option 
+                         option value="235" United States  option 
+                         option value="236" Uruguay  option 
+                         option value="237" Uzbekistan  option 
+                         option value="238" Vanuatu  option 
+                         option value="239" Venezuela  option 
+                         option value="240" Vietnam  option 
+                         option value="241" Virgin Islands (British)  option 
+                         option value="242" Virgin Islands (USA)  option 
+                         option value="243" Wake Island  option 
+                         option value="244" Wallis and Futuna Islands  option 
+                         option value="245" Western Sahara  option 
+                         option value="246" Yemen  option 
+                         option value="247" Zambia  option 
+                         option value="248" Zimbabwe  option 
+                        select 
+          p 
+ p DiSEASE  p 
+ p 
+           select name="dis" 
+             option value="All" All  option 
+                         option value="1" Acinetobacter baumanii   option 
+                         option value="2" Acute diarrhoeal syndrome  option 
+                         option value="3" Acute febrile syndrome  option 
+                         option value="4" Acute fever and rash syndrome  option 
+                         option value="5" Acute haemorrhagic fever syndrome  option 
+                         option value="6" Acute jaundice syndrome  option 
+                         option value="7" Acute neurological syndrome  option 
+                         option value="8" Acute respiratory syndrome  option 
+                         option value="9" Acute watery diarrhoeal syndrome  option 
+                         option value="10" Aflatoxin poisoning  option 
+                         option value="11" Alkhurma haemorrhagic fever  option 
+                         option value="12" Altitude illness  option 
+                         option value="13" Anaplasmosis  option 
+                         option value="14" Angiostrongyliasis  option 
+                         option value="15" Anthrax  option 
+                         option value="16" Arcanobacterium haemolyticum  option 
+                         option value="17" Arenavirus  option 
+                         option value="18" Australian bat lyssavirus  option 
+                         option value="216" Avian influenza (bird flu)  option 
+                         option value="19" Babesiosis  option 
+                         option value="20" Barmah forest virus  option 
+                         option value="21" Bartonellosis  option 
+                         option value="22" Blastomycosis  option 
+                         option value="23" Bolivian haemorrhagic fever  option 
+                         option value="24" Borna disease virus (BVD) infection  option 
+                         option value="25" Botulism  option 
+                         option value="26" Brazilian spotted fever  option 
+                         option value="27" Brucellosis  option 
+                         option value="28" Brush Fires  option 
+                         option value="29" Capillariasis  option 
+                         option value="30" Chickenpox  option 
+                         option value="31" Chikungunya virus infection  option 
+                         option value="32" Cholera  option 
+                         option value="33" Coccidiomycosis  option 
+                         option value="34" Congenital Zika Syndrome  option 
+                         option value="35" Conjunctivitis - Trachoma  option 
+                         option value="36" Cowpox  option 
+                         option value="37" Crimean-Congo haemorrhagic fever  option 
+                         option value="38" Cryptococcus gattii infection  option 
+                         option value="39" Cryptosporidiosis  option 
+                         option value="40" Cyclosporiasis  option 
+                         option value="41" Cysticercosis  option 
+                         option value="42" Dengue  option 
+                         option value="210" Diphtheria  option 
+                         option value="44" Diphyllobothriasis  option 
+                         option value="45" Dirofilariasis  option 
+                         option value="215" Dracunculiasis (Guinea worm)  option 
+                         option value="46" Dysentery  option 
+                         option value="47" E. coli  option 
+                         option value="48" Eastern equine encephalitis  option 
+                         option value="49" Ebola virus disease  option 
+                         option value="50" Echinococcosis  option 
+                         option value="51" Elizabethkingia anophelis  option 
+                         option value="52" Encephalitis  option 
+                         option value="53" Enterovirus  option 
+                         option value="54" Eosinophilic pneumonia  option 
+                         option value="55" Epidemic typhus  option 
+                         option value="56" Erlichiosis  option 
+                         option value="198" European bat lyssavirus  option 
+                         option value="57" Fascioliasis  option 
+                         option value="58" Filariasis  option 
+                         option value="59" Food poisoning  option 
+                         option value="60" Gastroenteritis  option 
+                         option value="61" Giardiasis  option 
+                         option value="62" Gnathostomiasis   option 
+                         option value="212" Gonorrhoeae  option 
+                         option value="63" Haemolytic-Uremic Syndrome  option 
+                         option value="64" Haemorhagic fever with renal syndrome (HFRS)  option 
+                         option value="65" Hand, foot and mouth disease  option 
+                         option value="66" Hantavirus  option 
+                         option value="67" Hendra virus  option 
+                         option value="68" Henipavirus  option 
+                         option value="69" Hepatitis (unspecified)  option 
+                         option value="70" Hepatitis A  option 
+                         option value="71" Hepatitis B  option 
+                         option value="72" Hepatitis C  option 
+                         option value="73" Hepatitis D  option 
+                         option value="74" Hepatitis E  option 
+                         option value="75" Heterophyiasis  option 
+                         option value="76" Histoplasmosis  option 
+                         option value="77" HIV AIDS  option 
+                         option value="78" Human Bocavirus  option 
+                         option value="79" Human coxsackievirus B  option 
+                         option value="80" Indian tick typhus  option 
+                         option value="81" Influenza (strain unknown)  option 
+                         option value="82" Influenza A  option 
+                         option value="83" Influenza A (Avian - suspected)  option 
+                         option value="84" Influenza A(H10N7)  option 
+                         option value="85" Influenza A(H10N8)  option 
+                         option value="95" Influenza A(H1N1)pdm09 - Confirmed  option 
+                         option value="96" Influenza A(H1N1)pdm09 - Suspected  option 
+                         option value="199" Influenza A(H3N2)  option 
+                         option value="86" Influenza A(H5)  option 
+                         option value="87" Influenza A(H5N1)  option 
+                         option value="88" Influenza A(H5N2)  option 
+                         option value="207" Influenza A(H5N3)  option 
+                         option value="200" Influenza A(H5N5)  option 
+                         option value="89" Influenza A(H5N6)  option 
+                         option value="197" Influenza A(H5N8)  option 
+                         option value="90" Influenza A(H6N1)  option 
+                         option value="91" Influenza A(H7)  option 
+                         option value="201" Influenza A(H7N1)  option 
+                         option value="202" Influenza A(H7N3)  option 
+                         option value="211" Influenza A(H7N4)  option 
+                         option value="204" Influenza A(H7N6)  option 
+                         option value="209" Influenza A(H7N7)  option 
+                         option value="92" Influenza A(H7N9)  option 
+                         option value="93" Influenza A(H9)  option 
+                         option value="94" Influenza A(H9N2)  option 
+                         option value="97" Influenza B  option 
+                         option value="98" Japanese encephalitis  option 
+                         option value="99" Klebsiella pneumoniae  option 
+                         option value="100" Kyasanur forest disease  option 
+                         option value="101" Lassa fever  option 
+                         option value="102" Legionnaires disease  option 
+                         option value="103" Leishmaniasis  option 
+                         option value="104" Leishmaniasis - cutaneous  option 
+                         option value="105" Leishmaniasis - visceral (Kala Azar)  option 
+                         option value="106" Leprosy  option 
+                         option value="107" Leptospirosis  option 
+                         option value="108" Listeriosis  option 
+                         option value="109" Louse-borne relapsing fever  option 
+                         option value="110" Lyme borreliosis  option 
+                         option value="111" Lymphatic filariasis  option 
+                         option value="112" Lymphogranuloma venereum  option 
+                         option value="113" Malaria  option 
+                         option value="114" Marburg haemorrhagic fever  option 
+                         option value="115" Mayaro virus  option 
+                         option value="116" Measles  option 
+                         option value="117" Melioidosis  option 
+                         option value="118" Meningitis  option 
+                         option value="119" Meningitis (viral)  option 
+                         option value="120" Meningococcal disease  option 
+                         option value="121" Methanol   alcohol poisoning  option 
+                         option value="122" Microcephaly  option 
+                         option value="123" Microsporidia infections  option 
+                         option value="124" Middle East respiratory syndrome coronavirus  option 
+                         option value="125" Monkeypox  option 
+                         option value="126" Mucormycosis  option 
+                         option value="127" Mumps  option 
+                         option value="128" Murine typhus  option 
+                         option value="129" Murray valley encephalitis  option 
+                         option value="130" Mycobacterium ulcerans (Buruli ulcer)  option 
+                         option value="131" Myiasis  option 
+                         option value="132" Myocarditis  option 
+                         option value="133" Naegleria fowleri infections  option 
+                         option value="205" Necrotising cellulitis  option 
+                         option value="134" Nipah viral disease  option 
+                         option value="135" Norovirus  option 
+                         option value="136" Onchocerciasis  option 
+                         option value="137" Opisthorchiasis  option 
+                         option value="138" Oropouche fever  option 
+                         option value="139" Paramyxoviruses (novel)  option 
+                         option value="208" Paratyphoid  option 
+                         option value="140" Pertussis  option 
+                         option value="141" Pharyngocongunctival fever  option 
+                         option value="142" Plague  option 
+                         option value="143" Pneumonia  option 
+                         option value="144" Polio  option 
+                         option value="145" Poxvirus (novel)  option 
+                         option value="146" Psittacosis  option 
+                         option value="147" Q fever  option 
+                         option value="148" Rabies  option 
+                         option value="149" Red tide toxicity  option 
+                         option value="150" Rickettsiosis  option 
+                         option value="151" Rift Valley fever  option 
+                         option value="152" Rocky mountain spotted fever  option 
+                         option value="153" Ross river virus  option 
+                         option value="154" Rotavirus infection  option 
+                         option value="155" Rubella  option 
+                         option value="156" Salmonellosis  option 
+                         option value="157" Sarcocystosis  option 
+                         option value="158" Scarlet fever  option 
+                         option value="159" Schistosomiasis  option 
+                         option value="160" Scrub typhus (Tsutsugamushi disease)  option 
+                         option value="161" Severe acute respiratory syndrome (SARS)  option 
+                         option value="162" Shigellosis  option 
+                         option value="163" Skin infections  option 
+                         option value="164" Spider bite  option 
+                         option value="165" St Louis encephalitis  option 
+                         option value="166" Staphylococcal infection  option 
+                         option value="167" Streptococcus suis  option 
+                         option value="168" Tetanus  option 
+                         option value="169" Tick borne disease (viral)  option 
+                         option value="170" Tick borne lymphadenopathy  option 
+                         option value="171" Tick borne relapsing fever  option 
+                         option value="172" Tick paralysis  option 
+                         option value="173" Tick-borne encephalitis  option 
+                         option value="174" Toscana virus  option 
+                         option value="175" Toxic blue-green algae  option 
+                         option value="176" Toxic poisoning  option 
+                         option value="177" Toxoplasmosis  option 
+                         option value="178" Trichinellosis  option 
+                         option value="214" Trypanosomiasis  option 
+                         option value="179" Trypanosomiasis - African (sleeping sickness)  option 
+                         option value="180" Trypanosomiasis - American (Chagas disease)  option 
+                         option value="181" Trypanosomiasis - Other  option 
+                         option value="182" Tuberculosis  option 
+                         option value="183" Tularaemia  option 
+                         option value="184" Typhoid fever  option 
+                         option value="185" Undiagnosed illness  option 
+                         option value="186" Various  option 
+                         option value="187" vCJD  option 
+                         option value="188" Venezuelan haemorrhagic fever  option 
+                         option value="189" Vibrio infections  option 
+                         option value="190" Vibrio parahaemolyticus  option 
+                         option value="191" Viral encephalitis  option 
+                         option value="192" West Nile virus  option 
+                         option value="193" Wound infections  option 
+                         option value="194" Yellow fever  option 
+                         option value="195" Yersiniosis  option 
+                         option value="196" Zika virus  option 
+                        select 
+          p 
+ p class="sidebar-title" Search News by Topics  p 
+ p class="blkDroit_txt" Tag Cloud  p 
+ p 
+                 a class="tag-item tag-col-1" href="https:  travelhealthpro.org.uk tag 10 mosquito" Mosquito  a 
+                 a class="tag-item tag-col-2" href="https:  travelhealthpro.org.uk tag 14 pregnancy" Pregnancy  a 
+                 a class="tag-item tag-col-3" href="https:  travelhealthpro.org.uk tag 19 zikv" ZIKV  a 
+                 a class="tag-item tag-col-4" href="https:  travelhealthpro.org.uk tag 21 vaccination-certificate" Vaccination certificate  a 
+                 a class="tag-item tag-col-1" href="https:  travelhealthpro.org.uk tag 26 sexual-transmission" Sexual transmission  a 
+                 a class="tag-item tag-col-2" href="https:  travelhealthpro.org.uk tag 27 yellow-fever" Yellow fever  a 
+                 a class="tag-item tag-col-3" href="https:  travelhealthpro.org.uk tag 28 malaria" Malaria  a 
+                 a class="tag-item tag-col-4" href="https:  travelhealthpro.org.uk tag 31 vaccine" Vaccine  a 
+                 a class="tag-item tag-col-1" href="https:  travelhealthpro.org.uk tag 32 product-supply" Product supply  a 
+                 a class="tag-item tag-col-2" href="https:  travelhealthpro.org.uk tag 33 legionella" Legionella  a 
+                p 
+ p class="foot_list_title" About  p 
+ p class="foot_list_title" Content  p 
+ p class="foot_list_title" disease  p 
+ p class="foot_list_title" Quicklinks  p 
+ p  i class="icon-search icons"   i 
+                       input class="txt_field" type="text" value="" name="s" id="s" placeholder="search" 
+                       input class="txt_submit" type="submit" value="" name="ge_srch" id="searchsubmit" 
+                       i class="icon_right_arrw icons-arw"   i   p 
+ p class="foot_list_title" follow us  p 
+ p 55.378051- -3.435973United Kingdom
+ script 
+	$(document).ready(function(e) {
+          Check to see if the window is top if not then display button
+	$(window).scroll(function(){
+		if ($(this).scrollTop()   100) {
+			$('.scrollToTop').fadeIn();
+		} else {
+			$('.scrollToTop').fadeOut();
+		}
+	});
+	
+	  Click event to scroll to top
+	$('.scrollToTop').click(function(){
+		$('html, body').animate({scrollTop : 0},800);
+		return false;
+	});
+		$('.scrollTop').click(function(){
+			
+		$('html, body').animate({scrollTop :$('#factsheet-top').position().top}, 'slow');
+		return false;
+	});
+	
+	$('#tabs   li').click(function(){
+			$('li').removeClass('menuActive');
+			$('li').removeClass('active');
+			$(this).addClass('menuActive');
+			
+			});
+		$('.previ').hide();
+		$('.tab-head').click(function(){
+		var cid = $(this).attr('id');
+			var tab_id = parseInt(cid);
+			if(tab_id == acc_count){ $('.next').hide();
+			$('.previ').show();
+			}
+			if(tab_id == 1){ $('.previ').hide();
+			$('.next').show();
+			}else{ $('.previ').show();
+			}
+			});
+		
+		 $('.previ,.next').click(function () {
+            
+			
+			 var num = $('li.menuActive a,li.active a').attr('id');
+			 var pnum = parseInt(num);
+			
+		      var ids = parseInt(num)+1;
+			  var idm = parseInt(num)-1;
+                var index = 0;
+                if ($(this).hasClass('next')) {
+					$('.previ').show();
+					if(pnum == total){ $('.next').hide(); }
+					if(ids  = acc_count){
+					$("#"+ids+"link").click();
+                      $('.scrollToTop').click();
+					}
+                }
+                else {
+					$('.next').show();
+					if(ids   1){
+					$("#"+idm+"link").click();
+                      $('.scrollToTop').click();
+					}
+					if(pnum == 2){ $('.previ').hide(); }
+                }
+ 
+          Call accordion method to set the active panel
+            wizard.accordion("activate", index);
+        });
+ function goToByScroll(id){
+             Reove "link" from the ID
+        id = id.replace("link", "");
+             Scroll
+        $('html,body').animate({
+            scrollTop: $("#"+id).offset().top},
+            'slow');
+    }
+		
+		$("#tabs   li   a").click(function(e) { 
+         Prevent a page reload when a link is pressed
+    e.preventDefault(); 
+         Call the scroll function
+    goToByScroll($(this).attr("id"));           
+});
+	
+	
+	
+    });
+  script 
+
+  script 
+$(document).ready(function() {
+
+	var latlng = new google.maps.LatLng(55.378051, -3.435973);
+
+	var options = {
+
+	 zoom: 4,
+
+	 center: latlng,
+
+	 disableDefaultUI: true,
+
+	 mapTypeControl: false,
+
+      draggable: false,
+
+      scaleControl: false,
+
+      scrollwheel: false,
+
+      navigationControl: false,
+
+      streetViewControl: false,
+
+      mapTypeId: google.maps.MapTypeId.ROADMAP 
+
+	};
+
+
+
+	var map = new google.maps.Map(document.getElementById('map_div'), options);
+
+	var image = new google.maps.MarkerImage('',
+
+		new google.maps.Size(81, 90),
+
+		new google.maps.Point(0,0),
+
+		new google.maps.Point(81, 90)
+
+	);
+
+
+
+	var marker1 = new google.maps.Marker({
+
+
+		position: new google.maps.LatLng(55.378051, -3.435973),
+
+		map: map,
+
+		icon: image
+
+	});
+
+	google.maps.event.addListener(marker1, 'click', function() {
+
+		infowindow1.open(map, marker1);
+
+	});
+	function createInfo(title, content) {return ' div class="infowindow"  strong '+ title +'  strong '+content+'  div ';
+
+	}
+
+	if(google.loader.ClientLocation)
+
+	{
+
+		visitor_lat = google.loader.ClientLocation.latitude;
+
+		visitor_lon = google.loader.ClientLocation.longitude;
+
+		visitor_city = google.loader.ClientLocation.address.city;
+
+		visitor_region = google.loader.ClientLocation.address.region;
+
+		visitor_country = google.loader.ClientLocation.address.country;
+
+		visitor_countrycode = google.loader.ClientLocation.address.country_code;
+
+		if(visitor_countrycode=="IN")
+
+		{
+
+			$("#map_div").show();
+
+		}
+
+	}
+});
+
+  script   p 

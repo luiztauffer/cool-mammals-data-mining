@@ -1,0 +1,66 @@
+ p Wendy has taught high school Biology and has a master's degree in education.  p 
+ p class="nowrap" style="font-style: italic" Want to watch this again later?  p 
+ p  span class="nowrap" Log in or sign up to add this  span   span class="nowrap" lesson to a Custom Course.  span   p 
+ p class="nowrap"  a href=" academy login.html" data-cname="cust_courses_lesson_cta_login" test-id="cust_courses_lesson_cta_login" Login  a   span style="padding: 0 1em; font-size: smaller" or  span   a data-toggle="modal" href="#partialRegFormModal" data-cname="cust_courses_lesson_cta_register" test-id="cust_courses_lesson_cta_register" class="open-reg-form" Sign up  a   p 
+ p If you were to mention the word rodent to a group of people, you would most likely elicit a wide variety of responses. Many people shudder at the mere mention of the word, imagining swarms of rats and mice. Others might be fans of pet rodents, such as guinea pigs and hamsters. Whatever your preference, how would you feel about encountering a rodent the size of a large dog? Enter the  b capybara  b , the largest rodent in the world! Join us as we explore some facts about this giant among rodents.   p 
+ p Capybaras belong to the order  b Rodentia  b . Although there are about 1,500 different species of rodent, some of the more recognizable include rats, mice, squirrels, hamsters, beavers and guinea pigs. There are certainly vast differences among rodents, but they all share some common traits. All rodents are mammals, and each species has long front teeth that never stop growing. The need to keep their teeth filed down accounts for their constant and often pesky chewing.   p 
+ p The capybara is a rodent native to Central and South America. As mentioned earlier, it's the largest of its kind. Although a close cousin of the guinea pig, their general body shape is about all they have in common as far as looks go. The capybara stands at about two feet tall and weighs around 100 pounds, about the size of a large Labrador Retriever. Its name is derived from the Greek word for ''water hog.'' This name fits, as its barrel-shaped body and hoof-like claws tend to remind one of a pig.   p 
+ p While many rodents are furry, and some are downright fluffy, the capybara is not. It has long, coarse, reddish-brown hair that sparsely covers its body. With plenty of exposed skin, this animal is prone to sunburn and must adapt accordingly to avoid it. It's trick? The capybara rolls in mud, effectively covering itself with a physical sunblock to protect its skin.   p 
+ p The capybara has a thick, square-shaped muzzle, housing its trademark long front teeth. Capybaras are  b herbivores  b , using their razor sharp front teeth to slice through long blades of grass. Grasses make up about 80% of their diet. Capybaras spend much of their time grazing, eating up to eight pounds of grass per day.   p 
+ p Water is a way of life for the capybara, and it serves many different purposes. Capybaras are semi-aquatic and are top-notch swimmers. They live near lakes, rivers, streams, swamps and marshes. When they aren't in the water, they're close by, usually grazing in grassy areas. Capybaras have a handy adaptation for the water: partially webbed feet. Like swim fins for us, this webbing helps them get around more effectively in water.   p 
+ p Because capybaras are native to warm climates, it's important for them to regulate their body temperature in the heat of the day. These animals have undeveloped sweat glands, meaning they cannot cool down by sweating. So, they spend the hottest hours hanging out in ponds or marshes to keep cool. Another bonus is that they can munch on water plants while they bathe.   p 
+ p class="actionMessage" Get access risk-free for 30 days,
+			 br just create an account.  p 
+ p  em No obligation, cancel anytime.  em   p 
+ p  em Select a subject to preview related courses:  em   p 
+ p Water provides protection not only from the heat and sun but also from predators. A favorite hiding place for the capybara is underwater. Capybaras can hold their breath for up to five minutes, allowing them to keep hidden from jaguars, wild dogs and other such dangers. Another important adaptation is that the eyes and nostrils of the capybara are high up on top of their heads. This lets them take a quick breath or a sneaky peek while submersed without having to raise their entire head out of the water.   p 
+ p Capybaras are social animals, living in groups that can get quite large. It's common to find capybara families of up to 40 animals all living together. During the dry season, when water is scarce, there can be up to 100 in one group. These animals are very chatty with each other, using a variety of whistles, barks, coughs, squeals and grunts to communicate. Spending time in a group also helps protect the young capybaras, which are often targets of predators.   p 
+ p The semi-aquatic  b capybara  b  belongs to order  b Rodentia  b , and is the largest of all the rodents, weighing in at around 100 pounds. It's native to Central and South America and is an  b herbivore  b , eating mostly grasses. The capybara has adaptations, such as webbed feet and nostrils and eyes placed high on the head, that allow it to hide underwater.  p 
+ p 
+				    span class="icon-unlock"   span 
+				   To unlock this lesson you must be a Study.com Member.
+				    br class="visible-xs" 
+
+				    a data-toggle="modal" href="#partialRegFormModal" data-cname="transcript_create_your_account" test-id="transcript_create_your_account" data-track-visible class="open-reg-form" Create your account  a 
+			     p 
+ p class="login-text" Already a member?  a data-cname="transcript_log_in" test-id="transcript_log_in" href=" academy login.html" Log In  a   p 
+ p class="login-text" 
+		Already registered?
+		
+		 a href=" academy login.html?cta=teacherPromo" class="standardLink" data-cname="teacher-promo-paywall__login" test-id="teacher-promo-paywall__login" 
+			Login here for access
+		  a 
+	  p 
+ p Did you know… We have over 160 college
+						courses that prepare you to earn
+						credit by exam that is accepted by over 1,500 colleges and universities. You can test out of the
+						first two years of college and save thousands off your degree. Anyone can earn
+						credit-by-exam regardless of age or education level.  p 
+ p To learn more, visit our  a href=" academy try earn-college-credit.html" data-cname="earning_credit_link" test-id="earning_credit_link" Earning Credit Page  a   p 
+ p Not sure what college you want to attend yet? Study.com has thousands of articles about every
+							imaginable degree, area of
+							study
+							and career path that can help you find the school that's right for you.  p 
+ p Get the unbiased info you need to find the right school.  p 
+ p Browse an area of study or degree level.  p 
+ p class="visible-xs"  span class="icon-arrow-left"   span  Back To Course  p 
+ p 
+							  span class="numChapters" 23  span  chapters |
+							  span class="numLessons" 296  span  lessons
+							 
+						  p 
+ p Next Lesson  p 
+ p ©  copyright 2003-2019 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		  p 
+ p Your Cart is Empty. Please Choose a Product.  p 
+ p Study.com video lessons have helped over  em class="red bold" 30 million  em 
+										students.  p 
+ p "I learned more in  em class="teal bold" 10 minutes  em  than 1 month of chemistry classes"  p 
+ p - Ashlee P.  p 
+ p "I aced the CLEP exam and earned  em class="green bold" 3 college credits!  em "  p 
+ p - Clair S.  p 
+ p test-id="testimonial_control_text" "The videos have changed the way I teach! The videos on Study.com accomplish in
+							 em class="red bold" 5 minutes  em  what would take me an entire class."  p 
+ p - Chris F.  p 

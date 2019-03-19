@@ -1,0 +1,9 @@
+ p class="partial_entry" 
+This was such a cool find! This is a perfect place for everyone of all ages. We spent well over an hour and half hanging out with all the animals. The kangaroos roam freely allowing you to pet and feed them. There are even baby kangaroos that you can hold! Don't be fooled by the name, there are plenty of...
+ span class="partnerRvw" 
+ span class="taLnk hvrIE6 tr289699806 moreLink ulBlueLinks" onclick="      ta.util.cookie.setPIDCookie(4443); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_289699806'), 'review_289699806', '1', 4443);
+  " 
+More    span 
+ span class="ui_icon caret-down"   span 
+  span 
+  p 

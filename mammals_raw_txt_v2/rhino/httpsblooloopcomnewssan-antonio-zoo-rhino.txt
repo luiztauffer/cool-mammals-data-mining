@@ -1,0 +1,34 @@
+ p 
+     label First Name  label 
+     input type="text" name="FNAME" placeholder="First Name" required="" 
+  p 
+ p 
+     label Last Name  label 
+     input type="text" name="LNAME" placeholder="Last Name" required="" 
+  p 
+ p 
+	 label Email address:   label 
+	 input type="email" name="EMAIL" placeholder="Your email address" required 
+  p 
+ p 
+	 input type="submit" value="Sign up" 
+  p 
+ p The new rhino habitat will include additional trees and landscape, a viewing deck, a waterfall with creek, and a mud wallow.  p 
+ p Zebras, crown cranes, waterbucks, sitatungas, and marabou storks will also share the habitat with the rhinos.  p 
+ p The habitat will be connected to the existing giraffe habitat area of The Savanna. This will allow the animals to move between areas, creating a true savanna-like setting.  p 
+ p The zoo will also be adding a nursery to the habitat, the park said in  a target="_blank" href="https:  www.facebook.com SanAntonioZoo photos a.417991171538.212061.406923321538 10156321385861539 ?type=3&amp;theater" a statement  a . The zoo will begin a breeding programme for Southern White rhinos. They plan to receive two female rhinos when the exhibit re-opens in early 2019 and a male shortly after that.  p 
+ p San Antonio Zoo was the first zoo in America to successfully birth a white rhino in 1972.  p 
+ p Throughout its history, San Antonio Zoo has seen twenty rhino births, both black rhinos and white rhinos. The most recent was in 2004.  p 
+ p  strong Tim Morrow  strong , CEO and Executive Director of San Antonio Zoo, said: “The new rhino habitat will create an extension of The Savanna which opened in 2015 and features giraffes, allowing for a larger more naturalistic habitat. Once completed, the rhino habitat will contain a passage that will allow different species of animals the opportunity to move between areas of The Savanna. Our desire is to create enriching opportunities for the animals in our care, and to provide guests with a true African savanna-like experience.”  p 
+ p Rhino populations are dwindling worldwide due to habitat destruction and poaching.  p 
+ p San Antonio Zoo is 104-years-old. In recent years, there have been several habitat upgrades and expansions. Recently, The Savanna was created, allowing guests to feed giraffes.  a href="https:  blooloop.com link san-antonio-zoos-lion-habitat-1-million-upgrade-completed " The park also opened Big Cat Valley  a , an African lion exhibit allowing guests to come nose to nose and marvel at the big cats through large glass panels.  p 
+ p The new rhino habitat expansion marks a commitment of more than $6 million to animal habitat updates and facility improvements in the past few years.  p 
+ p I am a journalist from Essex, England. I enjoy travelling, and love exploring attractions around the world. I graduated from Lancaster University in 2018. Twitter @michael_mander.  p 
+ p class="comment-notes"  span id="email-notes" Your email address will not be published.  span  Required fields are marked  span class="required" *  span   p 
+ p class="comment-form-comment"  label for="comment" Comment  label   textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"   textarea   p 
+ p class="comment-form-author"  label for="author" Name  span class="required" *  span   label   input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"   p 
+ p class="comment-form-email"  label for="email" Email  span class="required" *  span   label   input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"   p 
+ p class="comment-form-url"  label for="url" Website  label   input id="url" name="url" type="url" value="" size="30" maxlength="200"   p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Post Comment"   input type="hidden" name="comment_post_ID" value="178587" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+  p 

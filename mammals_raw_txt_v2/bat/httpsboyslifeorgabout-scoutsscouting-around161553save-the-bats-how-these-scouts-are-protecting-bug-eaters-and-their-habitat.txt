@@ -1,0 +1,59 @@
+ p class="meta post-meta" 
+ span class="entry-meta-author author vcard"  i class="fa fa-pencil"   i By Thomas Gerencer  span  br 
+ span class="entry-meta-author author vcard"  i class="fa fa-camera"   i Photographs by Jonathan Adams  span  br 
+  p 
+ p Jeremiah James is wading through ice-cold water in a narrow stone passage that slices through the mountainside. If not for the pale glow from his headlamp, he’d be in total darkness.  p 
+ p class="p3" But that doesn’t mean he can see under the water.  p 
+ p class="p3" With a sudden “Yawp!” Jeremiah pitches headfirst into the icy cave pool.  p 
+ p class="p3" “My boot caught under a rock and I just flopped,” he says. Those are the risks when you’re exploring underground.  p 
+ p class="p2" Jeremiah is a 15-year-old Scout from Troop 168 in Olive Hill, Kentucky. He came to nearby Carter Caves State Resort Park with about 90 other Scouts and Venturers to attend the Save the Bats Camporee.  p 
+ p class="p3" “We’re out here cleaning up the park, trying to make it safer for the bats,” he says.  p 
+ p class="p2" It’s important work, and it’s a lot more complicated than just picking up trash.  p 
+ p class="p2" The bats that hibernate in these Kentucky caves are called Indiana bats. They’re cute gray, black and brown little guys who do a great service to everyone by eating bugs. TONS of bugs.  p 
+ p class="p3"  span style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;" In the 1800s, millions of the bats hibernated here. Mining, vandalism and tourism have knocked their numbers down to just more than 400.  span   p 
+ p class="p4" “You can’t go into the caves without disturbing them,” park naturalist and Eagle Scout Coy Ainsley tells the Scouts. “If Indiana bats wake up (from hibernation) and move around, they use the fat reserves they need to get through winter.”  p 
+ p class="p4" That’s not good. The bats need to sleep all the way through the winter to save those reserves and survive the cold weather. Tourists who disturb their hibernation put the animals’ lives at risk.  p 
+ p class="p2" As a solution, the park installed bat-friendly steel gates in 1983.  p 
+ p class="p2" The gates let bats through but keep people out.  p 
+ p class="p3" The problem? Spring flooding sucks debris into the caves. If not removed, it can dam the gates and flood the hibernacula. (That’s the scientific name for the special caves where bats hibernate.)  p 
+ p class="p2" That’s why the work the Scouts do is so important.  p 
+ p class="p3" The group splits into three teams. The adults use chainsaws to break up large limbs and branches. The Scouts carry them away. Another team uses buckets to haul off piles of sediment and mulch.  p 
+ p class="p2" “I’m tired, but it’s fun,” says Alyssa Preston, 15, of Venturing Crew 1152 from Louisa, Kentucky. “The memories and jokes we make while we work move it along quicker.”  p 
+ p class="p2" Thanks to conservation efforts like this, the bats’ numbers in the park have rebounded to more than 40,000.  p 
+ p class="p2" “We’ve cleared out this entire area to stop the caves from flooding,” says Andrew Lowry, 13, from Troop 62 in Huntington, West Virginia. “It’s pretty tiring work, but it’s for a good cause, so it’s worth it.”  p 
+ p class="p2" The group doesn’t have to worry about getting swarmed by screeching, flapping bats while working. This time of year — spring — the animals have moved out to live in the forest. You can see them swooping and fluttering in the treetops during the twilight hours.  p 
+ p class="p3" That’s good, because a single bat can eat 8,000 mosquitoes every night. With 40,000 bats here, that’s 320 million bugs per day! That’s worth working for.  p 
+ p class="p2" “I like helping to clean the caves,” says Isaiah Lucas, 10, from Troop 163 in Grayson, Ky. “It’s great to help endangered animals.”  p 
+ p class="p3" When the work was done, the guys and girls got to explore the caves and the surrounding area.  p 
+ p class="p3" “It was amazing,” says Aidan Adkins, 10, from Troop 100 in Ashland, Ky. “You could see a bunch of tunnels where the bats hibernated.”  p 
+ p class="p3" Outside the caves, the fun continued with a wild-game feast for dinner, with moose burgers, Alaskan salmon and deer chili. After dark, the group settled down for a “cave-in” movie, where they were surrounded by the cool, foggy cave, prickling with stalactites and stalagmites.  p 
+ p class="p3" “The sound amplifies in here,” says Daniel Wilson, 10, from Pack 168 in Olive Hill. “And it’s really dark.”  p 
+ p class="p3" Before settling in for the evening, the group reflected on what they accomplished.  p 
+ p class="p2" “It’s crazy that we’ve done this,” says 11-year-old Ethan Rayburn from Troop 168. “You wouldn’t even be able to recognize this place if you took a picture before.  p 
+ p class="p3" “I’m exhausted, but I feel good.”  p 
+ p Saving bats and their habitat is great work for Scouts who want to improve the place we live in. How do you strive to make a difference in the world? Let us know in the comments!  p 
+ p THANK YOU KIDS  p 
+ p Go Kids because you are the Protectors now and in the future. To many adults do not care what happens to the home God has given to all his creatures!!!!!!  p 
+ p class="comment-notes"  span id="email-notes" Please do not use your real name.  span   p 
+ p class="comment-form-comment"  label for="comment" Comment  label   textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"   textarea   p 
+ p class="comment-form-author"  label for="author" Nickname  label   input id="author" name="author" type="text" value="" size="30" maxlength="245"   p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Post Comment"   input type="hidden" name="comment_post_ID" value="161553" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+  p 
+ p class="cp-widget-title" If You Were an Alien, Which Planet Would Be Home?  p 
+ p class="cp-widget-title" How to Build and Fly a Box Kite  p 
+ p class="cp-widget-title" A Campfire Tale of Senior Patrol Leaders  p 
+ p class="cp-widget-title" How to Make a DIY Wilderness Survival Kit  p 
+ p class="cp-widget-title" Amazing Pinewood Derby Car Designs of 2019  p 
+ p class="cp-widget-title" Write a Funny Caption For This Photo  p 
+ p class="cp-widget-title" Wizard Westy  p 
+ p class="cp-widget-title" Have the Best Week Ever at One of These Chill Summer Camps  p 
+ p class="cp-widget-title" How Tall Should a Walking Stick Be?  p 
+ p class="cp-widget-title" How to Pack a Backpack  p 
+ p class="cp-widget-title" Practicing Wilderness Survival with the ‘Survivormen’ of the Rockies  p 
+ p  a class="aligncenter" style="text-align:center;" href="https:  boyslife.org subscribe-now "  img class="aligncenter" src="https:  media.scouting.org boyslife current cover.jpg" Subscribe today!  a   p 
+ p class="copyright" © 2018, Boy Scouts of America. All rights reserved.	 span class="sep"  |   span 
+	 a href="http:  wordpress.org " Proudly powered by WordPress  a 
+	 span class="sep"  |   span 
+	Theme: MH Magazine by  a href="http:  www.mhthemes.com " rel="designer" MH Themes  a .  p 
+ p class="bl_copyright" © 2019, Boy Scouts of America. All rights reserved. span class="sep"  |   span Powered by  a href="https:  vip.wordpress.com ?utm_source=vip_powered_wpcom&amp;utm_medium=web&amp;utm_campaign=VIP%20Footer%20Credit&amp;utm_term=boyslife.org" rel="generator nofollow" class="powered-by-wpcom" WordPress.com VIP  a   p 

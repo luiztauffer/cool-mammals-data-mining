@@ -1,0 +1,79 @@
+ p Rhinoceros belong to the group known as the perissodactyls, or ‘odd-toed ungulates’, which includes horses and tapirs. Characterised by their large size – all species can weigh more than a ton – rhinos have one or two horns, a thick skin made of collagen arranged in a lattice structure and a relatively small brain.   p 
+ p Most rhino species lead largely solitary lives although home ranges sometimes overlap, with shared feeding grounds, water holes and wallows. The closest relationship is between a female and her calf, lasting from two to four years; as calves mature they leave their mothers and may join other females and their young temporarily, before living completely on their own. Males are territorial to varying extents, often marking their territory with middens of dung.    p 
+ p Rhinos (especially Black rhinos) can appear rather ill-tempered – particularly in areas where they are either hunted or regularly disturbed – and their eyesight is poor, which might explain why they sometimes charge without apparent reason. They have an extended "vocabulary" of growls, grunts, squeaks, snorts and bellows.  p 
+ p Wild rhinos have a 30-50 year life span. Pregnancy lasts 15-16 months and the 63kg new born calf relies on its mother’s milk for up to two years.  p 
+ p  em *International Union for Conservation of Nature is the world’s main authority on the conservation status of species.  em   p 
+ p Black rhino: Critically Endangered   Southern white rhino: Near Threatened   Northern white rhino: Critically Endangered   Indian rhino: Vulnerable   Javan rhino: Critically Endangered   Sumatran rhino: Critically Endangered  p 
+ p Black rhino: 4,880   Southern white rhino: 20,170   Northern white rhino: 4   Indian rhino: 2,575   Javan rhino: 35-45   Sumatran rhino: 140-210  p 
+ p Herbivorous – young woody stems, leaves and fruit, aquatic plants  p 
+ p Grassland plains, savannah woodland, in true tropical forests and in swamps  p 
+ p Black and White rhinos are found only in Africa, and Indian rhino, Sumatran rhino and Javan rhino occur in Asia  p 
+ p The continuing threats from illegal hunting for sport and poaching for their horns (for use in traditional Chinese medicine) mean that rhino numbers have fallen dramatically from historical levels.    p 
+ p Rhino habitats are encroached on by human population growth and associated agricultural development and domestic livestock – they are sensitive breeders and when land is severely fragmented populations become smaller and more isolated which limits breeding.  br 
+   p 
+ p    p 
+ p    p 
+ p Our campaign against the illegal and legal trade in rhino horn. We firmly believe that legalising trade in rhino horn would increase demand and put rhinos at greater risk of poaching.  p 
+ p Investigation of the transit routes that wildlife crime operatives use to move rhino horn from source country to illegal market.  p 
+ p Lobbying the South African and Swaziland governments to suspend all exports of rhino trophies and live animals and desist from any attempt to create a legal trade in rhino horn.  p 
+ p  a class="button large" href=" rhino-horn-trade" THE RHINO HORN TRADE  a   p 
+ p class="h2 black background text-white" UPDATE DIRECT TO YOUR INBOX  p 
+ p Sign up to get the latest Born Free news about our work and how you can help, delivered straight to your inbox.  p 
+ p class="h3 with-icon header-mb"  i class="fas fa-rss"   i  NEWS  p 
+ p 
+             a :href="props.record.uri" v-text="props.record.name"   a  br 
+             span v-text="props.record.excerpt"   span 
+          p 
+ p class="h3 with-icon header-mb"  i class="fab fa-twitter"   i  SOCIAL MEDIA  p 
+ p class="header-mb" FOLLOW US ON  p 
+ p 
+                © 2019 - Born Free Foundation br 
+                Broadlands Business Campus, Langhurstwood Road br 
+Horsham, West Sussex, RH12 4QP br 
+ br 
+The Born Free Foundation is a registered charity. br 
+(Charity Number: 1070906). Registered as a company limited by guarantee (Number 03603432) (England &amp; Wales). br 
+Registered office: Broadlands Business Campus, RH12 4QP
+              p 
+ p 
+
+        
+             a href=" contact" 
+                Contact
+              a  |
+        
+             a href=" annual-reports" 
+                Annual Reports
+              a  |
+        
+             a href=" report-animal-suffering" 
+                Captive Animal Report Form
+              a  |
+        
+             a href=" faqs" 
+                FAQs
+              a  |
+        
+             a href=" privacy-policy" 
+                Privacy Policy
+              a  |
+        
+             a href=" data-policy" 
+                Data Policy
+              a  |
+        
+             a href=" terms-and-conditions" 
+                Terms &amp; Conditions
+              a  |
+        
+             a href=" sitemap" 
+                Sitemap
+              a  |
+        
+             a href=" careers" 
+                Careers
+              a 
+        
+      p 
+ p 
+                Website by  PMW               p 

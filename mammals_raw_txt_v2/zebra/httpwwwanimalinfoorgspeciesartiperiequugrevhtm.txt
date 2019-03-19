@@ -1,0 +1,172 @@
+ p align="center"  a href="http:  www.animalinfo.org" 
+				 img border="0" src="http:  www.animalinfo.org animalinfo.jpg" width="100%" height="152" alt="Endangered Animals"   a   p 
+ p align="center" 
+		 script type="text javascript"  !--
+google_ad_client = "pub-8361005144129578";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_channel ="";
+google_ad_type = "text";
+google_color_border = "ffffff";
+google_color_bg = "ffffff";
+google_color_link = "006699";
+google_alternate_color = "FFFFFF";
+google_color_url = "000000";
+google_color_text = "000000";
+  --   script 
+		 script type="text javascript" src="http:  pagead2.googlesyndication.com pagead show_ads.js"  
+  script 
+		  p 
+ p align="CENTER"  font face="Algerian"  span style="font-variant: small-caps" Translate  span   font : br 
+ a href="#translate"  img border="0" src=".. .. image flag%20-%20china.gif" width="82" height="54"  img border="0" src=".. .. image flag%20-%20france.gif" width="81" height="54"  img border="0" src=".. .. image flag%20-%20germany.gif" width="89" height="54"  img border="0" src=".. .. image flag%20-%20italy.gif" width="81" height="54"  img border="0" src=".. .. image flag%20-%20japan.gif" width="81" height="54"  img border="0" src=".. .. image flag%20-%20korea%20south.gif" width="81" height="54"  img border="0" src=".. .. image flag%20-%20portugal.gif" width="81" height="54"  img border="0" src=".. .. image flag%20-%20spain.gif" width="81" height="54"   a   p 
+ p 1.  a href="#profile"  b Profile  b   a  ( a href="#picture" Picture  a ) br 
+2.  a href="#tidbits"  b Tidbits  b   a  br 
+3.  a href="#status"  b Status and Trends  b   a  ( a href="#IUCN" IUCN Status  a ,  a href="#Countries" Countries Where
+Currently Found  a ,  a href="#Population" Population Estimates  a ,  a href="#History" History of Distribution  a ,  a href="#Threats" Threats and Reasons  a  a href="#Threats" 
+for Decline  a ) br 
+4.  a href="#data"  b Data on Biology and Ecology  b   a  ( a href="#Weight" Weight  a ,  a href="#Habitat" Habitat  a ,  a href="#Age" Age to Maturity  a ,  a href="#Gestation" Gestation
+Period  a ,  a href="#Birth" Birth Season  a ,  a href="#Birth_rate" Birth Rate  a ,  a href="#Early" Early Development  a ,  a href="#Maximum_age" Maximum Age  a ,  a href="#Diet" Diet  a ,  a href="#Behavior" Behavior  a ,  a href="#Social" Social
+Organization  a ,  a href="#Density" Density and Range  a ) br 
+5.  a href="#references"  b References  b   a   p 
+ p  a name="picture"   a Pictures:  a href=".. .. image equugrev1%2048%20j.jpg" Grevy's
+Zebra #1  a  (49 Kb JPEG);  a href="http:  www.ultimateungulate.com Images Equus_grevyi E_grevyi1.html" Grevy's
+Zebra #2  a   cite ( a href=".. .. refh.htm#huffman2000" Huffman 2004  a )  cite   p 
+ p Grevy's zebra weighs 350 - 450 kg (770 - 990 lb). It lives in arid, open bushed
+grassland and is adapted to survive droughts, as long as it can reach water every several
+days. Grasses make up about 70% of the Grevy's zebra's diet. It also browses on shrubs and
+trees. The Grevy's zebra has an open society in which females with their young and males
+on established  a href=".. .. glosst.htm#territory" territories  a  are the focal points.
+There are no permanent bonds between adults. They are solitary or live in a variety of
+different associations that usually do not last longer than a few months. Some stallions
+are  a href=".. .. glosst.htm#territorial" territorial  a , with territories of up to 12
+sq km (4.6 sq mi). The resident stallion tolerates other stallions in his territory, but
+they do not interfere with the resident stallion when he is mating.  p 
+ p The Grevy's zebra formerly occurred from central  a href=".. .. country ethiopia.htm" Ethiopia  a 
+to  a href=".. .. country somalia.htm" Somalia  a  and northern  a href=".. .. country kenya.htm" Kenya  a . It experienced a significant decline in the
+1970's, apparently due to poaching to obtain the zebra's attractive hide for fashion. It
+is now found only in northeastern  a href=".. .. country ethiopia.htm" Ethiopia  a  and
+some reserves in  a href=".. .. country kenya.htm" Kenya  a . br 
+ br 
+Poaching of Grevy's zebra is no longer a threat, due to protection under  a href=".. .. glossc.htm#cites" CITES  a . Loss of grazing habitat and access to water, due
+to competition with increasing herds of domestic livestock, is the primary threat to the
+Grevy's zebra. Additional threats are due to reduced river flow, due to irrigation, and
+uncontrolled tourism in reserves, which causes disturbance and destruction of vegetation.  p 
+ p *** The distribution of Grevy's zebra is "wedged" between the ranges of
+arid-adapted  a href="equuafri.htm" [African] wild ass  a  and water-loving common zebra.  cite ( a href=".. .. refk.htm#Kingdon1997" Kingdon 1997  a )  cite   p 
+ p *** A young Grevy's zebra can walk within a half hour of birth and can run for short
+distances within 45 minutes of birth.  p 
+ p *** The Grevy's zebra is the largest of the wild  a href=".. .. glosse.htm#equid" equids  a .  p 
+ p 2004: Occurs in  a href=".. .. country ethiopia.htm" Ethiopia  a  and  a href=".. .. country kenya.htm" Kenya  a . May occur in  a href=".. .. country sudan.htm" Sudan  a .
+ cite ( a href=".. .. refi.htm#iucn%202004%20red%20list%20-%20species%20search" IUCN 2004  a )  cite   p 
+ p [Note: Figures given are for wild populations only.]   p 
+ p In the past, the Grevy's zebra was found in the Awash Valley, the Ogaden region, and
+northeast of Lake Turkana in  a href=".. .. country ethiopia.htm" Ethiopia  a , south into
+ a href=".. .. country kenya.htm" Kenya  a  east of the Rift Valley and Lake Turkana,
+north of Mount Kenya and the Tana River, and east into western  a href=".. .. country somalia.htm" Somalia  a . It apparently experienced a significant
+decline in the 1970's. In the late 1980's it occurred in three isolated populations:  a href=".. .. country kenya.htm" Kenya  a , north of the Tana River;  a href=".. .. country ethiopia.htm" Ethiopia  a , on the east side of Omo River to Lake
+Zwai, and  a href=".. .. country somalia.htm" Somalia  a . It has not been seen in  a href=".. .. country somalia.htm" Somalia  a  since 1973 and is presumed to be extinct
+there. It is now restricted to  a href=".. .. country ethiopia.htm" Ethiopia  a  and  a href=".. .. country kenya.htm" Kenya  a , and possibly  a href=".. .. country sudan.htm" Sudan  a .
+ br 
+ br 
+Most Grevy's zebras surviving in  a href=".. .. country ethiopia.htm" Ethiopia  a  are in
+the northeast of Lake Turkana, the Alledeghi plains; the Yabello Sanctuary and around Lake
+Chew Bahar. In  a href=".. .. country kenya.htm" Kenya  a , Grevy's Zebra occurs in much
+of its former range; east of the Rift Valley and Lake Turkana, north of Mount Kenya and
+the Tana River, and east towards western  a href=".. .. country somalia.htm" Somalia  a .  cite ( a href=".. .. refw.htm#WCMC_WWF1997" WCMC WWF 1997  a )  cite   p 
+ p  a href="http:  www.iucn.org themes ssc sgs equid gifs L_GZebra.gif" Distribution
+Map #1  a  (31 Kb GIF)  cite ( a href=".. .. refi.htm#iucn%20esg" IUCN SSC Eq.
+Spec. Gr. 2004  a )  cite  br 
+ a href="http:  www.gisbau.uniroma1.it amd amd_imag Image135.gif" Distribution
+Map #2  a 
+(14 Kb JPEG)  cite ( a href=".. .. refa.htm#african_mammals_databank2000" African Mammals
+Databank 2004  a )  cite   p 
+ p Poaching of Grevy's zebra skins for use in fashion was a major problem during the
+1970's, especially until 1976, when Kenya passed protection laws. Poaching is no longer a
+threat, due to protection under  a href=".. .. glossc.htm#cites" CITES  a . Loss of
+grazing habitat and access to water, due to competition with increasing herds of domestic
+livestock, is the primary threat to the Grevy's zebra. In addition, reduced river flow,
+due to irrigation, has decreased the availability of surface water in parts of its Kenyan
+range. In reserves, another threat results from uncontrolled tourism, which causes
+disturbance and destruction of vegetation.  p 
+ p The female Grevy's zebra weighs 350 - 400 kg (avg 385 kg) (770 - 880 lb (avg 847 lb));
+  males weigh 380 - 450 kg (avg 430 kg) (836 - 990 lb (avg 950 lb)).   p 
+ p Grevy's zebra lives in semi-arid bush grass mosaics with a preference for tracts of
+  grassland growing on deep sand, hard-pans, sumplands and in areas where fire and elephants
+  have degraded the dominant Acacia Commiphora woodlands.  cite ( a href=".. .. refk.htm#Kingdon1997" Kingdon 1997  a )  cite  It is able to live in deserts
+  if there is permanent water within reach every 2 - 5 days (for lactating mares 1 - 2 days)
+   cite ( a href=".. .. refv.htm#vandierendonck_devries1996" van Dierendonck &amp; de Vries
+  1996  a )  cite . br 
+   br 
+  Grevy's zebra lives in both the  a href=".. .. refc.htm#CI%20hotspot%20-%20horn%20of%20africa" Horn
+  of Africa  a   b Biodiversity
+  Hotspot  b    cite ( a href=".. .. refc.htm#cons%20intl%20-%20biodiv%20hotspots%202004" Cons.
+  Intl. 2005  a )  cite  as well as the Horn of Africa Deserts  b Global 200 Ecoregion  b .  cite ( a href=".. .. refo.htm#Olson_dinerstein1998" Olson &amp; Dinerstein 1998  a ,  a href=".. .. refo.htm#Olson_dinerstein1999" Olson &amp; Dinerstein 1999  a )  cite    p 
+ p Close to 6 years (wild); 3 - 5 years (captivity).   p 
+ p 390 - 400 days.   p 
+ p Usually August or September, but mating and births can occur all during the year.   p 
+ p A mare usually bears 1 young at a time. There are usually 2 years between births.   p 
+ p Young are generally  a href=".. .. glossw.htm#weaning" weaned  a  at about 8 - 13
+  months of age.   p 
+ p Up to 18 years in the wild.   p 
+ p Grasses make up about 70% of the Grevy's zebra's diet. It also browses on shrubs and
+  trees.   p 
+ p Female Grevy's zebras return to localized birthing areas that appear to be traditional.
+    p 
+ p The Grevy's zebra has an open society in which females with their young and males on
+  established  a href=".. .. glosst.htm#territory" territories  a  are the focal points.
+  There are no permanent bonds between adults. Females associate in nursing groups, males in
+  bachelor groups and all classes may join up in large, mixed herds, with none of these
+  groupings lasting longer than a few months. Aggression is infrequent except that  a href=".. .. glosst.htm#territorial" territorial  a  males assert their mating
+  prerogatives. A solitary breeding stallion maintains a large territory and associates with
+  mares only when they enter his territory. The most successful males win grassy territories
+  close to water. Grass and water are major attractions, especially for lactating females.   p 
+ p Some stallions are  a href=".. .. glosst.htm#territorial" territorial  a . The  a href=".. .. glosst.htm#territory" territories  a  are large for a  a href=".. .. glossh.htm#herbivore" herbivore  a : 2.7 - 10.5 sq km (1 - 4 sq mi) in
+  northern  a href=".. .. country kenya.htm" Kenya  a   cite ( a href=".. .. refn.htm#nowapara1" Nowak &amp; Paradiso 1983  a )  cite .   p 
+ p The  a href=".. .. glosst.htm#territory" territories  a  of the breeding males are
+  the largest that have been found in any  a href=".. .. glossu.htm#ungulate" ungulate  a 
+   cite ( a href=".. .. refd.htm#duncan1992" Duncan 1992  a )  cite . br 
+   br 
+  Individual long-term ranges of both females and males can cover up to 10,000
+  sq km (4000 sq mi)  cite ( a href=".. .. refd.htm#duncan1992" Duncan 1992  a )  cite . Males have  a href=".. .. glosst.htm#territory" territories  a  of up to 12 sq km (4.6 sq
+  mi)  cite ( a href=".. .. refk.htm#Kingdon1997" Kingdon 1997  a ).  cite    p 
+ p  a href=".. .. refa.htm#african_mammals_databank2000" African Mammals Databank
+2004  a ,
+ a href=".. .. refa.htm#arkive%202003" Arkive  a ,
+ a href=".. .. refa.htm#AZA1994" AZA 1994  a ,  a href=".. .. refb.htm#burtpear1" Burton
+&amp; Pearson 1987  a ,  a href=".. .. refc.htm#cons%20intl%20-%20biodiv%20hotspots%202004" Cons.
+Intl. 2005  a ,  a href=".. .. refd.htm#duncan1992" Duncan 1992  a ,  a href=".. .. refe.htm#eliot1993" Eliot 1993  a ,  a href=".. .. refh.htm#huffman2000" Huffman
+2004  a ,  a href=".. .. refi.htm#iucn94" IUCN 1994  a ,  a href=".. .. refi.htm#iucn96" IUCN 1996  a ,
+ a href=".. .. refi.htm#iucn2000" IUCN 2000  a ,  a href=".. .. refi.htm" IUCN
+2003a  a ,  a href=".. .. refi.htm#iucn%202004%20red%20list%20-%20species%20search" IUCN
+2004  a ,  a href=".. .. refi.htm#iucn%20esg" IUCN SSC Eq. Spec. Gr.
+2004  a ,  a href=".. .. refk.htm#Kingdon1997" Kingdon
+1997  a ,  a href=".. .. refm.htm#macdonald1984" Macdonald 1984  a ,  a href=".. .. refn.htm#nowapara1" Nowak &amp; Paradiso 1983  a ,  a href=".. .. refo.htm#Olson_dinerstein1998" Olson &amp; Dinerstein 1998  a ,  a href=".. .. refo.htm#Olson_dinerstein1999" Olson &amp; Dinerstein 1999  a ,  a href=".. .. refo.htm#oryx_14_98" Oryx 1977d  a ,  a href=".. .. refo.htm#oryx_15_317" Oryx
+1980e  a ,  a href=".. .. refo.htm#oryx_16_122" Oryx 1981c  a ,  a href=".. .. refs.htm#schu67" Schuhmacher 1967  a ,  a href=".. .. refs.htm#Shefferly1996" Shefferly
+1996  a ,  a href=".. .. refs.htm#Stuart_stuart1996" Stuart &amp; Struart 1996  a ,  a href=".. .. refv.htm#vandierendonck_devries1996" van Dierendonck &amp; de Vries 1996  a ,  a href=".. .. refw.htm#WCMC_WWF1997" WCMC WWF 1997  a   p 
+ p align="CENTER"  a href="#TOP" Top of Page  a  |  a href=".. .. index#Search" Search
+This Site  a   p 
+ p align="CENTER"  a href="http:  www.animalinfo.org" Home  a  |  a href=".. .. rarest.htm" Rarest
+Mammals  a  |  a href=".. .. spec_ind.htm" Species Index  a  |  a href=".. .. groupind.htm" Species Groups Index  a  |  a href=".. .. countind.htm" Country
+Index  a  |  a href=".. .. anim_org.htm" Links  a   p 
+ p align="CENTER"  Last modified: March 7, 2005;  br 
+   p 
+ p align="center"  script language="JavaScript1.2" src="http:  www.altavista.com r?entr"   script 
+
+  p 
+ p align="center"  font size="2" color="#FFFFFF" © 1999 - 2014   font 
+ font size="2"  a href="http:  www.animalinfo.org"  font color="#FFFFFF" Animal 
+Info  font   a   font  font size="2" color="#FFFFFF" . Endangered animals of the 
+world.  a href="http:  www.sj.co.uk"  font color="#FFFFFF" SJ  font   a 
+ a href="http:  www.animalinfo.org contact.htm"  font color="#FFFFFF" Contact Us  font   a . br 
+  font 
+ script type="text javascript" 
+var gaJsHost = (("https:" == document.location.protocol) ? "https:  ssl." : "http:  www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com ga.js' type='text javascript'%3E%3C script%3E"));
+  script 
+ script type="text javascript" 
+try {
+var pageTracker = _gat._getTracker("UA-8418982-2");
+pageTracker._trackPageview();
+} catch(err) {}  script 
+  p 

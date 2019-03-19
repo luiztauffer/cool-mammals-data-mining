@@ -1,0 +1,9 @@
+ p class="site-title" itemprop="headline"  a href="https:  onekindplanet.org " OneKindPlanet  a   p 
+ p class="site-description" itemprop="description" Animal facts, education &amp; inspiration  p 
+ p  a href="https:  onekindplanet.org animal " title="Animal A-Z main page" Animal A-Z  a   p 
+ p Hippos bask on the shoreline and secrete an oily red substance, which gave rise to the myth that they sweat blood. The liquid is actually a skin moistener and sunblock that may also provide protection against germs.  p 
+ p    p 
+ p Copyright © 2019 ·  a href="http:  my.studiopress.com themes outreach " onekind  a  on  a href="https:  www.studiopress.com " Genesis Framework  a  ·  a href="https:  wordpress.org " WordPress  a  ·  a rel="nofollow" href="https:  onekindplanet.org wp-login.php" Log in  a   p 
+ p By continuing to use the site, you agree to the use of cookies.  a style="color:#FFFFFF;" href="#" id="fom" More information  a   button id="pea_cook_btn" class="pea_cook_btn" href="#" Accept  button   p 
+ p The cookie settings on this website are set to "allow cookies" to give you the best browsing experience possible. If you continue to use this website without changing your cookie settings or you click "Accept" below then you are consenting to this. For further information visit www.aboutcookies.org or www.allaboutcookies.org. You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser. Some of our website features may not function as a result.  p 
+ p  a style="color:#FFFFFF;" href="#" id="pea_close" Close  a   p 

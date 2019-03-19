@@ -1,0 +1,18 @@
+ p This service is more advanced with JavaScript available, learn more at  a href="http:  activatejavascript.org" target="_blank" rel="noopener" http:  activatejavascript.org  a 
+          p 
+ p class="leaderboard__label" Advertisement  p 
+ p  a href=" journal 13364" title="Acta Theriologica" data-track="click" data-track-action="Journal title" data-track-label=""  span class="JournalTitle" Acta Theriologica  span   a   p 
+ p class="icon--meta-keyline"  span class="ArticleCitation_Year"  time datetime="2006-12" December 2006  time ,   span  span class="ArticleCitation_Volume" Volume 51,   span  a class="ArticleCitation_Issue" href=" journal 13364 51 4 page 1" data-track="click" data-track-action="Article issue" data-track-label="" Issue 4  a ,
+                        span class="ArticleCitation_Pages"  pp 363–371  span  span class="u-inline-block u-ml-4"  |  a href="#citeas" data-track="click" data-track-action="Cite as link" data-track-label="Enumeration section" Cite as  a   span   p 
+ p class="Para" Hedgehogs em class="EmphasisTypeItalic " Erinaceus europaeus  em  Linnaeus, 1758 were radio-tagged and monitored during the summer of 2001 in a Danish rural area with the objective of quantifying home ranges, nightly distances travelled, habitat use, activity patterns, day-nesting habits, and body-weight changes of the five males and five females being recorded. Males had larger home-range sizes and travelled longer nightly distances than females. The two most common habitat types within the home ranges of the hedgehogs were deciduous forest and arable land, whereas the two most frequently used habitat types were deciduous forest and grassland. No differences between the sexes were found in the proportions of different habitat types within the home ranges or in habitat use. Non-random habitat use was found; forested areas and edge habitats seemed preferred to open areas. The most frequently used day-nesting habitat was deciduous forest. Foraging was by far the most time-consuming nightly activity for both sexes. Males lost weight during the study period (May–July), whereas females gained weight. A peak in the frequency of sexual behaviour was found from late-June to mid-July. The high level of male ranging activity and the weight loss of males are interpreted as a consequence of the promiscuous mating system of hedgehogs.  p 
+ p class="SimplePara" Associate Editor was Andrzej Zalewski.  p 
+ p class="u-interface" data-fallback-text="true" Unable to display preview.  a href="  page-one.springer.com pdf preview 10.1007 BF03195183" target="_blank" rel="noopener" Download preview PDF.  a   p 
+ p class="pdf-preview__info u-interface" Unable to display preview.  a href="  page-one.springer.com pdf preview 10.1007 BF03195183" target="_blank" rel="noopener" Download preview PDF.  a   p 
+ p class="skyscraper-ad__label" Advertisement  p 
+ p class="footer__strapline" Over 10 million scientific documents at your fingertips  p 
+ p class="footer__copyright" © 2018 Springer Nature Switzerland AG. Part of  a target="_blank" rel="noopener" href="  www.springernature.com" Springer Nature  a .  p 
+ p class="footer__user-access-info" 
+                     span Not logged in  span 
+                     span Not affiliated  span 
+                     span 84.216.202.231  span 
+                  p 

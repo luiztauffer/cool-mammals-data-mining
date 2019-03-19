@@ -1,0 +1,116 @@
+ p 
+	        		Australia.com does not support the internet browser you are using. Please upgrade to a more recent browser so that you can explore the destinations and experiences that await you as you plan your Australian holiday.
+	        	  p 
+ p Adelaide  p 
+ p Alice Springs  p 
+ p Broome  p 
+ p Cairns  p 
+ p Canberra  p 
+ p Darwin  p 
+ p Gold Coast  p 
+ p Hobart  p 
+ p Regional Cities  p 
+ p Australian Capital Territory  p 
+ p New South Wales  p 
+ p Northern Territory  p 
+ p Queensland  p 
+ p South Australia  p 
+ p Tasmania  p 
+ p Victoria  p 
+ p Western Australia  p 
+ p Blue Mountains  p 
+ p Byron Bay  p 
+ p Flinders Ranges  p 
+ p The Sunshine Coast  p 
+ p Freycinet  p 
+ p Gippsland  p 
+ p Kakadu  p 
+ p Ningaloo  p 
+ p Tasmanian Wilderness  p 
+ p The Australian Alps  p 
+ p The Kimberley  p 
+ p Margaret River  p 
+ p Nature and wildlife   p 
+ p Aquatic and coastal  p 
+ p Food and wine  p 
+ p Aboriginal Australia  p 
+ p Signature Experiences of Australia  p 
+ p Self-drive journeys  p 
+ p Coastal itineraries  p 
+ p Adventure journeys  p 
+ p Nature discovery  p 
+ p Outback itineraries  p 
+ p Events calendar  p 
+ p What´s new  p 
+ p Weather in Australia  p 
+ p Australia's seasons  p 
+ p Cities, states and territories  p 
+ p Time zones  p 
+ p Trip planner  p 
+ p Getting around  p 
+ p Useful tips  p 
+ p Australian public holidays  p 
+ p Special offers and deals  p 
+ p Find accommodation  p 
+ p Find tours  p 
+ p Explore Australia by map  p 
+ p Backpacking Australia  p 
+ p On the road  p 
+ p Work, study, volunteer  p 
+ p class="hero-carouselcoastal-explore-byline" Facts and planning  p 
+ p class="shareicons-label" Share  p 
+ p class="tasman-text"  span class="type-summary" In Australia we have many native animals. Some are very famous, such as koalas and kangaroos, while others may not be familiar to visitors.  span   p 
+ p class="tasman-text" You can get up close and personal with many of them in our zoos and wildlife parks or, if you're lucky, you might just spot them in their natural habitat.  p 
+ p class="tasman-text" Many of our native animals are only found here. We are one of the few continents to have all three groups of mammals – monotremes, marsupials and placentals – and are home to more than 800 species of birds, including the iconic emu. We’ve got two crocodile species, 4,000 fish species and 50 types of marine mammals. Discovering Australia’s animals is one of the highlights for many visitors to our country.  p 
+ p class="tasman-text" Australia’s mammalian wildlife is unique from the rest of the world. The dingo, or wild dog, is our largest carnivorous mammal, while the numbat, quoll and Tasmanian devil are each generally the size of an average house cat.   p 
+ p class="tasman-text" Dingoes can be found all around Australia, except for Tasmania, and the best places to spot them include Queensland’s  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places brisbane-and-surrounds guide-to-fraser-island.html","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places brisbane-and-surrounds guide-to-fraser-island.html","custAction":"event2"}' href=" en places brisbane-and-surrounds guide-to-fraser-island.html" Fraser Island  a , the  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places broome-and-surrounds guide-to-the-kimberley.html","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places broome-and-surrounds guide-to-the-kimberley.html","custAction":"event2"}' href=" en places broome-and-surrounds guide-to-the-kimberley.html" Kimberley  a  in Western Australia and across the deserts of the Northern Territory and South Australia.  p 
+ p class="tasman-text" Numbats are found only in  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places western-australia.html","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places western-australia.html","custAction":"event2"}' href=" en places western-australia.html" Western Australia  a  and the Tasmanian devil can only be seen in wildlife parks or in the Tasmanian wilderness.  br 
+ br 
+Endangered quolls are difficult to spot in the wild, but inhabit the wet forests of southeastern Australia and Tasmania, and a small area of northern Queensland. The bilby can be seen in Francois Peron National Park in Western Australia. br 
+   p 
+ p class="tasman-text" Australia has more than 140 species of marsupials, including kangaroos, wallabies, koalas, and wombats. Our 55 different native species of kangaroos and wallabies vary greatly in size and weight, ranging from half a kilogram (1 pound) to 90 (198.4 pounds) kilograms.   p 
+ p class="tasman-text" Come face to face with kangaroos and wallabies in  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places canberra-and-surrounds guide-to-namadgi-national-park.html","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places canberra-and-surrounds guide-to-namadgi-national-park.html","custAction":"event2"}' href=" en places canberra-and-surrounds guide-to-namadgi-national-park.html" Namadgi  a  and Kosciuszko National Parks in the  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places melbourne-and-surrounds guide-to-the-australian-alps.html","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places melbourne-and-surrounds guide-to-the-australian-alps.html","custAction":"event2"}' href=" en places melbourne-and-surrounds guide-to-the-australian-alps.html" Australian Alps  a , Pebbly Beach in New South Wales and Tasmania’s  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places hobart-and-surrounds guide-to-freycinet.html","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places hobart-and-surrounds guide-to-freycinet.html","custAction":"event2"}' href=" en places hobart-and-surrounds guide-to-freycinet.html" Freycinet National Park  a .  p 
+ p class="tasman-text" Despite popular belief, our native koala is not a bear. Spot koalas at  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places canberra-and-surrounds guide-to-tidbinbilla-nature-reserve.html","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places canberra-and-surrounds guide-to-tidbinbilla-nature-reserve.html","custAction":"event2"}' href=" en places canberra-and-surrounds guide-to-tidbinbilla-nature-reserve.html" Tidbinbilla Nature Reserve  a  near Canberra, Port Stephens in New South Wales and the Lone Pine Koala Sanctuary in Queensland.  p 
+ p class="tasman-text" The wombat is another creature you’ll find here – a stout, burrowing animal that can weigh up to 36 kilograms (79.4 pounds). Some of the best places to see them in the wild are the  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places sydney-and-surrounds an-instagrammers-guide-to-the-blue-mountains.html","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places sydney-and-surrounds an-instagrammers-guide-to-the-blue-mountains.html","custAction":"event2"}' href=" en places sydney-and-surrounds an-instagrammers-guide-to-the-blue-mountains.html" Blue Mountains National Park  a  in New South Wales,  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia::http:  parkweb.vic.gov.au explore parks wilsons-promontory-national-park","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia::http:  parkweb.vic.gov.au explore parks wilsons-promontory-national-park","custAction":"event2"}' href="http:  parkweb.vic.gov.au explore parks wilsons-promontory-national-park" target="_blank" Wilsons Promontory  a  in Victoria and  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places hobart-and-surrounds guide-to-cradle-mountain-lake-st-clair-national-park.html","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places hobart-and-surrounds guide-to-cradle-mountain-lake-st-clair-national-park.html","custAction":"event2"}' href=" en places hobart-and-surrounds guide-to-cradle-mountain-lake-st-clair-national-park.html" Cradle Mountain-Lake St Clair National Park  a  in Tasmania. br 
+   p 
+ p class="tasman-text" Another animal group found only in Australia is the monotremes, or egg-laying mammals. The most distinctive is the platypus, a river-dwelling animal with a bill like a duck, a furry waterproof body and webbed feet. Platypuses live in burrows, which they dig into the banks of rivers. They are difficult to spot, but your best chance to see them is in small streams and calm rivers along the east coast, such as the Tidbinbilla Nature Reserve near Canberra, Lake Elizabeth in Victoria’s Great Otway National Park and in northern New South Wales and Queensland.  p 
+ p class="tasman-text" The echidna, otherwise known as the spiny anteater, is another of Australia’s monotremes. It has a prickly coat like a hedgehog or porcupine – so don’t try to pick one up! Kangaroo Island is one of the best places to spot them in the wild. br 
+   p 
+ p class="tasman-text" We have more than 800 species of birds in Australia, and about half cannot be found anywhere else. They range from tiny honeyeaters to the large, flightless emu, which stands nearly two metres (6.6 feet) tall. See cassowaries in our tropical rainforest, kookaburras in our open woodlands and emus in sclerophyll forests and savanna woodlands. Get up close to penguins on Kangaroo Island in South Australia and Philip Island in  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places victoria.html","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places victoria.html","custAction":"event2"}' href=" en places victoria.html" Victoria  a , or hear the winter call of the lyrebirds in Wollumbin National Park and in the Gondwana Rainforests in southeast Queensland.  p 
+ p class="tasman-text" There are 55 species of parrots in Australia, including a spectacular variety of cockatoos, rosellas, lorikeets, cockatiels, parakeets and budgerigars, which are seen in rural and urban areas. br 
+   p 
+ p class="tasman-text" Australia has more venomous snakes than any other continent, 21 of the world’s 25 deadliest in fact. But not all are poisonous, and we also have some stunning pythons and tree snakes. We are famous for our crocodiles, and host two different species, the freshwater crocodile, which is found nowhere else in the world, and the estuarine crocodile (also known as the saltwater crocodile). The Kimberley, Kakadu National Park and Cape York Peninsula are excellent places to see crocodiles in their natural habitat.   p 
+ p class="tasman-text" Of the seven species of marine turtles in the world, six can be found here including the flatback turtle, green turtle, hawksbill turtle, leatherback turtle, loggerhead turtle and olive ridley turtle. The best spots to see turtles are  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places perth-and-surrounds guide-to-ningaloo-reef.html","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places perth-and-surrounds guide-to-ningaloo-reef.html","custAction":"event2"}' href=" en places perth-and-surrounds guide-to-ningaloo-reef.html" Ningaloo Reef  a  in Western Australia and Eco Beach in  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places broome-and-surrounds guide-to-broome.html","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places broome-and-surrounds guide-to-broome.html","custAction":"event2"}' href=" en places broome-and-surrounds guide-to-broome.html" Broome  a .  p 
+ p class="tasman-text" We also have an amazing array of lizards, ‘dragons’ and goannas (monitor lizards), such as the spectacular frilled-neck lizard and bearded dragon. Thorny devils can be found in Western Australia’s desert habitats, Shark Bay, Carnarvon and Exmouth. br 
+   p 
+ p class="tasman-text" Our marine environments support around 4,000 of the world’s 22,000 types of fish, as well as 30 of the world’s 58 seagrass species. We also have the world’s largest coral reef system, the World Heritage-listed  a data-ta-data-key="TextWithLinks" data-ta-data-layer='{"event":"taCustEvent","custEvent":"TextWithLinks-v5","TextWithLinksTitle":"Australian Animals - Tourism Australia","TextWithLinksLabel":"","custV10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places cairns-and-surrounds guide-to-the-great-barrier-reef.html","custP10":"TextWithLinks-v5:Australian Animals - Tourism Australia:: content australia en places cairns-and-surrounds guide-to-the-great-barrier-reef.html","custAction":"event2"}' href=" en places cairns-and-surrounds guide-to-the-great-barrier-reef.html" Great Barrier Reef  a , where there are countless species of colourful fish, including the beautiful clownfish seen in  i Finding Dory  i . We also have around 1,700 different species of coral.  p 
+ p class="tasman-text" Larger marine species include the humpback, southern right and orca whales, the dugong (or manatee), several dolphin species and a number of different sharks. Catch a glimpse of the whales during their migration along the east coast from May to November, or swim with gentle whale sharks on Ningaloo Reef in Western Australia.  p 
+ p class="tasman-text" Kangaroo Island is one of the best places to see beautiful Australian fur seals in the wild.  p 
+ p class="type-intro" 
+                  p 
+ p class="type-destination line-through-line-wrapper" Where to see kangaroos in the wild  p 
+ p Watching a kangaroo bound through the bush, its ears alert, head raised proudly, chest puffed out and tail slapping the ground, is a thing of beauty. Here's our list of places where you're all but guaranteed to see them.  p 
+ p  a href=" en things-to-do nature-and-wildlife where-to-see-kangaroos-in-the-wild.html" data-ta-data-key="whatYouCanSee" data-ta-data-layer='{"event": "viewMoreTileWhatYouCanSee-v5", "whatYouCanSeeParentHeader": "more articles like this", "whatYouCanSeeLabelText": "where to see kangaroos in the wild", "whatYouCanSeeLogoSubCategory": "", "whatYouCanSeeLinkText": "view more information"}' View more information  a   p 
+ p class="type-destination line-through-line-wrapper" Australia's best zoos and aquariums  p 
+ p Immerse yourself in native animal habitats, sleep next to wild creatures or visit giant pandas. Australia's zoos and aquariums have plenty to go wild over.  p 
+ p  a href=" en things-to-do nature-and-wildlife australias-best-zoos-and-aquariums.html" data-ta-data-key="whatYouCanSee" data-ta-data-layer="{&quot;event&quot;: &quot;viewMoreTileWhatYouCanSee-v5&quot;, &quot;whatYouCanSeeParentHeader&quot;: &quot;more articles like this&quot;, &quot;whatYouCanSeeLabelText&quot;: &quot;australia's best zoos and aquariums&quot;, &quot;whatYouCanSeeLogoSubCategory&quot;: &quot;&quot;, &quot;whatYouCanSeeLinkText&quot;: &quot;view more information&quot;}" View more information  a   p 
+ p class="type-destination line-through-line-wrapper" Australian animals: the koala  p 
+ p Australian Reptile Park's General Manager &amp; Director, Tim Faulkner has answered a few of our questions about the iconic Australian animal.  p 
+ p  a href=" en things-to-do nature-and-wildlife australian-animals-the-koala.html" data-ta-data-key="whatYouCanSee" data-ta-data-layer='{"event": "viewMoreTileWhatYouCanSee-v5", "whatYouCanSeeParentHeader": "more articles like this", "whatYouCanSeeLabelText": "australian animals: the koala", "whatYouCanSeeLogoSubCategory": "", "whatYouCanSeeLinkText": "view more information"}' View more information  a   p 
+ p class="type-destination line-through-line-wrapper" Australian animals: the dingo  p 
+ p The dingo is an Australian icon in its own right. Find out a little bit more about this wonderful Australian animal.  p 
+ p  a href=" en things-to-do nature-and-wildlife australian-animals-the-dingo.html" data-ta-data-key="whatYouCanSee" data-ta-data-layer='{"event": "viewMoreTileWhatYouCanSee-v5", "whatYouCanSeeParentHeader": "more articles like this", "whatYouCanSeeLabelText": "australian animals: the dingo", "whatYouCanSeeLogoSubCategory": "", "whatYouCanSeeLinkText": "view more information"}' View more information  a   p 
+ p class="type-destination line-through-line-wrapper" Australian animals: the wombat  p 
+ p We find out all we've ever wanted to know about the Australian wombat.   p 
+ p  a href=" en things-to-do nature-and-wildlife australian-animals-the-wombat.html" data-ta-data-key="whatYouCanSee" data-ta-data-layer='{"event": "viewMoreTileWhatYouCanSee-v5", "whatYouCanSeeParentHeader": "more articles like this", "whatYouCanSeeLabelText": "australian animals: the wombat", "whatYouCanSeeLogoSubCategory": "", "whatYouCanSeeLinkText": "view more information"}' View more information  a   p 
+ p class="footer-heading" Change your region and language  p 
+ p class="footer-heading" Find us on  p 
+ p class="footer-heading" About this site  p 
+ p class="footer-heading" Other sites  p 
+ p class="atdw-disclaimer-text-legals" * b Product Disclaimer:   b Information on listed products and services are provided by the operator and were correct at the time of publishing. Rates are indicative based on the minimum and maximum available prices of products and services. Please visit the operator’s website for further information. All prices quoted are in Australian dollars (AUD). Tourism Australia makes no representations whatsoever about any other websites which you may access through this website. Some websites which are linked to the Tourism Australia website are independent from Tourism Australia and are not under the control of Tourism Australia. Tourism Australia does not endorse or accept any responsibility for the use of websites which are owned or operated by third parties and makes no representation or warranty in relation to the standard, class or fitness for purpose of any services, nor does it endorse or in any respect warrant any products or services by virtue of any information, material or content linked from or to this site.  p 
+ p Welcome to Tourism Australia  p 
+ p Your email has been verified.  p 
+ p You can now close this dialogue.  p 
+ p Welcome to Tourism Australia {{firstName}} {{lastName}}  p 
+ p Your email: {{email}} has been verified.  p 
+ p You can now close this dialogue.  p 

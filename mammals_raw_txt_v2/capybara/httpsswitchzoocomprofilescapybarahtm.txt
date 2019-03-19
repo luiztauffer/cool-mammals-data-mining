@@ -1,0 +1,42 @@
+ p 
+        !-- SiteSearch Google -- 
+         style type="text css" 
+@import url(http:  www.google.com cse api branding.css);
+      style 
+        p 
+ p 
+	    script type="text javascript"  !--
+google_ad_client = "pub-5923529873620267";
+ * ad for path * 
+google_ad_slot = "8442255576";
+google_ad_width = 300;
+google_ad_height = 250;
+  -- 
+      script 
+         script type="text javascript" src="http:  pagead2.googlesyndication.com pagead show_ads.js" 
+      script 
+          p 
+ p 
+		 script type="text javascript"  !--
+google_ad_client = "pub-5923529873620267";
+ * ad for path * 
+google_ad_slot = "8442255576";
+google_ad_width = 300;
+google_ad_height = 250;
+  -- 
+      script 
+         script type="text javascript" src="http:  pagead2.googlesyndication.com pagead show_ads.js" 
+      script 
+          p 
+ p 
+		 script type="text javascript"  !--
+google_ad_client = "pub-5923529873620267";
+ * ad for path * 
+google_ad_slot = "8442255576";
+google_ad_width = 300;
+google_ad_height = 250;
+  -- 
+      script 
+         script type="text javascript" src="http:  pagead2.googlesyndication.com pagead show_ads.js" 
+      script 
+          p 

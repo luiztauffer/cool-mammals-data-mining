@@ -1,0 +1,352 @@
+ p 
+
+    .
+
+    
+ !-- All in One SEO Pack 2.12 by Michael Torbert of Semper Fi Web Design[388,443] -- 
+ meta name="description" content="Hippopotamus Facts The hippopotamus is a large mammal that is considered one of the most dangerous animals where they live. Their name means 'river horse' and" 
+
+ link rel="canonical" href="https:  www.coolkidfacts.com hippopotamus-facts " 
+ !--  all in one seo pack -- 
+ link rel="dns-prefetch" href="  scripts.mediavine.com" 
+ link rel="dns-prefetch" href="  netdna.bootstrapcdn.com" 
+ link rel="dns-prefetch" href="  s.w.org" 
+ link rel="alternate" type="application rss+xml" title="Cool Kid Facts » Feed" href="https:  www.coolkidfacts.com feed " 
+ link rel="alternate" type="application rss+xml" title="Cool Kid Facts » Comments Feed" href="https:  www.coolkidfacts.com comments feed " 
+ !-- This site uses the Google Analytics by MonsterInsights plugin v7.4.2 - Using Analytics tracking - https:  www.monsterinsights.com  -- 
+ script type="text javascript" data-cfasync="false" 
+	var mi_version         = '7.4.2';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-52600603-1';
+
+	 * Function to detect opted out users * 
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true')   -1;
+	}
+
+	 * Disable tracking if the opt-out cookie exists. * 
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	 * Opt-out function * 
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path= ';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','  www.google-analytics.com analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-52600603-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			 * https:  developers.google.com analytics devguides collection analyticsjs  * 
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+  script 
+ !--   Google Analytics by MonsterInsights -- 
+		 script type="text javascript" 
+			window._wpemojiSettings = {"baseUrl":"https:\ \ s.w.org\ images\ core\ emoji\ 11.2.0\ 72x72\ ","ext":".png","svgUrl":"https:\ \ s.w.org\ images\ core\ emoji\ 11.2.0\ svg\ ","svgExt":".svg","source":{"concatemoji":"https:\ \ www.coolkidfacts.com\ wp-includes\ js\ wp-emoji-release.min.js?ver=6a3b16f28928e5e6853d0c848e741959"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		  script 
+		 style type="text css" 
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+  style 
+	 link rel="stylesheet" id="wp-block-library-css" href="https:  www.coolkidfacts.com wp-includes css dist block-library style.min.css?ver=6a3b16f28928e5e6853d0c848e741959" type="text css" media="all" 
+ link rel="stylesheet" id="wpfront-notification-bar-css" href="https:  www.coolkidfacts.com wp-content plugins wpfront-notification-bar css wpfront-notification-bar.css?ver=1.7.1" type="text css" media="all" 
+ link rel="stylesheet" id="related-frontend-css-css" href="https:  www.coolkidfacts.com wp-content plugins related css frontend-style.css?ver=3.1.0" type="text css" media="all" 
+ link rel="stylesheet" id="main_style-css" href="https:  www.coolkidfacts.com wp-content themes dreamy style.css?ver=6a3b16f28928e5e6853d0c848e741959" type="text css" media="all" 
+ link rel="stylesheet" id="superfish-css" href="https:  www.coolkidfacts.com wp-content themes dreamy script menu superfish.css?ver=6a3b16f28928e5e6853d0c848e741959" type="text css" media="all" 
+ link rel="stylesheet" id="fancybox-css" href="https:  www.coolkidfacts.com wp-content themes dreamy script fancybox source jquery.fancybox.css?ver=6a3b16f28928e5e6853d0c848e741959" type="text css" media="all" 
+ link rel="stylesheet" id="flexslider-css" href="https:  www.coolkidfacts.com wp-content themes dreamy script flexslider flexslider.css?ver=6a3b16f28928e5e6853d0c848e741959" type="text css" media="all" 
+ link rel="stylesheet" id="jplayer-css" href="https:  www.coolkidfacts.com wp-content themes dreamy script jplayer skin blue.monday jplayer.blue.monday.css?ver=6a3b16f28928e5e6853d0c848e741959" type="text css" media="all" 
+ link rel="stylesheet" id="jcarusel-css" href="https:  www.coolkidfacts.com wp-content themes dreamy script jcarusel skin.css?ver=6a3b16f28928e5e6853d0c848e741959" type="text css" media="all" 
+ link rel="stylesheet" id="shortcodes-css" href="https:  www.coolkidfacts.com wp-content themes dreamy style shortcodes.css?ver=6a3b16f28928e5e6853d0c848e741959" type="text css" media="all" 
+ link rel="stylesheet" id="fontawesome-css" href="  netdna.bootstrapcdn.com font-awesome 4.0.3 css font-awesome.css?ver=6a3b16f28928e5e6853d0c848e741959" type="text css" media="all" 
+ script type="text javascript" 
+ *  ![CDATA[ * 
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[]","home_url":"https:\ \ www.coolkidfacts.com","hash_tracking":"false"};
+ * ]]  * 
+  script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content plugins google-analytics-for-wordpress assets js frontend.min.js?ver=7.4.2"   script 
+ script type="text javascript" async="async" data-noptimize="1" data-cfasync="false" src="  scripts.mediavine.com tags cool-kid-facts.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-includes js jquery jquery.js?ver=1.12.4"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-includes js jquery jquery-migrate.min.js?ver=1.4.1"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content plugins wpfront-notification-bar jquery-plugins jquery.c.js?ver=1.4.0"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content plugins wpfront-notification-bar js wpfront-notification-bar.js?ver=1.7.1"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content themes dreamy script menu superfish.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content themes dreamy script common.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content themes dreamy script fancybox source jquery.fancybox.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content themes dreamy script jscolor jscolor.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content themes dreamy script flexslider jquery.flexslider.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content themes dreamy script isotope jquery.isotope.min.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content themes dreamy script easing jquery.easing.1.3.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content themes dreamy script spiner spin.min.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content themes dreamy script jplayer js jquery.jplayer.min.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content themes dreamy script respond.src.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content themes dreamy script jcarusel jquery.jcarousel.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content themes dreamy script jparallax js jquery.parallax.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ script type="text javascript" src="https:  www.coolkidfacts.com wp-content themes dreamy script jparallax js jquery.event.frame.js?ver=6a3b16f28928e5e6853d0c848e741959"   script 
+ link rel="https:  api.w.org " href="https:  www.coolkidfacts.com wp-json " 
+ link rel="EditURI" type="application rsd+xml" title="RSD" href="https:  www.coolkidfacts.com xmlrpc.php?rsd" 
+ link rel="wlwmanifest" type="application wlwmanifest+xml" href="https:  www.coolkidfacts.com wp-includes wlwmanifest.xml"  
+
+ link rel="shortlink" href="https:  www.coolkidfacts.com ?p=4288" 
+ link rel="alternate" type="application json+oembed" href="https:  www.coolkidfacts.com wp-json oembed 1.0 embed?url=https%3A%2F%2Fwww.coolkidfacts.com%2Fhippopotamus-facts%2F" 
+ link rel="alternate" type="text xml+oembed" href="https:  www.coolkidfacts.com wp-json oembed 1.0 embed?url=https%3A%2F%2Fwww.coolkidfacts.com%2Fhippopotamus-facts%2F&amp;format=xml" 
+ script type="text javascript" var ajaxurl = "https:  www.coolkidfacts.com wp-admin admin-ajax.php";  script  style type="text css" id="simple-css-output" p { margin-top: 1em; margin-bottom: 3em;}  style 		 style type="text css" id="wp-custom-css" 
+			 * Mediavine CSS * 
+@media only screen and (min-width: 1024px) {
+    .left-page {
+        max-width: calc(100% - 364px);
+    }
+    .bg-sidebar, #sidebar, .sidebar-top, .sidebar-down {
+        min-width: 300px !important;
+        background-size: contain !important;
+    }
+	.sidebar-top, .sidebar-down {
+		min-width: 364px !important;
+		background-size: cover !important;
+	}
+	.bg-sidebar {
+		min-width: 364px !important;
+	}
+	.sidebar-down {
+		padding-bottom: 17px;
+	}
+}
+@media only screen and (max-width: 1023px) {
+    .left-page, .bg-sidebar, #sidebar, .sidebar-top {
+        max-width: 100%;
+        width: 100%;
+        float: none;
+        clear: both;
+    }
+	.left .shortcodes {
+		display: flex;
+    flex-direction: column;
+	}
+    .bg-sidebar, #sidebar, .sidebar-top {
+        text-align: center;
+    }
+	.sidebar-top, .sidebar-down {
+		display: none;
+	}
+}
+@media screen and (max-width: 399px) {
+    .wrapper {
+        width: 100%;
+    }
+    #container {
+        margin: 0px;
+        width: 100%;
+    }
+    .content {
+        padding: 10px;
+			width: auto;
+    }
+	.right {
+		padding: 0px !important;
+	}
+}
+ * End of Mediavine CSS* 
+
+body {
+	background: #FFFCA8 !important;
+}
+
+p {
+  margin-top: 0em;
+  margin-bottom: 2em;
+}
+		  style 
+		        
+                
+                    
+ style type="text css" 
+         *BODY* 
+        body{
+            background-color: #FFFCA8;
+            background-attachment: scroll;
+            background-image: url(https:  www.coolkidfacts.com wp-content uploads 2015 07 geometric-630313_640.png);
+            background-position: center top;
+            background-repeat: repeat;
+        }
+
+        .bg-menu-left {
+            background:url(https:  www.coolkidfacts.com wp-content themes dreamy style img bg-menu-left-green.png) no-repeat;
+        }
+
+        .bg-menu nav {
+            background:url(https:  www.coolkidfacts.com wp-content themes dreamy style img bg-menu-center-green.png) repeat-x;
+        }
+
+        .bg-menu-right {
+            background:url(https:  www.coolkidfacts.com wp-content themes dreamy style img bg-menu-right-green.png) no-repeat;
+        }
+
+        .flex-direction-nav {
+            background:url(https:  www.coolkidfacts.com wp-content themes dreamy script flexslider theme bg-arrow-yellow.png) no-repeat;
+        }
+
+        .hover-slider {
+            background:url(https:  www.coolkidfacts.com wp-content themes dreamy style img pixel-yellow.png) repeat;
+        }
+
+        .hover-slider a:hover {
+            color:#0E7F30;
+        }
+
+        .bg-scroll-home-title {
+            background:url(https:  www.coolkidfacts.com wp-content themes dreamy style img bg-scroll-home-title.png) no-repeat;
+        }
+
+        .jcarousel-skin-tango .jcarousel-next-vertical {
+            background:url(https:  www.coolkidfacts.com wp-content themes dreamy style img arrow-down-scroll.png) no-repeat top right;
+        }
+
+        .jcarousel-skin-tango .jcarousel-prev-vertical {
+            background:url(https:  www.coolkidfacts.com wp-content themes dreamy style img arrow-up-scroll.png) no-repeat top left;
+        }
+
+        .latest-news-background {
+             background:url(https:  www.coolkidfacts.com wp-content themes dreamy style img latest-news-home-one-date.png) no-repeat top;
+        }
+
+        .bg-blue-center {
+            background:url("https:  www.coolkidfacts.com wp-content themes dreamy style img bg-yellow-center.png") repeat left top;
+        }
+
+        .bg-blue-center-title {
+            background:url("https:  www.coolkidfacts.com wp-content themes dreamy style img bg-yellow-center.png") repeat left top;
+        }
+
+        .footer-top {
+            background:url("https:  www.coolkidfacts.com wp-content themes dreamy style img footer-top-yellow.png") repeat-x top left;
+        }
+
+        .footer {
+            background:url("https:  www.coolkidfacts.com wp-content themes dreamy style img bg-yellow-center.png") repeat left top;
+        }
+
+        .bg-blue-top  {
+            background:url("https:  www.coolkidfacts.com wp-content themes dreamy style img bg-yellow-top.png") repeat-x left top;
+        }
+
+        .bg-blue-down  {
+            background:url("https:  www.coolkidfacts.com wp-content themes dreamy style img bg-yellow-down.png") repeat-x left top;
+        }
+
+        .bg-menu nav ul li   a:hover, nav ul .current-menu-item   a {
+            color:#AE420E !important;
+        }
+
+        .flex-direction-nav li a:hover, .blog-hover a:hover, .breadcrumbs-content ul li a:hover {
+            color:#0E7F30 !important;
+            -webkit-transition: color 120ms linear;
+            -moz-transition: color 120ms linear;
+            transition: color 120ms linear;
+        }
+        .scroll-pane-one a:hover {
+            color:#FFCB00;
+        }
+
+        .sub-menu-top {
+            background:url(https:  www.coolkidfacts.com wp-content themes dreamy script menu img nav-top-green.png) no-repeat !important;
+            height:6px;
+        }
+
+        .sub-menu-bottom {
+            background:url(https:  www.coolkidfacts.com wp-content themes dreamy script menu img nav-bottom-green.png) no-repeat !important;
+            height:7px;
+        }
+
+        .sub-menu .menu-item {
+            background:url(https:  www.coolkidfacts.com wp-content themes dreamy script menu img nav-center-green.png) repeat-y !important;
+        }
+       
+        
+        .footer_box li a:hover, .copyright a:hover, .footer_box tbody a {
+            color:#FFCB00 !important;
+        }
+
+        .home-text,  .home-text a  {
+            color:#00A3D1;
+    }
+
+
+  style                       
+
+  p 
+ p The hippopotamus is a large mammal that is considered one of the most dangerous animals where they live. Their name means ‘river horse’ and they spend a large amount of their life in water, such as streams and lakes.  p 
+ p Keep reading to find out more interesting facts about hippos.  p 
+ p Hippopotamus are large mammals, which means they have hair, they give birth to life young, and feed their babies with milk. They are considered the third largest mammal that lives on Earth, only behind the rhinoceros and the elephant.  p 
+ p Hippos have short legs, a huge mouth, and bodies that are shaped like barrels. Although they look extremely fat, hippos are actually in excellent shape and can easily outrun a human.  p 
+ p A male hippopotamus is called a bull while a female is called a cow. A baby hippo is called a calf and a group of hippos are known as a herd, a pod, or a bloat.  p 
+ p Hippopotamuses live in Africa and can be found in savannahs and forests. They are land animals, but they spend a lot of their time living in water, like rivers, lakes, and swamps. They rest in the water or mud when they are feeling hot or need to stay cool.  p 
+ p They will usually stay in water during the day and come out to eat once the sun starts going down.  p 
+ p    p 
+ p Once the temperature begins cooling down, hippos will leave the water to go on land and search for food. Hippopotamuses are herbivores, which means that they only eat plants. Hippos usually eat mainly grass, and can spend four or five hours a day grazing. In fact, they can eat up to 150 pounds of grass each night!  p 
+ p Because adult hippos are so large and strong, no animals try to hunt or attack them. There are a few predators that will try to hunt young hippos, however, and these include Nile crocodiles, lions, and spotted hyenas. Hippos are threatened by humans as they are poached for their meat and their ivory teeth. They are now considered Vulnerable.  p 
+ p Hippos are extremely aggressive animals, and will attack anything or anyone that is trying to hurt or threaten them. They are known to attack other hippos that are trying to take their territory, and females will attack predators that are trying to hurt their young. Hippos will even attack humans if they come close.  p 
+ p Hippopotamuses are some of the largest mammals on land and are known for their aggressive behavior and strong bodies. They are herbivores that mainly eat grass, and don’t have many predators in the wild outside of humans. Hippopotamuses are important animals in our ecosystem and we need to do what we can to protect them.  p 

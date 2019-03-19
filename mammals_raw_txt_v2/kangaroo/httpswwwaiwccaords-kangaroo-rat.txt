@@ -1,0 +1,38 @@
+ p  strong What are Ord’s kangaroo rats?  strong   p 
+ p Ord’s kangaroo rat ( em Dipodomys ordii  em ) is a subspecies of kangaroo rat native to western North America, including parts of southern Alberta and central Mexico (Patton 2005).  p 
+ p Kangaroo rats have elongated tails with bushy tips, and belong to the family  em Heteromyidae  em  (kangaroo rats and mice). They derive their name from the elongated hind legs and powerful feet that produce their jumping movement, not dissimilar to the kangaroos they are named for.  p 
+ p Ord’s kangaroo rats can be identified by their orange-brown colouration, five-toed feet and reduced forelimbs (Recovery Plan 2013-2018). They have been listed as “threatened” under the Alberta Endangered Species Act, and it is illegal to harm or disturb the species or its habitat.  p 
+ p  strong Where are Ord’s kangaroo rat found?  strong   p 
+ p Ord’s kangaroo rat, like other species of kangaroo rat, are highly adapted for survival in arid, sparse, or shrubland habitats. Spending most of the daytime inside their burrows, they emerge at night to look for food and or mates (AEP). In Southern Alberta, Ord’s kangaroo rat is distributed mainly in the area between the Red Deer and the South Saskatchewan Rivers (Recovery Plan 2013-2018).  p 
+ p According to the Alberta Ord’s Kangaroo Rat Recovery Plan (2013-2018), it is not currently clear as to whether the kangaroo rat population of southern Alberta have contact with that of the southern Saskatchewan population, just that they are separated from the Montana population by several hundred kilometers (COSEWIC 2006).  p 
+ p Population modelling of the kangaroo rats of southern Alberta has proved difficult, due in part to the fluctuating nature of the population (Recovery Plan). It has been theorised that increased human activity and the past few years of extended severe winters and spring flooding events has had a large impact on their survival.  p 
+ p  strong What is being done to protect Ord’s kangaroo rat and why?  strong   p 
+ p The Alberta Ord’s Kangaroo Rat Recovery Plan for 2013-2018 was created with the goals of “ensuring a natural, self-sustaining population resistant to the risk of extinction in the province”. To achieve this, the recovery plan focuses on “reducing the negative effects of human land uses on population size and fluctuations; conserving and enhancing the quality of open-sand habitats; and educational outreach to highlight the importance of the species”.  p 
+ p As the only species of  em Dipodomys  em  in Alberta, Ord’s kangaroo rats are an essential part of the sand dune ecosystem, by “exerting substantial effects on the plant communities, soils, and predators” of the region (COSEWIC). They are also a focal point of conservation of the prairie sand dunes, rare and declining habitats that other endangered species and biodiversity depend on (COSEWIC; Finnamore &amp; Buckle 1999).  p 
+ p  strong What more needs to be done, and how can we help?  strong   p 
+ p As is always the case with threatened or endangered species, improving knowledge in the wider public is vital to the success of species at risk recovery plans. This can be achieved via public education and outreach programs, as well as contacting and keeping engaged with landowners about land conservation and stewardship programs.  p 
+ p  strong By Jonathan Poll, AIWC Volunteer  strong   p 
+ p  strong References  strong   p 
+ p  a href="https:  en.wikipedia.org wiki James_L._Patton"  em Patton, J.L.  em   a  (2005).  a href="http:  www.departments.bucknell.edu biology resources msw3 browse.asp?id=12700071"  em “Family Heteromyidae”  em   a . In Wilson, D.E.; Reeder, D.M.  a href="http:  www.google.com books?id=JgAMbNSt8ikC&amp;pg=PA847"  em Mammal Species of the World: A Taxonomic and Geographic Reference  em   a  (3rd ed.). Johns Hopkins University Press. p. 847.  p 
+ p  a href="http:  www.sararegistry.gc.ca default.asp?lang=En&amp;n=CCF2EBBC-1&amp;offset=11&amp;toc=show" http:  www.sararegistry.gc.ca default.asp?lang=En&amp;n=CCF2EBBC-1&amp;offset=11&amp;toc=show  a   p 
+ p Finnamore, A.F., and D. Buckle. 1999. Arthropod component report: the stinging wasps (Hymenoptera: Chrysidoidea, Vespoidea, Apoidea) and spiders (Araneae), Canadian Forces Base Suffield National Wildlife Area Wildlife Inventory. Report for Canadian Wildlife Service, Prairie and Northern Region, Edmonton, Alberta. 199 pp.  p 
+ p  a href="http:  naturecanada.ca what-we-do naturevoice endangered-species know-our-species kangaroo-rat " http:  naturecanada.ca what-we-do naturevoice endangered-species know-our-species kangaroo-rat   a   p 
+ p  a href="http:  aep.alberta.ca fish-wildlife species-at-risk species-at-risk-publications-web-resources mammals documents SAR-AlbertaOrdsKangarooRatRecoveryPlan-2013-2018.pdf" http:  aep.alberta.ca fish-wildlife species-at-risk species-at-risk-publications-web-resources mammals documents SAR-AlbertaOrdsKangarooRatRecoveryPlan-2013-2018.pdf  a   p 
+ p Photo Credit: By NPS (http:  www.nps.gov glca naturescience mammals.htm) [Public domain], via Wikimedia Commons  p 
+ p class="comment-notes"  span id="email-notes" Your email address will not be published.  span  Required fields are marked  span class="required" *  span   p 
+ p class="comment-form-comment"  label for="comment" Comment  label   textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"   textarea   p 
+ p class="comment-form-author"  label for="author" Name  span class="required" *  span   label   input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"   p 
+ p class="comment-form-email"  label for="email" Email  span class="required" *  span   label   input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"   p 
+ p class="comment-form-url"  label for="url" Website  label   input id="url" name="url" type="text" value="" size="30" maxlength="200"   p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Post Comment"   input type="hidden" name="comment_post_ID" value="3668" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+  p 
+ p class="akismet_comment_form_privacy_notice" This site uses Akismet to reduce spam.  a href="https:  akismet.com privacy " target="_blank" rel="nofollow noopener" Learn how your comment data is processed  a .  p 
+ p Telephone: 403-946-2361  p 
+ p Email: info@aiwc.ca  p 
+ p Alberta Institute For Wildlife Conservation br 
+PO Box 68 br 
+Madden, AB br 
+T0M 1L0 br 
+ br 
+Charitable Registration #: 14041 6140 RR0001.  p 

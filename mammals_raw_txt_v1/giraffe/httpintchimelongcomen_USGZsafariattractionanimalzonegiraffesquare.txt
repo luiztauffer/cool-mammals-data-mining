@@ -1,0 +1,1 @@
+ p class="popup_for_mobile_p_en" You are browsing the desktop version of  br Chimelong Tourist Resort International site,  br please click  a onclick="javascript:gtag('event', 'click', {'event_category': 'mobile popup', 'event_label': 'go mobile'});" href="http:  m.chimelong.com" here  a  to view mobile version  br  of the official Simplified Chinese site.  p 

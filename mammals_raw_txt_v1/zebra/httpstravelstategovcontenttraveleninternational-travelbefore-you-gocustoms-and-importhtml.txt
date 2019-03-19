@@ -1,0 +1,153 @@
+ p 
+         a href=" content travel en international-travel before-you-go.html" title="Before You Go" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Before You Go  a 
+      p 
+ p 
+         a href=" content travel en international-travel International-Travel-Country-Information-Pages.html" title="Country Information" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel International-Travel-Country-Information-Pages' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Country Information  a 
+      p 
+ p 
+         a href=" content travel en international-travel while-abroad.html" title="While Abroad" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel while-abroad' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" While Abroad  a 
+      p 
+ p 
+         a href=" content travel en international-travel emergencies.html" title="Emergencies" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel emergencies' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Emergencies  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-checklist.html" title="Traveler's Checklist" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-checklist' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Traveler's Checklist  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go about-our-new-products.html" title="Safety and Security Messaging" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go about-our-new-products' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Safety and Security Messaging  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go about-our-new-products consular-information-faq.html" title="Consular Information Frequently Asked Questions" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go about-our-new-products consular-information-faq' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Consular Information Frequently Asked Questions  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go about-our-new-products staying-connected.html" title="Staying Connected" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go about-our-new-products staying-connected' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Staying Connected  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go step.html" title="Smart Traveler Enrollment Program (STEP)" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go step' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Smart Traveler Enrollment Program (STEP)  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations.html" title="Traveler Information" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Traveler Information  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations schengen.html" title="U.S. Travelers in Europe " onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations schengen' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" U.S. Travelers in Europe   a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations high-risk-travelers.html" title="High-Risk Area Travelers" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations high-risk-travelers' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" High-Risk Area Travelers  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations journalist-travelers.html" title="Journalist Travelers" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations journalist-travelers' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Journalist Travelers  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations faith-based-travel.html" title="Faith-Based Travelers" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations faith-based-travel' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Faith-Based Travelers  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations hajj-umrah.html" title="Pilgrimage Travelers (Hajj and Umrah)" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations hajj-umrah' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Pilgrimage Travelers (Hajj and Umrah)  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations students.html" title="U.S. Students Abroad" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations students' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" U.S. Students Abroad  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations cruise-ship-passengers.html" title="Cruise Ship Passengers" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations cruise-ship-passengers' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Cruise Ship Passengers  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations lgbti.html" title="LGBTI Travelers" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations lgbti' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" LGBTI Travelers  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations women-travelers.html" title="Women Travelers" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations women-travelers' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Women Travelers  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations traveling-with-disabilties.html" title="Travelers with Disabilities" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations traveling-with-disabilties' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Travelers with Disabilities  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations info-older-travelers.html" title="Older Travelers " onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations info-older-travelers' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Older Travelers   a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations volunteering-abroad.html" title="U.S. Volunteers Abroad" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations volunteering-abroad' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" U.S. Volunteers Abroad  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations taking-a-pet-overseas.html" title="Travelers with Pets" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations taking-a-pet-overseas' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Travelers with Pets  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations traveling-abroad-with-firearms.html" title="Travelers With Firearms" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations traveling-abroad-with-firearms' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Travelers With Firearms  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations travel-agents.html" title="Travel Agents" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go travelers-with-special-considerations travel-agents' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Travel Agents  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go crisis-abroad--be-ready.html" title="Crisis Abroad: Be Ready" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go crisis-abroad--be-ready' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Crisis Abroad: Be Ready  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go crisis-abroad--be-ready natural-disasters.html" title="Natural Disasters" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go crisis-abroad--be-ready natural-disasters' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Natural Disasters  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go crisis-abroad--be-ready tropical-storm.html" title="Hurricanes, Typhoons, and Cyclones" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go crisis-abroad--be-ready tropical-storm' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Hurricanes, Typhoons, and Cyclones  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go crisis-abroad--be-ready manmade-disasters.html" title="Manmade Disasters" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go crisis-abroad--be-ready manmade-disasters' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Manmade Disasters  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go your-health-abroad.html" title="Your Health Abroad" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go your-health-abroad' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Your Health Abroad  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go your-health-abroad insurance-providers-overseas.html" title="Insurance Providers for Overseas Coverage" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go your-health-abroad insurance-providers-overseas' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Insurance Providers for Overseas Coverage  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go your-health-abroad ebola.html" title="Ebola Information for Travelers" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go your-health-abroad ebola' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Ebola Information for Travelers  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go your-health-abroad zika-virus-information-for-travelers.html" title="Zika Virus Information for Travelers" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go your-health-abroad zika-virus-information-for-travelers' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Zika Virus Information for Travelers  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go driving-and-road-safety.html" title="Driving and Road Safety Abroad" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go driving-and-road-safety' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Driving and Road Safety Abroad  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go customs-and-import.html" title="Customs and Import Restrictions" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go customs-and-import' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" Customs and Import Restrictions  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go world-youth-day-.html" title="World Youth Day: Panama 2019" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: ' content travel en international-travel before-you-go world-youth-day-' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd components content segmentMenu'})" World Youth Day: Panama 2019  a 
+      p 
+ p Many countries have restrictions on what you can bring into that country, including food,  a href=" content travel en international-travel before-you-go travelers-with-special-considerations taking-a-pet-overseas.html" adhocenable="false" pets  a , and medications. Even over-the-counter medications may be prohibited in some countries. Check with the  a href="https:  www.state.gov s cpr 32122.htm" adhocenable="false" foreign embassies and consulates in the U.S.  a  for your destination country to find out what is prohibited. Foreign embassy and consulate contact information can also be found in the  a href=" content travel en international-travel International-Travel-Country-Information-Pages.html" adhocenable="false" Country Specific Information  a  for each country.  p 
+ p A number of countries have restrictions on what items you can export or take with you when departing that country including, but not limited to:  p 
+ p Countries may require export permits, which may take some time to process. Travelers who violate foreign customs rules can be detained at the airport, fined, have the items confiscated, and, in some cases, be sentenced to prison.  p 
+ p To be safe, check with  a href="https:  www.state.gov s cpr 32122.htm" adhocenable="false" foreign embassies and consulates in the United States  a  for your destination country before you travel. You can also find general information about a foreign country’s customs in the Country Specific Information we provide at  a href=" content travel en international-travel International-Travel-Country-Information-Pages.html" adhocenable="false" travel.state.gov  a .  p 
+ p There are some items that you cannot bring into the United States, or that you can bring in only under certain conditions. For information on U.S. customs regulations and procedures, see the Customs and Border Protection booklet “ a href="http:  www.cbp.gov travel us-citizens know-before-you-go" adhocenable="false" Know Before You Go  a .”  p 
+ p Many wildlife and wildlife products are prohibited from import into the United States. You risk confiscation and a possible fine if you attempt to bring them into the United States. For more information see:  p 
+ p https:  www.fws.gov le travelers.html  p 
+ p Watch out for the following prohibited items (this is an illustrative list):  p 
+ p For more information, you may contact the  a href="http:  www.fws.gov " U.S. Fish and Wildlife Service  a , Office of Law Enforcement, at 1-800- 344-9453, or send an email to the Fish and Wildlife Service at lawenforcement@fws.gov.   p 
+ p Subscribe to get up-to-date safety and security information and help us reach you in an emergency abroad.  p 
+ p Make two copies of all of your travel documents in case of emergency, and leave one with a trusted friend or relative.  p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-checklist.html" title="Traveler's Checklist" Traveler's Checklist  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go about-our-new-products.html" title="Safety and Security Messaging" Safety and Security Messaging  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go step.html" title="Smart Traveler Enrollment Program (STEP)" Smart Traveler Enrollment Program (STEP)  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go travelers-with-special-considerations.html" title="Traveler Information" Traveler Information  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go crisis-abroad--be-ready.html" title="Crisis Abroad: Be Ready" Crisis Abroad: Be Ready  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go your-health-abroad.html" title="Your Health Abroad" Your Health Abroad  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go driving-and-road-safety.html" title="Driving and Road Safety Abroad" Driving and Road Safety Abroad  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go customs-and-import.html" title="Customs and Import Restrictions" Customs and Import Restrictions  a 
+      p 
+ p 
+         a href=" content travel en international-travel before-you-go world-youth-day-.html" title="World Youth Day: Panama 2019" World Youth Day: Panama 2019  a 
+      p 
+ p You are about to leave travel.state.gov for an external website that is not maintained by the U.S. Department of State.  p 
+ p Links to external websites are provided as a convenience and should not be construed as an endorsement by the U.S. Department of State of the views or products contained therein. If you wish to remain on travel.state.gov, click the "cancel" message.  p 
+ p class="sameline reducepadding" You are about to visit:  p 
+ p align="center" 
+                             button type="button" class="btnClear" data-dismiss="modal" Cancel  button 
+                             a title="Click here to press GO" class="btn-tsg btn-primary-tsg btnSubmit" data-popup="true" data-dismiss="modal" GO  a 
+                          p 

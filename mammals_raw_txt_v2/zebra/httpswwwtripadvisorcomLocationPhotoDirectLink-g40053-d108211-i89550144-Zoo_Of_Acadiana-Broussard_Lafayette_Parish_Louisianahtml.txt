@@ -1,0 +1,11 @@
+ p Ten miles south of New Orleans, this zoo has over 750 exotic...   p 
+ p Ten miles south of New Orleans, this zoo has over 750 exotic animals.  p 
+ p class="partial_entry" 
+We just did a quick walk-thru of the zoo one afternoon. There seemed to be a lot of activities for kids (we were there on a cold day in the off season, so many weren't open operating), like a zoo tour train, nice playground, and nice gift shop. We enjoyed the more treed setting in this zoo, and loved the alligator...
+ span class="partnerRvw" 
+ span class="taLnk hvrIE6 tr192905889 moreLink ulBlueLinks" onclick="      ta.util.cookie.setPIDCookie(4443); ta.call('ta.servlet.Reviews.expandReviews', {type: 'dummy'}, ta.id('review_192905889'), 'review_192905889', '1', 4443);
+  " 
+More    span 
+ span class="ui_icon caret-down"   span 
+  span 
+  p 

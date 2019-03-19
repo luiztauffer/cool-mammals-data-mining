@@ -1,0 +1,4 @@
+ p class="footer-book" International Fund for Animal Welfare | 290 Summer Street, Yarmouth Port, MA 02675 | USA br 
+	IFAW is a 501(c)3 nonprofit organization.  p 
+ p class="footer-med" Copyright 2019 |  a href=" united-states our-work privacy-policy" Privacy Policy  a  |  a href=" united-states our-work financial-info state-disclosures" State disclosures  a  br 
+	 a href=" united-states our-work terms-of-use" Terms of use  a   p 

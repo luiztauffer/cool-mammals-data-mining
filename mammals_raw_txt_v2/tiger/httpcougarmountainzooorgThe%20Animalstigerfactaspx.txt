@@ -1,0 +1,70 @@
+ p align="center" style="font-size: 2em" 
+                      i Conservation through Education  i 
+                    p 
+ p align="left" 
+                     span id="ctl00_BreadCrumbSiteMapPath" class="BreadCrumbs2"  a href="#ctl00_BreadCrumbSiteMapPath_SkipLink"  img alt="Skip Navigation Links" height="0" width="0" src=" WebResource.axd?d=11rGAvF70-CrZKb9rUYO0DlXaDpKj-5LYIbckSY0eEmagP0r9ZLpD8sEyVReC1lYGZTqAxrapuq_JYJo1w2JUxidJPc1&amp;t=636271419297880478" border="0"   a  span  a title="Cougar Mountain Zoo" class="BreadCrumb" href=" Default.aspx" Home  a   span  span class="BreadCrumbPathSeperator"  |   span  span  a title="Meet our Animals" class="BreadCrumb" The Animals  a   span  span class="BreadCrumbPathSeperator"  |   span  span class="BreadCrumb" Bengal Tiger  span  a id="ctl00_BreadCrumbSiteMapPath_SkipLink"   a   span 
+                    p 
+ p class="MsoNormal" 
+         img id="ctl00_MainContentPlaceHolder_TigerFactsImage" title="Panthera tigris tigris" class="wrapRight" src=".. images tigerfacts.png" alt="Bengal Tiger" border="0" style="margin: 0 1em 0 0;" 
+          p 
+ p class="MsoNormal" 
+         b style="mso-bidi-font-weight:normal"  u  span style="font-size:18.0pt" World 
+        of Tigers   span   u   b  u  span style="font-size:18.0pt" (Roaring Cats) p   p   span   u   p 
+ p class="MsoNormal" 
+        This WORLD is represented by the magnificent Bengal Tiger, the only one of the 
+        six existing tiger subspecies that occurs in different color variations in the 
+        wild.  p 
+ p class="MsoNormal" 
+         b style="mso-bidi-font-weight:normal" Common Name: span style="mso-tab-count:1"         Bengal 
+        Tiger  span   b   p 
+ p class="MsoNormal" 
+         b style="mso-bidi-font-weight:normal" Genus Species: span style="mso-tab-count:1; font-style: italic;"          Panthera tigris  span   b   p 
+ p class="MsoNormal" 
+         b style="mso-bidi-font-weight:normal" Range: p   p   b   p 
+ p class="MsoNormal" 
+        The Bengal Tiger is found in parts of India, Bangladesh, Nepal, Bhutan and 
+        Burma.  p 
+ p class="MsoNormal" 
+         b style="mso-bidi-font-weight:normal" Natural Habitat: p   p   b   p 
+ p class="MsoNormal" 
+        The habitat is varied: span style="mso-spacerun:yes"     span grasslands, 
+        subtropical and tropical rainforests, scrub forests, wet and dry deciduous 
+        forests and mangroves.  p 
+ p class="MsoNormal" 
+         b style="mso-bidi-font-weight:normal" Physical Appearance: p   p   b   p 
+ p class="MsoNormal" 
+        Physical appearance may slightly vary depending on geographic area. The Bengal Tiger is the second largest of all living tiger subspecies. span style="mso-spacerun:yes"     span The male tigers can weigh from 
+        450-550 lbs and the females can get up to 310 lbs. span style="mso-spacerun:yes"     span they have orange coats, a fair 
+        (whitish) medial and ventral area and stripes that can vary in color from brown 
+        to black. span style="mso-spacerun:yes"     span The form and density of 
+        stripes differs between subspecies, but most tigers have in excess of 100 
+        stripes. span style="mso-spacerun:yes"     span Each striping pattern is 
+        unique to each animal, acting the same way as fingerprints do for humans.  p 
+ p class="MsoNormal" 
+         b style="mso-bidi-font-weight:normal" Reproduction: p   p   b   p 
+ p class="MsoNormal" 
+        Male and female tigers breed often and noisily. span style="mso-spacerun:yes"  
+          span The female is only receptive for a couple of days so frequent mating is 
+        preferred (every 15-20 minutes for 5-6 days). span style="mso-spacerun:yes"  
+          span A female estrus lasts 5-7 days and occurs approximately every 30 days. span style="mso-spacerun:yes"     span Gestation period is approximately 103 
+        days and litters of 2 to 4 are common. span style="mso-spacerun:yes"  
+          span Cubs are approximately 2 lbs when they are born. span style="mso-spacerun:yes"     span The cubs become independent around 18 
+        months of age and leave their mother between 2 to 2-1 2 years of age. span style="mso-spacerun:yes"     span Female tigers become sexually mature 
+        at around 3 years of age whereas male are not sexually mature until they are 4-5 
+        years of age.  p 
+ p class="MsoNormal" 
+         b style="mso-bidi-font-weight:normal" STATUS in Natural Habitat: p   p   b   p 
+ p class="MsoNormal" 
+        Critically Endangered. span style="mso-spacerun:yes"     span Almost 
+        certain to become extinct within 10 years due to over poaching and habitat 
+        destruction if conservation methods are not successful.  p 
+ p class="MsoNormal" 
+         b style="mso-bidi-font-weight:normal" Cool Fact:  b   p 
+ p class="MsoNormal" 
+        Tigers are excellent and strong swimmers. They enjoy lying in rivers, lakes and 
+        ponds and have been known to hunt and kill in the water.  p 
+ p class="MsoNormal" 
+           p 
+ p class="MsoNormal" 
+         a id="ctl00_MainContentPlaceHolder_DailyActivitiesHyperLink" title="Daily Activities" href=".. Education%20and%20Fun dailyactivities.aspx" target="_self" Click Here For Daily Activities Schedule  a 
+      p 

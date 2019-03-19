@@ -1,0 +1,45 @@
+ p align="left"  span class="h2"  a href="animallist.htm" Animal Profiles  a   span  br 
+    Read interesting facts about the behavior and characteristics of the 142 animal species in Switch Zoo.  p 
+ p align="left"  span class="h2"  a href="fieldtrips.htm" Field Trips  a   span  br 
+    Take a tour to learn how to make new animals, go on a creative writing field trip, or explore music 'performed' by animals.  p 
+ p align="left"  span class="h2"  a href="news.htm" Switch Zoo News and Reviews  a   span       p 
+ p align="left"  span class="h2"  a href="visitors.htm" Visitors' Pages  a   span  br 
+      Switch Zoo visitors share funny and creative animal names, drawings, stories and poems about the animals, and comments about the zoo. Don't miss the  a href="art drawings01.htm" fantastic drawings  a  of combination animals created by 5th grade students. br 
+      p 
+ p align="center" class="medtext"  a href="make_play.htm" Make and Play  a   |   a href="watch_listen.htm" Watch and Listen  a   |   a href="teach_learn.htm" Teach and Learn  a   |   a href="switchzooapp.htm" Switch Zoo App  a   |   a href="about.htm" About This Site  a   |   a href="help.htm" Help  a   p 
+ p align="center" class="medtext"  a href="policies.htm" Kid
+        Safe  a   |   a href="policies.htm#disclaimer" Legal
+          Disclaimer  a   |   a href="policies.htm#images" Use of
+            Zoo Images  a   |   a href="graphics.htm" Graphics  a   |   a href="credits.htm" Photo Credits  a  br 
+         br 
+  p 
+ p align="center" class="medtext"  Copyright © 2018 Tubehead. All rights reserved.  p 
+ p  
+	  script async src="  pagead2.googlesyndication.com pagead js adsbygoogle.js"   script 
+ !-- 300x250, created 12 6 08 -- 
+ ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-5923529873620267" data-ad-slot="9126821904"   ins 
+ script 
+(adsbygoogle = window.adsbygoogle || []).push({});
+  script 
+        p 
+ p 
+        script async src="  pagead2.googlesyndication.com pagead js adsbygoogle.js"   script 
+ !-- 300x250, created 12 6 08 -- 
+ ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-5923529873620267" data-ad-slot="9126821904"   ins 
+ script 
+(adsbygoogle = window.adsbygoogle || []).push({});
+  script 
+        p 
+ p 
+         script async src="  pagead2.googlesyndication.com pagead js adsbygoogle.js"   script 
+ !-- 300x250, created 12 6 08 -- 
+ ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-5923529873620267" data-ad-slot="9126821904"   ins 
+ script 
+(adsbygoogle = window.adsbygoogle || []).push({});
+  script 
+        p 
+ p  a href="privacy.htm" class="language"  b Privacy Policy  b   a   p 
+ p  span class="medtext" style="line-height:15px;"  br 
+       Switch Zoo was created by  span  br 
+        a href="http:  www.tubehead.com " target="_blank"  img src="assets home tubehead.gif" alt="Created by Tubehead®" name="tubehead" width="126" height="90" vspace="2" border="0" id="tubehead"   a 
+       p 

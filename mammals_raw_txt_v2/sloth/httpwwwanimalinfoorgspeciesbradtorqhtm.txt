@@ -1,0 +1,172 @@
+ p align="center"  a href="http:  www.animalinfo.org" 
+				 img border="0" src="http:  www.animalinfo.org animalinfo.jpg" width="100%" height="152" alt="Endangered Animals"   a   p 
+ p align="center" 
+		 script type="text javascript"  !--
+google_ad_client = "pub-8361005144129578";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_channel ="";
+google_ad_type = "text";
+google_color_border = "ffffff";
+google_color_bg = "ffffff";
+google_color_link = "006699";
+google_alternate_color = "FFFFFF";
+google_color_url = "000000";
+google_color_text = "000000";
+  --   script 
+		 script type="text javascript" src="http:  pagead2.googlesyndication.com pagead show_ads.js"  
+  script 
+		  p 
+ p 1.  a href="#profile"  b Profile  b   a  ( a href="#picture" Picture  a ) br 
+2.  a href="#tidbits"  b Tidbits  b   a  br 
+3.  a href="#status"  b Status and Trends  b   a  ( a href="#IUCN" IUCN Status  a ,  a href="#Countries" Countries Where Currently Found  a ,  a href="#History" History of
+Distribution  a ,  a href="#Threats" Threats and Reasons  a  a href="#Threats"  for Decline  a ) br 
+4.  a href="#data"  b Data on Biology and Ecology  b   a  ( a href="#Weight" Size
+and Weight  a ,  a href="#Habitat" Habitat  a ,  a href="#Gestation" Gestation Period  a ,  a href="#Birth" Birth Season  a ,  a href="#Birth_rate" Birth Rate  a ,  a href="#Early" Early Development  a ,  a href="#Maximum_age" Maximum Age  a ,  a href="#Diet" Diet  a ,  a href="#Behavior" Behavior  a ,
+ a href="#Social" Social Organization  a ) br 
+5.  a href="#references"  b References  b   a   p 
+ p  a name="picture"   a Pictures:  a href=".. image bradtorq4%2012.jpg" Maned
+Three-toed Sloth #1  a  (12 Kb JPEG);
+ a href="http:  www.terrambiente.org fauna Mammiferi xenarthra bradypodidae images bradypus_torquatus.jpg" Maned
+Three-toed Sloth #2  a  (77 Kb JPEG)  cite ( a href=".. reft.htm#terrambiente" Terrambiente  a )  cite   p 
+ p The maned three-toed sloth has a small head, tiny eyes and ears, and a small
+tail hidden in its fur. It is about 50 cm (20") long and weighs up to 4.5 kg
+(10 lb). Algae, mites, ticks, beetles, and even moths live in the coarse outer
+coat, which is long, dark, and manelike around its head, neck, and shoulders.
+Its underfur is fine, dense, and pale.  p 
+ p The maned three-toed sloth is restricted to the Atlantic coastal forests of
+  eastern  a href=".. country brazil.htm" Brazil  a . It is found in tropical coastal forest, most typically in
+  areas with an annual precipitation of at least 1,200 mm (47"). The maned
+  three-toed sloth can be found in secondary forest habitats. The maned
+  three-toed sloth is found at altitudes from sea level to around 1,000 m
+  (3300').  p 
+ p The maned three-toed sloth eats the leaves, buds, and soft twigs of a few
+forest trees, especially those of the Cecropia. It comes to the ground only to
+defecate, or to move to another tree if it cannot travel through the branches.
+It rarely descends to the ground because, when it is on a level surface, it is unable to stand and walk.
+On the ground the sloth can only drag itself along by its longer, stronger front
+legs and claws. Its main defense is to stay still and unnoticed or to lash out
+with its formidable claws. On the other hand, it can swim well. The maned three-toed sloth is a solitary animal.  p 
+ p Historically, the maned three-toed sloth possibly occurred in  a href=".. country brazil.htm" Brazil  a 
+throughout the
+coastal forest of Bahia through to the State of Pernambuco. At present, the
+southern part of the State of Bahia is its remaining stronghold. In some parts
+of Bahia and Espirito Santo, this species is locally abundant in forest
+fragments. It has been reported from
+extreme northern Minas Gerais. The remaining habitat is severely fragmented, and there
+is a continuing decline in its overall population. The coastal forest habitats of the maned three-toed sloth are diminishing
+rapidly and becoming severely fragmented as a result of lumber extraction,
+charcoal production, and clearance for plantations and cattle pasture. The maned
+three-toed sloth is also significantly threatened by excessive hunting for food
+and sport. Additional threats include accidental mortality on roads and  a href=".. glossp.htm#predation" predation  a 
+by domestic dogs.  p 
+ p *** Anteaters, sloths and armadillos, previously called
+"edentates", are now collectively known as "xenarthrans". 
+This name means "strange joint." It refers to unusual joints in their
+backbones - special articulations called "xenarthrales" on the
+vertebrae of the lower back - which provide extra support. These animals also
+all have a small brain and reduced  a href=".. glossd.htm#Dentition" dentition  a .
+ cite ( a href=".. refb.htm#burnie_wilson2001" Burnie &amp; Wilson 2001  a )  cite   p 
+ p *** The maned three-toed sloth has "wrong-way fur": the outer hairs
+are angled "up," in the opposite direction to most mammals, so they
+hang down when the sloth is in its normal inverted position  cite ( a href=".. refb.htm#burnie_wilson2001" Burnie
+&amp; Wilson 2001  a )  cite .   p 
+ p 2006: Occurs in  a href=".. country brazil.htm" Brazil  a .  cite ( a href=".. refi.htm#iucn%202004%20red%20list%20-%20species%20search" IUCN
+2006  a )  cite    p 
+ p Historically, the maned three-toed sloth possibly occurred in  a href=".. country brazil.htm" Brazil  a 
+throughout the
+coastal forest of Bahia through to the State of Pernambuco. At present, the
+southern part of the State of Bahia is its remaining stronghold. In some parts
+of Bahia and Espirito Santo, this species is locally abundant in forest
+fragments. The maned three-toed sloth does not occur from the left bank of the
+Doce River to the vicinity of the Mucuri River. It has been reported from
+extreme northern Minas Gerais on the left bank of the Jequitinhonha River. The
+maximum extent of occurrence of the maned three-toed sloth is less than 5,000 sq
+km (2000 sq mi) based on the remaining forest within its range, with the actual
+area perhaps much less. The remaining habitat is severely fragmented, and there
+is a continuing decline in its overall population.  cite ( a href=".. refi.htm#iucn%202004%20red%20list%20-%20species%20search" IUCN
+2006  a )  cite    p 
+ p  a href="http:  www.natureserve.org imagerepository GetImage?SRC=6&amp;BATCH=8&amp;FMT=gif&amp;RES=600X615&amp;NAME=bradypus_torquatus" Distribution
+Map  a  (12 Kb)  cite ( a href=".. refi.htm#infonatura" InfoNatura  a )  cite    p 
+ p The coastal forest habitats of the maned three-toed sloth are diminishing
+rapidly and becoming severely fragmented as a result of lumber extraction,
+charcoal production, and clearance for plantations and cattle pasture. The maned
+three-toed sloth is also significantly threatened by excessive hunting for food
+and sport. Additional threats include accidental mortality on roads and  a href=".. glossp.htm#predation" predation  a 
+by domestic dogs.  cite ( a href=".. refi.htm#iucn%202004%20red%20list%20-%20species%20search" IUCN
+2006  a )  cite   p 
+ p The maned three-toed sloth is 45 - 50 cm (18 - 20") long and weighs
+  3.5 - 4.5 kg (7.7 - 10 lb).   p 
+ p The maned three-toed sloth is restricted to the Atlantic coastal forests of
+  eastern  a href=".. country brazil.htm" Brazil  a . It is found in tropical coastal forest, most typically in
+  areas with an annual precipitation of at least 1,200 mm (47"). The maned
+  three-toed sloth can be found in secondary forest habitats, and animals have
+  been recorded from forest fragments as small as 50 ha (125 ac), although the
+  long-term persistence of populations at these sites is unknown. The maned
+  three-toed sloth is found at altitudes from sea level to around 1,000 m
+  (3300').  cite ( a href=".. refi.htm#iucn%202004%20red%20list%20-%20species%20search" IUCN
+  2006  a )  cite     p 
+ p The maned three-toed sloth is one of the species that live in both the  a href=".. refc.htm#CI%20hotspot%20-%20atlantic%20forest" Atlantic
+  Forest  a   b Biodiversity Hotspot  b   cite ( a href=".. refc.htm#cons%20intl%20-%20biodiv%20hotspots%202004" Cons.
+  Intl.  a )   cite and the Brazilian Atlantic Forests  b Global 200 Ecoregion  b .  cite ( a href=".. refo.htm#Olson_dinerstein1998" Olson &amp; Dinerstein 1998  a ,  a href=".. refo.htm#Olson_dinerstein1999" Olson &amp; Dinerstein 1999  a )  cite    p 
+ p 5 - 6 months  cite ( a href=".. refb.htm#burnie_wilson2001" Burnie &amp;
+  Wilson 2001  a )  cite .
+    p 
+ p Births normally occur at the beginning of the dry season.   p 
+ p The female maned three-toed sloth usually has a single young  cite ( a href=".. refi.htm#iucn%202004%20red%20list%20-%20species%20search" IUCN
+  2006  a )  cite .    p 
+ p A baby maned three-toed sloth clings to its mother’s abdomen with its
+  well-formed, hook-shaped claws. The young suckles for up to 4 weeks and after  a href=".. glossw.htm#weaning" weaning  a 
+  stays with her, being carried and learning feeding patterns, for another 6
+  months.  cite ( a href=".. refb.htm#burnie_wilson2001" Burnie &amp; Wilson
+  2001  a )  cite    p 
+ p Thought to be less than 12 years.   p 
+ p The maned three-toed sloth is a strict  a href=".. glossf.htm#folivore" folivore  a 
+  that eats the leaves, buds, and soft twigs of a few
+  forest trees, especially the Cecropia  cite ( a href=".. refb.htm#burnie_wilson2001" Burnie
+  &amp; Wilson 2001  a )  cite .   p 
+ p The maned three-toed sloth comes to the ground only to defecate, or to move
+to another tree if it cannot travel through the branches. It rarely descends to the
+ground because, when it is on a level surface, it is unable to stand and walk.
+On the ground the sloth can only drag itself along by its longer, stronger front
+legs and claws. On the other hand, it can swim well. In addition to its physical
+slowness, its muscles are small and weak for its overall body size, and even its
+metabolism is slower than the metabolism of most other mammals, giving it a low
+body temperature of just above 30º C (86º F). Its main defense is to stay
+still and unnoticed or to lash out with its formidable claws.  cite ( a href=".. refb.htm#burnie_wilson2001" Burnie
+&amp; Wilson 2001  a )  cite   p 
+ p The maned three-toed sloth is a solitary animal.   p 
+ p   a href=".. refb.htm#burnie_wilson2001" Burnie
+&amp; Wilson 2001  a ,  a href=".. refb.htm#burtpear1" Burton &amp; Pearson 1987  a ,
+ a href=".. refc.htm#cons%20intl%20-%20biodiv%20hotspots%202004" Cons. Intl.  a ,  a href=".. refc.htm#curr1" Curry-Lindahl 1972  a ,  a href=".. refi.htm#infonatura" InfoNatura  a ,
+ a href=".. refi.htm#iucn69" IUCN 1969  a ,
+ a href=".. refi.htm#iucn94" IUCN 1994  a ,  a href=".. refi.htm#iucn96" IUCN 1996  a ,  a href=".. refi.htm#iucn2000" IUCN 2000  a ,  a href=".. refi.htm#iucn%202003%20species%20search" IUCN
+2003a  a ,  a href=".. refi.htm#iucn%202004%20red%20list%20-%20species%20search" IUCN
+2004  a ,  a href=".. refi.htm#iucn%202004%20red%20list%20-%20species%20search" IUCN 2006  a ,  a href=".. refn.htm#nowapara1" Nowak &amp;
+Paradiso 1983  a ,  a href=".. refo.htm#Olson_dinerstein1998" Olson &amp; Dinerstein 1998  a ,
+ a href=".. refo.htm#Olson_dinerstein1999" Olson &amp; Dinerstein 1999  a ,  a href=".. reft.htm#terrambiente" Terrambiente  a  br 
+  p 
+ p align="CENTER"  a href="#TOP" Top of Page  a  |  a href=".. index#Search" Search
+This Site  a   p 
+ p align="CENTER"  a href="http:  www.animalinfo.org" Home  a  |  a href="http:  www.animalinfo.org rarest.htm" Rarest Mammals  a 
+|  a href=".. spec_ind.htm" Species Index  a  |  a href=".. groupind.htm" Species Groups
+Index  a  |  a href=".. countind.htm" Country Index  a  |  a href=".. anim_org.htm" Links  a   p 
+ p align="CENTER"  Last modified: June 4, 2006;  br 
+   p 
+ p align="center"  font size="2" color="#FFFFFF" © 1999 - 2014   font 
+ font size="2"  a href="http:  www.animalinfo.org"  font color="#FFFFFF" Animal 
+Info  font   a   font  font size="2" color="#FFFFFF" . Endangered animals of the 
+world.  a href="http:  www.sj.co.uk"  font color="#FFFFFF" SJ  font   a 
+ a href="http:  www.animalinfo.org contact.htm"  font color="#FFFFFF" Contact Us  font   a . br 
+  font 
+ script type="text javascript" 
+var gaJsHost = (("https:" == document.location.protocol) ? "https:  ssl." : "http:  www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com ga.js' type='text javascript'%3E%3C script%3E"));
+  script 
+ script type="text javascript" 
+try {
+var pageTracker = _gat._getTracker("UA-8418982-2");
+pageTracker._trackPageview();
+} catch(err) {}  script 
+  p 

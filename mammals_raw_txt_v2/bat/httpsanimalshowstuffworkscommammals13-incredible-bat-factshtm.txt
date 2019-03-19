@@ -1,0 +1,41 @@
+ p class="followText" Follow us  p 
+ p  a class="symbol ss-social-circle ss-facebook" href="https:  www.facebook.com HowStuffWorks" target="_blank" Facebook  a   p 
+ p  a class="symbol ss-social-circle ss-youtube" href="https:  www.youtube.com user HowStuffWorks?sub_confirmation=1" target="_blank" YouTube  a   p 
+ p  a class="symbol ss-social-circle ss-twitter" href="https:  twitter.com intent follow?source=followbutton&amp;variant=1.0&amp;screen_name=HowStuffWorks" target="_blank" Twitter  a   p 
+ p  a class="symbol ss-social-circle ss-pinterest" href="https:  www.pinterest.com HowStuffWorks " target="_blank" Pinterest  a   p 
+ p It isn't easy being a  a href="https:  animals.howstuffworks.com mammals bat.htm" bat  a . With Dracula, a few cases of rabies, their pointy teeth, and the fact that they hang upside down to sleep, bats inspire fear in many people. But as you'll see, bats are amazing creatures, even though they eat bugs . . . and sometimes blood.  p 
+ p  b 1. Bats are the only mammals able to fly.  b  And you thought it was the winged marmoset! Bats are exceptional in the air. Their wings are thin, giving them what is called, in flight terms, "airfoil." The power bats have to push forward is called "propulsion."  p 
+ p  b 2. A single brown bat can catch around 1,200 mosquito-size insects in one hour.  b  In Bracken Cave, Texas, it's estimated that the 20 million Mexican free-tailed bats that live there eat about 200 tons of insects . . . each night.  p 
+ p  b 3. Vampire bats don't suck blood.  b  They lap it up. Calm down. There are only three species of vampire bats in the whole world. If you are traveling in Central or South America, however, you might see a vampire bat bite a cow and then lick blood from the wound -- no sucking involved.  p 
+ p  b 4. Bats don't have "fat days."  b  The metabolism of a bat is enviable -- they can digest bananas, mangoes, and berries in about 20 minutes.  p 
+ p  b 5. Fewer than 10 people in the last 50 years have contracted rabies  b   b from North American bats.  b  Due to movies and television, bats are thought to be germ machines, bringing disease and toxins to innocent victims. Not true. Bats avoid people. If you are bitten by a bat, go to the doctor, but don't start making funeral arrangements -- you'll probably be fine.  p 
+ p  b 6. Bats use echolocation to get around in the dark.  b  Bats don't see very well and do a lot of living at night, so they have to rely on navigational methods other than sight. Bats send out beeps and listen for variations in the echoes that bounce back at them and that's how they get around. Bats are nocturnal, mostly because it's easier to hunt bugs and stay out of the way of predators when it's dark. Bats do use their eyesight to see things in the daytime, but most bat business is done under the blanket of night for convenience.  p 
+ p Bats are just misunderstood. They're pretty incredible animals as you'll see on the next page.  p 
+ p  span class="hidden-sm hidden-xs"   a href="https:  animals.howstuffworks.com mammals 13-incredible-bat-facts.htm printable" rel="nofollow" Print  a   |   span   a class="citation" data-toggle="popover" data-container="body" data-placement="bottom" data-html="true" data-title="Cite This!" data-content='Please copy paste the following text to properly cite this HowStuffWorks.com article:&lt;br  &gt;&lt;br  &gt;	
+		
+											&lt;a data-track-gtm="Byline" href="https:  www.howstuffworks.com hsw-contact.htm"&gt;
+		
+		the Editors of Publications International, Ltd.
+					&lt; a&gt;
+			 "13 Incredible Bat Facts" 30 October 2007.&lt;br  &gt;HowStuffWorks.com. &amp;lt;https:  animals.howstuffworks.com mammals 13-incredible-bat-facts.htm&amp;gt; 18 March 2019' href="#" Citation &amp; Date  a  |  a target="_blank" href="http:  www.hswreprints.com " Reprint  a   p 
+ p  span class="hidden-sm hidden-xs"   a href="https:  animals.howstuffworks.com mammals 13-incredible-bat-facts.htm printable" rel="nofollow" Print  a   |   span   a class="citation" data-toggle="popover" data-container="body" data-placement="bottom" data-html="true" data-title="Cite This!" data-content='Please copy paste the following text to properly cite this HowStuffWorks.com article:&lt;br  &gt;&lt;br  &gt;	
+		
+											&lt;a data-track-gtm="Byline" href="https:  www.howstuffworks.com hsw-contact.htm"&gt;
+		
+		the Editors of Publications International, Ltd.
+					&lt; a&gt;
+			 "13 Incredible Bat Facts" 30 October 2007.&lt;br  &gt;HowStuffWorks.com. &amp;lt;https:  animals.howstuffworks.com mammals 13-incredible-bat-facts.htm&amp;gt; 18 March 2019' href="#" Citation &amp; Date  a  |  a target="_blank" href="http:  www.hswreprints.com " Reprint  a   p 
+ p  strong  a href="https:  animals.howstuffworks.com mammals brazilian-freetailed-bats-are-way-faster-we-thought.htm" Brazilian Free-tailed Bats Are Way Faster Than We Thought  a   strong   p 
+ p  strong  a href="https:  animals.howstuffworks.com mammals how-bats-land-upside-down.htm" Scientists Solve the Weird Physics of How Bats Land Upside Down  a   strong   p 
+ p  strong  a href="https:  animals.howstuffworks.com mammals do-bats-jam-each-others-sonar.htm" Do bats jam each other's sonar?  a   strong   p 
+ p  strong  a href="https:  animals.howstuffworks.com mammals howstuffworks-interviews-bats-and-viruses-video.htm" HowStuffWorks Interviews: Deadly Viruses and Bats with Jessica Parilla  a   strong   p 
+ p  strong  a href="https:  animals.howstuffworks.com mammals falsevamp.htm" False Vampire Bat  a   strong   p 
+ p data-track-gtm="Copyright" Copyright © 2019  a href="  www.%7B%7B%20DOMAIN%20%7D%7D.com" HowStuffWorks  a , a division of  a href="http:  www.infospace.com " InfoSpace Holdings LLC,  a  a  a href="https:  system1.com " System1 Company  a   p 
+ p  small This site is protected by reCAPTCHA and the Google
+	     a href="https:  policies.google.com privacy" Privacy Policy  a  and
+	     a href="https:  policies.google.com terms" Terms of Service  a  apply.  small   p 
+ p class="h4" Newsletter
+				  p 
+ p Get the best of HowStuffWorks by email. Keep up to date on:  p 
+ p class="h5" Sign Up Now!  p 
+ p  a href="  www.howstuffworks.com newsletter.htm" Newsletter Policy &amp; Terms  a   p 

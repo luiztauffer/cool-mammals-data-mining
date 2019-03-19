@@ -1,0 +1,57 @@
+ p  figure class="image-block" 
+     div class="image-block-ins" 
+                                     img src="https:  3c1703fe8d.site.internapcdn.net newman csz news 800 kangarooevol.gif" alt="Kangaroo evolution linked to climatic change" 
+                          div 
+          figure (PhysOrg.com) -- The evolution of kangaroos is intricately tied to Australia's changing climate, according to new research.
+                                  p 
+ p In the first anatomical study of the entire skeletons of both modern and  a href="https:  phys.org tags fossil " rel="tag" class="textTag" fossil  a  species, Flinders University palaeontologist Dr Gavin Prideaux and Murdoch University anatomist Dr Natalie Warburton have pieced together the most reliable and detailed  a href="https:  phys.org tags kangaroo " rel="tag" class="textTag" kangaroo  a  family tree to date.  p 
+ p Their findings, published this month in the  i Zoological Journal of the Linnean Society  i , show how the abundance and diversity of macropods - including kangaroos, wallabies and tree-kangaroos - matches the spread of woodlands and grasslands in Australia as forests retreated to the coast over millions of years.  p 
+ p “Kangaroos and wallabies have long been recognised as potentially ideal barometers of historical climatic change in Australia,” Dr Prideaux said.  p 
+ p “They have been around for at least 30 million years, but difficulties in working out which species are related and when certain lineages evolved have hampered research for more than a century,” he said.  p 
+ p By comparing skeletons from 35 living and extinct macropod species, the researchers established that while early forms were adapted to the abundant soft-leaved forest plants, but later macropods had to adapt to more arid conditions.  p 
+ p “We see clear changes through time in teeth and skull shape that reflect diets of tough leaves and grasses, and parallel changes in foot anatomy that reflect an improved ability to hop longer distances through more open habitats,” he said.  p 
+ p The scientists argue that the Macropus lineage, which contains the red and grey kangaroos and some wallabies, represents the peak of marsupial evolution.  p 
+ p “Macropus has been around for four million years and has more living and  a href="https:  phys.org tags extinct+species " rel="tag" class="textTag" extinct species  a  than any other marsupial genus. They are a great Australian success story,” Dr Prideaux said.  p 
+ p The study also confirms previous  a href="https:  phys.org tags dna+evidence " rel="tag" class="textTag" DNA evidence  a  about the relationships of the highly endangered merrnine, a small wallaby restricted to two tiny Western Australian islands.  p 
+ p “The merrnine is the sole living survivor of a unique branch of the macropod evolutionary tree that split off around 20 million years ago, but we know very little about the animal. While its conservation is a priority, studies of its biology should teach us a lot about the formative steps in macropod evolution,” Dr Prideaux said.
+                                                                  p 
+ p class="news-relevant" itemscope itemtype="http:  schema.org WebPage" 
+                                         a href="#" id="inl-rel-href"  img class="toolsicon ic-rel" src="https:  cf3e497594.site.internapcdn.net tmpl v5 img 1x1.gif" width="14" height="16" alt=""   a 
+                                         b Explore further:  b  
+                                         a itemprop="relatedLink" href="https:  phys.org news 2010-07-south-america-tracking-australian.html" A hop from South America -- tracking Australian marsupials  a 
+                                      p 
+ p 
+                                                     b Provided by:  b 
+                                                                                                            Flinders University
+                                                                                                                                                          p 
+ p Debates have raged for decades about how to arrange the Australian and South American branches of the marsupial family tree.  p 
+ p As concerns about the effects of global warming continue to mount, a new study published in the December issue of Physiological and Biochemical Zoology finds that an increase in average temperature of only two degrees Celsius ...  p 
+ p Australian Department of Defence is currently culling hundreds of kangaroos on the outskirts of the capital Canberra that have produced heated discussions and hit international headlines. Australia's iconic animal has multiplied ...  p 
+ p Drought-stricken Australia should heed a warning from a new study that shows a series of massive droughts killed giant kangaroos and other "megafauna" in south-east Queensland 40,000 years ago, according to researchers from ...  p 
+ p University of Queensland research is uncovering the truth behind the largest marsupial ever to walk the earth – the 2.5 tonne wombat-like Diprotodon.  p 
+ p (PhysOrg.com) -- Skull fragments of prehistoric koalas from the Riversleigh rainforests of millions of year ago suggest they shared the modern koala's "lazy" lifestyle and ability to produce loud "bellowing" calls to attract ...  p 
+ p Light driven movement is challenging in nonliquid environments as micro-sized objects can experience strong dry adhesion to contact surfaces and resist movement. In a recent study, Jinsheng Lu and co-workers at the College ...  p 
+ p Researchers at Caltech have designed a way to levitate and propel objects using only light, by creating specific nanoscale patterning on the objects' surfaces.  p 
+ p European astronomers have investigated a recently discovered hard X-ray transient known as IGR J17503-2636 using space observatories. Results of this study, presented in a paper published March 7 on the arXiv pre-print server, ...  p 
+ p The Abel Prize in mathematics was on Tuesday awarded to Karen Uhlenbeck of the United States for her work on partial differential equations, the first woman to win the award, the Norwegian Academy of Science and Letters said.  p 
+ p For many of us, birds are an interesting distraction or a sign of spring. For Fran Bonier and her former master's student Amelia Cox, bird populations provide vital data about the health of the world. Their new research adds ...  p 
+ p A pair of researchers, one with the Institute of Management and Economics at Clausthal University of Technology, the other the Department of Earth and Environment at Boston University, has found evidence that suggests oil ...  p 
+ p Nanoparticles composed of nickel and iron have been found to be more effective and efficient than other, more costly materials when used as catalysts in the production of hydrogen fuel through water electrolysis.  p 
+ p 
+                        Please  a href="https:  sciencex.com profile login " sign in  a  to add a comment.
+                        Registration is free, and takes less than a minute.
+                         a href="https:  sciencex.com help account " Read more  a 
+                  p 
+ p  input type="email" required="" placeholder="email" data-required="1" maxlength="128" size="10" id="email" name="email" 
+                                  p 
+ p  input type="password" required="" placeholder="password" data-required="1" maxlength="128" size="10" id="passwd" name="passwd" 
+                                 input type="hidden" value="login" name="status" 
+    
+                                  p 
+ p 
+                                         span class="float-right" id="cmPrThr"   span 
+                                         input type="submit" value="Sign in" name="loginsubmit" id="login-submit" class="com-button" 
+                                  p 
+ p class="centered" Enter your Science X account credentials  p 
+ p Connect  p 
+ p class="copyright" © Phys.org 2003 - 2019,  a rel="nofollow" href="https:  sciencex.com " Science X network  a   p 

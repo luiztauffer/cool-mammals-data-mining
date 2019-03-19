@@ -1,0 +1,46 @@
+ p class="hide"  a href="#MainInner" Skip to content  a   p 
+ p Your browser does not support JavaScript, or it is disabled．Please check  a href="http:  www.asahi.com ajw help policy.html" the site policy  a  for more information.  p 
+ p class="Gnavi"  a href=" ajw " The Asahi Shimbun  a   p 
+ p class="Genre"  a href="http:  www.asahi.com ajw politics " Politics  a   p 
+ p article  p 
+ p class="EnArticleName" THE ASAHI SHIMBUN  p 
+ p class="EnLastUpdated" October 18, 2018 at 13:55 JST  p 
+ p  a href=". photo AS20181018002689.html"  img src="http:  www.asahicom.jp ajw articles images AS20181018002689_comm.jpg" width="300" alt="Photo Illutration" oncontextmenu="return false" onmousedown="return false" onselectstart="return false"  em class="Caption" Shin Shin arrives in Tokyo’s Ueno Zoo in February 2011 as a loan to Japan. (Asahi Shimbun file photo)  em   a   p 
+ p Giant pandas could melt most hearts, and they seem to be effective in warming diplomatic relations, too.  p 
+ p Prime Minister Shinzo Abe will request China to loan more of the lovable animals to Japanese zoos when he meets with Chinese Premier Li Keqiang in Beijing on Oct. 26, sources said.  p 
+ p After their meeting, talks between the two countries are expected to go into detail about such an agreement, including the loan period and number of pandas Japan can borrow.  p 
+ p Chinese officials have already conveyed to their Japanese counterparts at working-level meetings that they agree with the idea, in principle, according to the sources.  p 
+ p “That China is positively considering the loan of pandas to Japan demonstrates that the leadership led by President Xi Jinping is serious about improving relations with Japan,” a Japanese government official said.  p 
+ p If Japan’s request is granted, it will be the first loan of its kind since a pair, Shin Shin and Ri Ri, arrived at Tokyo’s Ueno Zoo in February 2011.  p 
+ p Oji Zoo in Kobe and Sendai Yagiyama Zoological Park in Sendai are possible hosts to new pandas, but only one zoo could receive the animals depending on the number provided to Japan, according to the sources.  p 
+ p The idea has been floated that the official agreement on China’s loaning of new pandas could be made during Xi’s planned visit to Japan next year.  p 
+ p China uses its pandas as a tool to enhance diplomatic relations with other countries.  p 
+ p Beijing presented two pandas to Tokyo when they normalized ties in 1972.  p 
+ p class="Image"  span 
+
+ !--  57465213 www.asahi.com english pc footer_rect_l -- 
+ div id="div-gpt-ad-1518226592045-0" style="height:250px; width:300px;" 
+ script 
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518226592045-0'); });
+  script 
+  div 
+
+  span   p 
+ p class="Image"  span 
+ !--  57465213 www.asahi.com english pc footer_rect_r -- 
+ div id="div-gpt-ad-1518226653270-0" style="height:250px; width:300px;" 
+ script 
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518226653270-0'); });
+  script 
+  div 
+  span   p 
+ p  a href=" ajw articles AJ201903100050.html" MARATHON  Namibian Johannes wins Nagoya Women’s Marathon, Iwade fifth  a   p 
+ p  a href=" ajw articles AJ201903100047.html" JR Mojiko Station regains vintage look like it was 1914  a   p 
+ p  a href=" ajw articles AJ201903100044.html" Think tank puts cost to address nuke disaster up to 81 trillion yen  a   p 
+ p Featured here are videos, photos and graphics on how journalists dug into documents leaked from Bermuda and elsewhere to uncover shady transactions through tax havens.  p 
+ p Here are reports about efforts in Japan and abroad to achieve the U.N. sustainable development goals.  p 
+ p Here are news reports and feature stories that keep you up to date on author Haruki Murakami.  p 
+ p You can view videos of animals as interactive images that allow you to pan and zoom in to them.  p 
+ p  a href="http:  www.asahi.com ajw inhouse_news " In-house News and Messages  a   p 
+ p  a href="#Header" BACK TO TOP  a   p 
+ p Copyright © The Asahi Shimbun Company. All rights reserved. No reproduction or republication without written permission.  p 

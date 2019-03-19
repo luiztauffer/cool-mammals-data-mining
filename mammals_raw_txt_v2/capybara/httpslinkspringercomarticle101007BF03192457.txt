@@ -1,0 +1,17 @@
+ p This service is more advanced with JavaScript available, learn more at  a href="http:  activatejavascript.org" target="_blank" rel="noopener" http:  activatejavascript.org  a 
+          p 
+ p class="leaderboard__label" Advertisement  p 
+ p  a href=" journal 13364" title="Acta Theriologica" data-track="click" data-track-action="Journal title" data-track-label=""  span class="JournalTitle" Acta Theriologica  span   a   p 
+ p class="icon--meta-keyline"  span class="ArticleCitation_Year"  time datetime="2002-06" June 2002  time ,   span  span class="ArticleCitation_Volume" Volume 47,   span  a class="ArticleCitation_Issue" href=" journal 13364 47 2 page 1" data-track="click" data-track-action="Article issue" data-track-label="" Issue 2  a ,
+                        span class="ArticleCitation_Pages"  pp 175–183  span  span class="u-inline-block u-ml-4"  |  a href="#citeas" data-track="click" data-track-action="Cite as link" data-track-label="Enumeration section" Cite as  a   span   p 
+ p class="Para" Trophic niche parameters and forage preferences of capybara em class="EmphasisTypeItalic " Hydrochaeris hydrochaeris  em  Linnaeus, 1766 were studied at three areas of east-central Argentina: Lower Delta Islands (LDI), only capybara present; Puerto Constanza (PC), capybara and cattle, and Villaguay (VI), capybara, cattle and sheep. Significant correlation was found in the annual botanical composition of capybara faeces at LDI and PC, but no correlation was found between faecal composition at these two areas and those at VI. The narrowest trophic niche corresponded to LDI, while the widest corresponded to VI, with significant differences in the values among the three areas. Capybara consumed em class="EmphasisTypeItalic " Carex riparia, Cynodon dactylon  em  and em class="EmphasisTypeItalic " Panicum grumosum  em  in LDI, and em class="EmphasisTypeItalic " P. milioides  em  in VI in proportion greater than availability. Three and eight food items were consumed less than availability in VI and PC, respectively. The greater the species number and density of livestock animals, the more generalist the behavior of capybara, possibly due to direct interaction in the use of grazing resources. Changes in availability of foraging species may influence the capybara’s preference patterns and the consumption of suboptimal feeding items may indicate a greater pressure on foraging resources in the areas where capybaras share their habitat with livestock.  p 
+ p class="u-interface" data-fallback-text="true" Unable to display preview.  a href="  page-one.springer.com pdf preview 10.1007 BF03192457" target="_blank" rel="noopener" Download preview PDF.  a   p 
+ p class="pdf-preview__info u-interface" Unable to display preview.  a href="  page-one.springer.com pdf preview 10.1007 BF03192457" target="_blank" rel="noopener" Download preview PDF.  a   p 
+ p class="skyscraper-ad__label" Advertisement  p 
+ p class="footer__strapline" Over 10 million scientific documents at your fingertips  p 
+ p class="footer__copyright" © 2018 Springer Nature Switzerland AG. Part of  a target="_blank" rel="noopener" href="  www.springernature.com" Springer Nature  a .  p 
+ p class="footer__user-access-info" 
+                     span Not logged in  span 
+                     span Not affiliated  span 
+                     span 84.216.202.231  span 
+                  p 

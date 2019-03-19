@@ -1,0 +1,140 @@
+ p This service is more advanced with JavaScript available, learn more at  a href="http:  activatejavascript.org" target="_blank" rel="noopener" http:  activatejavascript.org  a 
+          p 
+ p class="leaderboard__label" Advertisement  p 
+ p  a href=" journal 40068" title="Environmental Systems Research" data-track="click" data-track-action="Journal title" data-track-label=""  span class="JournalTitle" Environmental Systems Research  span   a   p 
+ p class="icon--meta-keyline"  span class="ArticleCitation_Year"  time datetime="2018-01" January 2018  time ,   span  span class="ArticleCitation_Volume" 6:6  span  span class="u-inline-block u-ml-4"  |  a href="#citeas" data-track="click" data-track-action="Cite as link" data-track-label="Enumeration section" Cite as  a   span   p 
+ p id="Par1" class="Para" This research was carried out from October 2013 to May 2014.  em class="EmphasisTypeItalic " Hippopotamus amphibious  em  is a mammalian species distributed in different lakes and rivers where ecological requirements are fulfilled for its survival. Lake Tana and its environs are home to Hippopotamus amphibious. The species is identified as vulnerable worldwide due to habitat loss and poaching. However, despite its vulnerability, there is no research conducted regarding the species, and its environmental requirements in Ethiopia. Therefore, the main objective of this study was to carryout habitat suitability analysis and find out suitable habitat sites of hippopotamus within the Lake Tana and its environs using the integration of GIS and remote sensing techniques. The softwares such as, Arc GIS10.2, ERDAS IMAGINE2010, and Virtual satellite image downloader were used in this research. The data used were SPOT image of 2012 of the study area, bathymetric data of Lake Tana, DEM, Google Earth data and GCP. Running a suitability model requires estimation of weights by expertise for each individual criterion on GIS software. Thus, the habitats in Lake Tana and its environs ranging from most suitable to not suitable for hippopotamus were identified. It was shown that 50.88% of the areas under study was highly disturbed and became unsuitable to hippopotamus, 42.29% of the areas were moderately disturbed, and only 1.81% of the areas were revealed to be undisturbed. As the study result showed that in and around Lake Tana, a human factor was considered to be outweighing the physical factors to minimize the habitat for the aforementioned animal. The results revealed that only 22.54% of the study areas were identified as most suitable for the animal under study of which the large portions of the areas are located at the backside of settlements which are not easily accessible by the species, while 40.5% of the areas were found to be moderately suitable, and 36.96% were unsuitable habitats for hippopotamus. Based on the findings of the present study it was concluded that there was high interference of human being in the habitats of hippopotamus especially at the shores of the lake since the land were looked-for agricultural activities. Therefore, too much proximity of human activities in identified hippopotamus habitats have to be protected and conservation buffer surrounding the Lake has to be developed.  p 
+ p id="Par2" class="Para" Hippopotamus ( em class="EmphasisTypeItalic " H. amphibious  em ) is a mammalian species distributed in different lakes and rivers where ecological requirements are fulfilled for its survival. According to  (Eltringham  span class="CitationRef"  a href="#CR7" 1993  a   span ), Lewison and Carter ( span class="CitationRef"  a href="#CR15" 2004  a   span ) the species was widely distributed in sub-Saharan Africa. However, study by International Union for Conservation of Nature and Natural Resources (IUCN  span class="CitationRef"  a href="#CR11" 2005a  a   span ,  span class="CitationRef"  a href="#CR12" b  a   span ) showed that the population had declining from time to time as a result of exploitation and habitat loss. So that hippopotamus specialist group reevaluated its status to vulnerable category on the International Red List of threatened species in 2006 (Lewison  span class="CitationRef"  a href="#CR14" 2007  a   span ; Lewison and Oliver  span class="CitationRef"  a href="#CR16" 2008  a   span ). The study conducted by G kidan and Teka 2006 cited in Funny ( span class="CitationRef"  a href="#CR9" 2012  a   span ) point out that hippopotamus are mainly restricted to pocket habitats of Lake Tana, in spite of their widespread in former times. The other study UNEP-WCMC ( span class="CitationRef"  a href="#CR23" 2010  a   span ) indicated that there is no adequate countrywide information on population size of hippopotamus in Ethiopia. However, the study confirms the presence of some populations of this species in Lake Tana, and also other rivers and lakes of the country. Moreover, strategic environmental assessment report of Lake Tana and its environ (2012) elucidate the hippopotamus failed under critical conservation issues due to threats of habitats fragmentation, overgrazing, farmland, settlement, hunting and deforestation. All these problems coupled with its’ ecological and economic importance requires mapping suitable habitat site in Lake Tana and its environs using GIS and remote sensing techniques.  p 
+ p id="Par3" class="Para" The objectives of this study were to carryout habitat suitability analysis and find out suitable sites of hippopotamus in Lake Tana and its environs using the integration of GIS and remote sensing techniques with MCDM.  p 
+ p class="SimplePara" Location map of the study area  p 
+ p class="SimplePara" Major Data types and their sources  p 
+ p class="SimplePara" Data type  p 
+ p class="SimplePara" Data sources  p 
+ p class="SimplePara" Resolution  p 
+ p class="SimplePara" Access date  p 
+ p class="SimplePara" Satellite image (SPOT)  p 
+ p class="SimplePara" Amhara Design Supervision and Works Enterprise  p 
+ p class="SimplePara" 5 m  p 
+ p class="SimplePara" February 2006E.C  p 
+ p class="SimplePara" Digital elevation model (DEM) of Lake Tana and its environs  p 
+ p class="SimplePara" Ethiopian Mapping Agency (EMA) (2012)  p 
+ p class="SimplePara" Resampled into 20 m  p 
+ p class="SimplePara" 04 2006E.C  p 
+ p class="SimplePara" Field survey data  p 
+ p class="SimplePara" Ground survey with global positioning system (GPS)  p 
+ p class="SimplePara"   span class="EmphasisTypeUnderline " +  span 2 m error  p 
+ p class="SimplePara" October 15–18 2006E.C, November 30-Dec 15 2006E.C, February 1–5 2006E.C, and March 10–14 2006 E.C  p 
+ p class="SimplePara" Bathymetric data  p 
+ p class="SimplePara" Amhara National Regional State, Bureau of Industry and Urban Development (ANRS BoIUD) 2012  p 
+ p class="SimplePara" January, 2006E.C  p 
+ p class="SimplePara" Schematic frameworks for habitat suitability analysis model  p 
+ p class="SimplePara" Suitability classes for each criteria factor  p 
+ p class="SimplePara" Criteria  p 
+ p class="SimplePara" Suitability classes  p 
+ p class="SimplePara" Sources  p 
+ p class="SimplePara" Highly suitable  p 
+ p class="SimplePara" Moderately suitable  p 
+ p class="SimplePara" Not suitable  p 
+ p class="SimplePara" Water depth  p 
+ p class="SimplePara" 1.5–2 m  p 
+ p class="SimplePara" 2–3 m  p 
+ p class="SimplePara" &gt;3 m  p 
+ p class="SimplePara" Tracy ( span class="CitationRef"  a href="#CR22" 1996  a   span )  p 
+ p class="SimplePara" Elevation of lakeshore  p 
+ p class="SimplePara" 1634–1900 m  p 
+ p class="SimplePara" 1900.1–2000 m  p 
+ p class="SimplePara" &gt;2000 m  p 
+ p class="SimplePara" Eltringham (2003), cited in UNEP-WCMC ( span class="CitationRef"  a href="#CR23" 2010  a   span ); field survey  p 
+ p class="SimplePara" Slope of lakeshore  p 
+ p class="SimplePara" 2°  p 
+ p class="SimplePara" 2–7°  p 
+ p class="SimplePara" &gt;7°  p 
+ p class="SimplePara" Holmes (1996), cited in Dietz et al. ( span class="CitationRef"  a href="#CR4" 2000  a   span ); Field survey  p 
+ p class="SimplePara" Settlement and livestock disturbance of lakeshore  p 
+ p class="SimplePara" 5.5 km = less or no disturbance  p 
+ p class="SimplePara" 3 km = Moderately disturbed  p 
+ p class="SimplePara" 0.5 km = Highly disturbed  p 
+ p class="SimplePara" Wengström ( span class="CitationRef"  a href="#CR24" 2009  a   span )  p 
+ p class="SimplePara" Grazing land proximity to the lake  p 
+ p class="SimplePara" 2–5 km  p 
+ p class="SimplePara" 5–10 km  p 
+ p class="SimplePara" &gt;10  p 
+ p class="SimplePara" Tracy ( span class="CitationRef"  a href="#CR22" 1996  a   span )  p 
+ p class="SimplePara" Land use land cover of lakeshore  p 
+ p class="SimplePara" Short grass ( em class="EmphasisTypeItalic " Echinochloa  em  species hippo grass)+wetlands  p 
+ p class="SimplePara" Dense forests, bush lands, cultivated and settlements  p 
+ p class="SimplePara" (Mackie  span class="CitationRef"  a href="#CR18" 1976  a   span ; Lock  span class="CitationRef"  a href="#CR17" 1972  a   span  cited in Kanga et al.  span class="CitationRef"  a href="#CR13" 2011  a   span ; Pienaar et al.  span class="CitationRef"  a href="#CR20" 1966  a   span ; IUCN  span class="CitationRef"  a href="#CR10" 1993  a   span ; Eltringham  span class="CitationRef"  a href="#CR8" 1999  a   span )  p 
+ p id="Par12" class="Para" Each criterion is weighted ( em class="EmphasisTypeItalic " n  em  −  em class="EmphasisTypeItalic " rj  em  + 1) and then normalized by the sum of all weights, that is Σ ( em class="EmphasisTypeItalic " n  em  −  em class="EmphasisTypeItalic " rk  em  + 1) (Malczewski  span class="CitationRef"  a href="#CR19" 1999  a   span ; Drobne and Lisec  span class="CitationRef"  a href="#CR5" 2009  a   span ).  p 
+ p id="Par13" class="Para" Using this straight ranking method, each rank was converted to a weight; the higher the weight the more the important the criterion. Then the weights were summed. The sum of the criteria is 1.  p 
+ p class="SimplePara" Lake depth suitability classes of Lake Tana  p 
+ p class="SimplePara" Elevations suitability classes of Lake Shore  p 
+ p id="Par18" class="Para" The slope class which help hippopotamus movement to the land was identified based on literature and field observation. As a result the lakeshore gradient less than 7° was identified suitable grazing ground for this animal. According to Holmes (1996), cited in Dietz et al. ( span class="CitationRef"  a href="#CR4" 2000  a   span ) sites with a high slope can cause inaccessibility problems due to morphology and body size of the specious understudy. However, very shallow and gentle Lake Shore is frequently disturbed by domestic animals and human activities like irrigation and rice cultivation in the study area. The suitable slope values were those that represent conducive travel for the species, since it could not raise high gradients due to its body size and structure.  p 
+ p class="SimplePara" Slopes suitability classes  p 
+ p id="Par20" class="Para" In order to generate the present land use land covers status, SPOT image with spatial resolution of 5 m pixel size was processed using ERDAS Imagine version 2010 software. By using ground control points (GCP) collected by GPS in the field, land use land covers classification was performed. Supervised classification was done using the maximum likelihood algorithm for 3 spectral bands corresponding to green, red and near infrared. During field visit settlements and cultivation were found highly mixed, while image classification was conducted, they were merged together. The land use land covers map of the Lakeshore was reclassified on the basis of suitability compatibility to hippopotamus living and feeding ground. As a result, human development (cultivated and settlement) and forested banks were identified to be unsuitable (IUCN  span class="CitationRef"  a href="#CR10" 1993  a   span ), while wetlands and grasslands were classed as suitable. The classification for land use land covers indicated that the area occupied with human action accounts about 45.26% of the total area within the study area. And is followed by bushland (27.42%) which is unsuitable for hippopotamus grazing which might be most probably converted by human over utilization of the land for long years. The remaining land use land covers grassland, wetland and forests account about 20.77, 3.73 and 2.84% respectively. Most of grasslands near the Lake were dominantly communal (domestic animal grazing) grounds which were frequently grazed and highly disturbed due to competition over limited resources.  p 
+ p class="SimplePara" Land use land cover suitability classes  p 
+ p id="Par22" class="Para" In addition to cultivation of hippopotamus grazing land and competition with domestic animals on the same area, permanent settlements have a great disturbance on its habitat. As the field visit confirm that, people living very close to the Lake made different types of barriers to prevent the passing of these animals to their gardens. Manmade obstacles that threaten this animal’s life were the holes dug for this purpose and stone hedge. People knew that due to its body size and short leg it could not pass such barriers. From settlements multiple rings buffering at specified distance around the input feature was computed as follows:  p 
+ p class="SimplePara" Settlements and livestock disturbance on hippopotamus habita  p 
+ p id="Par24" class="Para" In search of food individual hippopotamus is estimated to commute every night from 2 to 7 km from the river or lake in which they spent the day. However, during condition when food is not easily obtained the distance they move may increase up to 10 km (Eltringham  span class="CitationRef"  a href="#CR8" 1999  a   span ; Muller and Erasmus 1992; Tracy  span class="CitationRef"  a href="#CR22" 1996  a   span ). Hence grazing ground suitability on the basis of proximity to resting water was classified and reclassified using multiple rings buffer analysis on Arc GIS 10.2.  p 
+ p class="SimplePara" Hippopotamus grazing ground proximity classes to the lake  p 
+ p class="SimplePara" Weight assignments for thematic maps  p 
+ p class="SimplePara" Thematic maps criteria  p 
+ p class="SimplePara" Measure  p 
+ p class="SimplePara" Straight rank  p 
+ p class="SimplePara" Weight (n-rj + 1)  p 
+ p class="SimplePara" Normalized weight  p 
+ p class="SimplePara" Percentage influence %  p 
+ p class="SimplePara" Land use land cove  p 
+ p class="SimplePara" Types of LU LC  p 
+ p class="SimplePara" 1  p 
+ p class="SimplePara" 5  p 
+ p class="SimplePara" 0.333  p 
+ p class="SimplePara" 33.3  p 
+ p class="SimplePara" Slope  p 
+ p class="SimplePara" Degree of slope  p 
+ p class="SimplePara" 2  p 
+ p class="SimplePara" 4  p 
+ p class="SimplePara" 0.266  p 
+ p class="SimplePara" 26.7  p 
+ p class="SimplePara" Settlement disturbance  p 
+ p class="SimplePara" Proximity in km  p 
+ p class="SimplePara" 3  p 
+ p class="SimplePara" 3  p 
+ p class="SimplePara" 0.20  p 
+ p class="SimplePara" 20  p 
+ p class="SimplePara" Grazing distance from resting water  p 
+ p class="SimplePara" Proximity to the lake in km  p 
+ p class="SimplePara" 4  p 
+ p class="SimplePara" 2  p 
+ p class="SimplePara" 0.133  p 
+ p class="SimplePara" 13.3  p 
+ p class="SimplePara" Elevation  p 
+ p class="SimplePara" From mean sea level (m)  p 
+ p class="SimplePara" 5  p 
+ p class="SimplePara" 1  p 
+ p class="SimplePara" 0.067  p 
+ p class="SimplePara" 6.7  p 
+ p class="SimplePara" Expert’s and Researcher judgment (2014)  p 
+ p id="Par27" class="Para" From the above table, weightage indicates the most influential factor that threatens the existence of the species understudy by reducing its habitat. Accordingly the higher the weightage the higher its relative influence than others. Among the overlay method Weighted Sum tool was chosen for suitability modeling due to the fact that it provides the ability to weight and combine multiple inputs to create an integrated analysis on Arc GIS 10 soft ware. The resulting cell values were added to produce the final raster model output. To this end, higher values generally indicate that a location is more suitable whereas lower values imply least suitable location.  p 
+ p id="Par28" class="Para" Reclassification and weighting the factors were followed by running the overlay analysis weighted sum for terrestrial factors. By this spatial analysis, suitable sites for hippopotamus were identified in Lake Tana environs. On the other hand the aquatic habitat was analyzed separately because of the terrestrial and aquatic environments are adjacent each other. The animal prefer the aquatic environment which has grazing ground adjacent to resting water to reduce long distance travel.  p 
+ p class="SimplePara" Model result for hippopotamus habitat around and in Lake Tana  p 
+ p id="Par30" class="Para" This study attempted to find out suitable sites for hippopotamus in Lake Tana and its environs by integrating MCDM with GIS and RS techniques. The analysis of each factor based on suitability class shows varied outputs and varied land size. In the study area high interferences of human activity in hippopotamus habitats takes the lion’s share in making the areas unsuitable.  p 
+ p id="Par31" class="Para" To this end the land use land cover classification indicated that the area occupied with human action (settlement, cultivation) accounts about 45.26% of the total area within the study area. However, as the analysis output ilustrated the sphere of influence of settlement was beyond the area occupied by it and was followed by bushland (27.42%) which was unsuitable for hippopotamus grazing. Due to too much proximity, these animals may begin to make threats on human life and crops as its territories are disturbed continually. Therefore, too much proximity of human settlements to such mammal’s habitat has to be protected by local planning and rational management of the population is desirable. The remaining area (20.77, 3.73 and 2.84%) of the Lakeshore is covered by grassland, wetland and forests respectively. Like that of bushes, forest would not be included in the diets of hippopotamus.  p 
+ p id="Par32" class="Para" In general, settlement with livestock disturbance alone has made 50.88% of the areas under study highly unsuitable, 47.290% of the area fairly moderately suitable and only 1.81% of the areas were with no disturbance suitable. During habitat suitability modeling, physical and human factors were considered based on literature evidences and field observation. The overlay analysis model results reveal that only 22.54.59% of the land areas under study were identified as most suitable for the species. From the model output, among the suitable areas, large portion were located at the backside of settlements which were not easily accessible by the species, while 40.5% were found to be moderately suitable for hippopotamus habitat and 36.96% were unsuitable lands.  p 
+ p id="Par33" class="Para" As the study shows the habitat of hippopotamus in Lake Tana and its environs were highly reduced due to mainly human factors; much more emphasis should be placed on preserving of this vulnerable species in the study area. Moreover, there should be legal enforcements to protect hippopotamus habitats in the study area to insure its sustainable conservation.  p 
+ p class="SimplePara" Foremost, I would like to express my sincere gratitude to my advisors Dr.Abate Shiferaw from Geography and Environmental Studies and Dr. Dessalegn Ejigu from Biology Department for their continuous support of my MSc research, for their patience, motivation, enthusiasm, and immense knowledge. Their guidance helped me in all the time of research and writing of this thesis.  p 
+ p class="SimplePara" I would like to thank my collogues in Department of Geography and Environmental Studies of Bahir Dar University for their encouragement, insightful comments, and cooperation while I conduct this research.  p 
+ p class="SimplePara" My special appreciation goes to Dawit Tekabe who provided me support and encouragement during field work. He was with me in all field visits by walking more than 5 and 6 h per day on foot.  p 
+ p class="SimplePara" I am also thankful to Yirga Kebede one of the environmentalist in Amhara National Regional State Department of Tana Sub Basin and W Gebreal from Environmental Protection Bureau for their invaluable expertise comment and support throughout the paper work.  p 
+ p class="SimplePara" I am grateful to all organizations and all individuals that contributed in my study. To begin with, my thanks go to Tana Sub Basin department in Amahara National Regional State, Tana Water Transport Enterprise, Amhara Design Supervision and Works Enterprise, Amahara National Regional State Land Administration and Environmental Protection, for genuinely offering their noble service in providing me data for this research.  p 
+ p class="SimplePara" Last but not the least; I would like to thank my family, Metimiku Yohannes, Selamawit Yohannes and Yeshitu Asfaw for their support and taking the household responsibility while I left home for field work.  p 
+ p id="Par34" class="Para" The author declares that this thesis is my original work and no anybody could claim for competing interest. In addition, all the sources of materials used for the thesis have been duly acknowledged.  p 
+ p id="Par35" class="Para" To conduct this research, the author did not get any financial support from any source of funding.  p 
+ p class="SimplePara"   strong class="EmphasisTypeBold " Open Access  strong This article is distributed under the terms of the Creative Commons Attribution 4.0 International License ( span class="ExternalRef"  a target="_blank" rel="noopener" href="http:  creativecommons.org licenses by 4.0 "  span class="RefSource" http:  creativecommons.org licenses by 4.0   span   a   span ), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.  p 
+ p class="skyscraper-ad__label" Advertisement  p 
+ p class="footer__strapline" Over 10 million scientific documents at your fingertips  p 
+ p class="footer__copyright" © 2018 Springer Nature Switzerland AG. Part of  a target="_blank" rel="noopener" href="  www.springernature.com" Springer Nature  a .  p 
+ p class="footer__user-access-info" 
+                     span Not logged in  span 
+                     span Not affiliated  span 
+                     span 84.216.202.231  span 
+                  p 

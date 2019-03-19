@@ -1,0 +1,10 @@
+ p class="tagline site-header__tagline tagline--left " From the team at BBC Wildlife Magazine  p 
+ p class="body-copy-large" itemprop="description" Foxes are easiest to see in the wild when their cubs are born (May - July). Here's our handy guide to the behaviour you are most likely to see.  p 
+ p class="heading-4" itemprop="name" 
+                 span By  span   a class="author-name__name" rel="author" href="https:  www.discoverwildlife.com author steveharris " title="More posts by Steve Harris" Steve Harris  a 
+              p 
+ p For much of the year, foxes are difficult to see in the wild. But when their cubs are born between May and July, they are vocal and more active during the day, hunting, playing or just relaxing in the sun.  p 
+ p Here Stephen Harris describes their key characteristics and some of the behaviour you are likely to see.  p 
+ p class="body-copy-extra-small js-newsletter-sign-up-description" 
+                        By entering your details, you are agreeing to Discover Wildlife  a class="link-copy" href="http:  www.immediate.co.uk terms-and-conditions " terms and conditions  a . You can unsubscribe at any time.
+                      p 

@@ -1,0 +1,78 @@
+ p An error occurred trying to load this video.  p 
+ p Try refreshing the page, or contact customer support.  p 
+ p class="benefits-text teacherSegText" As a member, you'll also get unlimited access to over 75,000
+				 lessons in math, English, science, history, and more. Plus, get practice tests, quizzes, and personalized coaching to help you
+				 succeed.  p 
+ p class="login-text" 
+		Already registered?
+		
+		 a href=" academy login.html?cta=teacherPromo" class="standardLink" data-cname="teacher-promo-paywall__login" test-id="teacher-promo-paywall__login" 
+			Login here for access
+		  a 
+	  p 
+ p class="nowrap" style="font-style: italic" Want to watch this again later?  p 
+ p  span class="nowrap" Log in or sign up to add this  span   span class="nowrap" lesson to a Custom Course.  span   p 
+ p class="nowrap"  a href=" academy login.html" data-cname="cust_courses_lesson_cta_login" test-id="cust_courses_lesson_cta_login" Login  a   span style="padding: 0 1em; font-size: smaller" or  span   a data-toggle="modal" href="#partialRegFormModal" data-cname="cust_courses_lesson_cta_register" test-id="cust_courses_lesson_cta_register" class="open-reg-form" Sign up  a   p 
+ p Diane has taught all subjects at the elementary level, was the principal of a K-8 private school and has a master's degree in Measurement and Evaluation.   p 
+ p Imagine this: You are walking through an open, grassy plain when you hear it. That loud, echoing roar can only mean one thing. Lions are nearby and might be hungry. You decide to sneak quietly away while keeping an eye out for one of these big cats that might want to make a snack out of you!   p 
+ p When you picture a lion, you probably imagine it prowling through a dry, grassy plain dotted with a few trees here and there. But just like people live in different kinds of houses, lions live in different kinds of  b habitats  b , or places where they are naturally found in the wild. These habitats all provide excellent hiding places so lions can hunt without being detected. If you're looking for lions, you can find them hanging out in the following kinds of habitats in Africa and Asia:   p 
+ p This habitat blends together with open woodlands. Depending on how much rain it gets and how high up it is, the grass may be short or almost 10 feet tall. It has a long, cool, dry season and a shorter, hot, moist season.   p 
+ p The trees in this habitat are deciduous, or the kind that lose their leaves, because there isn't enough rain for evergreen trees to grow. This kind of habitat makes up about a fourth of the continent of Africa.   p 
+ p This habitat has very hot, dry summers so a lot of the plants are inactive or die back during this season. But it's wet and cooler during the winter, which is when most of the tough, thorny brush and bushes grow.   p 
+ p class="actionMessage" Get access risk-free for 30 days,
+			 br just create an account.  p 
+ p  em No obligation, cancel anytime.  em   p 
+ p  em Select a subject to preview related courses:  em   p 
+ p Lions are meat eaters, also called  b carnivores  b . The biggest females can weigh around 400 pounds and the biggest males can weigh about 570 pounds. In order to get enough food, lions hunt the animals that live in their habitats like you go grocery shopping at the store. Depending on where they live, some of their favorite meals are zebras, antelopes, giraffes, warthogs, crocodiles, rhinos, birds, and rodents.   p 
+ p Although you need to drink water to survive, it's not as important in a lion's habitat. Lions will drink water if they find some, but they can also get the water they need from the animals they eat and from the plants that grow in their habitat.   p 
+ p Scientists are worried about lions because there aren't as many as there used to be. Besides hunting and sickness, lion habitats are shrinking because people are moving on to the land where lions usually live, forcing them out.   p 
+ p The only natural lion habitats that are left are on  b reserves  b , which are areas of guarded and protected land set aside for the animals who live there. People are working to protect the lions and their habitat so that they can survive and their numbers can increase.   p 
+ p Lions live in different  b habitats  b  in Asia and Africa, including savannas, open woodlands, and scrublands. They are  b carnivores  b  and hunt animals like zebras, rhinos, and antelopes that live in their habitat. The only natural lion habitats that are left are on protected  b reserves  b , though people are working to protect lions and the land where they live so they can survive.  p 
+ p 
+				    span class="icon-unlock"   span 
+				   To unlock this lesson you must be a Study.com Member.
+				    br class="visible-xs" 
+
+				    a data-toggle="modal" href="#partialRegFormModal" data-cname="transcript_create_your_account" test-id="transcript_create_your_account" data-track-visible class="open-reg-form" Create your account  a 
+			     p 
+ p class="login-text" Already a member?  a data-cname="transcript_log_in" test-id="transcript_log_in" href=" academy login.html" Log In  a   p 
+ p class="login-text" 
+		Already registered?
+		
+		 a href=" academy login.html?cta=teacherPromo" class="standardLink" data-cname="teacher-promo-paywall__login" test-id="teacher-promo-paywall__login" 
+			Login here for access
+		  a 
+	  p 
+ p Did you know… We have over 160 college
+						courses that prepare you to earn
+						credit by exam that is accepted by over 1,500 colleges and universities. You can test out of the
+						first two years of college and save thousands off your degree. Anyone can earn
+						credit-by-exam regardless of age or education level.  p 
+ p To learn more, visit our  a href=" academy try earn-college-credit.html" data-cname="earning_credit_link" test-id="earning_credit_link" Earning Credit Page  a   p 
+ p Not sure what college you want to attend yet? Study.com has thousands of articles about every
+							imaginable degree, area of
+							study
+							and career path that can help you find the school that's right for you.  p 
+ p Get the unbiased info you need to find the right school.  p 
+ p Browse an area of study or degree level.  p 
+ p class="visible-xs"  span class="icon-arrow-left"   span  Back To Course  p 
+ p 
+							  span class="numChapters" 10  span  chapters |
+							  span class="numLessons" 360  span  lessons
+							 
+						  p 
+ p Next Lesson  p 
+ p ©  copyright 2003-2019 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		  p 
+ p Your Cart is Empty. Please Choose a Product.  p 
+ p Study.com video lessons have helped over  em class="red bold" 30 million  em 
+										students.  p 
+ p "I learned more in  em class="teal bold" 10 minutes  em  than 1 month of chemistry classes"  p 
+ p - Ashlee P.  p 
+ p "I aced the CLEP exam and earned  em class="green bold" 3 college credits!  em "  p 
+ p - Clair S.  p 
+ p test-id="testimonial_control_text" "The videos have changed the way I teach! The videos on Study.com accomplish in
+							 em class="red bold" 5 minutes  em  what would take me an entire class."  p 
+ p - Chris F.  p 

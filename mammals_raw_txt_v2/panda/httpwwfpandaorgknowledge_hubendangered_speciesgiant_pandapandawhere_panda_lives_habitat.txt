@@ -1,0 +1,24 @@
+ p style="font-family: Helvetica, Arial, sans-serif; margin:8px 0" 
+                         span style="font-size:112%;color:white;"   span 
+                        We use cookies to analyse how visitors use our website and to help us provide the best possible experience for users. View our  a href="http:  wwf.panda.org privacy " style="color:#A5D8D3;font-weight:bold;" Cookie Policy  a . ( a href="javascript:void(0)" id="cookie_closer" style="color:#A5D8D3;font-weight:bold;" I accept  a )
+                  p 
+ p  i class="font-serif text-gray" © naturepl.com   Eric Baccega   WWF  i   p 
+ p  img class="img-full-width" src="  d2ouvy59p0dg6k.cloudfront.net img minshan_landscape_philou_351090.jpg" alt="Minshan Mountains. Sichuan, China. rel=" facebook image philippe semanaz title="The mountain pass between between Wanglang and Baihe Nature Reserves in the Minshan Mountains. ..."  
+     i class="font-serif text-gray" © Philippe Semanaz  i   p 
+ p  br 
+ a onclick="_gaq.push(['_trackEvent','outgoing_links','Facebook'])" href="http:  wwf.panda.org facebook" target="_blank" style="padding: 0pt 2px;"   img width="38" height="38" border="0" src="http:  awsassets.panda.org img original facebook_small.png" style="vertical-align: middle; padding-bottom: 5px;" alt="Facebook"   a        a onclick="_gaq.push(['_trackEvent','outgoing_links','twitter'])" href="http:  wwf.panda.org twitter" target="_blank" style="padding: 0pt 2px;"   img width="38" height="38" border="0" src="http:  awsassets.panda.org img original twitter_small.png" style="vertical-align: middle; padding-bottom: 5px;" alt="Twitter"   a    a onclick="_gaq.push(['_trackEvent','outgoing_links','googleplus'])" href="http:  wwf.panda.org googleplus" target="_blank" style="padding: 0pt 2px;"  img width="38" height="38" border="0" src="http:  awsassets.panda.org img original google__small.png" style="vertical-align: middle; padding-bottom: 5px;" alt="Google Plus"   a      a onclick="_gaq.push(['_trackEvent','outgoing_links','youtube'])" href="http:  wwf.panda.org youtube" target="_blank" style="padding: 0pt 2px;"  img width="38" height="38" border="0" src="http:  awsassets.panda.org img original youtube_small.png" style="vertical-align: middle; padding-bottom: 5px;" alt="YouTube"   a      a onclick="_gaq.push(['_trackEvent','outgoing_links','flickr'])" href="http:  wwf.panda.org flickr" target="_blank" style="padding: 0pt 2px;"   img width="38" height="38" border="0" src="http:  awsassets.panda.org img original flickr_small.png" style="vertical-align: middle; padding-bottom: 5px;" alt="Flickr"   a        a onclick="_gaq.push(['_trackEvent','outgoing_links','vim'])" href="http:  wwf.panda.org vimeo" target="_blank" style="padding: 0pt 2px;"  img width="38" height="38" border="0" src="http:  awsassets.panda.org img original vimeo_small.png" style="vertical-align: middle; padding-bottom: 5px;" alt="Vimeo"   a   p 
+ p  i class="font-serif text-gray" © Susan A. Mainka   WWF  i   p 
+ p  img class="img-full-width" src="  d2ouvy59p0dg6k.cloudfront.net img qinling_mountains_mgunther_1_351094.jpg" alt="The Qinling Mountains. rel=" facebook image wwf michel gunther title="The Qinling Mountains. Shaanxi, China."  
+     i class="font-serif text-gray" © WWF   Michel GUNTHER  i   p 
+ p class="title font30" Qinling sub-species  p 
+ p Scientists have discovered that the giant pandas in the Qinling Mountains are actually a different subspecies from the other giant pandas.  p 
+ p  i class="font-serif text-gray" © naturepl.com   Edwin Giesbers   WWF  i   p 
+ p    p 
+ p class="title font30 text-uppercase text-center" Connecting habitats  p 
+ p One of the ways that we can help pandas is to reconnect their habitats using wildlife corridors.  p 
+ p class="title font30 text-uppercase text-center" Please Donate  p 
+ p Our work is only possible with your support.  br 
+ br 
+ a href=" how_you_can_help support_wwf donate ?src=left_col" class="button" Donate now  a   p 
+ p class="text-center font-serif intro"  i Building a future in which people live in harmony with nature.  i   p 
+ p © 2019 WWF - World Wide Fund For Nature span style="margin-left: 10px;" © 1986 Panda Symbol WWF – World Wide Fund For Nature (formerly World Wildlife Fund)  span  span style="margin-left: 10px;" ® “WWF” is a WWF Registered Trademark  span  span style="margin-left:10px;"   span   a href="https:  creativecommons.org licenses by-nc 4.0 deed.en" target="_blank" Creative Commons license  a .  p 

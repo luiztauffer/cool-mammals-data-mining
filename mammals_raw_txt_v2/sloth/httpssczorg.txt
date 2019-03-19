@@ -1,0 +1,19 @@
+ p 
+						For Michael, each day is an opportunity to share his pride.					  p 
+ p 
+						Stephanie is one of the oldest and wisest animals at the Zoo.					  p 
+ p 
+						Daisy is one of the friendliest apes you’ll ever meet.					  p 
+ p class="footnote" Some animals may be out of sight due to weather or other factors.  p 
+ p class="footnote" 
+ !--
+			 div class="button_outer" 
+				 a class="button" 
+					All Notices
+				  a 
+			  div 
+-- 
+		  p 
+ p 
+					    Our monthly e-newsletter holds a fun assortment of announcements, discounts, and news so you can stay up to date with Sedgwick County Zoo.
+				      p 

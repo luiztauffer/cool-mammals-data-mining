@@ -1,0 +1,31 @@
+ p  i class="icon-notice"   i The full text of this article hosted at iucr.org is unavailable due to technical difficulties. a href="#" class="close-iucr-failure"  i class="icon-x"   i   a    p 
+ p Quantitative Methods Laboratory, Forest Science Department, ‘Luiz de Queiroz’ College of Agriculture (ESALQ), University of São Paulo (USP), Av. Pádua Dias 11, CP 09, Piracicaba, SP 13418‐900, Brazil  p 
+ p Rural Engineering Department, ‘Luiz de Queiroz’ College of Agriculture (ESALQ), University of São Paulo (USP), Av. Pádua Dias 11, CP 09, Piracicaba, SP 13418‐900, Brazil  p 
+ p EMBRAPA Genetic Resources and Biotechnology, Parque Estação Biológica – PqEB – Av. W5 Norte (final) – Brasília, DF 70770‐900, Brazil  p 
+ p Quantitative Methods Laboratory, Forest Science Department, ‘Luiz de Queiroz’ College of Agriculture (ESALQ), University of São Paulo (USP), Av. Pádua Dias 11, CP 09, Piracicaba, SP 13418‐900, Brazil  p 
+ p Animal Ecology Laboratory, Biological Science Department, ‘Luiz de Queiroz’ College of Agriculture (ESALQ), University of São Paulo (USP), Av. Pádua Dias 11, CP 09, Piracicaba, SP 13418‐900, Brazil  p 
+ p Quantitative Methods Laboratory, Forest Science Department, ‘Luiz de Queiroz’ College of Agriculture (ESALQ), University of São Paulo (USP), Av. Pádua Dias 11, CP 09, Piracicaba, SP 13418‐900, Brazil  p 
+ p Rural Engineering Department, ‘Luiz de Queiroz’ College of Agriculture (ESALQ), University of São Paulo (USP), Av. Pádua Dias 11, CP 09, Piracicaba, SP 13418‐900, Brazil  p 
+ p EMBRAPA Genetic Resources and Biotechnology, Parque Estação Biológica – PqEB – Av. W5 Norte (final) – Brasília, DF 70770‐900, Brazil  p 
+ p Quantitative Methods Laboratory, Forest Science Department, ‘Luiz de Queiroz’ College of Agriculture (ESALQ), University of São Paulo (USP), Av. Pádua Dias 11, CP 09, Piracicaba, SP 13418‐900, Brazil  p 
+ p Animal Ecology Laboratory, Biological Science Department, ‘Luiz de Queiroz’ College of Agriculture (ESALQ), University of São Paulo (USP), Av. Pádua Dias 11, CP 09, Piracicaba, SP 13418‐900, Brazil  p 
+ p Give access  p 
+ p Share full text access  p 
+ p Use the link below to share a full-text version of this article with your friends and colleagues.  a href=" researchers tools-resources sharing" target="_blank" class="emphasis" Learn more.  a   p 
+ p Share a link  p 
+ p  b Aim   b  The aim of this study was to understand the spatial distribution of capybara ( i Hydrochoerus hydrochaeris  i ) according to habitat attributes, using a multiscale approach based on fine‐ and broad‐scale variables in agroecosystems.  p 
+ p  b Location   b  Piracicaba river basin, south‐eastern Brazil (22°00′–23°30′ S; 45°45′–48°30′ W).  p 
+ p  b Methods   b  Potential habitats for capybara were selected in order to evaluate species presence absence from October 2001 to December 2002. In each site, habitat attributes were sampled in the field (fine scale) and from GIS maps (broad scale) in terms of their presence or absence close to water. The variability of land cover between study sites was described by principal components analysis. Chi‐square tests were calculated for capybara presence absence and the presence of each habitat attribute. A linear discriminant function analysis was used to describe to what extent the species’ presence could be explained by habitat attributes.  p 
+ p  b Results   b  The species presence was predominantly related to flat open areas (slope ranging from 0% to 6%) ( i χ  i  sup 2  sup  = 37.054, d.f. = 4,  i P  i  &lt; 0.001), covered by sugar cane or cultivated pasture ( i χ  i  sup 2  sup  = 84.814, d.f. = 9,  i P  i  &lt; 0.001). Terrain curvature, water meadows, aquatic vegetation, forest cover and open areas resulted in the best combination of variables, explaining 69.7% of capybara occurrence in the study sites in this river basin.  p 
+ p  b Main conclusions   b  Capybaras are widespread in the Piracicaba river basin, except in elevated areas. The spatial distribution of capybara was associated with the main types of land cover in the river basin – sugar cane plantations or pasture – both key food sources for capybara. This probably explains the species’ recent abundance in the region, since an intensive process of landscape alteration has taken place in this region owing to the expansion of agriculture in recent decades. These results may be useful in understanding the relationship between recent landscape modifications and the species’ population expansion in agroecosystems.  p 
+ p class="volume-issue"  a href=" toc 13652699 2007 34 2"  span Volume  span  span class="val" 34  span ,  span Issue  span  span class="val" 2  span   a   p 
+ p February 2007  p 
+ p class="page-range"  span Pages  span  span  223-230  span   p 
+ p Your password has been changed  p 
+ p class="sub" Enter your email address below.   p 
+ p Please check your email for instructions on resetting your password.
+                    If you do not receive an email within 10 minutes, your email address may not be registered,
+                    and you may need to create a new Wiley Online Library account.  p 
+ p Can't sign in? Forgot your username?  p 
+ p class="sub" Enter your email address below and we will send you your username  p 
+ p If the address matches an existing account you will receive an email with instructions to retrieve your username  p 

@@ -1,0 +1,31 @@
+ p id="topnav" 
+         a href=" " Home  a  
+         span class="slash"    span  
+         a href=" about contact " Contact  a  
+         span class="slash"    span  
+         a href=" links site-map " Site Map  a  
+        p 
+ p id="joinpack"  a href="https:  ww8.aitsafe.com cf review.cfm?userid=A7229067"  img src=" _include img button-shopping-cart.gif" alt="Shopping Cart"   a 
+       a href=" membership " id="jp"  img src=" _include img button-join-the-pack.gif" alt="Join Us"   a 
+       a href=" donate " id="donate"  img src=" _include img button-top-donate.gif" alt="Donate"   a   p 
+ p class="missiontext" California Wolf Center is dedicated to the return of wild wolves br 
+ 		  to their natural habitat and to the people who share the landscape with them.  p 
+ p class="missiontext" We foster communities coming together to ensure wolves, livestock, and people thrive in today’s world.  p 
+ p class="learntext"  a href=" about " Learn more about our mission →  a   p 
+ p class="subtitle" 
+ a href=" downloads CWC-endorsed-beef-final.pdf" target="_blank" California Wolf Center Endorsed Beef  a   p 
+ p We endorse the beef of ranchers involved in our Working Circle program. This is a tangible way for consumers who support wolves to also support those ranchers who are taking pro-active steps that not only protect their cattle but will help to ensure long-term successful wolf recovery. Read more about this paramount initiative  a href=" downloads CWC-endorsed-beef-final.pdf" target="_blank"  strong here  strong .  a   p 
+ p class="subtitle" 
+ a href=" membership " California Wolf Center Membership  a   p 
+ p Did you know that your membership to the California Wolf Center helps us work with communities living with wild wolves to ensure that both wolves and people thrive?  a href=" membership "  span class="learnmore"  Learn more  span   a  about how your support makes you part of a movement for wolves!  p 
+ p class="fl newsletter"  strong Receive our Free e-Newsletter!  strong  br  span class="newstxt" Get wolf news, special events info, and more  span  br  a href=" e-newsletter e-newsletter.htm" class="newssubscribe"  img src=" _include img button-subscribe.gif" class="btnsubscribe" alt="Subscribe"   a   p 
+ p class="fr copyright" Copyright © 2015 California Wolf Center. All rights reserved.  p 
+ p id="footer-nav" 
+           a href=" links site-map " Site Map  a  
+           span class="slash"    span  
+           a href=" privacy-policy.htm" Privacy Policy  a  
+           span class="slash"    span  
+           a href=" terms-of-use.htm" Terms of Use  a  
+           span class="slash"    span  
+           a href=" return-exchange-refund-policy.htm" Return, Exchange, Refund Policy  a  
+          p 

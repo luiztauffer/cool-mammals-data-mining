@@ -1,0 +1,53 @@
+ p class="c-nav__promo-message" Get 6 issues for £9
++ FREE £20 movie download  p 
+ p class="c-cookie-warning__message" 
+Welcome to WIRED UK. This site uses cookies to improve your experience and deliver personalised advertising. You can  a target="_blank" href="https:  www.condenast.co.uk cookie-notice ?utm_source=WIRED%20UK&amp;utm_campaign=cookie%20warning&amp;utm_medium=referral#opting_out_of_cookies" opt out  a  at any time or find out more by reading our  a target="_blank" href="https:  www.condenast.co.uk cookie-notice ?utm_source=WIRED%20UK&amp;utm_campaign=cookiewarning&amp;utm_medium=referral" cookie policy  a .
+  p 
+ p class="bb-p" The UK has been named as one of the most depleted countries in the world  p 
+ p class="a-author__byline a-author__byline--authors" 
+                                             span class="a-author__byline-prefix" By  span 
+                                             span class="a-author__byline-name"  a href=" profile amelia-heathman" Amelia Heathman  a   span 
+                                          p 
+ p class="bb-p" Urbanisation means the UK's hedgehog population is in sharp decline  p 
+ p class="bb-p" The numbers of the UK’s most endangered creatures have fallen by two-thirds since 1970, as it is revealed that one in 10 wildlife species face extinction. Agriculture,  a href="https:  www.wired.co.uk topic climate-change" class="bb-a" climate change  a  and urbanisation have all been named as reasons for the decline.   p 
+ p class="bb-p" The State of Nature Report, a yearly scientific report compiled by more than 50 conservation organisations, analyses how wildlife is faring in the UK. This year’s report demonstrated that the abundance of wildlife has fallen, leading to the UK being named as “among the most depleted countries in the world,” according to the Biodiversity Intactness Index.   p 
+ p class="bb-p" The report monitors the UK’s nature populations every year, including its overseas territories. Over 8,000 species were assessed, and of these, 15 per cent are extinct or threatened with extinction in Great Britain. Plants are among those facing the highest threat, with 19 per cent of plant species threatened with extinction including the corn buttercup and small fleabane.   p 
+ p class="bb-p" More than 55 per cent of the UK species have been in decline since 1970s, including hedgehogs and turtle doves. A total of 165 species are considered to be critically endangered, such as the High Brown Fritillary butterfly and the Freshwater Pearl mussel.   p 
+ p class="c-card__byline" 
+                        				             span class="c-card__byline-prefix" By  span 
+                        				             span class="c-card__byline-name" Eleanor Peake  span 
+                        				          p 
+ p class="bb-p" The High Brown Fritillary butterfly is considered to be critically endangered  p 
+ p class="bb-p" Insects and other invertebrates that make up 97 per cent of all animal species are particularly struggling, with 69 per cent in decline over the past 40 years.   p 
+ p class="bb-p" Sir David Attenborough launched the first State of Nature report in 2013 and wrote the foreword for this year's document.   p 
+ p class="bb-p" “Escalating pressures, such as climate change and modern land management, mean that we continue to lose the precious wildlife that enriches our lives and is essential to the health and well-being of those who live in the UK,” he said.  p 
+ p class="bb-p" He urged conservationists, governments, businesses and individuals to come together to help “provide a brighter future for nature”.   p 
+ p class="c-card__byline" 
+                        				             span class="c-card__byline-prefix" By  span 
+                        				             span class="c-card__byline-name" WIRED  span 
+                        				          p 
+ p class="bb-p" Agriculture has been named as the top reason for the decline in the country’s natural populations. Around 20 per cent of all impact on species population was down to the “intensive management of agricultural land”.   p 
+ p class="bb-p" In particular, the increased use of pesticides has been reported to adversely affect bees, and the loss of hedgerows and other non-cropped habitats have led to the decline of farmland birds, like the turtle dove.   p 
+ p class="bb-p" Despite its overall negative effect on the planet, climate change has also had a positive influence on the UK’s wildlife. It is extending suitable conditions for species previously restricted to the south, enabling them to move further north if a suitable habitat exists. New fish have been migrating into UK waters, which could fill the gap left by overfishing in previous years. But other animals that prefer the colder temperatures in the north have nowhere to go, including the dormouse.   p 
+ p class="bb-p" Climate change is affecting the dormouse population as a rise in temperatures means its habitat is compromised  p 
+ p class="bb-p" Elsewhere, urbanisation has led to loss of green spaces such as parks and allotments, and the loss of habitats, including lowland heathland. Water vole numbers have been falling as a result of this.   p 
+ p class="bb-p" This is also leading to the decline of hedgehogs in central London. The HS2 project plans to use the Zoological Society of London’s (ZSL) car park as a lorry park for heavy goods vehicles and the construction trucks in order to build the high-speed rail.   p 
+ p class="bb-p" However, the car park is one of central London’s only remaining populations of hedgehogs. They live in the dense-shrubbery borders surrounding the car park and they will be severely affected if HS2 carries out its plans to transform the area.   p 
+ p class="bb-p" “It may seem strange that we’re seeking protection for a car park, but this is an example of the increasingly desperate reality for urban wildlife. Forced by human pressures to find sanctuary in the unlikeliest of places, it is our duty to protect the remaining refuges of these creatures,” said David Field, Zoological Director of ZSL, in a statement.  p 
+ p class="bb-p" Experts from ZSL will be appealing to a House of Lords Select Committee today (September 14) to request HS2 find an alternative location for the site in order to not cause damage to the hedgehogs.  p 
+ p class="c-card__byline" 
+                                    				             span class="c-card__byline-prefix" By  span 
+                                    				             span class="c-card__byline-name" Victoria Woollaston  span 
+                                    				          p 
+ p class="c-card__byline" 
+                                    				             span class="c-card__byline-prefix" By  span 
+                                    				             span class="c-card__byline-name" Victoria Turk  span 
+                                    				          p 
+ p class="c-card__byline" 
+                                    				             span class="c-card__byline-prefix" By  span 
+                                    				             span class="c-card__byline-name" K.G Orphanides  span 
+                                    				          p 
+ p class="c-card__byline c-card__byline--sponsorship c-card--switcher" 
+                                    				         span class="c-card__byline-prefix" In partnership with   span 
+                                    				         span class="c-card__byline-name" BAE Systems  span 
+                                    				      p 

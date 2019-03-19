@@ -1,0 +1,3 @@
+ p align="center" 
+        p 
+ p Back to  a href=" animals.php"  strong Animals for Kids  strong   a   p 

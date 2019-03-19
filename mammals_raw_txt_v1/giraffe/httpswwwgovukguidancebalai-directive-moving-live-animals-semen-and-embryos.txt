@@ -1,0 +1,69 @@
+ p GOV.UK uses cookies to make the site simpler.  a href="https:  www.gov.uk help cookies" data-module="track-click" data-track-category="cookieBanner" data-track-action="Cookie banner clicked" Find out more about cookies  a   p 
+ p class="gem-c-title__context" 
+      Guidance
+      p 
+ p class="gem-c-lead-paragraph " 
+    The animals, semen and embryos covered by the Balai Directive and how to move them in the EU, the UK or to and from non-EU countries.
+    p 
+ p If you’re moving traditional livestock (cattle, sheep, goats, pigs, or poultry), animals that aren’t intended for display or conservation, or pet dogs, cats and ferrets that meet pet travel rules, you’ll need to use the following guidance:  p 
+ p Otherwise, you may have to follow the rules of the Balai Directive as explained in this guidance - talk to your vet if you’re unsure which rules apply to the animals you want to move.  p 
+ p You must follow this guidance if you’re moving the following animals:  p 
+ p You must also follow this guidance if you’re moving semen or embryos that aren’t  a href="https:  www.gov.uk government publications bovine-and-boar-semen-collection-and-breeding-licence-application" bovine or porcine  a .  p 
+ p You can’t import any live ungulates (horses, cattle, giraffes, camels, deer, hippopotamuses) or whales and dolphins into the UK from non-EU countries, unless you have an agreement from  p 
+ p  a rel="external" href="http:  webarchive.nationalarchives.gov.uk 20141203190215 http:  www.defra.gov.uk animal-trade imports-non-eu iins live-animals iins-other-animals-balai " Check the importer information notes  a  to find out the latest information about importing live animals semen or embryos under the Balai Directive.  p 
+ p If you move animals from an EU country to a non-EU country, this is considered exporting.  p 
+ p If you move animals into an EU country from a non-EU country, this is considered importing.  p 
+ p If you move animals from one EU country to another, this is considered EU trade.  p 
+ p You must have an animal health certificate to trade any live animals, birds, bees, plus the ova, embryos and semen of these animals.  p 
+ p You must make sure that animals or germinal product travel with their health certificates.  p 
+ p You can  a rel="external" href="http:  eur-lex.europa.eu LexUriServ LexUriServ.do?uri=CONSLEG:1992L0065:20040703:EN:PDF" find template certificates  a  in Annex E of the Balai Directive, part 1, 2 and 3.  p 
+ p You must ask your vet to do each of the following:  p 
+ p Before the move happens, the vet should also:  p 
+ p They can find out how to do this using the  abbr title="EU Trade Notification System" TRACES  abbr  support documents on the  a rel="external" href="http:  defrawebcms ahvla vet-gateway index.htm" Animal and Plant Health Agency vet gateway  a .  p 
+ p Whether you need to get your holding registered or approved depends on the animals you want to move and the sites you want to send them to or receive them from.  p 
+ p To get your holding registered or approved you need to contact:  p 
+ p If you don’t do this, your holding is considered unregistered.  p 
+ p If your holding is registered, you can only trade the following animals, and only with registered or unregistered holdings in EU member states:  p 
+ p You can’t trade with approved holdings.  p 
+ p You need to  a href="https:  www.gov.uk pet-travel-quarantine" put rabies-susceptible animals into quarantine  a .  p 
+ p To register your holding,  a href="https:  www.gov.uk government publications balai-directive-registration-of-premises-to-export-animals" complete form EC3163  a  and send it to:  p 
+ p You must run your holding based on the conditions set out on the form.  p 
+ p You’ll be given a registration number which you’ll need to use on your animal health certificates.  p 
+ p If your holding is registered, you can send animals from the UK to either a registered or unregistered holding in another EU member state.  p 
+ p You can also send them to an approved holding, unless they are carnivores or primates.  p 
+ p If your holding is registered, you can bring animals into the UK from another registered holding in an EU member state.  p 
+ p To do this in England, Wales or Scotland  a href="https:  www.gov.uk government organisations animal-and-plant-health-agency about access-and-opening#centre-for-international-trade-carlisle" contact the  abbr title="Animal and Plant Health Agency" APHA  abbr   a .  p 
+ p Contact  a rel="external" href="http:  www.dardni.gov.uk index contact-us.htm" your local  abbr title="Department of Agriculture and Rural Development (Northern Ireland)" DARD  abbr  direct office  a  if you’re in Northern Ireland.  p 
+ p They’ll tell you the requirements you need to follow - these depend on the animal and the country of origin but can include:  p 
+ p If your holding is unregistered, you can only bring in the following animals from registered or approved holdings in EU member states:  p 
+ p Unregistered holdings can’t trade in carnivores or primates.  p 
+ p If your holding is approved, you can trade carnivores or primates ,semen or embryos as well as the rest of the animals covered by Balai.  p 
+ p Approved holdings must only take in animals from other approved holdings -  a href="https:  www.gov.uk government uploads system uploads attachment_data file 400014 balai-directive-centres.pdf" see a list of approved UK holdings  a .  p 
+ p You can also  a href="https:  www.gov.uk government organisations animal-and-plant-health-agency about access-and-opening#centre-for-international-trade-carlisle" contact the  abbr title="Animal and Plant Health Agency" APHA  abbr   a  or  a rel="external" href="http:  www.dardni.gov.uk index contact-us.htm"  abbr title="Department of Agriculture and Rural Development (Northern Ireland)" DARD  abbr   a  to get a waiver that may allow you to accept rabies-susceptible animals without putting them into quarantine on arrival.  p 
+ p To get your holding approved,  a href="https:  www.gov.uk government publications balai-directive-application-to-import-and-export-live-animals" complete form EC3164  a  and send it to your regional veterinary lead ( abbr title="Regional Veterinary Lead" RVL  abbr ).  p 
+ p To find your  abbr title="Regional Veterinary Lead" RVL  abbr  in England, Scotland and Wales  a href="https:  www.gov.uk government organisations animal-health-and-veterinary-laboratories-agency about access-and-opening" contact your local  abbr title="Animal and Plant Health Agency" APHA  abbr  office  a .  p 
+ p  a rel="external" href="http:  www.dardni.gov.uk index contact-us.htm" Contact your local  abbr title="Department of Agriculture and Rural Development (Northern Ireland)" DARD  abbr  direct office  a  to find your  abbr title="Regional Veterinary Lead" RVL  abbr  if you’re in Northern Ireland.  p 
+ p You also must have your holding inspected by an animal health veterinary officer -  abbr title="Animal and Plant Health Agency" APHA  abbr  or  abbr title="Department of Agriculture and Rural Development (Northern Ireland)" DARD  abbr  will arrange this.  p 
+ p The inspector will check your holding to make sure that it has:  p 
+ p You also must make sure you:  p 
+ p You’ll be given an approval number to use on your animal health certificates.  p 
+ p If you want to move animals from an approved holding to a registered holding, you must contact either:  p 
+ p If your holding is approved, it must pass an annual re-inspection, carried out by a whole-time veterinary officer ( abbr title="Whole Time Veterinary Officer" WTVO  abbr ) - they’ll check it still meets the approval conditions.  p 
+ p It’s your responsibility to make sure your holding is annually re-inspected and re-approved, but the  abbr title="Whole Time Veterinary Officer" WTVO  abbr  will usually contact you to arrange this.  p 
+ p If your approval is removed you’ll no longer be able to trade animals with other approved holdings.  p 
+ p Your regional veterinary laboratory ( abbr title="Regional Veterinary Lead" RVL  abbr ) will temporarily suspend your holding’s approval if they find cases of:  p 
+ p The  abbr title="Regional Veterinary Lead" RVL  abbr  can also suspend your approval if your holding no longer meets any one of the approval conditions.  p 
+ p The length of time the  abbr title="Regional Veterinary Lead" RVL  abbr  suspends your approval for depends on the reason for the suspension.  p 
+ p You’ll be given time to fix the problem - if you don’t do this the  abbr title="Regional Veterinary Lead" RVL  abbr  may withdraw your approval.  p 
+ p If you can’t prove to the  abbr title="Regional Veterinary Lead" RVL  abbr  that your holding has fixed the problem which led to suspension, your approval may be withdrawn.  p 
+ p Approval for a holding will always be suspended before it’s withdrawn.  p 
+ p If your holding is approved or registered, you may still need licenses.  p 
+ p You must  a href="https:  www.gov.uk licence-wild-animal" apply for a licence  a  under the Dangerous Wild Animals Act 1976 if you keep:  p 
+ p If you’re moving endangered species covered by the  a href="https:  www.gov.uk cites-imports-and-exports" Convention on International Trade in Endangered Species(CITES)  a , you’ll need a permit from  abbr title="Animal and Plant Health Agency" APHA  abbr .  p 
+ p The  abbr title="Animal and Plant Health Agency" APHA  abbr  will decide whether to issue a permit based on the endangered status of the animals you’re bringing in and where they’re coming from.  p 
+ p Find out  a href="https:  www.gov.uk pet-travel-quarantine" how to bring rabies-susceptible animals into the UK  a .  p 
+ p If you want to import ungulates (hooved mammals) from non-EU countries, talk to either:  p 
+ p id="feedback_explanation" class="gem-c-feedback__form-paragraph" Don’t include personal or financial information like your National Insurance number or credit card details.  p 
+ p id="survey_explanation" class="gem-c-feedback__form-paragraph" To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.  p 
+ p class="logo"  a href="https:  www.nationalarchives.gov.uk doc open-government-licence version 3 " rel="license" Open Government Licence  a   p 
+ p All content is available under the  a href="https:  www.nationalarchives.gov.uk doc open-government-licence version 3 " rel="license" Open Government Licence v3.0  a , except where otherwise stated  p 

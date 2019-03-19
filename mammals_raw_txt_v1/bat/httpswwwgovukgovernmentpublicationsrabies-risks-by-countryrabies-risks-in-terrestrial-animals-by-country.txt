@@ -1,0 +1,33 @@
+ p GOV.UK uses cookies to make the site simpler.  a href="https:  www.gov.uk help cookies" data-module="track-click" data-track-category="cookieBanner" data-track-action="Cookie banner clicked" Find out more about cookies  a   p 
+ p class="gem-c-title__context" 
+      Guidance
+      p 
+ p class="publication-header__last-changed" Updated 2 July 2018  p 
+ p 
+   img class="print-meta-data-licence" src="https:  assets.publishing.service.gov.uk government-frontend open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png" 
+  p 
+ p 
+  © Crown copyright 2018
+  p 
+ p 
+  This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit  a href="https:  www.nationalarchives.gov.uk doc open-government-licence version 3" nationalarchives.gov.uk doc open-government-licence version 3  a  or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email:  a href="mailto:psi@nationalarchives.gsi.gov.uk" psi@nationalarchives.gsi.gov.uk  a .
+  p 
+ p 
+  Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+  p 
+ p 
+  This publication is available at https:  www.gov.uk government publications rabies-risks-by-country rabies-risks-in-terrestrial-animals-by-country
+  p 
+ p The country or animal risks shown below represent risks as assessed by Public Health England for use in post-exposure risk assessments. They incorporate the presence or absence of rabies in domestic and wild animals, surveillance systems in place, and consideration of UK traveller behaviour.  p 
+ p No indigenous rabies in terrestrial animals.  p 
+ p Rabies occurs in wild animals but not in companion animals.  p 
+ p Rabies occurs in wild and companion animals (or there are no data to prove otherwise).  p 
+ p Bats may carry rabies-like viruses in countries which are declared rabies-free in terrestrial animals. Therefore an exposure to bats or their secretions should be considered as a potential rabies risk wherever in the world this has occurred.  p 
+ p All countries worldwide are considered high risk for bat exposures, apart from the UK and Ireland which are low risk for bats.  p 
+ p The risk of rabies transmission to humans from primates or rodents is considerably lower than the risks associated with exposures from other animals, particularly carnivores.  p 
+ p All countries where rabies is present in terrestrial animals (either low or high risk ratings) are considered low risk for any exposures from primates and rodents.  p 
+ p For all other terrestrial animals, use the country listing below.  p 
+ p id="feedback_explanation" class="gem-c-feedback__form-paragraph" Don’t include personal or financial information like your National Insurance number or credit card details.  p 
+ p id="survey_explanation" class="gem-c-feedback__form-paragraph" To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.  p 
+ p class="logo"  a href="https:  www.nationalarchives.gov.uk doc open-government-licence version 3 " rel="license" Open Government Licence  a   p 
+ p All content is available under the  a href="https:  www.nationalarchives.gov.uk doc open-government-licence version 3 " rel="license" Open Government Licence v3.0  a , except where otherwise stated  p 

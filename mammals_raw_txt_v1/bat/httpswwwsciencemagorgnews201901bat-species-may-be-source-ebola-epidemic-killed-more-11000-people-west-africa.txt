@@ -1,0 +1,62 @@
+ p Scientists have found one-fifth of the Ebolavirus genome in a greater long-fingered bat captured near an abandoned Liberian mineshaft.  p 
+ p class="byline byline--article" 
+  By  a href=" author kai-kupferschmidt" Kai Kupferschmidt  a  time Jan. 24, 2019 , 9:35 AM  time   p 
+ p The huge Ebola epidemic that struck West Africa between 2013 and 2016 took the world by surprise. The virus had never been found in the region; all previous Ebola outbreaks were in countries in Central Africa or Sudan. And it posed a mystery: Where did the virus, called Ebola Zaire, come from?  p 
+ p Now, scientists may have an answer. Near the mouth of an abandoned mineshaft in Liberia, they caught a bat that was likely infected with Ebola Zaire. The researchers didn't isolate the virus itself but found about one-fifth of its genome in the animal; it's too early to tell whether it's exactly the same strain as the one that ravaged the region. Still, “This is an important new lead and it should be followed up extensively,” says Fabian Leendertz, a veterinary epidemiologist at the Robert Koch Institute in Berlin who was not involved in the work.  p 
+ p The finding also sheds new light on the natural history of Ebola, which has befuddled scientists for decades, says Jon Epstein, a veterinary epidemiologist at EcoHealth Alliance in New York City and a member of the PREDICT consortium that made the discovery. “It is really our first evidence of any bat carrying Ebola Zaire virus in the region,” Epstein says. “It allows us to take a deeper look and try to understand where this virus came from.”  p 
+ p The results have yet to be published; they were announced today by Tolbert Nyenswah, director of the National Public Health Institute of Liberia, at a press conference in Monrovia. The Liberian government and other PREDICT partners “felt that this was an important finding to bring to the public irrespective of a scientific publication,” says team member Simon Anthony, a virologist at Columbia University.  p 
+ p That reflects just how emotional the topic is. In Liberia, a country of about 4 million people, the virus sickened more than 10,000 people and killed almost half of them; another 6500 people died in Sierra Leone and Guinea. Many people in West Africa fear a return of the virus. A press release by the Liberian Ministry of Health and Social Welfare today stressed—three times, in bold type—that there are no known human Ebola cases in the country at the moment. (A separate outbreak of Ebola Zaire in the Kivu region of the Democratic Republic of the Congo, thousands of kilometers away, has killed more than 400 people since August 2018 and has become the second biggest epidemic of the virus on record.)  p 
+ p The viral RNA fragments were found in an oral swab from a greater long-fingered bat ( em Miniopterus inflatus  em ), captured in 2016 in Liberia's Sanniquellie-Mahn District, which borders Guinea. The bat, which lives in many parts of Africa, roosts in caves and feeds on insects. Scientists had previously found two other Ebola species in a related insect-eating bat,  em M. schreibersii  em . However, most other evidence has pointed to fruit bats as the carriers of Ebola Zaire, Epstein says. “What it really says to me is that this is a virus that has multiple hosts, and it might be regionally dependent as to which species carries it.  p 
+ p This is an important new lead and it should be followed up extensively.  p 
+ p Leendertz agrees that the idea of a single reservoir species is probably too simple. The situation may turn out to be similar to avian influenza, which is maintained in nature by various duck species and wading birds, says Vincent Munster, a virus ecologist at the National Institute of Allergy and Infectious Diseases’s Rocky Mountain Laboratories in Hamilton, Montana.  p 
+ p A next step could be sampling the insects that greater-long fingered bats feed on, Leendertz says. “One question raised by this finding is whether the positive sample really points to an infected bat or could also stem from a virus-carrying insect the bat ate,” he says.  p 
+ p Last year, the PREDICT team announced the  a href="https:  www.statnews.com 2018 07 27 ebola-virus-discovery " discovery of a completely new Ebolavirus species  a , provisionally named Bombali and unrelated to the epidemic, in bats in Sierra Leone. The team is “really starting to shed some light on the natural reservoirs of Ebolavirus and the origin of this devastating outbreak,” Munster says.  p 
+ p It's been an incredibly difficult quest. Elsewhere in Africa, scientists have spent decades searching for Ebola's natural reservoirs,  a href="https:  www.sciencemag.org news 2017 06 hunting-ebola-among-bats-congo" with few results to show so far  a . For the current project, funded by the U.S. Agency for International Development, Anthony tested more than 11,000 samples from bats, rodents, and domestic animals in West Africa. The finding announced today was the only positive test so far.  p 
+ p Even this one was not exactly clear cut; tests were initially ambivalent about the virus's presence. At one point, Anthony says, “I kind of thought, this isn’t real.” He managed to retrieve only about 20% of Ebola Zaire's full genome, but those fragments were more similar to the strain that caused the outbreak in West Africa than to any other strain. The team hopes to find more of the virus in another sample from the swab that's still in the freezer.  p 
+ p The finding suggests more outbreaks may be in store in West Africa, Munster says. It “should be an urgent call for strengthening the general health care infrastructure” in the region he says, including investing in training health care workers and African scientists. The finding should also reinforce public health messages to avoid direct contact with bats and not to hunt, eat, or kill them, Epstein says. “The good news is, [the greater long-fingered bat] is not a species typically found in human dwellings,” he says.  p 
+ p class="doi-line" doi:10.1126 science.aaw7864  p 
+ p Kai is a contributing correspondent for  em Science  em  magazine based in Berlin, Germany.  p 
+ p class="byline" 
+  By  a href=" author jocelyn-kaiser" Jocelyn Kaiser  a  time Mar. 8, 2019  time   p 
+ p class="byline" 
+  By  a href=" author dennis-normile" Dennis Normile  a  time Mar. 7, 2019  time   p 
+ p class="byline" 
+  By  a href=" author jeffrey-brainard" Jeffrey Brainard  a  time Mar. 6, 2019  time   p 
+ p class="byline" 
+  By  a href=" author david-malakoff" David Malakoff  a  time Mar. 6, 2019  time   p 
+ p class="byline" 
+  By  a href=" author mark-k-mathews-ee-news" Mark K. Mathews, E&amp;E News  a  time Mar. 6, 2019  time   p 
+ p  a href=" news scienceinsider" class="btn--block" More  i Science  i Insider  a   p 
+ p class="byline" 
+        
+  
+       span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2019-03-06T17:00:00-05:00" Mar. 6, 2019  span   
+        p 
+ p class="byline" 
+        
+  
+       span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2019-03-01T10:45:00-05:00" Mar. 1, 2019  span   
+        p 
+ p class="byline" 
+        
+  
+       span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2019-02-26T12:55:00-05:00" Feb. 26, 2019  span   
+        p 
+ p class="byline" 
+        
+  
+       span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2019-02-25T15:25:00-05:00" Feb. 25, 2019  span   
+        p 
+ p class="byline" 
+        
+  
+       span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2019-02-11T15:05:00-05:00" Feb. 11, 2019  span   
+        p 
+ p  a href=" news sifter" class="btn--block" More Sifter  a   p 
+ p class="promo-foot__meta" 
+  Vol 363,
+
+      Issue 6431    p 
+ p  a href="http:  www.sciencemag.org content current" class="btn--cta btn--cta--small" Table of Contents  a 
+    p 
+ p class="copyright-statement" © 2019  a href="http:  www.aaas.org " American Association for the Advancement of Science  a . All rights Reserved. AAAS is a partner of  a href="http:  www.who.int hinari en " HINARI  a ,  a href="http:  www.fao.org agora en " AGORA  a ,  a href="http:  www.unep.org oare " OARE  a ,  a href="http:  www.chorusaccess.org " CHORUS  a ,  a href="http:  www.clockss.org " CLOCKSS  a ,  a href="http:  www.crossref.org " CrossRef  a  and  a href="http:  www.projectcounter.org " COUNTER  a .  p 

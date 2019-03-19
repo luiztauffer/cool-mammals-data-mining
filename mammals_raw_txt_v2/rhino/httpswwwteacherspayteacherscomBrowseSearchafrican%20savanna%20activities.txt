@@ -1,0 +1,57 @@
+ p class="SearchBreadcrumbsBox__title" You Selected:  p 
+ p class="SearchBreadcrumbsBox__keywordSectionTitle" Keyword  p 
+ p class="SelectedKeyword" african savanna activities a class="Anchor Anchor--green" href=" Browse"  span class="fa fa-times"   span   a   p 
+ p class="SpecificGradesMenuLayout__otherGradesTitle" Other  p 
+ p class="SearchPage__pageRange"  span showing  !-- -- 1 !-- -- - !-- -- 24 !-- --  of !-- --    span  span class="SearchPage__pageRangeCount"  span 94  span   span  span   !-- -- results  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 5.59 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" ZIP  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 47.4 MB !-- -- )  span   p 
+ p class="ProductRowParentBundleBespoke" Also included in:  span  a class="Anchor Anchor--green" href=" Product Habitat-Measurement-BUNDLE-Measuring-Animals-Books-and-Math-Centers-2992815" Habitat Measurement BUNDLE --- Measuring Animals Books and Math Centers  a   span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 7.04 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 852.01 KB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 376.7 KB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" ZIP  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 8.62 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" ZIP  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 2.99 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 23.93 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 1.04 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 3.83 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Bundle  p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 5.67 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 42.29 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 16.29 MB !-- -- )  span   p 
+ p class="ProductRowParentBundleBespoke" Also included in:  span  a class="Anchor Anchor--green" href=" Product Animal-Habitats-Predictable-Readers-Literacy-Packs-BUNDLE-1422577" Animal Habitats Predictable Readers 8 Flip Books BUNDLE  a   span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 3.46 MB !-- -- )  span   p 
+ p class="ProductRowParentBundleBespoke" Also included in:  span  a class="Anchor Anchor--green" href=" Product -50-OFF-FIRST-24-HOURS-Animal-Research-4220826" Animal Research Project  a   span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 101.95 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 7.5 MB !-- -- )  span   p 
+ p class="ProductRowParentBundleBespoke" Also included in:  span  a class="Anchor Anchor--green" href=" Product World-History-Map-Lessons-Bundle-7-Map-Lessons-and-Assessments--3020304" World History Map Lessons Bundle (Digital and PDF Versions)  a   span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 1.77 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Bundle  p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 3.19 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 6.81 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 7.11 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Digital Download  p 
+ p class="ProductRowFileStatsBespoke"  span class="ProductRowFileStatsBespoke__kind" PDF  span   span class="ProductRowFileStatsBespoke__filesize" ( !-- -- 6.34 MB !-- -- )  span   p 
+ p class="ProductRowFileTypeBespoke" Bundle  p 
+ p class="SearchPage__pageRange"  span showing  !-- -- 1 !-- -- - !-- -- 24 !-- --  of !-- --    span  span class="SearchPage__pageRangeCount"  span 94  span   span  span   !-- -- results  span   p 
+ p class="FooterLayout__text" Teachers Pay Teachers is an online marketplace where teachers buy and sell original educational materials.  p 
+ p class="FooterLayout__newsletter" Are you getting the free resources, updates, and special offers we send out every week in our teacher newsletter?  p 

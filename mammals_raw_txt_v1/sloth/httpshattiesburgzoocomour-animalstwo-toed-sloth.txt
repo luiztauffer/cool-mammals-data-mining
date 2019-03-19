@@ -1,0 +1,12 @@
+ p  strong data-redactor-tag="strong" DIET  strong : Herbivore  p 
+ p  strong data-redactor-tag="strong" STATUS IN THE  strong   strong data-redactor-tag="strong" WILD  strong : Least Concern  p 
+ p  strong data-redactor-tag="strong" RANGE  strong : Central and South America  p 
+ p  strong data-redactor-tag="strong" PHYSICAL FEATURES AND CHARACTERISTICS  strong   p 
+ p Two-toed sloths are some of the slowest moving mammals on earth. In fact, they move so slowly that in the wild you will often find them with a coat of algae and moths, creating a tiny ecosystem on their back. Their long, curved claws allow them to easily grip the branches of trees as they hang above the forest. Sloths have eight vertebrae in their necks, while almost all other mammals have seven. All two-toed sloths have a double-layered coat, consisting of a dense, soft undercoat and long coarse overcoat to provide insulation and help with rainwater runoff.  p 
+ p  strong data-redactor-tag="strong" LIFESTYLE AND REPRODUCTION  strong   p 
+ p Two-toed sloths are totally arboreal. They spend their entire lives in the treetops and only come to the ground on rare occasion; for example, to defecate while “hugging” the trunks of trees or in areas where deforestation has made arboreal travel impossible. Two-toed sloths, while horribly slow and clumsy on land, are elegant swimmers due to their long limbs, but you will rarely find them in the water. Two-toed sloths are also nocturnal and live mainly solitary lives. When a female comes into heat and is ready to mate, she screams very loudly to attract her suitors. Sloth mating and birth all take place in treetops. A baby sloth clings to its mother constantly and rarely moves besides feeding for months.  p 
+ p  strong data-redactor-tag="strong" RANGE  strong   p 
+ p The two-toed sloth is found in South and Central American countries, including Bolivia, Brazil, Colombia, Ecuador, Guyana, Nicaragua, Panama, Peru, and Venezuela. They are most prevalent in the Amazon Rainforest Basin of central Brazil and Peru.  p 
+ p  strong data-redactor-tag="strong" DIET  strong   p 
+ p Sloths are primarily herbivores and eat leafy greens, though they sometimes consume small animal matter like bird eggs or crickets.  p 
+ p style="text-align: center; color: white;" Mission Statement: The Hattiesburg Zoo strives to further the public’s appreciation, respect, and knowledge of nature through educational and recreational outlets.  p 

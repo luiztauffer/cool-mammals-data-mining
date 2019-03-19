@@ -1,0 +1,48 @@
+ p  a adhocenable="false" href="  www.sears.com" Home  a         a adhocenable="false" href="  www.sears.com en_us customer-service.html" Customer Service  a        Shop Internationally  p 
+ p style="text-align: center;"  span class="shcStdHeaderBold" Planning a visit to the United States?  span   p 
+ p style="text-align: center;"    p 
+ p style="text-align: center;" Or have friends and family in the U.S.? br 
+Shop at Sears to get everything you want—including great gifts for yourself or others. br 
+You'll be happy to see how online shopping in the U.S. couldn't be easier. Simply use an international credit card.  p 
+ p style="text-align: center;"    p 
+ p style="text-align: center;"  a adhocenable="false" href="javascript:shc.backToUS()" shop Sears U.S. now  a   p 
+ p  br 
+ span class="shcStdHeaderBold" Free U.S. Store Pickup  span   p 
+ p    p 
+ p  span class="shcDfltFont" Order something online but need a little help picking it up? No problem. You (or someone you know) can pay and pick up online orders at a Sears store.  span   p 
+ p    p 
+ p    p 
+ p    p 
+ p  a adhocenable="false" href="  www.sears.com shc s StoreLocatorView?storeId=10153&amp;catalogId=12605" find a Sears store  a   |   a adhocenable="false" href="  www.sears.com free-store-pickup dap-120000000360416?adCell=R0_bopis&amp;adCell=W3" learn more  a   p 
+ p  br 
+ span class="shcStdHeaderBold" U.S. Shipping &amp; Delivery  span   p 
+ p    p 
+ p  span class="shcDfltFont" Looking to keep it simple? Get your order shipped or delivered to any address in the United States—including hotels. Get a little help from friends and family to get what you want—simply have your order delivered right to them.  span   p 
+ p    p 
+ p  a adhocenable="false" href="  www.sears.com shc s nb_10153_12605_NB_CSshipping?adCell=AF&amp;redirectType=BRAT_RULE&amp;prop17=shipping" learn more  a   p 
+ p  br 
+ span class="shcStdHeaderBold" Ship Internationally  span   p 
+ p    p 
+ p  span class="shcDfltFont" Did you know Sears ships to over 100 countries? Take advantage of this major convenience and get whatever you wish, shipped to wherever you want.  span   p 
+ p    p 
+ p    p 
+ p    p 
+ p  a adhocenable="false" href="  www.sears.com international" shop now  a   |   a adhocenable="false" href="  www.sears.com csinternationalshipping nb-100000000367002" learn more  a   p 
+ p style="text-align: center;"  span class="shcStdHeaderBold" Shop in Puerto Rico  span   p 
+ p style="text-align: center;" Now it's easier than ever to shop at Sears in Puerto Rico and the Caribbean.  p 
+ p style="text-align: center;" Whether you're living there or just visiting, you can pick up your order or have it shipped to you.  p 
+ p style="text-align: center;"    p 
+ p style="text-align: center;"  a adhocenable="false" href="  www.sears.com.pr " shop Sears Puerto Rico  a   p 
+ p  b  span class="shcMiniHeader" Sears International Online Shopping  span   b   p 
+ p  span class="shcMiniDflt" If you are planning to visit the United States, or have friends and family here, shop at Sears to get everything you want—including gifts for yourself or others. Shopping online in the U.S. at Sears could not be easier. You can pay for your order in a store or even use an international credit card. Once you place an order, you (or someone you know) can pick it up at a Sears store, have it shipped to over 100 countries—whatever is most convenient for you. If you are looking to do some international online shopping, be sure to visit  a href="  www.sears.com international" adhocenable="false" Sears.com international  a .  span   p 
+ p class="OAS_disclaimer" ADVERTISEMENT  p 
+ p class="OAS_disclaimer" ADVERTISEMENT  p 
+ p class="OAS_disclaimer" ADVERTISEMENT  p 
+ p Earn points, get  br 
+exclusive coupons  br 
+and save.  p 
+ p Credit Card Offers  p 
+ p  a href=" en_us dap sears-credit-offers-members.html" data-trk="learnMore-CreditCard" learn more  a   p 
+ p Get a Sears Card  p 
+ p  a href="https:  www.sears.com en_us hybrid citi-card-apply-now.html?cmp=A~Z~F~Z~Z~Z~ZZZZ~SR~SR~ZZ" data-trk="apply now-CreditCard" apply now  a   p 
+ p Get our Sears  br mobile app  p 

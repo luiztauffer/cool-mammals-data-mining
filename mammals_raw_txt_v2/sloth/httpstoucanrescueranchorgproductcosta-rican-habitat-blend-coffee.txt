@@ -1,0 +1,19 @@
+ p class="price"  span class="woocommerce-Price-amount amount"  span class="woocommerce-Price-currencySymbol" $  span 16.95  span   p 
+ p “So for the first edition of our Hábitat line, Café Britt partnered with  a href="https:  toucanrescueranch.org" Toucan Rescue Ranch  a  on their sloth conservation work. Founded in 2004 as a bird rescue center, the Ranch has since transformed into a wildlife rescue. Café Britt’s donation will provide collars and transmitters in order to track rescued sloths upon their release.”  p 
+ p Café Britt has partnered with us! Read more  a href="http:  www.cafebritt.com experience-britt coffee-101 habitat-blend" here.  a   p 
+ p “In Costa Rica, we’re lucky enough to live near some of the world’s most popular animals: sloths. Having seen them for ourselves, we take threats to their habitat seriously. More than just cute and cuddly, these animals are essential to the health of the forests they inhabit.  p 
+ p So for the first edition of our Hábitat line, Café Britt partnered with  a href="https:  toucanrescueranch.org" Toucan Rescue Ranch  a  on their sloth conservation work. Founded in 2004 as a bird rescue center, the Ranch has since transformed into a wildlife rescue. Café Britt’s donation will provide collars and transmitters in order to track rescued sloths upon their release.  p 
+ p In honor of the sloth’s wide distribution throughout Costa Rica, we chose coffee from Providencia, one of the country’s highest-altitude coffees, and Tarrazú, recognized worldwide. Much like the sloths it supports, this blend starts with a short burst of energy and then expands slowly in complexity. Delicate and balanced, it presents fruit and honey notes, with a light aftertaste of dark chocolate.”  p 
+ p class="woocommerce-noreviews" There are no reviews yet.  p 
+ p class="comment-notes"  span id="email-notes" Your email address will not be published.  span  Required fields are marked  span class="required" *  span   p 
+ p class="comment-form-comment"  label for="comment" Your review  span class="required" *  span   label  textarea id="comment" name="comment" cols="45" rows="8" required   textarea   p 
+ p class="comment-form-author"  label for="author" Name  span class="required" *  span   label   input id="author" name="author" type="text" value="" size="30" required   p 
+ p class="comment-form-email"  label for="email" Email  span class="required" *  span   label   input id="email" name="email" type="email" value="" size="30" required   p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Submit"   input type="hidden" name="comment_post_ID" value="3654" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+  p 
+ p The Toucan Rescue Ranch is a licensed Costa Rican wildlife rescue facility.  A Costa Rican Foundation (#300667701803) and a 501(c)3 charitable organization in the United States (EIN: 80-0516453)  p 
+ p A wildlife rescue foundation based in Costa Rica br 
+ a href="mailto:info@toucanrescueranch.org?Subject=Query" target="_top" info@toucanrescueranch.org  a   p 
+ p  span id="siteseal"   span 
+   All Rights Reserved   p 

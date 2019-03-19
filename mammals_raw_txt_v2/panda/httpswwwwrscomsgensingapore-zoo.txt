@@ -1,0 +1,25 @@
+ p class="header-p" 
+							 span class="icon-info" 
+								 img src=" content dam wrs commons icons icon-info.png" alt="info" 
+							  span 
+							 span class="text"  span class="red-hightlight" The following exhibit will be closed due to upgrading works: br 
+  br 
+ 1.  b White Tiger   b (6 Mar - 3 May 2019)  span   span 
+						  p 
+ p class="label" Opening hours  p 
+ p We're open every day of the year.  p 
+ p class="label" Singapore Zoo  p 
+ p 8.30am - 6.00pm (Last entry at 5.30pm)  p 
+ p class="label" Rainforest Kidzworld  p 
+ p 9.00am - 6.00pm  p 
+ p Enjoy 4-park admission plus all tram rides, boat rides and more with savings of up to 50%!  p 
+ p class="desc rich-text" Meet Ah Meng and her furry friends at the world's first free-ranging orangutan habitat.   p 
+ p class="desc rich-text" Experience endangered species of the rainforest first-hand, in this adventure to remember!  p 
+ p class="desc rich-text" Go behind-the-scenes and get closer to wildlife  p 
+ p class="desc rich-text" Start the day in the company of our orangutans in the world's first breakfast experience with animals.  p 
+ p Discover how we support a specialist team that rescues orangutans from conflict areas in northern Sumatra.  p 
+ p Find out how a balance was struck in protecting the natural habitat of Javan gibbons and cultivating shade coffee.
+  p 
+ p We're open every day of the year.  p 
+ p 80 Mandai Lake Road Singapore 729826   p 
+ p class="copy"  span © Copyright 2018, Wildlife Reserves Singapore Group. All rights reserved.  span   p 

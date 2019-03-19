@@ -1,0 +1,36 @@
+ p Update your browser to view this website correctly.
+       a id="btnUpdateBrowser" href="http:  outdatedbrowser.com " Update my browser now   a 
+      p 
+ p class="last" 
+       a href="#" id="btnCloseUpdateBrowser" title="Close" ×  a 
+      p 
+ p class="x-p" data-v-36685d15 Hi, looks like you've previously visited our Australian Store  p 
+ p class="x-p continuity__title" data-v-d3cf590a  a href=" products koala-mattress" class="continuity__link" data-v-d3cf590a  span data-v-d3cf590a Mattress  span   a 
+      and
+       a href=" products koala-sofa" class="continuity__link" data-v-d3cf590a  span data-v-d3cf590a Sofa  span   a 
+      offer applied
+      p 
+ p class="x-p continuity__title--ls" data-v-d3cf590a 
+      Don’t sleep on your
+       a href=" products koala-mattress" class="continuity__link" data-v-d3cf590a  span data-v-d3cf590a Mattress  span   a  and
+       a href=" products koala-sofa" class="continuity__link" data-v-d3cf590a  span data-v-d3cf590a Sofa  span   a  offer!
+      p 
+ p class="x-p empty-cart__body" data-v-0db59a44 Your cart is currently empty.  p 
+ p class="x-p adoption-description text-center" At Koala we believe in improving habitats, inside and outside of your home. We do this through donations to wildlife conservation or by minimising consumption by creating simple, well-made products that are built to last and have a reduced environmental footprint. br Because after all, the world is our habitat; and it’s the only one we’ve got.  p 
+ p class="x-p adoption-description text-center" data-v-4e082dd2 
+      We've partnered with WWF to get to the heart of the problem.
+      p 
+ p class="x-p copy-body" data-v-4e082dd2 
+          Due to ongoing habitat loss and human development, the koala is on the ropes. When you buy a koala mattress, you’re also saving real, live koalas. Your symbolic koala adoption not only supports sick and injured koalas, but also protects and restores koala habitat around Australia
+          p 
+ p class="x-p copy-body" data-v-4e082dd2 
+          The warming climate in our Northern Great Barrier Reef is threatening the population of green turtles. When you buy a koala sofa, you're also helping fund critical research to prevent the extinction of this ancient marine animal.
+          p 
+ p class="x-p adoption-description_middle" data-v-135ababa 
+        Yep, you read that right. When you buy a koala mattress or sofa, you're also adopting a koala or turtle through our partnership with WWF. Your adoption of our endangered friends helps save and protect their habitat. You'll receive an official certificate of adoption and a warm fuzzy feeling.
+        p 
+ p class="x-p" data-v-135ababa  a href="http:  www.wwf.org.au about-us partners koala" Find out more  a  about the adoption &amp; partnership.  p 
+ p class="x-p adoption-info__text" data-v-1afba4a6 Our warming climate and increasing temperatures in the northern Great Barrier Reef are turning populations of marine turtles almost completely female. Koala is partnering with WWF-Australia, the Queensland government and the University of Queensland to undertake research to prevent this and possible population collapse.  p 
+ p class="x-p adoption-info__text" data-v-1afba4a6 Binna Burra Koala Sanctuary is koala’s first project to revitalise critical koala habitat. It will form part of a wildlife corridor in Northern NSW to protect koalas in the area. So far we have planted over 7500 trees and we’re just getting started.  p 
+ p class="x-p" data-v-1afba4a6 
+            Koala is a proud member of 1% for the Planet. This means they’ve certified we’re giving at least 1% of our annual sales to environmental charities. Learn more at  a href="http:  onepercentfortheplanet.org" data-v-1afba4a6 onepercentfortheplanet.org  a   p 

@@ -1,0 +1,37 @@
+ p class="twite__title" aria-hidden="true" Share this with  p 
+ p class="twite__channel-text" aria-hidden="true" Email  p 
+ p class="twite__channel-text" aria-hidden="true" Facebook  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Messenger  p 
+ p class="twite__channel-text" aria-hidden="true" Twitter  p 
+ p class="twite__channel-text" aria-hidden="true" Pinterest  p 
+ p class="twite__channel-text" aria-hidden="true" WhatsApp  p 
+ p class="twite__channel-text" aria-hidden="true" LinkedIn  p 
+ p class="twite__copy-text" Copy this link  p 
+ p class="twite__new-window" aria-hidden="true" These are external links and will open in a new window  p 
+ p class="story-body__introduction" You can't judge a zebra by its stripes.  p 
+ p That's the finding of research that is shaking up the family tree of the African wild horse.  p 
+ p The common (plains) zebra lives on the grasslands of eastern and southern Africa, from southern Ethiopia to northern Namibia.  p 
+ p DNA evidence challenges the idea that there are six subspecies that you can tell apart based on variations in the animal's distinctive black and white stripes.   p 
+ p Dr Rasmus Heller of the University of Copenhagen says there's little evidence that differences in striping patterns "mean anything in a biological sense".  p 
+ p "At least we can say that the striping pattern does not contain much information about the history of the plains zebra, and how the different populations relate to each other," he said.    p 
+ p The study, based on analysing variations in the DNA of 59 plains zebra from across Africa, suggests that there are nine populations of the zebra living in different areas of the continent.  p 
+ p This knowledge is important when it comes to conservation, the scientists say.   p 
+ p "We now have a much clearer impression of which populations should be monitored, ie. are more vulnerable to loss of genetic diversity," said Dr Heller.   p 
+ p "This is particularly true for the two Ugandan populations, which have markedly lower genetic diversity and are relatively isolated from other populations."   p 
+ p While zebra are still found in large numbers across Africa, some populations - in Uganda and parts of Tanzania - are dwindling in number.   p 
+ p The northern-most population from northern Uganda is by far the most genetically distinct from the others, the research shows. To maintain high levels of genetic diversity in the species, there need to be corridors of suitable habitat for zebra to roam.  p 
+ p "To maintain the populations that we have today, we have to maintain these habitat corridors, " said co-researcher, Casper-Emil Pedersen, also of the University of Copenhagen.  p 
+ p One type of plains zebra - the "quagga" has already gone extinct. The zebra was once found in large numbers in South Africa, but died out more than 100 years ago.  p 
+ p Overhunting was one factor in its demise. However, its isolation from other populations would have played a role, say the researchers.  p 
+ p "The quagga probably went extinct because there were no habitat corridors in the region where it lived," said Dr Pedersen.  p 
+ p The research, published in the journal  a href="https:  www.nature.com natecolevol " class="story-body__link-external" Nature Ecology &amp; Evolution  a , also reveals the ancient heartland of the plains zebra.  p 
+ p Its birthplace was in the wetlands of southern Africa - the Zambezi and the Okavango - about 370,000 years ago.  p 
+ p The plains zebra is listed as near threatened by conservation body IUCN.  p 
+ p There are thought to be about 500,000 zebra ranging from South Sudan and southern Ethiopia, east of the Nile River, to southern Angola and northern Namibia and northern South Africa.   p 
+ p They are now extinct in two countries in which they formerly lived: Burundi and Lesotho, and are probably extinct in Somalia.   p 
+ p The six subspecies currently recognised are distinguished on the basis of physical features, such as coat patterns, skull dimensions and the presence or absence of a mane.  p 
+ p Follow Helen  a href="https:  twitter.com hbriggs?lang=en-gb" class="story-body__link-external" on Twitter  a .  p 
+ p class="top-stories-promo-story__summary top-stories-promo-story__summary--none" The Boeing 737 Max-8 had 157 people on board, including Kenyans, Britons, Canadians and Americans.  p 
+ p class="heron__item-summary" Have you been getting these songs wrong?  p 
+ p class="heron__item-summary" What happens to your body in extreme heat?  p 

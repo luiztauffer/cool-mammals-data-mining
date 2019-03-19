@@ -1,0 +1,7 @@
+ p class="btn" style="background: url( Images Uploaded Buttons btn-giraffe.jpg) no-repeat;"  a href=" 153 Buy-tickets.aspx"  strong Buy Tickets Online  strong  br   span Get your day ticket or annual pass here  span   a   p 
+ p class="btn" style="background: url( Images Uploaded Buttons btn-cams.jpg) no-repeat;"  a href=" 17 Webcams.aspx"  strong Animal Cams  strong  br   span Watch penguins &amp; elephants live!  span   a   p 
+ p class="btn" style="background: url( Images Uploaded Buttons btn-sealion.jpg) no-repeat;"  a href=" 67 Adopt-an-Animal.aspx"  strong Adopt an Animal  strong  br   span The ideal gift for someone special.  span   a   p 
+ p The concept for the Asian Forests at Dublin Zoo was inspired by the Gir forest of India and the Sumatran forest of Indonesia. The Gir Forest encompasses a very dry forest with a mix of deciduous trees and diverse flora and fauna.  p 
+ p The lion habitat reflects this environment and gives the lions necessary diversity to encourage natural behavior as well as breeding. Asian lions are critically endangered in the wild with only 400 remaining. The entire population of these lions can be found in one place – the Gir Forest in India.  p 
+ p Visitors can then continue through the Asian Forests to the magnificent viewing area to observe the breeding troop of Sulawesi crested macaques.  p 
+ p    p 

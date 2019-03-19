@@ -1,0 +1,68 @@
+ p Ééphant tirant du bois  p 
+ p style="text-align: justify;"  span class="sous-section-title" Fact about the Asian elephant  span  strong  br   strong   p 
+ p style="text-align: justify;"  strong Family: Elephantidae br Height at shoulder: 2 to 3.5 m br Weight: 3,000 to 5,000 kg br Sexual maturity: 9 to 12 years  br Lifespan: 50 years  strong   p 
+ p style="text-align: justify;"  img class="img-left" src=" decouverte medias decouimage 20-4-17-c-2_elephant_en_foret.jpg" alt="" The Asian elephant (Elephas maximus) and its cousin the African elephant (Loxodonta africana), are the planet’s largest land mammals. This species, scattered over a vast region of southern Asia, makes its home in the forests and grasslands of India, Sri Lanka, Burma, Thailand, Laos, and the islands of Sumatra and Borneo.  p 
+ p class="sous-section-title" style="text-align: justify;" Territory  p 
+ p style="text-align: justify;" The Asian elephant is a herbivore that follows the same migration route year after year. In arid regions, it can travel enormous distances to find food. In zones where vegetation is abundant, the animals opt for a more sedentary life.  p 
+ p class="sous-section-title" style="text-align: justify;" Close to water  p 
+ p style="text-align: justify;" Spending its life in tropical rainforests and grasslands, the Asian elephant is drawn to places where it can quench its thirst and bathe. Without water, these animals soon waste away. Mud baths are also essential, to rid their skin of parasites and to cool down.  p 
+ p class="sous-section-title" style="text-align: justify;" Multi-use trunk  p 
+ p style="text-align: justify;" The elephant uses its trunk in multiple ways, for example to trumpet, to feed itself, or to rip up trees. In addition to being a tuba, a shower head and a fly swatter, this tactile and olfactory organ also functions as a formidable weapon. The African elephant’s trunk ends in two flexible and prehensile “fingers”, while the Asian elephant’s trunk has only one.  p 
+ p class="sous-section-title" style="text-align: justify;" The herd  p 
+ p style="text-align: justify;" The oldest female is usually the herd leader. Herds contain from 15 to 30 members, consisting of adult females and juveniles of both sexes. On reaching sexual maturity, young males are shunned by the group and must leave to live on their own. As with other males of breeding age, they join a herd only during mating season.  p 
+ p class="sous-section-title" style="text-align: justify;" Ecological benefits  p 
+ p style="text-align: justify;"  img class="img-right" src=" decouverte medias decouimage 20-4-17-c1_elephant-et-cornac.jpg" alt="" The Asian elephant plays a vital role in maintaining ecological balance in its habitat, by limiting the growth of vegetation and spreading the seeds of plants it feeds on. Elephants have a positive influence on the growth of numerous plant and animal species that share its habitat.  p 
+ p class="sous-section-title" style="text-align: justify;" Heavyweight baby  p 
+ p style="text-align: justify;" Following a gestation period of 22 months, the female (or cow) gives birth to a single calf. Being the only one, the newborn already weighs about 100 kg at birth. The elephant calf learns to walk within days, and a young female from the herd often helps the mother care for her offspring.  p 
+ p class="sous-section-title" style="text-align: justify;" Rapid growth  p 
+ p style="text-align: justify;" The elephant calf only learns to use its trunk around the age of six months. With her rich milk, the mother nurses her offspring till the age of five years. While the calf grows quickly, juvenile males grow markedly faster than females.   p 
+ p class="sous-section-title" style="text-align: justify;" Servant to man  p 
+ p style="text-align: justify;" Humans began domesticating elephants about 5,000 years ago. Over the centuries, this enormous creature has been used as a transportation vehicle, a logging machine, an instrument of war and a circus performer. Despite its venerated status, the Asian elephant has never been safe from mistreatment by humans.  p 
+ p class="sous-section-title" style="text-align: justify;" Threats  p 
+ p style="text-align: justify;" Hunted for its ivory and a victim of intensive deforestation, the Asian elephant today is a species threatened with extinction. In Laos, once nicknamed “Land of a Million Elephants”, only 700 to 800 remain in the wild. For all Asia, it is believed the elephant population barely exceeds 30,000.  p 
+ p 
+		 label for="titre_form" title="Please insert a title." class="oblig" * Title  :  label 
+		 input type="text" class="field-text" id="titre_form" name="titre" maxlength="45" 
+	  p 
+ p 
+		 label for="nom" title="Please insert your name" class="oblig" * Name :  label 
+		 input id="nom" type="text" name="nom" class="field-text" maxlength="45" tabindex="2" 
+	  p 
+ p 
+		 label for="texte" title="Please insert your comment or contribution" class="oblig" * Text :  label 
+		 textarea id="texte" name="texte" rows="6" cols="40" tabindex="3" onfocus="this.className='focus';" onblur="this.className='normal';"   textarea 
+	  p 
+ p 
+		 label class="lbl-img" for="image" title="You can join an image." Image :  label 
+		 input id="image" type="file" name="userfile" maxlength="255" tabindex="4" accept="image *" 
+		 br 
+		 a class="button" href="#" onclick="flushImage(); return false;" Remove image  a 
+		 span Images must be in JPG format and not exceed 10 MB. br Resolution must be less than 3,000 by 3,000 pixels.  span 
+	  p 
+ p 
+		 label for="courriel" title="Insert your email adress." Email address :  label 
+		 input id="courriel" type="text" name="courriel" class="field-text" maxlength="45" tabindex="5" 
+	  p 
+ p 
+		 label for="verification" title="" class="oblig" * Authentication :  label 
+		 input id="verification" class="field-text" name="verification" type="text" tabindex="4" maxlength="10"  br 
+		  p 
+ p  a class="button" href="#" onclick="validerFormContribution(); return false;" Submit  a   p 
+ p Avec la participation financière de br 
+     a href="http:  www.telefilm.gc.ca"  img src="http:  www.humanima.com images logo telefilm.jpg" alt="Téléfilm Canada" border="0"   a   
+     a href="http:  www.tv5.ca"  img src="http:  www.humanima.com images logo tv5.png" alt="TV5" border="0"   a   
+     a href="http:  www.fondsquebecor.ca "  img src="http:  www.humanima.com images logo quebecor.png" alt="Fonds Quebecor" border="0"   a   
+     a href="http:  www.ipf.ca Bell French FondsBell.html"  img src="http:  www.humanima.com images logo bell.png" alt="Fonds Bell" border="0"   a  br 
+   
+     a href="http:  www.humanima.com" Accueil  a  
+     a href="http:  www.humanima.com" WebTV  a  
+     a href="http:  www.humanima.com" Découverte  a  
+     a href="http:  www.humanima.com " Blogue et Forum  a  
+     a href="http:  www.humanima.com jeux " Jeux  a  
+     a href="http:  www.humanima.com profs " Coin des profs  a  
+     a href="http:  www.humanima.com nouvelles " Nouvelles  a  
+     a href="http:  www.humanima.com horaire " Horaire  a  
+     a href="http:  www.humanima.com tv " Humanima.TV  a  
+     a href="http:  www.humanima.com tribumanima " Tribumanima  a  
+     a href="http:  www.ilparleaveclesloups.com" Il parle avec les loups  a   br 
+     a href="mailto:info@humanima.com" Contactez-nous  a   © Tous droits réservés Productions Nova Média Inc. 2010.   p 

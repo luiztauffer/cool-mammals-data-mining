@@ -1,0 +1,12 @@
+ p class="light-navy" Enter your log in email address and well send you a link to reset your password.   p 
+ p class="h7-size" Sorry your purchase has been declined because your account is on hold.  p 
+ p class="h7-size" Please contact our  a class="cursor-pointer" onclick="focusOn('lblTel');" customer service team  a .  p 
+ p class="col-md-12 ml-10 h6 light-navy lh-13 mb-0" id="RFDetails5" 449 x 300 px 15.8 x 10.6 cm (72 dpi) 395 KB  p 
+ p class="col-md-12 ml-10 h6 light-navy lh-13 mb-0" id="RFDetails4" 945 x 631 px 33.3 x 22.3 cm (72 dpi) 1.7 MB  p 
+ p class="col-md-12 ml-10 h6 light-navy lh-13 mb-0" id="RFDetails3" 1969 x 1314 px 33.3 x 22.3 cm (150 dpi) 7.4 MB  p 
+ p class="col-md-12 ml-10 h6 light-navy lh-13 mb-0" id="RFDetails2" 3938 x 2628 px 33.3 x 22.3 cm (300 dpi) 29.6 MB  p 
+ p class="col-md-12 ml-10 h6 light-navy lh-13 mb-0" id="RFDetails1" 5250 x 3504 px 44.4 x 29.7 cm (300 dpi) 52.6 MB  p 
+ p class="col-md-12 ml-10 h6 light-navy lh-13 mb-0" id="RFDetails0" 7000 x 4672 px 59.3 x 39.6 cm (300 dpi) 93.6 MB  p 
+ p © 2019 Alamy Ltd. All rights reserved.  p 
+ p class="light-navy"  Enter your log in email address and we'll send you a link to reset your password.   p 
+ p Sample text.  p 

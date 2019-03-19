@@ -1,0 +1,24 @@
+ p We may from time to time provide information of a general nature to third parties – for example, the number of individuals visiting our website or completing a registration form, but we will not use any information that could identify those individuals.  p 
+ p We use the information collected primarily to process the task for which you visited the website. Data collected in the UK is held in accordance with the Data Protection Act. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details.  p 
+ p class="comment-notes"  span id="email-notes" Your email address will not be published.  span  Required fields are marked  span class="required" *  span   p 
+ p class="comment-form-comment"  label for="comment" Comment  label  textarea id="comment" class="form-control" name="comment" cols="45" rows="8" aria-required="true"   textarea   p 
+ p class="comment-form-author"  label for="author" Name  label   span class="required" *  span  input id="author" class="form-control" name="author" type="text" value="" size="30"   p 
+ p class="comment-form-email"  label for="email" Email  label   span class="required" *  span  input id="email" class="form-control" name="email" type="text" value="" size="30"   p 
+ p class="comment-form-url"  label for="url" Website  label  input id="url" class="form-control" name="url" type="text" value="" size="30"   p 
+ p class="comment-form-mailpoet" 
+       label for="mailpoet_subscribe_on_comment" 
+         input type="checkbox" id="mailpoet_subscribe_on_comment" value="1" name="mailpoet[subscribe_on_comment]"  Yes, add me to your mailing list
+        label 
+      p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Post Comment"   input type="hidden" name="comment_post_ID" value="974" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+  p 
+ p class="popular-title"  a href="https:  langkawiwildlifepark.com merdeka-day-promotion " title="Merdeka Day Promotion" Merdeka Day Promotion  a   p 
+ p class="popular-title"  a href="https:  langkawiwildlifepark.com monkey-2 " title="Monkey" Monkey  a   p 
+ p class="popular-title"  a href="https:  langkawiwildlifepark.com labour-day-promotion-langkawi-wildlife-park " title="Labour Day Promotion | Langkawi Wildlife Park" Labour Day Promotion | Langkawi Wildlife Park  a   p 
+ p Enjoy new exposures to some amazing, fun, and close interactions with our animals as well as a special services from our internal guide as they accompany you along your journey inside the park.  p 
+ p Lot 1485, Jalan Ayer Hangat, Kampung Belanga Pecah, 07000 Langkawi  p 
+ p +(6) 04 966 5855 br 
+sales@langkawiwildlifepark.com.my br 
+wildlifeplanet@gmail.com  p 
+ p class="text-right" Copyright Langkawi Wildlife Park. All Right Reserve 2017  p 

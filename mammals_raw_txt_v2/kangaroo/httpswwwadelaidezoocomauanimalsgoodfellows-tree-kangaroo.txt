@@ -1,0 +1,83 @@
+ p class="menu_description" Adelaide Zoo is open from  br 9:30am – 5pm every day of the year, including Christmas and all public holidays br  br 
+Please note the opening times for the following areas:
+ strong Panda Exhibit  strong 
+9:45am – 4:45pm
+ strong Zoo Shop  strong 
+9:30am – 4:45pm
+ strong Reptile House  strong 
+10:00am – 4:30pm
+ strong Nocturnal House  strong 
+10:00am – 4:30pm
+ strong Walk-through Aviaries  strong 
+9:30am – 4:30pm
+
+ span Further information  span 
+  p 
+ p class="menu_description" Members: FREE br 
+Family Mini Group: $91.50 br 
+Adult: $36.00 br 
+Child: $19.80 br 
+Concession: $25.50
+
+ span Further information  span   p 
+ p class="menu_description" Adelaide Zoo is situated on Frome Road, near the River Torrens. Entry is via Frome Road (follow the signs) or Plane Tree Drive next to the Adelaide Botanic Gardens.
+
+ span Further information  span   p 
+ p class="menu_description"  span Further information  span   p 
+ p class="menu_description"  span Further information  span   p 
+ p class="menu_description"  span Further information  span   p 
+ p class="menu_description"  span Further information  span   p 
+ p class="menu_description" There’s always something fun happening at Adelaide Zoo! Mark your calendar with these exciting events.  br 
+  span Further information  span   p 
+ p class="menu_description"   span Further information  span   p 
+ p class="menu_description"  span Further information  span   p 
+ p class="menu_description" Get even closer to some of your favourite animal friends. br 
+ span Further information  span   p 
+ p class="menu_description" Buy a gift voucher. br 
+ span Further information  span   p 
+ p class="menu_description"  span Further information  span   p 
+ p class="menu_description"  span Further information  span   p 
+ p class="menu_description"  span Further information  span   p 
+ p class="menu_description"   span Further information  span   p 
+ p class="menu_description"  span Further information  span   p 
+ p Endangered  p 
+ p Adelaide Zoo is home to two stunning Goodfellow’s Tree Kangaroos – Makali and Buna.  p 
+ p Makali is our adult male who was born at Adelaide Zoo in September 2009. He is father to our young male Makaia and is soon to be paired with our female Buna, who arrived from Europe in June 2015.  p 
+ p Buna was born in Krefeld Zoo, Germany in September 2006. Hopefully once she is paired with Makali, we’ll soon here the pitter-patter of little tree kangaroo feet along the branches.  p 
+ p Goodfellow’s Tree Kangaroos inhabit the rainforests of New Guinea.  p 
+ p A distant relative of the kangaroo and wallaby, the species lives in trees and rarely descends to the ground. Distinguishable by its red-brown fur and striking back stripe, Goodfellow’s Tree Kangaroos are omnivores and mostly feed on leaves, flowers, fruits and insects.  p 
+ p They are classified by the IUCN as endangered in the wild due to over hunting and loss of habitat.  p 
+ p  style 
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%;  * 16:9 * 
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+  style 
+  p 
+ p When he was only five weeks old, he lost his mum. He needed a nice warm pouch to grow big and strong in, so Adelaide Zoo tried something that had never been done before… a Yellow-foot Rock-wallaby was found to be his surrogate mum.  Up until now this special breeding technique, known as ‘cross-fostering’, has only been done with closely related wallaby species.  p 
+ p Our beautiful Yellow-footed Rock-wallaby Missy Fitton was chosen for this mammoth task, and her pouch grew and grew before our eyes. Then one special day, we saw this amazing sight…  p 
+ p Missy Fitton has done a stellar job, but the joey was getting too big for her pouch, so Adelaide Zoo Team Leader of Natives, Gayl Males, took over caring for him and in effect became his third mum. Makaia is certainly a cheeky little fellow and loves running amok, testing the boundaries and using Gayl’s home as his personal playground.  p 
+ p Makaia is the result of our hard work and the expertise of our stellar staff, without their expertise this story might have had a very different ending.  p 
+ p Makaia is very genetically valuable to the region and in July 2016, he moved to Singapore Zoo to join the international breeding program for this special species.  p 
+ p Adelaide Zoo will share its findings with other zoos around the world to help guide breeding efforts for endangered tree kangaroo species and increase the success of internationally coordinated captive-breeding programs.  p 
+ p    p 
+ p  strong Love tree kangaroos? Join our mob to ensure these cool kangaroos stay a hop ahead of extinction! There are many ways you can help support these beautiful animals.  strong   p 
+ p    p 
+ p We love you all and we ain't lion!   a href="http:  twitter.com WWF_Australia" target="_blank" @WWF_Australia  a   a href="http:  twitter.com tarongazoo" target="_blank" @tarongazoo  a   a href="http:  twitter.com WellingtonZoo" target="_blank" @WellingtonZoo  a   a href="http:  twitter.com ZoosVictoria" target="_blank" @ZoosVictoria  a   a href="http:  twitter.com PerthZoo" target="_blank" @PerthZoo  a   a href="http:  twitter.com aucklandzoo" target="_blank" @aucklandzoo  a …  a href="https:  t.co Y4o6U3Hpv6" target="_blank" https:  t.co Y4o6U3Hpv6  a   span class="0_tweet_date"   span   p 
+ p 
+                Join the popular school holidays program for 5-12 year olds at Adelaide Zoo Tweet Share +1 Share                p 
+ p 
+                Share a lifetime of memorable moments with unlimited visits to Adelaide and Monarto Zoos. Tweet Share +1 Share                p 
+ p 
+                Unlimited visits to Adelaide Zoo, Monarto Zoo and most Australian zoos. Tweet Share +1 Share                p 
+ p Stay up to date with zoo news and sign up to our Zoo Times eNewsletter  p 
+ p Adelaide Zoo, Frome Road,  br Adelaide SA 5000  br AUSTRALIA  br Tel:  a href="tel:+61882673255" (08) 8267 3255  a   p 

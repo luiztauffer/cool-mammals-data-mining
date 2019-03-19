@@ -1,0 +1,41 @@
+ p class="mission" National Tiger Sanctuary is a non-profit, rescue organization that provides a permanent home for exotic and domestic animals. Our diverse learning campus is dedicated to preservation of the environment and exemplary animal care. We provide unique educational programs and experiences to foster a love and appreciation for nature in the heart of every visitor.  p 
+ p  script src="https:  d1wcopahj6rhb7.cloudfront.net events prd geotix-embed-latest.js"   script  br 
+ script type="text javascript" 
+     CSS Override Documentation
+     https:  s3.amazonaws.com geotix-widgets events css-customizations.md
+  GeotixWidget.fetchTickets({
+    token: 'd5ec1f39ecbc941734815cb4d03b45a2',
+    container: 'geotix-widget-container',
+    portalId: 3
+  });
+  script   p 
+ p Help us care for the animals by adopting your favorite cat! Fees from adoptions go directly to animal care expenses, such as habitat construction, veterinary care, enrichment and much more!  p 
+ p Check out the items we need most on our Amazon wish list! You can select anything from food to toys to supplies!  p 
+ p Every Donation counts! As a non-profit rescue organization, we receive no government funding and rely on donations and tour revenue to care for the animals.  p 
+ p class="cff-post-text"  span class="cff-text" data-color="" Have you ordered your Limited Edition Sanctuary shirt yet? There are 11 days left on our special campaign. All the proceeds will go towards helping us complete the permanent Wolf Habitat for our newest rescues! The 10 wolves were brought home in December. They are currently living in temporary enclosures so we can't wait to give them more space to be themselves. br The shirts come in various styles and colors. Pick out one favorite or order them all! Once the fundraiser ends, the shirts will be printed and shipped. Follow the link below to help out some of our furry, 4-legged friends. br  a href="https:  www.bonfire.com national-tiger-sanctuary-campaign-1 " www.bonfire.com national-tiger-sanctuary-campaign-1   a  br #NationalTigerSanctuary #BransonMO #WolfPack #LimitedEdition #Fundraiser #NewHabitat   span  span class="cff-expand" ...  a href="#" style="color: #"  span class="cff-more" See More  span  span class="cff-less" See Less  span   a   span   p 
+ p class="cff-date"  18 hours ago  span class="cff-date-dot"  ·    span   p 
+ p class="cff-media-link"  a href="https:  www.facebook.com NationalTigerSanctuary photos a.269251539672 10157193872619673 ?type=3" target="_blank" style="color: #;"  i style="padding-right: 5px;" class="fa fas fa-picture-o fa-image" aria-hidden="true"   i Photo  a   p 
+ p class="cff-post-text"  span class="cff-text" data-color="" #GuessWho Can you guess who was caught being lazy after our Tigers by Twilight Tour on Saturday? This cat tends to be a champion when it comes to getting a 20 hour nap every day. It's no wonder they were caught snoozing. br Answer to be revealed Wednesday. br #FunandGames #NationalTigerSanctuary #BransonMO #LazyCat #SuperNap   span  span class="cff-expand" ...  a href="#" style="color: #"  span class="cff-more" See More  span  span class="cff-less" See Less  span   a   span   p 
+ p class="cff-date"  21 hours ago  span class="cff-date-dot"  ·    span   p 
+ p class="cff-media-link"  a href="https:  www.facebook.com NationalTigerSanctuary photos a.269251539672 10157193949529673 ?type=3" target="_blank" style="color: #;"  i style="padding-right: 5px;" class="fa fas fa-picture-o fa-image" aria-hidden="true"   i Photo  a   p 
+ p Visit the sanctuary to see big cats like you’ve never seen them before! You can feed the cats yourself or even go behind the scenes to learn about animal care! All big cat tours are guided, walking tours through the sanctuary. An average tour is 1 4 mile walk, and there are benches to stop and rest electric scooters are available to rent, but we recommend you reserve your scooter in advance. You are also welcome to bring your own scooter, wheelchair, or stroller on the tour. Feel free to ask questions and take photos or videos. All tours are outdoors, and we conduct tours rain or shine. Reservations are requested for Behind the Scenes and Day with the Director tours, but otherwise no reservations are necessary.  p 
+ p Guided tours are available Wednesday through Sunday year – round. (We are also open for Martin Luther King Jr Day, Easter Monday, Memorial Day, Labor Day, and Columbus Day). We only offer guided tours to ensure the animals have enough time to rest and remain as stress-free as possible.  p 
+ p class="price" See tigers and lions, hear about their personalities, and gain big cat knowledge.  p 
+ p class="price" See tigers and lions, hear about their personalities, and gain big cat knowledge.  p 
+ p class="price" Includes the Awareness Tour, plus see leopards and or mountain lions. Watch the big cats eat and hear them crunch through bones!  p 
+ p class="price" Feed the big cats yourself! Includes a free t-shirt, and a photo of your favorite cat!  p 
+ p class="price" See twice as many big cats, get a behind the scenes look at feeding time, and feed the cats yourself! Includes a t-shirt, calendar, photo, tour guide, and wristband.  p 
+ p class="price" Spend a day with the director and get a VIP look at animal care, feeding time, animal transportation, and much more! Also, tour our diet preparation facility and special care animals, includes lunch, t-shirt, calendar, photo, tour guide, and wristband.  p 
+ p class="price" See the cats of the sanctuary like never before! Our tram ride gives the opportunity to see double the cats than our walking tours. All guests are required to stay on the tram at all times, however there will be designated stops at the driver’s discretion for better photo and educational opportunities. The tram will slow for cats that choose to visit or “chase” the tram during its course around the sanctuary  p 
+ p class="price" See big cats like you have never seen them before – by the light of the moon! Watch for glowing eyes as the cats crouch ready to pounce, and see how well adapted they are to hunting in the dark! Listen closely for the caroling of lions and grunting of leopards.  p 
+ p 518 State Highway BB br 
+Saddlebrooke Chestnutridge, MO 65630.  p 
+ p class="go" From Branson: br 
+Take Highway 65 north toward Springfield, MO. At mile marker 25.5 turn left onto State Highway BB. We are approximately ¼ of a mile down the road on the left. Travel time is approximately 15 minutes.  p 
+ p From Springfield: br 
+Take Highway 65 south toward Branson, MO. At mile marker 25.5 turn right onto State Highway BB. We are approximately ¼ of a mile down the road on the left. Travel time is approximately 30 minutes.  p 
+ p data-id="Email Address:p"  label class="ctct-form-required" data-id="Email Address:label" data-name="email" Email Address  label   input maxlength="80" name="email" type="text" value="" data-id="Email Address:input"   p 
+ p data-id="First Name:p"  label class="ctct-form-required" data-id="First Name:label" data-name="first_name" First Name  label   input maxlength="50" name="first_name" type="text" value="" data-id="First Name:input"   p 
+ p class="ctct-form-footer" By submitting this form, you are granting: National Tiger Sanctuary, 518 State Highway BB, Saddlebrooke, Missouri, 65630, United States, permission to email you. You may unsubscribe via the link found at the bottom of every email. (See our  a href="http:  www.constantcontact.com legal privacy-statement" target="_blank" Email Privacy Policy  a  for details.) Emails are serviced by Constant Contact.  p 
+ p    p 
+ p class="textwidget"  a href="http:  visitor.r20.constantcontact.com d.jsp?llr=8eb8jgmab&amp;p=oi&amp;m=1112608179355&amp;sit=vxzk6tuhb&amp;f=8c16c2db-500a-458a-b4d8-5a858cca6927" class="button" style="background-color:#cccccc;border:solid 1px #5b5b5b;color:#5b5b5b;display:inline-block;padding: 8px 10px;text-shadow:none;" Newsletter Sign Up  a   p 

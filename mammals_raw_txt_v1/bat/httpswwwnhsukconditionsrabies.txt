@@ -1,0 +1,51 @@
+ p class="c-nav-primary__title"  span id="mainmenulabel" Menu  span 
+         button class="c-nav-primary__close-link" 
+           svg class="nhsuk-icon nhsuk-icon__close" xmlns="http:  www.w3.org 2000 svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false" 
+             path d="M13.41 12l5.3-5.29a1 1 0 1 0-1.42-1.42L12 10.59l-5.29-5.3a1 1 0 0 0-1.42 1.42l5.3 5.29-5.3 5.29a1 1 0 0 0 0 1.42 1 1 0 0 0 1.42 0l5.29-5.3 5.29 5.3a1 1 0 0 0 1.42 0 1 1 0 0 0 0-1.42z"   path 
+             image class="nhsuk-icon__close nhsuk-icon__close--fallback" src=" static nhsuk_shared img icon-close.55e39a5e4e76.png" xlink:href="" 
+            image   svg 
+           span class="visually-hidden" Close menu  span 
+          button 
+        p 
+ p class="nhsuk-c-breadcrumb__back" 
+       svg class="nhsuk-icon nhsuk-icon__chevron-left" xmlns="http:  www.w3.org 2000 svg" viewbox="0 0 24 24" aria-hidden="true" focusable="false" 
+         path d="M8.5 12c0-.3.1-.5.3-.7l5-5c.4-.4 1-.4 1.4 0s.4 1 0 1.4L10.9 12l4.3 4.3c.4.4.4 1 0 1.4s-1 .4-1.4 0l-5-5c-.2-.2-.3-.4-.3-.7z"   path 
+         image class="nhsuk-icon__chevron-left nhsuk-icon__chevron-left--fallback" src=" static nhsuk_shared img icon-chevron-left-blue.18f54059387e.png" xlink:href="" 
+        image   svg 
+       a href=" conditions " class="nhsuk-c-breadcrumb__backlink" Back to Health A-Z  a   p 
+ p  strong Rabies is a rare but very serious infection of the brain and nerves. It's usually caught from the bite or scratch of an infected animal, most often a dog.  strong   p 
+ p Rabies is found throughout the world, particularly in Asia, Africa, and Central and South America. It's not found in the UK except in a small number of wild bats.  p 
+ p It's almost always fatal once symptoms appear, but treatment before this is very effective. There's also a vaccine for people at risk of being infected.  p 
+ p You should consider getting vaccinated against rabies if you're travelling to an  a href="http:  travelhealthpro.org.uk countries" title="External website" area of the world where rabies is common  a  and:  p 
+ p Visit your GP or a travel clinic if you think you may need the vaccine. Most people will have to pay for the rabies vaccine if it's needed for protection while travelling.  p 
+ p Even if you've been vaccinated, you should still take precautions to avoid coming into contact with rabies if you're travelling in an area where rabies is found, and get medical advice straight away if you've been bitten or scratched.  p 
+ p Some people may need the rabies vaccine because they could come into contact with rabies through their work. If you think this applies to you, speak to your employer or occupational health provider.  p 
+ p Read more about the  a href=" conditions rabies vaccination " rabies vaccination  a .  p 
+ p All mammals (including monkeys) can carry rabies, but it's most common in:  p 
+ p They can spread the infection if they bite or scratch you or, in rare cases, if they lick an open wound or their saliva gets into your mouth or eyes.   p 
+ p Rabies is not spread through unbroken skin or between people.  p 
+ p While travelling in an area where rabies is a risk:  p 
+ p If you're travelling with a child, make sure they're aware of the dangers and that they should tell you if they've been bitten, scratched or licked by an animal. Check them for any wounds if they come into contact with an animal.  p 
+ p For information about areas where rabies is a risk, see:  p 
+ p If you've been bitten or scratched by an animal in an area with a risk of rabies:  p 
+ p If this happens while you're abroad, get local medical help immediately. Do not wait until you've returned to the UK.  p 
+ p If you've already returned to the UK without getting medical advice, it's still a good idea to get help – even if it's been several weeks since you were bitten or scratched.  p 
+ p It's unlikely you've been infected, but it's best to be safe. Post-exposure treatment is nearly 100% effective if it's started before any symptoms of rabies appear.  p 
+ p If you've been bitten, scratched or licked by an animal that might have rabies, you may need specialist medical treatment to stop you getting rabies. This is called post-exposure treatment.   p 
+ p Post-exposure treatment involves:  p 
+ p The post-exposure treatment you need may be slightly different if you have a weakened immune system.  p 
+ p Treatment should be started promptly – ideally within a few hours of being bitten or scratched – but it's often safe to delay treatment until the next day if the vaccine or immunoglobulin need to be specially ordered in by your doctor.  p 
+ p Without treatment, the symptoms of rabies will usually develop after 3 to 12 weeks, although they can start sooner or much later than this.  p 
+ p The first symptoms can include:  p 
+ p Other symptoms appear a few days later, such as:  p 
+ p Once symptoms appear, rabies is almost always fatal. In these cases, treatment will focus on making the person as comfortable as possible.  p 
+ p The UK has been rabies-free since the beginning of the 20th century, with the exception of a rabies-like virus in a species of wild bat called Daubenton's bats.  p 
+ p This has only been found in a few bats, and the risk of human infection is thought to be low. People who regularly handle bats are most at risk.  p 
+ p There has only been 1 recorded case of someone catching rabies from a bat in the UK. It's also rare for infected bats to spread rabies to other animals.  p 
+ p But if you find a dead or injured bat, do not touch it. Wear thick gloves if you need to move it.  p 
+ p If you find a dead or injured bat you should report it and get advice by calling:  p 
+ p If you've been bitten by a bat in the UK, go to your GP surgery,  a href=" service-search Walk-in-centre LocationSearch 663" your nearest walk-in centre  a  or  a href=" service-search Accident-and-emergency-services LocationSearch 428" your nearest hospital  a  to get help and start post-exposure treatment.  p 
+ p class="nhsuk-body-s" 
+                Page last reviewed: 23 02 2017 br 
+                Next review due: 23 02 2020
+              p 

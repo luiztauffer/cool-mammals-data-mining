@@ -1,0 +1,33 @@
+ p The original herd of 7 elephants in September 1999, when they arrived at Thula Thula. Classified as “rogue” and “troublemakers”, our original herd of 7 elephants, made famous in the best-seller “The Elephant Whisperer” by  strong  a href="http:  thulathula.com lawrence-anthony " Lawrence Anthony  a   strong , has now increased to the maximum sustainable capacity.  p 
+ p  strong Contraception program for our male elephants  strong   p 
+ p Having now reached its maximum capacity in terms of habitat for our herd, the reserve implemented a reversible male elephant contraception programme to allow controlled breeding. This operation started in Sept 2012, is being renewed every 6 months and unfortunately is not having the desired effect.  p 
+ p  strong An alternative to relocation  strong   p 
+ p Although contraception does not adversely affect the elephants and does not produce any behavioural side effects, questions do remain as to how continued contraception might influence such a highly sociable species.  p 
+ p  strong Solution  strong   p 
+ p Thanks to the local community, Thula Thula now has the opportunity to add a further 3500 ha of land to increase their habitat. This solution requires 35 km of electric fencing as well as roads, increased security, guard training, security equipment and vehicles, conservation, land management and the list just go on, to keep our wildlife safe. Community projects such as this, not only support the wildlife but also improve local employment and education.  p 
+ p We have the land, but to fence this, we need to raise us$ 350 000 should you wish to support the Thula Thula expansion project:  p 
+ p If animals could speak, mankind would weep! Our stay was amazing, couldn’t have imagined a better stay. Just wish we could stay longer. Emmanuel and Expidicao Schumann  p 
+ p style="text-align: center;"  span style="color: #ff0000;" Please indicate in PayPal what your donation is for?   span   p 
+ p style="text-align: center;" Wildlife Rescue and Rehabilitation centre  p 
+ p style="text-align: center;" Wildlife protection and anti-poaching  p 
+ p style="text-align: center;" Elephant Land Expansion  p 
+ p style="text-align: center;" Or contact Francoise Malby Anthony  a href="mailto:francoise@thulathula.com"  strong francoise@thulathula.com  strong   a   p 
+ p Your Name (required) br 
+     span class="wpcf7-form-control-wrap your-name"  input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"   span    p 
+ p Your Email (required) br 
+     span class="wpcf7-form-control-wrap your-email"  input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"   span    p 
+ p Additional Information br 
+     span class="wpcf7-form-control-wrap your-message"  textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false"   textarea   span    p 
+ p Your Name (required) br 
+     span class="wpcf7-form-control-wrap your-name"  input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"   span    p 
+ p Your Email (required) br 
+     span class="wpcf7-form-control-wrap your-email"  input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"   span    p 
+ p Pledge Details br 
+     span class="wpcf7-form-control-wrap your-message"  textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false"   textarea   span    p 
+ p style="text-align: center;"  span style="color: rgb(101, 29, 50); font-size: 14px; text-align:center;"  strong +27 (73) 266-8577  +27 (0) 879455355  strong 
+D312 Buchanana Main Rd, Empangeni, 3880, South Africa  span   p 
+ p 
+ input name="EMAIL" placeholder="Your email address" aria-required="true" aria-invalid="false" style="width:60%" type="text" 
+   input value="Sign up" class="wpcf7-form-control wpcf7-submit" style="padding: 12px;" type="submit" 
+	
+  p 

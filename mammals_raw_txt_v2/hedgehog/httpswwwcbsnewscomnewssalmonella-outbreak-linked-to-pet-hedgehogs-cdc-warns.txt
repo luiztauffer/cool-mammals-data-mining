@@ -1,0 +1,145 @@
+ p class="breaking-news__headline" Watch CBSN Live  p 
+ p class="content__meta content__meta-byline" 
+                p 
+ p class="content__meta content__meta-timestamp" 
+       time datetime="2019-01-25T18:25:00-0500" January 25, 2019   6:25 PM  time 
+        CBS News
+      p 
+ p Government officials are investigating a multi-state  span class="link"  a href="https:  www.cbsnews.com news food-recalls-melon-sugar-smacks-foodborne-illness-outbreaks-how-to-stay-safe " data-invalid-url-rewritten-http="" salmonella outbreak  a   span  linked to contact with pet hedgehogs. Eleven people, 10 of them children, have reported infections related to the outbreak, according to the Centers for Disease Control and Prevention.  p 
+ p Cases have been reported in eight states: Colorado, Maine, Minnesota, Mississippi, Missouri, Nebraska, Texas, and Wyoming. One person has been hospitalized to date. No deaths have been reported.  p 
+ p Hedgehogs can carry  span class="link"  a href="https:  www.cbsnews.com pictures 9-signs-of-salmonella-poisoning " data-invalid-url-rewritten-http="" salmonella bacteria  a   span  in their droppings, even while appearing healthy and clean, the CDC warns. These germs can easily spread to the animals' bodies, habitats, toys, bedding, and any surfaces where they live. People who care for or snuggle the animals can pick up the germs and get very sick.  p 
+ p People affected by the outbreak reported buying their pets from various sources, including pet stores, breeders, or on the internet, and a common supplier has not been identified.   p 
+ p A person infected with salmonella can experience diarrhea, fever, and stomach cramps 12 to 72 hours after being exposed to the bacteria. The illness usually lasts 4 to 7 days.   p 
+ p Most people recover without treatment, but some illnesses can last longer and be very severe, especially in young children, older adults, and people with compromised immune systems.  p 
+ p The CDC estimates salmonella causes about 1.2 million illnesses, 23,000 hospitalizations, and 450 deaths each year in the U.S.  p 
+ p A hedgehog may not be the right pet for everyone. These small, prickly mammals are becoming increasingly popular, but they're banned in some municipalities, the  a href="https:  www.washingtonpost.com dc-md-va 2019 01 23 welcome-hedgehogs-increasingly-popular-pet-is-now-legal-fairfax-county-homes ?utm_term=.2c82ea077393" target="_blank" rel="noopener" Washington Post reports  a .   p 
+ p Since there is a greater risk of salmonella complications in children under 5, adults over 65, and people with weakened immune systems, health officials say households with these individuals might want to consider a different pet.  p 
+ p If you do have a hedgehog, don't kiss or snuggle it, health officials warns. This can spread salmonella germs to your face and mouth and make you sick.  p 
+ p The CDC also recommends the following advice:  p 
+ p class="content__published-on" 
+       small First published on January 25, 2019   6:25 PM  small 
+      p 
+ p class="content__copyright" 
+       small © 2019 CBS Interactive Inc. All Rights Reserved.  small 
+      p 
+ p class="item__dek" 
+        President Trump labeled George Conway, the husband of his top aide, a "total loser"
+        p 
+ p class="item__dek" 
+        The bus was heading north on Interstate 95 when it overturned on an exit ramp in Virginia
+        p 
+ p class="item__dek" 
+        States across the country are preparing for a possible day when Roe v. Wade is overturned.
+        p 
+ p class="item__dek" 
+        Securities regulators argue in a filing that Musk brazenly disregarded a federal judge's court order
+        p 
+ p class="item__dek" 
+        Publisher said to have paid Michael Sanchez for explicit texts and photos Amazon CEO sent to his mistress
+        p 
+ p class="item__dek" 
+        The pop star kicked off her "Sweetener" tour with some voter registration
+        p 
+ p class="item__dek" 
+        President Trump labeled George Conway, the husband of his top aide, a "total loser"
+        p 
+ p class="item__dek" 
+        States across the country are preparing for a possible day when Roe v. Wade is overturned.
+        p 
+ p class="item__dek" 
+        Publisher said to have paid Michael Sanchez for explicit texts and photos Amazon CEO sent to his mistress
+        p 
+ p class="item__dek" 
+        A top terrorism prosecutor on Mueller's team has concluded her detail, according to the DOJ
+        p 
+ p class="item__dek" 
+        The pigeon fancying world knew Armando was special, but "no one expected that the magical cap of a million euros would be pulverised"
+        p 
+ p class="item__dek" 
+        Police in central Dutch city of Utrecht say suspected gunman didn't know the 3 people killed in the attack on a tram
+        p 
+ p class="item__dek" 
+        "We did everything we could," militant in last tiny enclave held by terror group says in video, but America's battlefield allies aren't declaring victory yet
+        p 
+ p class="item__dek" 
+        A former associate administrator says FAA does not have the resources to certify aircraft without the help of the manufacturer
+        p 
+ p class="item__dek" 
+        President of hard-hit Mozambique warns worst could still be yet to come as it's still raining on already inundated parts of his nation
+        p 
+ p class="item__dek" 
+        The pop star kicked off her "Sweetener" tour with some voter registration
+        p 
+ p class="item__dek" 
+        "Smallville" actress Allison Mack may avoid going to trial with the leader of the group that's been called a cult
+        p 
+ p class="item__dek" 
+        On the "CBS This Morning" Podcast, director Justin Baldoni shares the inspiration behind the film
+        p 
+ p class="item__dek" 
+        Rowling said Dumbeldore and Grindelwald were in an "incredibly intense" relationship – fans are wondering why we didn't see that
+        p 
+ p class="item__dek" 
+        Kevin Tsujihara steps down from the Hollywood film and TV studio after acknowledging "mistakes," parent company says
+        p 
+ p class="item__dek" 
+        Business groups say the social media company must take steps to prevent more livestreamed carnage
+        p 
+ p class="item__dek" 
+        The search engine giant is expected to make its foray into online gaming during the 2019 Game Developers Conference
+        p 
+ p class="item__dek" 
+        Melting snow, "bomb cyclone" rain and climate change conspired to push these floods over the top
+        p 
+ p class="item__dek" 
+        The agency now uses social media to investigate fraud, but soon it may expand that to evaluate disability applicants
+        p 
+ p class="item__dek" 
+        "This whale had the most plastic we have ever seen in a whale. It's disgusting."
+        p 
+ p class="item__dek" 
+        Florida health department must create guidelines for doctors who are planning to prescribe smokable medical marijuana, which may create delays for some patients
+        p 
+ p class="item__dek" 
+        Nearly 65 percent of hospitals across the country use emergency rooms staffed by outside companies, allowing providers to charge patients more
+        p 
+ p class="item__dek" 
+        On the "CBS This Morning" Podcast, director Justin Baldoni shares the inspiration behind the film
+        p 
+ p class="item__dek" 
+        The high school junior was a straight-A student, class officer and robotics whiz, who nonetheless felt she wasn't ever good enough – signs she kept hidden until she ended her life
+        p 
+ p class="item__dek" 
+        It only takes seconds for a child to drown​. Parents can help protect their kids with these tips
+        p 
+ p class="item__dek" 
+        Securities regulators argue in a filing that Musk brazenly disregarded a federal judge's court order
+        p 
+ p class="item__dek" 
+        Publisher said to have paid Michael Sanchez for explicit texts and photos Amazon CEO sent to his mistress
+        p 
+ p class="item__dek" 
+        Every year, people who have overpaid taxes don't file a return—and the agency says time is running out to claim it
+        p 
+ p class="item__dek" 
+        Twice as many Americans will wager on the 2019 college basketball tournament than on this year's Super Bowl
+        p 
+ p class="item__dek" 
+        Business groups say the social media company must take steps to prevent more livestreamed carnage
+        p 
+ p class="item__dek" 
+        Cassie Barker pleaded guilty Monday to manslaughter in a plea bargain after being indicted on a second-degree murder charge
+        p 
+ p class="item__dek" 
+        Anthony Comello, accused in rubout of reputed kingpin of Gambino crime family, brought politics into extradition hearing room
+        p 
+ p class="item__dek" 
+        Taquesta Graham, 28, is expected to be charged with murder Wednesday after her daughter's body was found in a duffel bag along a horse trail near Los Angeles
+        p 
+ p class="item__dek" 
+        Greg Longenecker's family said Pennsylvania state police had no business chasing him with a dangerous piece of machinery
+        p 
+ p class="item__dek" 
+        Baltimore's violent crime rate spiked in the years following the death of Freddie Gray, which set off a series of protests and fueled the Black Lives Matter movement, according to a new report
+        p 
+ p class="site-footer__copy" Copyright © 2019 CBS Interactive Inc. All rights reserved.  p 

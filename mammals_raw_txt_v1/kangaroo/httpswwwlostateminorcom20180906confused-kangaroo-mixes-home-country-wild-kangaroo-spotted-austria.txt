@@ -1,0 +1,26 @@
+ p I’m sure a lot of people get mixed up with Australia and Austria, seeing as the spelling of both countries is so similar, but it seems a little kangaroo has also become mixed up and was found in Europe instead of the land down under.   p 
+ p Yes, a wild kangaroo was spotted hopping around in the lush fields of Austria, not Australia.   p 
+ p There have been several sighting of the kangaroo over the weekend but the little creature is slippery and has not been found yet.   p 
+ p Local authorities are still unsure of where the kangaroo came from and have even tried calling all local zoos and breeders to see if anyone is perhaps missing this native Australian animal.   p 
+ p class="radios" 
+         label 
+           input id="sidebar-newsletter-input-daily" type="radio" name="cm-fo-nirhtj" value="612223" checked  Daily
+          label 
+
+         label 
+           input id="sidebar-newsletter-input-weekly" type="radio" name="cm-fo-nirhtj" value="612224"  Weekly
+          label 
+        p 
+ p  strong See the world differently  strong   p 
+ p Daily  p 
+ p Weekly  p 
+ p class="submit-btn-value" Get daily inspiration  p 
+ p class="radios" 
+                 label for="footer-newsletter-input-daily" 
+                   input id="footer-newsletter-input-daily" type="radio" name="cm-fo-nirhtj" value="612223" checked  Daily
+                  label 
+
+                 label for="footer-newsletter-input-weekly" 
+                   input id="footer-newsletter-input-weekly" type="radio" name="cm-fo-nirhtj" value="612224"  Weekly
+                  label 
+                p 

@@ -1,0 +1,18 @@
+ p   img src=" wild images arrow.gif" width="15" height="15"   a href="abrocomidae.asp" Abrocomidae  a  (chinchilla rats)  br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="anomaluridae.asp" Anomaluridae  a  (scaly-tailed squirrels)  br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="aplodontidae.asp" Aplodontidae  a  (mountain beaver)  br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="bathyergidae.asp" Bathyergidae  a  (mole rats)  br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="calomyscidae.asp" Calomyscidae  a  (mouse-like hamsters)                       br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="capromyidae.asp" Capromyidae  a  (West Indian hutias)  br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="castoridae.asp" Castoridae  a  (beavers)  br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="caviidae.asp" Caviidae  a  (cavies, guinea pigs, maras, capybaras)  br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="chinchillidae.asp" Chinchillidae  a  (chinchillas, viscachas)  br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="cricetidae.asp" Cricetidae  a  (New World rats, mice, voles)                       br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="ctenodactylidae.asp" Ctenodactylidae  a  (gundis)  br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="ctenomyidae.asp" Ctenomyidae  a  (tuco-tucos)  br 
+                        img src=" wild images arrow.gif" alt="icon" width="15" height="15"   a href="agoutidae.asp" Cuniculidae  a  (pacas)  br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="dasyproctidae.asp" Dasyproctidae  a  (acuchis, agoutis)  br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="dinomyidae.asp" Dinomyidae  a  (pacaranas)  br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="dipodidae.asp" Dipodidae  a  (birch mice, jerboas, jumping mice) br 
+                        img src=" wild images arrow.gif" width="15" height="15"   a href="echimyidae.asp" Echimyidae  a  (spiny rats)                       br                     
+                        p 

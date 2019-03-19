@@ -1,0 +1,52 @@
+ p class="link-comments" 
+ a href="#comments" class="" 
+ span class="ico ico-comment"   span  span class="btn__text" See comments  span 
+  a 
+  p 
+ p class="link-print visible-md visible-lg" 
+ button class="btn btn--link btn-print" onclick="if (typeof FireAnalyticsTagEvent === 'function') {FireAnalyticsTagEvent({ on_page_event: 'print_story' });}return false" title="(CTRL+P)" 
+ span class="ico ico-print"   span 
+ span class="btn__text" Print  span 
+  button 
+  p 
+ p class="ta-c"  span class="ico ico-clock"   span No media source currently available  p 
+ p  br 
+The hippopotamus is an animal very important to the health of Africa's rivers and lakes. Their dung, or solid waste, helps Africa’s  strong aquatic  strong  ecosystem. But researchers warn that hippo populations are decreasing. They say that could damage strong  ecosystems  strong .  p 
+ p    p 
+ p  br 
+The hippopotamus is the third-largest land mammal, after the elephant and rhinoceros. Hippos spend as much as 16 hours a day in the water. They go on land at night to feed. They eat more than 40 kilograms of  strong tropical  strong  grasses at each feeding. They return to the water where they release their waste.  p 
+ p    p 
+ p Douglas McCauley is an assistant professor of several environmental and life sciences. He and his team at the University of California, Santa Barbara, decided to study the waste of hippos.  p 
+ p “Well, we started looking at hippopotamus and realized that a big part of the story was their  strong poop  strong  - was this  strong vast  strong  amount of  strong nutrients  strong  and energy that are moved across systems via their eating and their  strong defecation  strong .”  p 
+ p He says scientists are interested in how hippos cross the line of ecosystems. He says living in both the land and water worlds means hippos are important providers of nutrients.  p 
+ p “Because they're eating lots and lots of stuff on land and then taking that all back to the place where they rest in the water -- in lakes and rivers -- and then basically dunging that all out. And it turns out to be a huge amount of material and energy and nutrients of this sort of natural fertilizer that is moved across these boundaries.”  p 
+ p Every year, hippos provide over 60,000 kilograms of dung to African lakes and rivers. br 
+ br 
+Douglass McCauley says the dung is also used as a communication device. He says a more powerful male hippo will throw dung from its tail to a less powerful male.  p 
+ p The study also showed that some species of river fish need the dung in their diets. Mr. McCauley says some of the nutrients in the dung are the building materials of life. Some fish get the nutrients by eating the dung directly. Others feed on insects that eat the dung.  p 
+ p But as researchers learn more about the importance of hippos, there are fewer of them. Mr. McCauley says hippo numbers are dropping across sub-Saharan Africa. He says there has been a 10 to 20 percent drop in the past 10 years.  p 
+ p “And beyond how many there are they're in a lot fewer places. There are entire countries that have completely lost hippopotamus -- Egypt, for example.  p 
+ p Douglas McCauley says humans are responsible for most of the drop in the hippo population through hunting and  strong habitat  strong  loss as human populations spread. He says animals often lose to humans in the competition for water.  p 
+ p “They have to have water. Well, guess what? Everybody else wants water.”  p 
+ p Mr. McCauley says careful thought must be given to the control of water, both for humans and wildlife. He says there should be enough water for all if it is dealt with intelligently. He said the future of humans, wildlife and ecosystems are closely tied together.  p 
+ p I’m Marsha James.  p 
+ p  em This report was based on a story from reporter Joe De Capua. Marsha James wrote it for VOA Learning English. Caty Weaver was the editor.   em   p 
+ p  strong Editor's note:  strong  em  An earlier version of this story incorrectly stated the quantity of tropical grasses consumed by hippos at each feeding  em .  p 
+ p ____________________________________________________________  p 
+ p    p 
+ p  strong dung  strong  – n. solid waste from an animal  p 
+ p  strong ecosystem  strong  –  em n.  em  everything that exists in a particular environment  p 
+ p  strong tropical   strong –  em adj.   em of, relating to, occurring in, or used in the tropics  p 
+ p  strong vast   strong –  em adj.   em very great in size or amount  p 
+ p  strong poop   strong –  em n.   em another word for dung  p 
+ p  strong defecate   strong –  em v.   em to pass solid waste from the body  p 
+ p  strong nutrient   strong – em n.  em  a substance that plants, animals and people need to live and grow  p 
+ p  strong habitat  strong  –  em n.   em the place or type of place where a plant or animal naturally or normally lives or grows  p 
+ p ​  p 
+ p class="buttons btn--load-more" 
+ a class="btn" href=" comments a2733549p0.html" id="load-comments" 
+ span class="btn__text " 
+Show comments
+  span 
+  a 
+  p 

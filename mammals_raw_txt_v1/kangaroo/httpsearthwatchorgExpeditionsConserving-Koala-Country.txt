@@ -1,0 +1,70 @@
+ p The charismatic koala is a species beloved by many. But how is human-induced climate change reshaping its world?  p 
+ p class="no-side-margin" style="font-weight: bold;font-size: 14px;margin-bottom: 10px;" Have a question?  p 
+ p How would you prefer us to contact you?  p 
+ p style="font-size:95%" 
+  br      
+ span id="dnn_ctr13531_View_radContactType" class="normalRadioButton ctype_required_validation"  input id="dnn_ctr13531_View_radContactType_0" type="radio" name="dnn$ctr13531$View$radContactType" value="Email"  label for="dnn_ctr13531_View_radContactType_0" By Email  label  input id="dnn_ctr13531_View_radContactType_1" type="radio" name="dnn$ctr13531$View$radContactType" value="Phone"  label for="dnn_ctr13531_View_radContactType_1" By Phone  label   span 
+
+
+  p 
+ p class="first" Increasing temperatures, declining rainfall, and increased likelihood of fire are all threats facing koalas.  p 
+ p In the Great Otway National Park in Victoria, Australia, koalas are widespread and relatively abundant. With the increasing impact of climate change on the environment, however, higher densities of koalas in some areas are causing declining tree conditions. Better understanding of the potential impact of climate change on koalas and their habitat will pave the way toward developing conservation solutions.
+  p 
+ p You’ll have a chance to work closely with koalas and be involved in all aspects of the research: capturing and handling koalas (under the supervision of an experienced staff member), radiotracking koalas, taking measurements of trees, assessing habitats, collecting scats and preparing them for analysis, operating camera traps that automatically take pictures of passing animals, and looking for koalas at night with spotlights.
+  p 
+ p With your participation, this study will contribute useful data to a longer-term consideration of climate change and variability issues, while also contributing to the conservation of koalas and their habitat and educating the local community.
+  p 
+ p This project is an opportunity to gain in-depth knowledge of koala behavior, numbers, and vulnerabilities.  p 
+ p class="first" By observing the responses of koalas to early manifestations of climate change, we can help protect and conserve their habitat for the future.  p 
+ p The koala is an iconic Australian species that attracts considerable public attention. The conservation status of the koala varies from secure in some areas to vulnerable or extinct in others. Climate change is likely to negatively impact koala populations, in part because of koalas’ low tolerance for prolonged hot weather, and in part because of the potential for more extreme and frequent bushfires.  p 
+ p class="caption" Increasing temperatures, declining rainfall, and increased likelihood of fire are all threats facing koalas.  p 
+ p Higher densities of koalas in eucalyptus-dominated woodlands and, in some instances, concentrated browsing by koalas are causing a decline in tree condition and available food. Consequently, habitat change is occurring at a rapid rate, providing a unique opportunity to better understand the responses of koalas to a decline in food supply and habitat quality. In other words, today’s habitat change provides a lens through which it is possible to anticipate the potential impact of climate change on the species.
+  p 
+ p An understanding of the responses of koalas to environmental change is critical for conservation of their populations and habitats. This project is an opportunity to gain in-depth knowledge of koala behavior, numbers, and vulnerabilities—and, thus, a valuable tool for informing public policy decisions.  p 
+ p Cape Otway is situated at the southern tip of Victoria’s west coast. Much of Cape Otway is included in the Great Otway National Park, which features rainforest, waterfalls and streams, heath land and woodlands, and a spectacular, rugged coastline.
+  p 
+ p The diverse habitats in the region support many species, including koalas, eastern pygmy possums, and echidnas. Swamp wallabies, and gray kangaroos are common, and exotic creatures like tiger quolls and yellow-bellied gliders are present but rarely seen.   p 
+ p 
+The area provides many opportunities for camping, hiking, kayaking, and bird-watching. The Great Ocean Walk stretches 90 kilometers (56 miles) from the township of Apollo Bay to the Twelve Apostles, giant rock formations scattered along the coastline. The rock stacks are over 100 feet (30 meters) high, and many of them are havens for seabird nesting. The Great Ocean Walk is accessible from numerous points, allowing for many different views of the beaches and bays.
+  p 
+ p This is a summary:  p 
+ p Most days begin with an early breakfast and packing lunch for a full day in the field. You’ll return to the cabins each day in the late afternoon, where you’ll help sort field equipment for the following day’s activities and assist with data entry. After dinner you’ll have free time unless the schedule calls for entering data or going out at night to find koalas with spotlights.
+  p 
+ p In the field, you’ll help:  p 
+ p Midway through the expedition, you’ll have a recreation day. You may choose to rest or take a nature walk at Bimbi Park, or the team could arrange a trip to the Twelve Apostles, Australia's famous coastal rock formations. strong    strong   p 
+ p class="caption" You will provide vital support in koala population monitoring.  p 
+ p class="image-description" Join Dr. Whisson in Great Otway National Park, Australia.  p 
+ p Dr. Desley Whisson first began working with koalas in 2004 when she was a wildlife officer with the South Australian government on Kangaroo Island, South Australia. In addition to koalas, Desley is also fascinated by the alpine region and its wildlife and has a number of research projects underway in Victoria’s high country.   p 
+ p class="read-more" 
+    
+     a id="dnn_ctr13530_View_hlLeadScientistsPageLink" href="https:  earthwatch.org Scientific-Research Our-Scientists Desley-Whisson" READ MORE +  a 
+      p 
+ p You’ll stay at Bimbi Park, a holiday park in the center of the Great Ocean Road. The park is sheltered among tall manna gum trees, far from the noise of towns and traffic, and offers great opportunities for spotting wildlife such as koalas, possums, kangaroos, echidnas, birds, and many more. Park facilities include a shop with basic groceries, an outdoor theater, a laundry, a pay phone, Internet access, and covered barbecue areas. The cabins are self-contained, with fully equipped kitchens and modern bathrooms.  p 
+ p In the morning, you’ll make your own continental breakfast and packed lunch. All team members will participate in cooking meals. The cabins have kitchens and dining areas that contribute to a fun, social atmosphere. Hearty evening meals will consist of meat, vegetables, pasta, and desserts.
+  p 
+ p Please review this expedition. You may only review expeditions you have been on. br 
+You must be logged in to write a review.  p 
+ p class="participation theme-color" Have you been on this expedition?  p 
+ p  span class="review-full-name"  Jennifer Lauer  span   span class="divider" |  span   span class="review-date" Sunday, December 13, 2015  span   p 
+ p It was a lot of walking, sometimes in the open country and sometimes very hard walking through the underbrush.  The country was gorgeous, temperate rain forest.  The work was doing koala surveys and tree surveys in the main and satellite sites--in the satellite sites they were random samplings of trees, but in the main site we were aiming to measure every eucalyptus in the area.  Des the PI and all her students were great.    p 
+ p  span class="review-full-name"  Kenneth Dubuque  span   span class="divider" |  span   span class="review-date" Saturday, May 24, 2014  span   p 
+ p I didn't realize there was an opportunity to review a project on line but now that I do I offer the following:  p 
+ p It was a great expedition; I learned a lot; came in close contact with koalas (although they're not exactly cuddly (but I don't think I would be either if I was being captured in a burlap sack)); had a variety of worthwhile experiences and was never bored. Dr Desley Whisson and Dr Alistar Melzer were outstanding leaders : getting us thoroughly involved; patiently explaining anything and everything; encouraging teamwork and having some laughs. The accommodations and meals (prepared by all of us) were surprisingly terrific. And our free time was fun. Thanks to the investigators and a good team including my daughter who accompanied me.  p 
+ p Ken Dubuque, 9 26 12 team   p 
+ p  span class="review-full-name"  Patricia Shaw  span   span class="divider" |  span   span class="review-date" Tuesday, March 04, 2014  span   p 
+ p This was my second Earthwatch trip and the 4th volunteer trip I've done.  I found this trip exceptionally well organized by Desley Whisson (scientist) and Viki Nathan (EW coordinator).  Our activities were fairly strenuous but I was able to keep up with all of them and I am 72 years old.  I thought the Briefing Book did a good job of describing our activities and typical day in the field.  The elements that I look for in a volunteer trip include an interesting subject and in this case getting to know more about Koalas held a great interest for me.  Yes, they are as cute as they look.  Beyond the cute there are real issues affecting koala populations in Australia.  I found that there are different Koala species in the North than the ones in the South where this project is located.  The issues with each population are different.  The Koala is also an animal that is highly politicized in Australia as they are the iconic animal symbol of the country.  I learned a good deal about koalas from Desley.  There had been a major crash in the koala population just 3 months before we arrived.  Viki from Earthwatch was very helpful in alerting us on the team about changes and expectations in advance of our arrival.    p 
+ p I found this to be one of the best expeditions I've participated in.  We had a wonderful volunteer team of 5 each from a different country and a wide range of ages.  We worked hard and we played hard (in the evening).  The accommodations were better than I had anticipated which is always nice.  I would recommend this to anyone who is physically fit and able to walk without assistance in heavy forested areas.  Much of the work was done off trail.    p 
+ p  span class="review-full-name"  Elizabeth Phillips  span   span class="divider" |  span   span class="review-date" Wednesday, February 12, 2014  span   p 
+ p The koala is probably one of Australia's most recognisable animals, yet it is also largely unknown and misunderstood. Before I joined this Earthwatch expedition I had never seen a koala in the wild! Not only did I see (and hear) lots of koalas -- often at very close quarters -- on this expedition, I also learned a lot more about their habits and habitat.   p 
+ p The experiences of our koala populations vary a great deal around the country; in the Cape Otway region, where this expedition is held, the koalas are plentiful, but this has major impacts on the environment. On this expedition you may participate in population counts, density surveys, tree-health assessments, radio-tracking, behaviour and climate moitoring, and more.   p 
+ p Our accommodation was really great and very comfortable. The meals that we all helped to prepare were delicious and filling. We enjoyed a friendly and communal atmosphere both in the field and in the evenings. The expertise and helpfulness of the scientific team and the Earthwatch representative was fantastic.  p 
+ p What I love about Earthwatch is that the work you do as a volunteer contributes directly to the ongoing scentific research. This build on the scientific and wider community's knowledge and helps governments to make informed decisions. Your contribution, in both money and time, makes a real difference.  p 
+ p I thoroughly recommend this expedition. I understand a lot more about koalas through my participation, and I have lots of very cute photos!  p 
+ p class="no-side-margin" style="font-weight: bold;" Have a question?  p 
+ p id="comment-content-org"     p 
+ p id="selected-post-action-bar" 
+        
+          p 
+ p  Please  a id="dnn_ctr17696_CommentsAndQuestionsView_hflogin" href="https:  earthwatch.org LOGIN-TO-MY-EARTHWATCH?returnurl=%2fExpeditions%2fConserving-Koala-Country%23comments" login  a  to post a comment or question.  p 
+ p class="expedition-teaser" What does climate change hold for the Himalayas? Help find out by examining pollinators and the crops that need them.  p 
+ p class="expedition-teaser" Can inventive livestock management bring balance between lions, other predators, and prey back to the Kenyan savanna?  p 

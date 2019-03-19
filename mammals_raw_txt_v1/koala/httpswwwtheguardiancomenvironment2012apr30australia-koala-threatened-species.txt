@@ -1,0 +1,28 @@
+ p class="byline" data-link-name="byline" data-component="meta-byline"  span itemscope="" itemtype="http:  schema.org Person" itemprop="author" 
+ a rel="author" class="tone-colour" itemprop="sameAs" data-link-name="auto tag link" href="https:  www.theguardian.com profile oliver-milman"  span itemprop="name" Oliver Milman  span   a   span   p 
+ p class="content__dateline" aria-hidden="true" 
+ time itemprop="datePublished" datetime="2012-04-30T12:00:05+0100" data-timestamp="1335783605000" class="content__dateline-wpd js-wpd" 
+Mon 30 Apr 2012  span class="content__dateline-time" 12.00 BST  span 
+  time 
+ time datetime="2012-04-30T12:00:05+0100" data-timestamp="1335783605000" class="content__dateline-lm js-lm u-h" 
+First published on Mon 30 Apr 2012  span class="content__dateline-time" 12.00 BST  span 
+  time 
+  p 
+ p The Australian government has listed the koala as a threatened species in parts of the country for the first time, admitting that the species faces a "serious threat" from factors such as urban expansion and climate change.  p 
+ p Koala populations in Queensland, New South Wales and the Australian Capital Territory have been placed on the national list of vulnerable species, following  a href="http:  www.environment.gov.au minister burke 2012 mr20120430.html?utm_source=mins&amp;utm_medium=rss&amp;utm_campaign=feed" title="" data-link-name="in body link" class="u-underline" intervention by environment minister, Tony Burke, on Monday  a .  p 
+ p The listing, designed to provide a barrier to development in areas where koalas are threatened, is aimed at halting a precipitous drop in numbers that has seen the species decline by 40% in Queensland and by one-third in NSW over the past two decades.  p 
+ p The decision by Burke follows  a href="http:  www.aph.gov.au Parliamentary_Business Committees Senate_Committees?url=ec_ctte koalas report index.htm" title="" data-link-name="in body link" class="u-underline" a Senate report released last year  a  that made 19 recommendations, including listing the species as threatened in certain areas of the country and boosting the funding for koala monitoring.  p 
+ p The report outlined numerous threats to the koala, including climate change, disease and habitat loss.  p 
+ p Fatal attacks on koalas by domesticated dogs were also cited as a problem, particularly during recent unusually warm summers, where the marsupial has been sighted in residents' gardens, unable to climb trees and drinking from swimming pools and water bowls.  p 
+ p Koala populations have been under pressure for some time, with many hunted to near extinction in eastern Australia by early European settlers for the fur trade.  p 
+ p The species also suffers from a limited diet of eucalypts, which has been aggressively cleared for urban development. Meanwhile, the remaining eucalypts' nutritional value has been tarnished by increased CO sub 2  sub  in the atmosphere, leading  a href="http:  www.iucnredlist.org apps redlist details 16892 0" title="" data-link-name="in body link" class="u-underline" the IUCN to list the koala as one of the 10 most vulnerable species in the world to climate change  a .  p 
+ p "Koalas are an iconic Australian animal and they hold a special place in the community," Burke said. "People have made it very clear to me that they want to make sure the koala is protected for future generations. Koala populations are under serious threat from habitat loss and urban expansion, as well as vehicle strikes, dog attacks, and disease."  p 
+ p "However, koala numbers vary significantly across the country, so while koala populations are clearly declining in some areas, there are large, stable or even increasing populations in other areas."  p 
+ p "In fact, in some areas in Victoria and South Australia, koalas are eating themselves out of suitable foraging habitat and their numbers need to be managed."  p 
+ p "But the Queensland, New South Wales and Australian Capital Territory koala populations are very clearly in trouble, so we must take action. "  p 
+ p While environmental groups have welcomed Burke's decision, concern has been raised that the minister failed to include Victoria and South Australia in the threatened species listing.  p 
+ p Larissa Waters, environment spokesperson for the Australian Greens, said: "It would have made more sense to give the koala a national listing, instead of waiting for koala populations in South Australia and Victoria to fall into decline without protection, like those in Queensland and New South Wales."  p 
+ p "We now need a prompt, comprehensive and well-enforced recovery plan to get the koala back off the threatened species list, and we need protection for other species not as famous as the koala but still sliding closer to extinction every day."  p 
+ p There is also dispute over the exact number of koalas left in the wild. The federal government estimates there are around 200,000 remaining koalas, but the Australian Koala Foundation has challenged this figure.  p 
+ p The foundation's chief executive, Deborah Tabart,  a href="http:  www.abc.net.au science articles 2012 04 30 3491877.htm" title="" data-link-name="in body link" class="u-underline" told ABC news  a : "At the moment we're still of the opinion that there's not that many koalas, less than 100,000. Victoria still needs to be protected."  p 
+ p "I'm delighted with this because it is going to slow things down, but it's not going to save our koalas."  p 

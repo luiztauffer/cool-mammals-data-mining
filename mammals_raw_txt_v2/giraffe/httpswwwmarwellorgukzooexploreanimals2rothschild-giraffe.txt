@@ -1,0 +1,37 @@
+ p id="headerLogo"  a href=" zoo " title="Marwell Zoo"  span class="spider"  strong Marwell Zoo  strong   span   a   p 
+ p An  a href=" zoo support adopt-an-animal" animal adoption  a  makes a unique and alternative gift.  p 
+ p  i class="fa fa-map-marker redText"   i  Head up the hill from the cheetahs and you'll find our giraffe house. Don't miss the walkway behind the house to get eye to eye! script type="text javascript" document.write(" br  a href=\"#\" onclick=\"return animalLocationMap('Rothschild giraffe',465,649);\" Show on map  i class='fa fa-angle-right'  \ i  \ a ");  script   p 
+ p  strong Status  strong  Endangered  p 
+ p  strong Size  strong  Males: 5 to 6m; Females: 4.5 to 5m  p 
+ p  strong Weight  strong  Males: 1500kg. Females: 1100kg   p 
+ p  strong Gestation  strong  15 months  p 
+ p  strong Young  strong  Usually 1 but twins occur on rare occasions  p 
+ p  strong Life span  strong  Less than 30 years in the wild, less than 40 years in captivity  p 
+ p Giraffe are browsers, eating mainly leaves. They feed from up to 93 different plant species, but often prefer to forage (look for food) in acacia trees. Giraffe do not need to drink water every day. They can survive for a long time without drinking because they get their water from their food and dew on the plants.  p 
+ p Giraffe are herbivores; they will feed on up to 100 different species of plants within their habitat, and will use their 45cm black tongue to bring the food in to their mouths.  p 
+ p Being so tall helps the giraffe to reach leaves that other plant eating animals cannot get to. Giraffe will get most of the moisture they need from their diet, but will need to drink every 2-3 days.  p 
+ p Giraffe are found in many countries in southern and eastern Africa, and in smaller populations in west and central Africa. The Rothschild subspecies are found in south Sudan, north Uganda and west Kenya. They live mainly in savannah and woodland habitats.  p 
+ p Giraffe are able to breed from about 4 years old. Their pregnancies last for 15 months. Newborn giraffes weigh about 100kg, are about 180cm tall and nearly double in height in their first year! Giraffe calves are ready to stand and suckle within an hour of being born. They are usually weaned by 12 months old, but can start eating solid food from a few weeks of age. Females with calves may get together and form a nursery. This means the mothers can take turns to feed while the calves play together.  p 
+ p Young giraffe are known to be hunted by lions, hyenas, leopards and wild dogs. Adult giraffe, with their strong legs and hooves, are capable of killing predators such as lions.  p 
+ p Giraffe can spot predators from up to a kilometre away, thanks to their long necks and excellent eyesight. Giraffe are often seen with other savannah species such as zebra and wildebeest, which may use them as an early warning system to detect danger.  p 
+ p Giraffe face a number of threats in the wild. These include habitat loss; civil unrest (such as ethnic violence and armed conflict) and illegal hunting for their meat and hide.   p 
+ p The way male giraffes fight is called ‘necking’. They swing their necks around to hit each other using their head and ossicones (horn like structures on their head).  p 
+ p The coat pattern of giraffe can vary between different subspecies, and each giraffe has a unique pattern, just like human fingerprints.  p 
+ p Giraffe can jump fences of 1.5 m in height!  p 
+ p Giraffe tongues can be up to 45cm long!  p 
+ p A giraffe’s neck is made up of 7 bones (vertebrae), the same number as most mammals including humans!  p 
+ p Check our  a href=" zoo tickets-experiences ticket-prices-and-offers" ticket prices  a  or...  p 
+ p  a class="nextButton softFullWidth" href=" booking "  strong Book tickets span class="inline lt-hide"  online  span   strong   a   p 
+ p id="footerStreetAddress" itemscope itemtype="http:  schema.org PostalAddress" 
+															 span itemprop="name" Marwell Wildlife  span ,
+															 span itemprop="addressLocality" Thompsons Lane, Winchester, Hampshire  span 
+															 span itemprop="postalCode" SO21 1JH  span .  p 
+ p id="footerCopyright" class="smallText" Marwell Wildlife is a registered charity, number 275433.
+															 br 
+															 a href="http:  www.redstation.com " target="_blank" Hosted by Redstation  a .
+															 br class="f-hide" © 2017 Marwell Wildlife.
+															 br class="f-hide" 
+															 a href="http:  www.semantic.co.uk " target="_blank" Site designed by Semantic  a .
+															 br class="f-hide" 
+															 a href="https:  www.flickr.com groups marwellphotographiccontributors " target="_blank" Photographic Contributors  a .
+														  p 

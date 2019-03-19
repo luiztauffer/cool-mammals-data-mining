@@ -1,0 +1,67 @@
+ p  strong LOCATION:   strong  a href=" ethiopia" Ethiopia  a   p 
+ p  strong GOAL:  strong  To halt poaching and reduce human-elephant conflict and other human pressures on the sanctuary  p 
+ p  strong ACTIONS:  strong  Supporting ranger patrols and strengthening law enforcement; constructing chilli pepper fences; working with district governments to reduce threats to the sanctuary, such as human settlement and agricultural expansion inside the sanctuary.  p 
+ p Elephants in Ethiopia, once widespread, have undergone a significant decline since the early 20th century. The country lost an estimated 90% of its elephants since the 1980s, and there are now thought to be only about 1,850-1900 individuals remaining.  p 
+ p Babile Elephant Sanctuary was established in 1970 to protect the most northeasterly ranging population of savannah elephants on the continent. The national park is over 7000km2; plenty of room, one would think, to effectively safeguard such a wide-ranging species.  p 
+ p However, Babile Elephant Sanctuary faces many challenges. Conflict, famine, and inadequate enforcement have led to human in-migration, settlement, and land conversion inside the sanctuary. This, in turn, has led to an escalation in poaching and human-elephant conflict.  p 
+ p Born Free is working to strengthen law enforcement and management at Babile Elephant Sanctuary, while also helping alleviate human-elephant conflict.  p 
+ p class="h2 black background text-white" UPDATE DIRECT TO YOUR INBOX  p 
+ p Sign up to get the latest Born Free news about our work and how you can help, delivered straight to your inbox.  p 
+ p class="h3 with-icon header-mb"  i class="fas fa-rss"   i  NEWS  p 
+ p 
+             a :href="props.record.uri" v-text="props.record.name"   a  br 
+             span v-text="props.record.excerpt"   span 
+          p 
+ p class="h3 with-icon header-mb"  i class="fab fa-twitter"   i  SOCIAL MEDIA  p 
+ p class="header-mb" FOLLOW US ON  p 
+ p 
+                © 2019 - Born Free Foundation br 
+                Broadlands Business Campus, Langhurstwood Road br 
+Horsham, West Sussex, RH12 4QP br 
+ br 
+The Born Free Foundation is a registered charity. br 
+(Charity Number: 1070906). Registered as a company limited by guarantee (Number 03603432) (England &amp; Wales). br 
+Registered office: Broadlands Business Campus, RH12 4QP
+              p 
+ p 
+
+        
+             a href=" contact" 
+                Contact
+              a  |
+        
+             a href=" annual-reports" 
+                Annual Reports
+              a  |
+        
+             a href=" report-animal-suffering" 
+                Captive Animal Report Form
+              a  |
+        
+             a href=" faqs" 
+                FAQs
+              a  |
+        
+             a href=" privacy-policy" 
+                Privacy Policy
+              a  |
+        
+             a href=" data-policy" 
+                Data Policy
+              a  |
+        
+             a href=" terms-and-conditions" 
+                Terms &amp; Conditions
+              a  |
+        
+             a href=" sitemap" 
+                Sitemap
+              a  |
+        
+             a href=" careers" 
+                Careers
+              a 
+        
+      p 
+ p 
+                Website by  PMW               p 

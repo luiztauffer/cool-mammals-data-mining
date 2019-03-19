@@ -1,0 +1,54 @@
+ p Earthwatchers explored the factors that have contributed to the decline of Grevy’s zebra in northern Kenya and Ethiopia.  p 
+ p class="no-side-margin" style="font-weight: bold;font-size: 14px;margin-bottom: 10px;" Have a question?  p 
+ p How would you prefer us to contact you?  p 
+ p style="font-size:95%" 
+  br      
+ span id="dnn_ctr15824_View_radContactType" class="normalRadioButton ctype_required_validation"  input id="dnn_ctr15824_View_radContactType_0" type="radio" name="dnn$ctr15824$View$radContactType" value="Email"  label for="dnn_ctr15824_View_radContactType_0" By Email  label  input id="dnn_ctr15824_View_radContactType_1" type="radio" name="dnn$ctr15824$View$radContactType" value="Phone"  label for="dnn_ctr15824_View_radContactType_1" By Phone  label   span 
+
+
+  p 
+ p class="first" Earthwatch researchers and volunteers spent years investigating the decline of Grevy’s zebras in Kenya’s Samburu area and providing key information for better conservation.  p 
+ p The current population of the endangered Grevy's zebra (Equus grevyi) is estimated at about 2,500, dramatically less than the estimated 15,000 in the 1970s. Since 2003, this project has studied Grevy's zebra in the southern Samburu area to monitor its population size and structure, use of space, interactions with humans, and the key threats it faces. We have also worked to help craft and implement conservation strategies and actions that will ensure the survival of this species.  p 
+ p 
+Initially, researchers believed that hunting and competition for resources with livestock were the primary threats to this species’ survival. However, we have learned that recurring droughts, along with disease and predation by lions, are the main factors limiting the recovery of this species. In addition, the impact of climate change is not clearly understood. The aim of this project is to gather information that will help to reverse the decline in Grevy's zebra.
+  p 
+ p The information we collected was useful to conservationists as they developed the land-use policy that helps protect Grevy’s zebra.  p 
+ p class="first" This project provided critical information to support conservation of Grevy’s zebra in protected areas, including Kenya’s Samburu National Park.  p 
+ p This research project increased understanding of the basic ecology of Grevy’s zebra, offering insights as to why their population has not expanded after hunting has ceased. By working with local communities and enlisting their support in gathering environmental data, we were able to share data on movements, aggregations, the impact of grazing on habitat, and the nature of livestock¬–wildlife interactions.  p 
+ p The information we collected was useful to conservationists as they developed the land-use policy that helps protect Grevy’s zebra and stimulate economic development in sustainable ways. In addition, the Kenya Wildlife Service, which oversees all aspects of wildlife conservation in Kenya, integrated the project’s findings with those of studies they are likely to undertake on Grevy’s zebra in protected areas. Drs. Paul Muoria and Nick Oguge are members of the National Grevy’s Zebra Technical Committee, which is charged with advising the Kenya Wildlife Service on conservation.  p 
+ p class="caption" The stripes of a Grevy's zebra can be used to identify individual animals.  p 
+ p This project has already had an impact on a local level. Many area conservation managers, teachers, and university students have gained training and work experience through internships and other field research opportunities with the project.  p 
+ p The Wamba area is in the Samburu East District of Kenya. Wamba is communally owned, and the nomadic Samburu pastoralists, their livestock, and wild animals live in close proximity. The area is rich in wildlife in addition to Grevy’s zebra, including elephant, gerenuk and various other antelopes, cheetah, lion, leopard, hyena, wild dog, birds, and an array of invertebrates. There are no fences to keep wildlife within certain areas, and human–wildlife conflict over critical resources (water, food, etc.) contributes to a greater dispersal of wildlife. However, there are several wildlife reserves and conservation areas in the vicinity.  p 
+ p 
+The town of Wamba is one of the larger population centers in Samburu and has been the base for Earthwatch operations since 2003. Wamba is a rural town with almost no tourism, although many tourists visit the nearby reserves. The people in and around Wamba live the traditional lifestyle of the Samburu people.
+  p 
+ p This is a summary:  p 
+ p Earthwatch scientists provided volunteers with training so that they could undertake the following activities in the field:  p 
+ p Conducting censuses of Grevy’s zebra, other wild animals, and livestock. Volunteers helped in collecting animal census data. Volunteers also helped take photographs to identify individual zebras, monitor the movements of zebras from tracks or from sightings, and record GPS locations. In addition, they recorded any sightings of predators they encountered.  p 
+ p Monitoring environmental conditions and resource availability. Rainfall and temperature were recorded daily at Wamba, collected from local communities and other sites when appropriate. Volunteers assisted with counting and measuring the size of erosion gullies, recording the abundance and frequency of zebra food plants, and estimating the abundance of invasive plants.  p 
+ p Data entry. Each volunteer entered and summarized the data he or she collected each day. Depending on the interest of individual volunteers, they may have participated in data analysis.  p 
+ p During their recreational day, volunteers had the option of taking part in cultural activities, visiting Samburu homesteads or schools, visiting Samburu National Park, hiking the Matthews Range, or resting at the project headquarters.
+  p 
+ p class="caption" Volunteers helped to conduct censuses of Grevy's zebra.  p 
+ p class="image-description" Research was shared with Samburu communities to improve management practices in reserves.  p 
+ p Earthwatch scientist Dr. Paul Muoria investigates the status, needs, and ecology of Kenya’s baboons, elephants, mangabeys, colobus monkeys, and Grevy’s zebras.   p 
+ p class="read-more" 
+    
+     a id="dnn_ctr15823_View_hlLeadScientistsPageLink" href="https:  earthwatch.org Scientific-Research Our-Scientists Paul-Kimata-Muoria" READ MORE +  a 
+      p 
+ p Camp consists of several simple buildings erected on a large clearing in Budongo Forest. You'll stay in a single room that contains a bed, beddings, mosquito net, reading desk and a chair. All rooms are connected to solar electricity. There are three pit latrines on site which are shared by all. You'll have access to a warm shower, every evening after a long day's work. Water used at camp is harvested off the roofs or taken from the Sonso River so frugal use is necessary.  p 
+ p Evening meals are prepared by cooks who will prepare dishes including rice, chapati, potatoes, spaghetti, beans, beef, fish, ground nuts (peanuts), cow peas, assorted fresh vegetables and fruits, eggs. There are other local foods such as cassava, stewed bananas (locally known as matooke) and maize bread (locally known as ugali or posho). Breakfast will be western style.  p 
+ p class="caption" Nam sollicitudin,  a href="#" this is a link example  a  libero id malesuada commodo, est turpis sodales nisi, sit  tincidunt felis nibh ac urna vivamus vel.  p 
+ p Please review this expedition. You may only review expeditions you have been on. br 
+You must be logged in to write a review.  p 
+ p class="participation theme-color" Have you been on this expedition?  p 
+ p class="no-side-margin" style="font-weight: bold;" Have a question?  p 
+ p id="comment-content-org"     p 
+ p id="selected-post-action-bar" 
+        
+          p 
+ p  Please  a id="dnn_ctr17696_CommentsAndQuestionsView_hflogin" href="https:  earthwatch.org LOGIN-TO-MY-EARTHWATCH?returnurl=%2fExpeditions%2fConserving-Grevys-Zebras-in-the-Samburu%23comments" login  a  to post a comment or question.  p 
+ p class="expedition-teaser" How can we best help African wildlife return to and thrive in their native habitat?   p 
+ p class="expedition-teaser" Even in a world-class protected area, wildlife needs our support. How are giraffes, elephants, and others faring? Held every two years - next in 2020.  p 
+ p class="expedition-teaser" Can inventive livestock management bring balance between lions, other predators, and prey back to the Kenyan savanna?  p 
+ p class="expedition-teaser" Explore interactions between people and chimpanzees and other primates in the rainforest of Uganda to improve human–primate relationships.  p 

@@ -1,0 +1,4 @@
+ p Ontario.ca needs JavaScript to function properly and provide you with a fast, stable experience. Please enable JavaScript or check your browser's settings.  p 
+ p Le site Ontario.ca exige JavaScript pour fonctionner comme il faut, avec rapidité et stabilité. Veuillez activer JavaScript ou vérifier les paramètres de votre navigateur.  p 
+ p lang="en"  You are using an outdated browser that is no longer supported by Ontario.ca.  br Outdated browsers lack safety features that keep your information secure, and they can also be slow.  br  a href=" page browsers" Learn about the browsers we support.  a    p 
+ p lang="fr" style="margin-bottom:0"  Vous utilisez un navigateur désuet qui n’est plus accepté par Ontario.ca.  br Les navigateurs désuets ne disposent pas de caractéristiques sécuritaires permettant d’assurer la sécurité de vos renseignements.  br  a href=" fr page navigateurs" En savoir plus sur les navigateurs que nous supportons.  a    p 

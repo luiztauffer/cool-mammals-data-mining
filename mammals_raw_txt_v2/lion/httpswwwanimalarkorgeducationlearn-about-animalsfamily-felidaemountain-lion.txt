@@ -1,0 +1,27 @@
+ p style="padding-left: 30px;" Kingdom:   em Animalia  em   p 
+ p style="padding-left: 30px;" Phylum:   em Chordata  em   p 
+ p style="padding-left: 30px;" Class:   em Mammalia  em   p 
+ p style="padding-left: 30px;" Order:   i Carnivora  i   p 
+ p style="padding-left: 30px;" Family:   i Felidae  i   p 
+ p style="padding-left: 30px;" Genus:   i Puma  i   p 
+ p style="padding-left: 30px;" Species:   em concolor  em   p 
+ p Due to persecution following the European colonization of the Americas and continuing human development of mountain lion habitat, populations have dropped in most parts of its historical range.  The Florida panther, eastern puma or cougar, and Costa Rican puma sub-species are listed as endangered by U. S. Fish and Wildlife Service.  International Union for the Conservation of Nature Status: Least Concern; population decreasing  p 
+ p Mountain lions are 5 to 9 feet long from nose to tip of tail, and stand about 2 to 2.5 feet tall at the shoulders.  They weigh anywhere from 65 to 160 pounds.  In rare cases, some may reach over 160 pounds.  Mountain lion size generally is smallest close to the equator and larger towards the poles.  Where mountain lion and jaguar populations coexist, average mountain lion size is reduced.  Despite its large size, it isn’t classified among the big cats because it cannot roar.  The name  i panther  i  is commonly used to refer  i Puma concolor  i , especially in the southeastern U.S.  However, there is no known melanistic morph of  i Puma concolor.  i   When someone is speaking of a “black panther” they are actually referring to a leopard or jaguar, depending upon geographic location.  p 
+ p Mountain lions range from the Yukon in Canada to the southern Andes of South America.  They have been extirpated in eastern North America, except an isolated sup-population in Florida.  An adaptable species, mountain lions are found in every American habitat type.  p 
+ p Mountain lions’ primary food sources include ungulates such as deer, elk, and bighorn sheep as well as domestic cattle, horses, and sheep.  They will also hunt species as small as rodents and insects.  Kills are generally estimated at around one large ungulate every two weeks.  p 
+ p Females reach sexual maturity between one-and-a-half and three years of age.  They average one litter every two to three years.  Gestation period is approximately 91 days.  Litters may include up to 6 cubs.  Cubs leave their mother and attempt to establish their own territory at around two years.  p 
+ p Like most cats, mountain lions are solitary animals.  Only mothers and kittens live in groups, with adults meeting only to mate.  Cougars are territorial and persist at low densities.  Territory sizes vary greatly – they can be as small as 10 square miles and as large as 500 square miles.  Scrape marks, urine, and feces are used to mark territory and attract mates.  Competition with other predators as well as availability of food, water, and mates determines actual territory size.  Cougars are apex predators, helping to stabilize prey populations and ecosystems.  p 
+ p   a class="fusion-read-more-button fusion-content-box-button fusion-button button-default button-large button-round button-flat" href=" memberships adopt-an-animal " target="_self" style="top: 21.5px; text_align:center;"  span class="fusion-button-text" Adopt  span   a   p 
+ p   a class="fusion-read-more-button fusion-content-box-button fusion-button button-default button-large button-round button-flat" href=" memberships " target="_self" style="top: 21.5px;text_align:center;"  span class="fusion-button-text" Membership  span   a   p 
+ p All funding for Animal Ark is provided through admissions, special grants, and donations from caring individuals like yourself.  p 
+ p  a class="fusion-read-more-button fusion-content-box-button fusion-button button-default button-large button-round button-flat" href="https:  www.paypal.com cgi-bin webscr?cmd=_s-xclick&amp;hosted_button_id=DQ3ZZQ94FZLKQ" target="_self" style="top: 21.5px;text_align:center;"  span class="fusion-button-text" Donate to Animal Ark  span   a   p 
+ p  a class="fusion-read-more-button fusion-content-box-button fusion-button button-default button-large button-round button-flat" style="top: 21.5px; text_align: center;" href="http:  trip-planner.visittheusa.com united-states reno animal-ark-a69859063" target="_self"  span class="fusion-button-text" Plan your trip with Inspirock   span   a   p 
+ p class="address" 1265 Deerlodge Road Reno, NV 89508  p 
+ p class="phone" Phone: 1-775-970-3111  p 
+ p class="web" Web:  a href="https:  maps.google.com maps?f=q&amp;hl=en&amp;geocode=&amp;q=Animal+Ark,+Reno+NV&amp;ie=UTF8&amp;ll=39.767381,-119.811401&amp;spn=0.701952,1.098633&amp;z=10&amp;iwloc=A&amp;om=0" 
+Get Directions   a   p 
+ p CLOSED FOR WINTER br 
+ a href=" tips-hours-and-directions " Hours  a  |  a href=" tips-hours-and-directions #Holidays" Holiday Schedule  a  br 
+Adults - $13 | Senior (62+) - $11 br Children (3 - 12) - $8.50 | Children (2 and under) - Free  p 
+ p Sign up to stay up to date with all things Animal Ark.   p 
+ p  span class="wpcf7-form-control-wrap your-email"  input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="EMAIL@ADDRESS.COM"   span   input type="submit" value="Sign Up" class="wpcf7-form-control wpcf7-submit"   p 

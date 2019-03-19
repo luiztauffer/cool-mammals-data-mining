@@ -1,0 +1,6 @@
+ p class="edition-picker__radio-button-label" Set edition preference:  p 
+ p class="edition-picker__radio-button-label" Set edition preference:  p 
+ p class="edition-picker__radio-button-label" Set edition preference:  p 
+ p class="metadata__byline"  span class="metadata__byline__author" By Bharati Naik and Marie-Louise Gumuchian, CNN  span   p 
+ p class="update-time" Updated 1357 GMT (2157 HKT) February 10, 2014  span id="js-pagetop_video_source" class="video__source top_source"   span   p 
+ p Chat with us in Facebook Messenger. Find out what's happening in the world as it unfolds.  p 

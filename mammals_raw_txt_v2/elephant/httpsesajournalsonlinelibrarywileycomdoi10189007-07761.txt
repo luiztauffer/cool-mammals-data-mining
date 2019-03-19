@@ -1,0 +1,41 @@
+ p class="author-type" Corresponding Author  p 
+ p 
+                 p 
+ p  span E-mail address:   span  a title="
+                            Link to email address
+                        " href="mailto:pringle@stanford.edu" pringle@stanford.edu  a   p 
+ p Department of Biological Sciences, Stanford University, Stanford, California 94305 USA  p 
+ p  span E-mail address:   span  a title="
+                            Link to email address
+                        " href="mailto:pringle@stanford.edu" pringle@stanford.edu  a   p 
+ p class="author-type" Corresponding Author  p 
+ p 
+                       p 
+ p  span E-mail address:   span  a title="
+                            Link to email address
+                        " href="mailto:pringle@stanford.edu" pringle@stanford.edu  a   p 
+ p Department of Biological Sciences, Stanford University, Stanford, California 94305 USA  p 
+ p  span E-mail address:   span  a title="
+                            Link to email address
+                        " href="mailto:pringle@stanford.edu" pringle@stanford.edu  a   p 
+ p 
+              p 
+ p Corresponding Editor: R. J. Marquis.  p 
+ p Give access  p 
+ p Share full text access  p 
+ p Use the link below to share a full-text version of this article with your friends and colleagues.  a href=" researchers tools-resources sharing" target="_blank" class="emphasis" Learn more.  a   p 
+ p Share a link  p 
+ p Ecologists increasingly recognize the ability of certain species to influence ecological processes by engineering the physical environment, but efforts to develop a predictive understanding of this phenomenon are in their early stages. While many believe that the landscape‐scale effects of ecosystem engineers will be to increase habitat diversity and therefore the abundance and richness of other species, few generalities exist about the effects of engineering at the scale of the engineered patch. According to one hypothesis, activities that increase structural habitat complexity within engineered patches will have positive effects on the abundance or diversity of other organisms. Here I show that, by damaging trees and increasing their structural complexity, browsing elephants create refuges used by a common arboreal lizard. Observational surveys and a lizard transplant experiment revealed that lizards preferentially occupy trees with real or simulated elephant damage. A second experiment showed that lizards vacate trees when elephant‐engineered refuges are removed. Furthermore, local lizard densities increased with (and may be constrained by) local densities of elephant‐damaged trees. This facilitative effect of elephants upon lizards via patch‐scale habitat modification runs contrary to previously documented negative effects of the entire ungulate guild on lizards at the landscape scale, suggesting that net indirect effects of large herbivores comprise opposing trophic and engineering interactions operating at different spatial scales. Such powerful megaherbivore‐initiated interactions suggest that anthropogenic changes in large‐mammal densities will have important cascading consequences for ecological communities.  p 
+ p class="volume-issue"  a href=" toc 19399170 2008 89 1"  span Volume  span  span class="val" 89  span ,  span Issue  span  span class="val" 1  span   a   p 
+ p January 2008  p 
+ p class="page-range"  span Pages  span  span  26-33  span   p 
+ p align="right" ESA Headquarters br 1990 M Street, NW br Suite 700 br 
+Washington, DC 20036 br phone 202-833-8773 br email:  a href="mailto:esajournals@esa.org" esajournals@esa.org  a   p 
+ p Your password has been changed  p 
+ p class="sub" Enter your email address below.   p 
+ p Please check your email for instructions on resetting your password.
+                    If you do not receive an email within 10 minutes, your email address may not be registered,
+                    and you may need to create a new Wiley Online Library account.  p 
+ p Can't sign in? Forgot your username?  p 
+ p class="sub" Enter your email address below and we will send you your username  p 
+ p If the address matches an existing account you will receive an email with instructions to retrieve your username  p 

@@ -1,0 +1,35 @@
+ p class="type-heading" 
+					 span class="journal-title" Nature  span 
+					 span class="divider" |  span 
+					 span class="type" News  span 
+				  p 
+ p Panda populations are rising, but the species has less living space today than three decades ago.  p 
+ p class="credit" Suzi Eszterhas Minden Pictures FLPA  p 
+ p class="caption" Giant panda habitats are being "sliced and diced" by new roads.  p 
+ p The number of giant pandas in the wild is reportedly on the rise, and satellite data suggest that a steady decline in the species' habitat has been halted. But the same study shows that the iconic species' living space is becoming more fragmented by roads, and that the panda still has less habitat today than three decades ago, when it was first listed as endangered.  p 
+ p In 2016, the International Union for Conservation of Nature (IUCN) downgraded giant pandas ( i Ailuropoda melanoleuca  i ) from endangered to vulnerable, on the basis of a 2011–14 population survey by the Chinese government that reported 1,864 adult pandas, up from 1,596 in the early 2000s. But in a brief communication published on 25 September in  i  a href="http:  dx.doi.org 10.1038 s41559-017-0317-1" Nature Ecology and Evolution  a   i  sup  a href="#b1" 1  a   sup , researchers warn Chinese officials not to be complacent.  p 
+ p “China has made a great effort for conservation,” says co-author Ouyang Zhiyun, an ecologist with the Chinese Academy of Sciences in Beijing. But he adds that this doesn’t mean the panda is out of danger.  p 
+ p The government's ground-based survey already hinted that the bears’  a href="http:  www.nature.com news experts-question-china-s-panda-survey-1.17020" habitat was fragmenting  a , with pandas living in 33 isolated populations compared to the previous count of 15. In the new study, Ouyang and colleagues used satellite data collected between 1976 and 2013 to measure changes in all available panda habitat in the six mountain regions in central China that comprise its range.  p 
+ p They found that the bamboo forests in which the pandas live shrank by 4.9% between 1976 and 2001, to about 55,500 square kilometres. From 2001 to 2013, they increased slightly, by 0.4%. But overall, there was 1.7% less habitat in 2013 than when the species was listed as endangered in 1988. The habitat that remains is indeed more fragmented, mostly because of road construction. During the study period, the number of habitat units isolated by major roads and rivers tripled (see  a href="#panda" 'Breaking Point'  a ). a name="panda"   a   p 
+ p class="credit" Source: W. Xu et al. Nature Ecol. Evol. http:  doi.org cdjr (2017)  p 
+ p The panda is now better off than it has been in decades, says co-author Stuart Pimm, a conservation ecologist at Duke University in Durham, North Carolina. Since 1999, the government has banned logging in many natural forests, and expanded the amount of bamboo forest protected in nature reserves. But other threats are worsening: “There are a lot more roads slicing and dicing panda habitat than there were 40 years ago.”  p 
+ p Ouyang concludes that the IUCN's decision to downgrade the panda's status to vulnerable was "too soon". But David Garshelis, a conservation biologist at the Minnesota Department of Natural Resources in Grand Rapids and co-chair of IUCN's Bear Specialist Group, disagrees. "Panda habitat has been increasing since 2001," he says. "There is simply no way to spin this as a bleak picture."  p 
+ p Panda experts agree that continued protection and expansion of habitat is crucial to prevent panda numbers from slipping again. The study authors suggest designating key habitats and the corridors of land that connect them as mandatory conservation areas, and building tunnels in corridor areas, rather than roads.  p 
+ p  span class="vcard author"  span class="fn" Xu, W.  span   span   i et al  i .  span class="source-title" Nature Ecol. Evol.  span   a href="http:  dx.doi.org 10.1038 s41559-017-0317-1" http:  dx.doi.org 10.1038 s41559-017-0317-1  a  ( span class="year" 2017  span ).  p 
+ p  time datetime="2015-02-28" pubdate  span class="time" 28 February 2015  span   time   p 
+ p  time datetime="2010-11-24" pubdate  span class="time" 24 November 2010  span   time   p 
+ p  time datetime="2006-06-20" pubdate  span class="time" 20 June 2006  span   time   p 
+ p class="not-logged-in" For the best commenting experience,  a href=" foxtrot svc login?type=commenting" please login or register as a user  a  and agree to our  a href=" info community-guidelines.html" Community Guidelines  a . You will be re-directed back to this page where you will see comments updating in real-time and have the ability to recommend comments to other users.  p 
+ p There are currently no comments.  p 
+ p style="margin-bottom:10px;margin-top:10px;line-height:1.5;font-family:Arial;font-size:12px;"  b What matters in science — and why — free in your inbox every weekday.  b   p 
+ p Our award-winning show features highlights from the week's edition of  i Nature  i , interviews with the people behind the science, and in-depth commentary and analysis from journalists around the world.  p 
+ p South China Normal University  p 
+ p The Scripps Research Institute - Florida  p 
+ p City University of Hong Kong  p 
+ p University of Toronto  p 
+ p University of Toronto  p 
+ p class="copyright" 
+			 br  br  br  br 
+			 small  a href=" info copyright_statement.html" © 2018 Macmillan Publishers Limited, part of Springer Nature. All Rights Reserved.   a   small 
+			 small partner of  a href=" info partners.html" AGORA, HINARI, OARE, INASP, CrossRef and COUNTER  a   small 
+		  p 

@@ -1,0 +1,165 @@
+ p  a data-behaviour="ga-event-breadcrumb" data-value="Homepage anchor" href=" " Home  a  span   span 
+ a data-behaviour="ga-event" data-value="secondary breadcrumb" href=" explore" Explore  a 
+ span   span 
+ a data-behaviour="ga-event" data-value="secondary breadcrumb" href=" explore language-questions" Language questions  a 
+ span   span 
+ a data-behaviour="ga-event" data-value="secondary breadcrumb" href=" explore language-questions questions-about-language" The English language  a 
+ span   span 
+ a data-behaviour="ga-event" data-value="secondary breadcrumb" href=" explore language-questions questions-about-language what-do-you-call-a-group-of" What do you call a group of ...?  a   p 
+ p Many of the following terms belong to 15th-century lists of 'proper terms', such as those in the  em Book of St Albans  em  attributed to Dame Juliana Barnes (1486). Some are fanciful or humorous terms which probably never had any real currency, but have been taken up by antiquarian writers, notably Joseph Strutt in  em Sports and Pastimes of England  em  (1801).  p 
+ p a  strong blush  strong  of boys  p 
+ p a  strong drunkship  strong  of cobblers  p 
+ p a  strong hastiness  strong  of cooks  p 
+ p a  strong stalk  strong  of foresters  p 
+ p an  strong observance  strong  of hermits  p 
+ p a  strong bevy  strong  of ladies  p 
+ p a  strong faith  strong  of merchants  p 
+ p a  strong superfluity  strong  of nuns  p 
+ p a  strong malapertness  strong  (= impertinence) of pedlars  p 
+ p a  strong pity  strong  of prisoners  p 
+ p a  strong glozing  strong  (= fawning) of taverners  p 
+ p a  strong shrewdness  strong  of apes  p 
+ p a  strong herd  strong  or  strong pace  strong  of asses  p 
+ p a  strong troop  strong  of baboons  p 
+ p a  strong cete  strong  of badgers  p 
+ p a  strong sloth  strong  of bears  p 
+ p a  strong swarm  strong  or  strong drift  strong  or  strong hive  strong  or  strong erst  strong  of bees  p 
+ p a  strong flock  strong  or  strong flight  strong  or  strong pod  strong  of birds  p 
+ p a  strong herd  strong  or  strong gang  strong  or  strong obstinacy  strong  of buffalo  p 
+ p a  strong bellowing  strong  of bullfinches  p 
+ p a  strong drove   strong of bullocks  p 
+ p an  strong army  strong  of caterpillars  p 
+ p a  strong clowder  strong  or strong  glaring  strong  of cats  p 
+ p a  strong herd  strong  or  strong drove  strong  of cattle  p 
+ p a  strong brood  strong  or  strong clutch  strong  or  strong peep  strong  of chickens  p 
+ p a  strong chattering  strong  or  strong clattering  strong  of choughs  p 
+ p a  strong rag  strong  or  strong rake  strong  of colts  p 
+ p a  strong covert  strong  of coots  p 
+ p a  strong herd  strong  of cranes  p 
+ p a  strong bask  strong  of crocodiles  p 
+ p a  strong murder  strong  of crows  p 
+ p a  strong litter  strong  of cubs  p 
+ p a  strong herd  strong  of curlew  p 
+ p a  strong cowardice  strong  of curs  p 
+ p a  strong herd  strong  or  strong mob  strong  of deer  p 
+ p a  strong pack  strong  or  strong kennel  strong  of dogs  p 
+ p a  strong school  strong  of dolphins  p 
+ p a  strong trip  strong  of dotterel  p 
+ p a  strong flight  strong  or  strong dole  strong  or  strong piteousness  strong  of doves  p 
+ p a  strong raft  strong  or  strong bunch  strong  or  strong paddling  strong  of ducks on water  p 
+ p a  strong safe  strong  of ducks on land  p 
+ p a  strong fling  strong  of dunlins  p 
+ p a  strong herd  strong  or  strong parade  strong  of elephants  p 
+ p a  strong gang  strong  or  strong herd  strong  of elk  p 
+ p a  strong busyness  strong  of ferrets  p 
+ p a  strong charm  strong  or  strong chirm  strong  of finches  p 
+ p a  strong shoal  strong  or  strong run  strong  of fish  p 
+ p a  strong swarm  strong  or  strong cloud  strong  of flies  p 
+ p a  strong skulk  strong  of foxes  p 
+ p a  strong gaggle  strong  of geese on land  p 
+ p a  strong skein  strong  or  strong team  strong  or  strong wedge  strong  of geese in flight  p 
+ p a  strong herd  strong  of giraffes  p 
+ p a  strong cloud  strong  of gnats  p 
+ p a  strong flock  strong  or  strong herd  strong  or  strong trip  strong  of goats  p 
+ p a  strong band  strong  of gorillas  p 
+ p a  strong pack  strong  or  strong covey  strong  of grouse  p 
+ p a  strong down  strong  or  strong mute  strong  or  strong husk  strong  of hares  p 
+ p a  strong cast  strong  of hawks  p 
+ p a  strong siege  strong  of herons  p 
+ p a  strong bloat  strong  of hippopotami  p 
+ p a  strong drove  strong  or  strong string  strong  or  strong stud  strong  or  strong team  strong  of horses  p 
+ p a  strong pack  strong  or  strong cry  strong  or  strong kennel  strong  of hounds  p 
+ p a  strong flight  strong  or  strong swarm  strong  of insects  p 
+ p a  strong fluther  strong  or  strong smack  strong  of jellyfish  p 
+ p a  strong mob  strong  or  strong troop  strong  of kangaroos  p 
+ p a  strong kindle  strong  or  strong litter  strong  of kittens  p 
+ p a  strong desert  strong  of lapwing  p 
+ p an  strong exaltation  strong  or a  strong bevy  strong  of larks  p 
+ p a  strong leap  strong  or  strong lepe  strong  of leopards  p 
+ p a  strong pride  strong  or  strong sawt  strong  of lions  p 
+ p a  strong tiding  strong  of magpies  p 
+ p a  strong sord  strong  or  strong suit  strong  of mallard  p 
+ p a  strong stud  strong  of mares  p 
+ p a  strong richesse  strong  of martens  p 
+ p a  strong labour  strong  of moles  p 
+ p a  strong troop  strong  of monkeys  p 
+ p a  strong barren  strong  of mules  p 
+ p a  strong watch  strong  of nightingales  p 
+ p a  strong yoke  strong  of oxen  p 
+ p a  strong pandemonium  strong  of parrots  p 
+ p a  strong covey  strong  of partridges  p 
+ p a  strong muster  strong  of peacocks  p 
+ p a  strong muster  strong  or  strong parcel  strong  or  strong rookery  strong  of penguins  p 
+ p a  strong head  strong  or  strong nye  strong  of pheasants  p 
+ p a  strong kit  strong  of pigeons flying together  p 
+ p a  strong litter  strong  or herd of pigs  p 
+ p a  strong stand  strong  or  strong wing  strong  or  strong congregation  strong  of plovers  p 
+ p a  strong rush  strong  or  strong flight  strong  of pochards  p 
+ p a  strong pod  strong  or  strong school  strong  or  strong herd  strong  or  strong turmoil  strong  of porpoises  p 
+ p a  strong covey  strong  of ptarmigan  p 
+ p a strong  litter   strong of pups  p 
+ p a  strong bevy  strong  or  strong drift  strong  of quail  p 
+ p a  strong string  strong  of racehorses  p 
+ p an  strong unkindness  strong  of ravens  p 
+ p a  strong crash  strong  of rhinoceros  p 
+ p a  strong bevy  strong  of roes  p 
+ p a  strong parliament  strong  or  strong building  strong  of rooks  p 
+ p a  strong hill  strong  of ruffs  p 
+ p a  strong pod  strong  or  strong herd  strong  or  strong rookery  strong  of seals  p 
+ p a  strong flock  strong  or  strong herd  strong  or  strong trip  strong  or  strong mob  strong  of sheep  p 
+ p a  strong dopping  strong  of sheldrake  p 
+ p a  strong wisp  strong  or  strong walk  strong  of snipe  p 
+ p a  strong host  strong  of sparrows  p 
+ p a  strong murmuration  strong  of starlings  p 
+ p a  strong flight  strong  of swallows  p 
+ p a  strong game  strong  of swans; a  strong wedge  strong  of swans in the air  p 
+ p a  strong drift  strong  or  strong herd  strong  or  strong sounder  strong  of swine  p 
+ p a  strong spring  strong  of teal  p 
+ p a  strong knot  strong  of toads  p 
+ p a  strong hover  strong  of trout  p 
+ p a  strong rafter  strong  of turkeys  p 
+ p a  strong bale  strong  or  strong turn  strong  of turtles  p 
+ p a  strong bunch  strong  or  strong knob  strong  or  strong raft  strong  of waterfowl  p 
+ p a  strong school   strong or  strong pod  strong  or  strong herd  strong  or  strong gam  strong  of whales  p 
+ p a  strong company  strong  or  strong trip  strong  of wigeon  p 
+ p a  strong sounder  strong  of wild boar  p 
+ p a  strong destruction  strong  of wild cats  p 
+ p a  strong team  strong  of wild ducks in flight  p 
+ p a  strong bunch  strong  or  strong trip  strong  or  strong plump  strong  or  strong knob  strong  (fewer than 30) of wildfowl  p 
+ p a  strong drift  strong  of wild pigs  p 
+ p a  strong pack  strong  or  strong rout  strong  of wolves  p 
+ p a  strong fall  strong  of woodcock  p 
+ p a  strong descent  strong  of woodpeckers  p 
+ p a  strong herd  strong  of wrens  p 
+ p a  strong zeal   strong of zebras  p 
+ p You can read more about collective nouns on the  a data-mce-href="http:  blog.oxforddictionaries.com 2012 08 collective-nouns " href="http:  blog.oxforddictionaries.com 2012 08 collective-nouns " Oxford Dictionaries blog  a . Here you will find more details about the history of collective nouns and their origins.  p 
+ p    p 
+ p See other FAQs about  a href="http:  en.oxforddictionaries.com questions-about-language" language  a .  p 
+ p Take a look at some  a href="http:  en.oxforddictionaries.com vocabulary-questions" vocabulary questions  a .  p 
+ p class="find_what_it_is" style="display:none"  a class="callToAction" data-behaviour="ga-event-wotd" data-value="find out what it means" href=" definition specie"  span class="eng" Find out what it means  span   a   p 
+ p class="privacy-policy-wotd"  a href="https:  global.oup.com privacy" target="_new" Click here to see our Privacy Policy.  a   p 
+ p class="word_of_the_day" Get word of the day by email  p 
+ p class="privacy-policy-wotd"  a href="https:  global.oup.com privacy" target="_new" Click here to see our Privacy Policy.  a   p 
+ p class="question-text" Which of the following is a type of monkey or ape?  p 
+ p class="question-text" Which of the following is a type of monkey or ape?  p 
+ p class="question-text" Which of the following is a type of monkey or ape?  p 
+ p class="question-text" Which of the following is a type of monkey or ape?  p 
+ p class="question-text" Which of the following is a type of monkey or ape?  p 
+ p class="question-text" Which of the following is a type of monkey or ape?  p 
+ p class="question-text" Which of the following is a type of monkey or ape?  p 
+ p class="question-text" Which of the following is a type of monkey or ape?  p 
+ p class="question-text" Which of the following is a type of monkey or ape?  p 
+ p class="question-text" Which of the following is a type of monkey or ape?  p 
+ p  span Most popular in the world  span   p 
+ p Stay up to date with our latest news and receive new words updates, blog posts, and more.  p 
+ p class="privacy-policy"  a href="https:  global.oup.com privacy" target="_new" Click here to see our Privacy Policy.  a   p 
+ p class="privacy-policy"  a href="https:  global.oup.com privacy" target="_new" Click here to see our Privacy Policy.  a   p 
+ p One of the mysteries of the English language finally explained.  p 
+ p Some advice to nail your writing assignments.  p 
+ p How to get prepositions right in a heartbeat.  p 
+ p In this article we explore how to impress employers with a spot-on CV.  p 
+ p Archaic words have a charm that never fades away, from French sounding to wondrously mysterious ones.   p 
+ p Find Out More  p 
+ p Follow  p 
+ p More from Oxford Dictionaries  p 
+ p class="copyright" © 2019 Oxford University Press  p 

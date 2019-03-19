@@ -1,0 +1,17 @@
+ p class="deal-info" Save 84% off the newsstand price!  p 
+ p Many of the poster animals of Australia—kangaroos, koalas, wombats and wallabies, to name a few—are  a href="http:  en.wikipedia.org wiki Marsupial" marsupials  a , animals best known for carrying around their young in a pouch. Marsupials can also be found in the Americas; in the United States, the Virginia opossum is the only one, but there are dozens of species in Central and South America.  p 
+ p Scientists trying to draw the marsupial family tree have been perplexed by contradictory evidence: DNA studies suggested that the Australian branch was an offshoot of South American animals that migrated to Australia when the two continents were connected and part of  a href="http:  en.wikipedia.org wiki Gondwanaland" Gondwana  a . Fossil studies, though, seemed to show that some of the Australian marsupials had made their way back to South America.  p 
+ p In a  a href="http:  www.plosbiology.org article info%3Adoi%2F10.1371%2Fjournal.pbio.1000436" new study in  em PLoS Biology  em   a , researchers from Germany set out to make a marsupial family tree using  a href="http:  en.wikipedia.org wiki Retroposon" retroposons  a , a kind of jumping gene—pieces of DNA that are copied and pasted at random within the genome. The more closely related two species are, the more retroposons they will share.  p 
+ p Comparing the retroposons of the 21 marsupials showed that they all shared 10 jumping genes, thus confirming that they shared one ancestor. But the South American and Australian marsupials formed distinct groups; the Australians shared retroposons that their South American relatives lacked. The researchers were also able to determine that the South American branch was older (meaning that the Australian marsupials had come from South America) because the South Americans lacked two retroposons shared by everyone in the Australian branch.  p 
+ p  em Check out the entire collection of Surprising Science’s Pictures of the Week on our   em  em  a href="http:  www.facebook.com home.php?ref=home# pages Surprising-Science 37898107434" Facebook page  a .  em   p 
+ p Sarah Zielinski is an award-winning science writer and editor. She is a contributing writer in science for Smithsonian.com and blogs at Wild Things, which appears on Science News.   p 
+ p class="deal-info" Save 84% off the newsstand price!  p 
+ p class="actions" 
+             button type="submit" class="btn btn-primary magazine-signup-form-subscribe-button" Subscribe  button 
+             span class="or-opt" or  span 
+             a href="https:  subscribe.smithsonianmag.com gift.php?idx=246&amp;inetz=www-page-subscription-form&amp;ipromo=%7Cperm%7Cgift%7C%7Cbanner%7Cm%7Cembedded-form%7C338x440%7C" class="gift-cta" Give a Gift  a 
+          p 
+ p class="lead" Get the best of Smithsonian.com by email. Keep up-to-date on:  p 
+ p class="actions" style="margin-top: 0;" 
+         button type="submit" class="btn-secondary" Sign up  button 
+      p 

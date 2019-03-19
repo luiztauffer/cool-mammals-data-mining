@@ -1,0 +1,32 @@
+ p Wild hedgehogs are now in decline in some countries, so it’s a privilege to have one visiting your garden.  p 
+ p How you can help a hedgehog visiting your garden:  p 
+ p – Hedgehogs need a route in and out of your garden so that they can find food throughout the night. So, if you have a fence or wall then there should be a gap of about 12cm for the hedgehog to squeeze through.  p 
+ p – Dedicate a corner of your garden to hedgehogs. Leave it wild with piles of leaves, dry wood, branches, logs. These are an attractive nest as well as a home for the invertebrates that hedgehogs like to eat. Wild garden areas give hedgehogs the chance to find shelter, bring up young and hibernate.  p 
+ p – Provide them water and food: hedgehogs get hungry and can travel 1-2 km each night in search of food. Milk and bread can make hedgehogs sick, so stick to a dish of fresh water, meat-based cat dog food (but no fish),chopped unsalted peanuts, sunflower hearts, hedgehog food found in garden centres and pet shops.  p 
+ p If there are hedgehogs around they will come to know where there is a reliable source of food. If you want to keep them around make sure you do this every day; you could supply a feeding station and maybe a house as well. If you’re lucky one may stay.  p 
+ p Thank you for watching!  p 
+ p class="comment-notes"  span id="email-notes" Your email address will not be published.  span  Required fields are marked  span class="required" *  span   p 
+ p class="comment-form-comment"  label for="comment" Comment  label   textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"   textarea   p 
+ p class="comment-form-author"  label for="author" Name  span class="required" *  span   label   input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"   p 
+ p class="comment-form-email"  label for="email" Email  span class="required" *  span   label   input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"   p 
+ p class="comment-form-url"  label for="url" Website  label   input id="url" name="url" type="text" value="" size="30" maxlength="200"   p 
+ p class="form-submit"  input name="submit" type="submit" id="submit" class="submit" value="Post Comment"   input type="hidden" name="comment_post_ID" value="97" id="comment_post_ID" 
+ input type="hidden" name="comment_parent" id="comment_parent" value="0" 
+  p 
+ p In 1925 a deadly diphtheria epidemic strikes down the city of Nome,…  p 
+ p On 3 November 1957, Laika, a stray dog from the streets of…  p 
+ p A fun way of making a simple cat house.  p 
+ p Wild hedgehogs are now in decline in some countries, so it’s a…  p 
+ p Placing a feeder in your garden and offering birds nutritious food will…  p 
+ p style="text-align: center; "  a style="background-color: #e6a21e; border-color: #c68610; padding: 5px 30px;  color: #fff; " class="button large" href="https:  www.howlofadog.org make-a-donation " DONATE  a   p 
+ p 
+  p 
+ p style="display:none;" id="success" 
+			Your message was successfully sent.  strong Thank You!  strong 		  p 
+ p Howl Of A Dog Organization br 
+Resita, Romania br 
+Registration Number 33570458  p 
+ p IBAN: RO 04 RNCB 0100 1431 2707 0001 br 
+BIC SWIFT: RNCBROBU br 
+BCR BANK, Romania  p 
+ p © 2014 - 2019 Howl Of A Dog. All rights reserved.  p 

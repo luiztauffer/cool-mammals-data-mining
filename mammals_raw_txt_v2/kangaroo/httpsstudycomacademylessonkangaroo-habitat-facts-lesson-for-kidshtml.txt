@@ -1,0 +1,66 @@
+ p Lori has a master's degree in creative writing and has taught all subjects at the 5th grade level as well as tutoring 1st- 5th grade students in all subjects  p 
+ p class="nowrap" style="font-style: italic" Want to watch this again later?  p 
+ p  span class="nowrap" Log in or sign up to add this  span   span class="nowrap" lesson to a Custom Course.  span   p 
+ p class="nowrap"  a href=" academy login.html" data-cname="cust_courses_lesson_cta_login" test-id="cust_courses_lesson_cta_login" Login  a   span style="padding: 0 1em; font-size: smaller" or  span   a data-toggle="modal" href="#partialRegFormModal" data-cname="cust_courses_lesson_cta_register" test-id="cust_courses_lesson_cta_register" class="open-reg-form" Sign up  a   p 
+ p Imagine what it would be like if you were suddenly transferred to a different school where you didn't know anyone, and the building was large and unfamiliar. You would no longer be in your natural habitat, and you would have to learn how to manage in a new environment. It would take you a while to learn your way around and to find what you need for your daily life. Animals respond the same way when they are away from their natural habitats: they have to learn to adjust, or they won't be able to survive on their own.   p 
+ p A  b habitat  b  is a natural home for an animal or even a person. It is the location or type of place they came from and where they are comfortable and able to live their lives naturally. A habitat has to provide all of the things an animal needs, or it will have to move on to another area. Kangaroos are particularly good at finding what they need in very different types of environments.   p 
+ p Kangaroos have the same basic needs as every other living creature: water, food, and shelter. In their natural habitats, they have learned how to fulfill those needs.   p 
+ p Most kangaroos can be found in Australia and its surrounding islands, but not all kangaroos enjoy the same type of environment. Within the continent of Australia, there are three different regions in which different types of kangaroos make their homes. The center of the continent is made up of desert, which is surrounded by the  b savanna  b  areas. On the outer edges of the continent's eastern coast, there's a more  b tropical  b  region.   p 
+ p Keeping in mind the need for water, food, and shelter, the desert doesn't seem to be a very good habitat for any kind of creature. However, some kangaroos have adapted to the extreme temperatures of the area and are able to keep themselves cooler more successfully than many other animals.   p 
+ p The kangaroos that live in the desert use the shrubs and scattered trees as shelter during the heat of the day, and forage for food in the wide-open spaces at night. This habitat covers the majority of Australia and includes large areas of scrubland, grassland, and desert.   p 
+ p class="actionMessage" Get access risk-free for 30 days,
+			 br just create an account.  p 
+ p  em No obligation, cancel anytime.  em   p 
+ p  em Select a subject to preview related courses:  em   p 
+ p Another reason kangaroos have been able to thrive in this desert region is because of the water sources created over the centuries by Aboriginal and European Australians. The Aboriginal people were especially good at looking for clues for nearby groundwater that they could get to by digging a water tunnel.   p 
+ p The savanna woodlands of Australia make up another habitat for some types of kangaroos. During the heat of the day, they stay under the cover of the eucalyptus trees and only come out to graze in the open areas in the evening and throughout the night. Often, groups of kangaroos, called mobs, can be found on the sides and tops of small hills as well as on the floodplains of major rivers and areas with permanent water.   p 
+ p Located on the east coast of Australia, kangaroos inhabit the densely wooded tropical territories with heavy rainfall. However, like the kangaroos in the desert and savanna, they venture out into the open to graze.   p 
+ p All kangaroos are very adaptable to their environments, whether it is a  b tropical  b ,  b savanna  b , or desert area. However, some have had to move to areas where they have never lived before in order to find all of the elements of a good  b habitat  b , including access to food, water, and shelter.  p 
+ p 
+				    span class="icon-unlock"   span 
+				   To unlock this lesson you must be a Study.com Member.
+				    br class="visible-xs" 
+
+				    a data-toggle="modal" href="#partialRegFormModal" data-cname="transcript_create_your_account" test-id="transcript_create_your_account" data-track-visible class="open-reg-form" Create your account  a 
+			     p 
+ p class="login-text" Already a member?  a data-cname="transcript_log_in" test-id="transcript_log_in" href=" academy login.html" Log In  a   p 
+ p class="login-text" 
+		Already registered?
+		
+		 a href=" academy login.html?cta=teacherPromo" class="standardLink" data-cname="teacher-promo-paywall__login" test-id="teacher-promo-paywall__login" 
+			Login here for access
+		  a 
+	  p 
+ p Did you know… We have over 160 college
+						courses that prepare you to earn
+						credit by exam that is accepted by over 1,500 colleges and universities. You can test out of the
+						first two years of college and save thousands off your degree. Anyone can earn
+						credit-by-exam regardless of age or education level.  p 
+ p To learn more, visit our  a href=" academy try earn-college-credit.html" data-cname="earning_credit_link" test-id="earning_credit_link" Earning Credit Page  a   p 
+ p Not sure what college you want to attend yet? Study.com has thousands of articles about every
+							imaginable degree, area of
+							study
+							and career path that can help you find the school that's right for you.  p 
+ p Get the unbiased info you need to find the right school.  p 
+ p Browse an area of study or degree level.  p 
+ p class="visible-xs"  span class="icon-arrow-left"   span  Back To Course  p 
+ p 
+							  span class="numChapters" 34  span  chapters |
+							  span class="numLessons" 317  span  lessons
+							 
+						  p 
+ p Next Lesson  p 
+ p ©  copyright 2003-2019 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		  p 
+ p Your Cart is Empty. Please Choose a Product.  p 
+ p Study.com video lessons have helped over  em class="red bold" 30 million  em 
+										students.  p 
+ p "I learned more in  em class="teal bold" 10 minutes  em  than 1 month of chemistry classes"  p 
+ p - Ashlee P.  p 
+ p "I aced the CLEP exam and earned  em class="green bold" 3 college credits!  em "  p 
+ p - Clair S.  p 
+ p test-id="testimonial_control_text" "The videos have changed the way I teach! The videos on Study.com accomplish in
+							 em class="red bold" 5 minutes  em  what would take me an entire class."  p 
+ p - Chris F.  p 

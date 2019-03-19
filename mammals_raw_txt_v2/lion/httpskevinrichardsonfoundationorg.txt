@@ -1,0 +1,103 @@
+ p style="text-align: center;"  span style="font-weight: 400;" FUNDS RAISED BY THE KEVIN RICHARDSON FOUNDATION WILL BE INVESTED INTO FOUR KEYS AREAS:  span   p 
+ p style="text-align: center;" key tracts of land to protect and expand natural habitats for lions as well as other wildlife species  p 
+ p  a href="https:  kevinrichardsonfoundation.org our-mission #aap" class="small-button smallblack" Read More  a 
+						  p 
+ p style="text-align: center;" communities surrounding conservation areas and support other like-minded organisations  p 
+ p  a href="https:  kevinrichardsonfoundation.org our-mission #eap" class="small-button smallblack" Read More  a 
+						  p 
+ p   a href="https:  kevinrichardsonfoundation.org our-mission #cac" class="small-button smallblack" Read More  a 
+						  p 
+ p style="text-align: center;" the Kevin Richardson Wildlife Sanctuary and help bring an end to canned lion hunting  p 
+ p  a href="https:  kevinrichardsonfoundation.org our-mission #map" class="small-button smallblack" Read More  a 
+						  p 
+ p Learn about Kevin’s sanctuary and how you can get involved  p 
+ p Everything you didn’t know that you NEED to know  p 
+ p  span id="cs-slider-shortcode"  div style="display: none;" class="crellyslider-slider crellyslider-slider-fixed crellyslider-slider-quotation_banner" id="crellyslider-4" 
+ ul 
+ li style="
+background-color: #8a9e42;
+background-image: none;
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+
+" data-in="fade" data-ease-in="600" data-out="fade" data-ease-out="600" data-time="8000" 
+ div class="quotation_section" style="z-index: 1;
+
+" data-delay="0" data-ease-in="300" data-ease-out="300" data-in="fade" data-out="fade" data-ignore-ease-out="0" data-top="25" data-left="0" data-time="all"  div class="quotation_banner“" 
+ p class="testi_content" "I always wanted to get involved in wildlife conservation but did not know how. Visiting Kevin’s sanctuary and meeting him changed my life. Here is someone caring and determined, with the ability to inspire people of all ages and from all walks of life.”  p 
+ p class="testi_author" Caroline Edmonds, Founding Donor  p 
+  div   div 
+  li 
+ li style="
+background-color: #8a9e42;
+background-image: none;
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+
+" data-in="fade" data-ease-in="600" data-out="fade" data-ease-out="600" data-time="8000" 
+ div class="quotation_section" style="z-index: 1;
+
+" data-delay="0" data-ease-in="300" data-ease-out="300" data-in="fade" data-out="fade" data-ignore-ease-out="0" data-top="25" data-left="0" data-time="all"  div class="quotation_banner“" 
+ p class="testi_content" style="text-align: left; line-height: inherit;" “No wild animal should be kept in captivity and canned lion hunting should be declared illegal. I willingly lend my influence to rekindle respect for lions and the African wilderness they so beautifully inhabit in the hope that this is the ultimate guarantee for their survival.”  p 
+ p class="testi_author" style="text-align: right; line-height: inherit;" HSH Princess Charlene of Monaco  p 
+  div   div 
+  li 
+ li style="
+background-color: #8a9e42;
+background-image: none;
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+
+" data-in="fade" data-ease-in="600" data-out="fade" data-ease-out="600" data-time="4000" 
+ div class="quotation_section" style="z-index: 1;
+
+" data-delay="0" data-ease-in="300" data-ease-out="300" data-in="fade" data-out="fade" data-ignore-ease-out="0" data-top="25" data-left="0" data-time="all"  div class="quotation_banner" 
+ p class="testi_content" “To lose one of the planet’s most significant and iconic species in a single generation this way would be a tragedy.”  p 
+ p class="testi_author" Kevin Richardson  p 
+  div   div 
+  li 
+  ul 
+  div 
+ script type="text javascript" 
+(function($) {
+$(document).ready(function() {
+$("#crellyslider-4").crellySlider({
+layout: 'fixed',
+responsive: 1,
+startWidth: 600,
+startHeight: 200,
+automaticSlide: 1,
+showControls: 0,
+showNavigation: 0,
+enableSwipe: 1,
+showProgressBar: 0,
+pauseOnHover: 1,
+randomOrder: 0,
+startFromSlide: 0,
+beforeStart : function() {},
+beforeSetResponsive : function() {},
+beforeSlideStart : function() {},
+beforePause	: function() {},
+beforeResume : function() {},
+});
+});
+})(jQuery);
+  script 
+  span   p 
+ p class="testi_content" "I always wanted to get involved in wildlife conservation but did not know how. Visiting Kevin’s sanctuary and meeting him changed my life. Here is someone caring and determined, with the ability to inspire people of all ages and from all walks of life.”  p 
+ p class="testi_author" Caroline Edmonds, Founding Donor  p 
+ p class="testi_content" style="text-align: left; line-height: inherit;" “No wild animal should be kept in captivity and canned lion hunting should be declared illegal. I willingly lend my influence to rekindle respect for lions and the African wilderness they so beautifully inhabit in the hope that this is the ultimate guarantee for their survival.”  p 
+ p class="testi_author" style="text-align: right; line-height: inherit;" HSH Princess Charlene of Monaco  p 
+ p class="testi_content" “To lose one of the planet’s most significant and iconic species in a single generation this way would be a tragedy.”  p 
+ p class="testi_author" Kevin Richardson  p 
+ p  strong SITE NAV  strong   p 
+ p  span style="color: #ffffff;"  a style="color: #ffffff;" href="https:  kevinrichardsonfoundation.org our-mission "  strong OUR MISSION  strong   a   span  br  span style="color: #ffffff;"  a style="color: #ffffff;" href="https:  kevinrichardsonfoundation.org about-kevin-richardson "  strong  KEVIN RICHARDSON  strong   a   span  br  span style="color: #ffffff;"  a style="color: #ffffff;" href="https:  kevinrichardsonfoundation.org directors "  strong  WHO WE ARE  strong   a   span  br  span style="color: #ffffff;"  a style="color: #ffffff;" href="https:  kevinrichardsonfoundation.org patron "  strong  PATRON  strong   a   span  br  span style="color: #ffffff;"  a style="color: #ffffff;" href="https:  kevinrichardsonfoundation.org ambassadors "  strong  AMBASSADORS  strong   a   span   p 
+ p  strong SUPPORT OUR MISSION  strong  br  a href="https:  kevinrichardsonfoundation.org donate " style="color: #ffffff;"  strong DONATE  strong   a  br  a href="https:  kevinrichardsonfoundation.org resources " style="color: #ffffff;"  strong  RESOURCE LIBRARY  strong   a  br  a href="https:  kevinrichardsonfoundation.org sanctuary-lions " style="color: #ffffff;"  strong  SANCTUARY LIONS  strong   a  br  a href="https:  kevinrichardsonfoundation.org status-of-lions " style="color: #ffffff;"  strong  STATUS OF LIONS  strong   a   p 
+ p  strong CONTACTS  strong   p 
+ p  strong style="font-size: 14px;"  span style="color: #8a9e42;" ADDRESS:  span   strong  span style="font-size: 13px;"  P.O. Box 1017, Derdepark, Pretoria South Africa, 0035  span   p 
+ p  span style="color: #8a9e42;"  strong Email:  strong   span   span style="text-decoration: underline;"  span style="color: #ffffff;"  a style="color: #ffffff; text-decoration: underline;" href="mailto:info@kevinrichardsonfoundation.org" info@kevinrichardsonfoundation.org  a   span   span  br  strong  span style="color: #8a9e42;" Website:  span   strong   span style="text-decoration: underline;"  span style="color: #ffffff;"  a style="color: #ffffff; text-decoration: underline;" href="https:  kevinrichardsonfoundation.org" www.kevinrichardsonfoundation.org  a   span   span   p 
+ p © The Kevin Richardson Foundation NPC 2004 015375 08  p 
+ p  span style="color: #ffffff;"  a style="color: #ffffff;" href="https:  kevinrichardsonfoundation.org terms-of-use " Terms of Use  a   span   span style="color: #ffffff;"  a style="color: #ffffff;" href="https:  kevinrichardsonfoundation.org private-policy " Private Policy  a   span   p 

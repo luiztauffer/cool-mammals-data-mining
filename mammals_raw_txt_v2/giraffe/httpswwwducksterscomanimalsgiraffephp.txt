@@ -1,0 +1,3 @@
+ p align="center"  img src="giraffe2.jpg" width="120" alt="Giraffe Head" border="0" align="" 
+			  p 
+ p Back to  a href=" animals.php"  strong Animals  strong   a   p 

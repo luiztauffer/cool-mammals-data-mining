@@ -1,0 +1,54 @@
+ p New research led by Western Sydney University Stress Lab's Dr. Edward Narayan, has found the psychological state of wild koalas and the location they are rescued from, can have significant impacts on their chances of recovery and rehabilitation.
+                                  p 
+ p The research, which used faecal sampling to assess rescued  a href="https:  phys.org tags koalas " rel="tag" class="textTag" koalas  a  admitted to the Adelaide Koala and Wildlife Hospital in South Australia between 2015 and 2016, focused on quantifying the stressors experienced by koalas in the wild such as trauma and disease.  p 
+ p "Koalas are often rescued without obvious signs of injury such as burns or injuries from animal attacks or car accidents—but that doesn't mean these animals aren't harbouring  a href="https:  phys.org tags physiological+stress " rel="tag" class="textTag" physiological stress  a  that could impact on their recovery," said Dr. Narayan.  p 
+ p The study, published in  i Frontiers in Endocrinology  i , represents the first time physiological stress has been assessed in wild rescued koalas.  p 
+ p "Different levels and causes of stress were recorded in koalas rescued from both semi-rural and  a href="https:  phys.org tags urban+environments " rel="tag" class="textTag" urban environments  a .  p 
+ p "Notably, koalas in semi-rural areas recorded higher levels of stress compared to their urban counterparts, with road collision the leading cause of stress here.  p 
+ p "Although it may seem odd, koalas, especially those living in green-urban spaces can be far more resourceful—and learn to adapt to humans early on. Koalas living in rural environments are more likely to struggle with resource reduction associated with human-induced environmental change," said Dr. Narayan.  p 
+ p It is more urgent than ever before to provide koalas with access to food trees, shade and ecological networks so that they can continue to survive without undue stress.  p 
+ p The study also confirmed a link between physiological stress responses and koala habitats, types of prior stress experienced and the clinical treatment they receive, highlighting the importance of ongoing monitoring of rescued koalas to improve their  a href="https:  phys.org tags clinical+care " rel="tag" class="textTag" clinical care  a  and ongoing management.
+                                                                  p 
+ p class="news-relevant" itemscope itemtype="http:  schema.org WebPage" 
+                                         a href="#" id="inl-rel-href"  img class="toolsicon ic-rel" src="https:  cf3e497594.site.internapcdn.net tmpl v5 img 1x1.gif" width="14" height="16" alt=""   a 
+                                         b Explore further:  b  
+                                         a itemprop="relatedLink" href="https:  phys.org news 2019-02-koalas-city-life-trees-safe.html" Koalas can learn to live the city life if we give them the trees and safe spaces they need  a 
+                                      p 
+ p 
+                                                     b Provided by:  b 
+                                                                                                             a rel="news" class="textTag" href="https:  phys.org partners western-sydney-university " Western Sydney University  a 
+                                                         a rel="news" href="https:  phys.org partners western-sydney-university " class="extra"  img width="25" height="25" title="search and more info" alt="search and more info" class="toolsicon isrc" src="https:  cf3e497594.site.internapcdn.net tmpl v5 img img-dot.gif"   a 
+						                                                         
+                                                         a target="_blank" href="https:  www.westernsydney.edu.au " class="extra"  img width="25" height="25" title="website" alt="website" class="toolsicon iwbs" src="https:  cf3e497594.site.internapcdn.net tmpl v5 img img-dot.gif"   a 
+                                                                                                      p 
+ p Australia is one of the world's most highly urbanised nations – 90% of Australians live in cities and towns, with development concentrated along the coast. This poses a major threat to native wildlife such as the koala, ...  p 
+ p Koalas are under a lot of stress. Heatwaves, land clearing and even noise pollution are all taking a toll.  p 
+ p A new test for detecting multiple parasites in koalas has been developed by a Perth veterinarian and post-doctoral scientist.  p 
+ p Two of the three koalas at a top Belgian zoo have died in the space of a month, officials said Tuesday while rejecting fears of an "epidemic" among the Australian marsupials.  p 
+ p As we swelter through the hot Australian summer, Western Sydney University researchers have provided an insight into the broad ranging physiological effects of summer heatwaves on animals.  p 
+ p Koalas are one of Australia's iconic animals, but they have been hard hit by an epidemic of Chlamydia infections contributing to a steep decline in numbers. Sick koalas brought to wildlife hospitals may be treated with antibiotics ...  p 
+ p Light driven movement is challenging in nonliquid environments as micro-sized objects can experience strong dry adhesion to contact surfaces and resist movement. In a recent study, Jinsheng Lu and co-workers at the College ...  p 
+ p Researchers at Caltech have designed a way to levitate and propel objects using only light, by creating specific nanoscale patterning on the objects' surfaces.  p 
+ p European astronomers have investigated a recently discovered hard X-ray transient known as IGR J17503-2636 using space observatories. Results of this study, presented in a paper published March 7 on the arXiv pre-print server, ...  p 
+ p The Abel Prize in mathematics was on Tuesday awarded to Karen Uhlenbeck of the United States for her work on partial differential equations, the first woman to win the award, the Norwegian Academy of Science and Letters said.  p 
+ p For many of us, birds are an interesting distraction or a sign of spring. For Fran Bonier and her former master's student Amelia Cox, bird populations provide vital data about the health of the world. Their new research adds ...  p 
+ p A pair of researchers, one with the Institute of Management and Economics at Clausthal University of Technology, the other the Department of Earth and Environment at Boston University, has found evidence that suggests oil ...  p 
+ p Nanoparticles composed of nickel and iron have been found to be more effective and efficient than other, more costly materials when used as catalysts in the production of hydrogen fuel through water electrolysis.  p 
+ p 
+                        Please  a href="https:  sciencex.com profile login " sign in  a  to add a comment.
+                        Registration is free, and takes less than a minute.
+                         a href="https:  sciencex.com help account " Read more  a 
+                  p 
+ p  input type="email" required="" placeholder="email" data-required="1" maxlength="128" size="10" id="email" name="email" 
+                                  p 
+ p  input type="password" required="" placeholder="password" data-required="1" maxlength="128" size="10" id="passwd" name="passwd" 
+                                 input type="hidden" value="login" name="status" 
+    
+                                  p 
+ p 
+                                         span class="float-right" id="cmPrThr"   span 
+                                         input type="submit" value="Sign in" name="loginsubmit" id="login-submit" class="com-button" 
+                                  p 
+ p class="centered" Enter your Science X account credentials  p 
+ p Connect  p 
+ p class="copyright" © Phys.org 2003 - 2019,  a rel="nofollow" href="https:  sciencex.com " Science X network  a   p 

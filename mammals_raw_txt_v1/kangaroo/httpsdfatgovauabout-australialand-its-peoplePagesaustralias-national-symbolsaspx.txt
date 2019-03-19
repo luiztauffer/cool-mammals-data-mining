@@ -1,0 +1,47 @@
+ p class="subtitle" 
+                                         style 
+#tagline, #tagline .subtitle 
+  style 
+
+                                      p 
+ p 
+               em innovationXchange  em  is DFAT's development innovation hub.  p 
+ p A celebration of Australia delivered in a country or region of strategic significance.  p 
+ p Ensuring Australia continues to build soft power and exercise influence effectively.  p 
+ p To help Australians avoid difficulties overseas, we maintain travel advisories for more than 170 destinations.  p 
+ p The Australian Passport Office and its agents are committed to providing a secure, efficient and responsive passport service for Australia.  p 
+ p The information you provide will help us contact you in an emergency.  p 
+ p The stars of the Southern Cross represent Australia's geographic position in the Southern Hemisphere. The large Commonwealth star symbolises the federation of the states and territories, and the Union Jack reflects Australia's early ties to Great Britain.  p 
+ p Australia's national colours are green and gold, the colours of its national floral emblem, the Golden Wattle.  p 
+ p The Australian coat of arms consists of a shield containing the badges of the six Australian states symbolising federation, and the national symbols of the Golden Wattle, the kangaroo and the emu. By popular tradition, the kangaroo is accepted as the national animal emblem. The Golden Wattle was proclaimed the national floral emblem in August 1988.  p 
+ p Advance Australia Fair has been Australia's official national anthem since 19 April 1984.  p 
+ p Australians all let us rejoice, br 
+For we are young and free; br 
+We've golden soil and wealth for toil; br 
+Our home is girt by sea; br 
+Our land abounds in nature's gifts br 
+Of beauty rich and rare; br 
+In history's page, let every stage br 
+Advance Australia Fair. br 
+In joyful strains then let us sing, br 
+Advance Australia Fair.  p 
+ p Beneath our radiant Southern Cross br 
+We'll toil with hearts and hands; br 
+To make this Commonwealth of ours br 
+Renowned of all the lands; br 
+For those who've come across the seas br 
+We've boundless plains to share; br 
+With courage let us all combine br 
+To Advance Australia Fair. br 
+In joyful strains then let us sing, Advance Australia Fair.  p 
+ p Australia Day is celebrated each year on 26 January. The date is the anniversary of the unfurling of the British flag at Sydney Cove in 1788.  p 
+ p Australia has 12 public holidays a year, including New Year's Day, Australia Day and Anzac Day.  p 
+ p Anzac Day, 25 April, is a national day of commemoration for all Australians who have fought in wars. It is the day the Australia and New Zealand Army Corps (ANZAC) landed at Gallipoli in Turkey in 1915 during World War I. To mark Anzac Day, Australians and New Zealanders attend ceremonies at home and around the world, including in Gallipoli. In 2015, Australia marked the centenary of the Anzac landing with a ceremony at Gallipoli.  p 
+ p R.G. Casey Building br 
+    John McEwen Crescent br 
+    Barton ACT 0221 Australia  p 
+ p Phone: +61 2 6261 1111 br 
+    Fax: +61 2 6261 3111 br 
+    ABN: 47 065 634 525  p 
+ p class="more" style="clear:both;"  a style="color:#cad6e5;" href=" Pages contact-us.aspx" Contact us  a   p 
+ p class="more" style="clear:both;"  a style="color:#cad6e5;" href=" news social pages social-media.aspx" All social media accounts  a   p 

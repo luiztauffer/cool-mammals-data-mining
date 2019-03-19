@@ -1,0 +1,28 @@
+ p class="flex-caption" Only 1,600 remain in the wild  p 
+ p class="flex-caption" A bear that doesn’t hibernate  p 
+ p class="flex-caption" Carnivore tract, herbivore taste  p 
+ p class="flex-caption" A keen climber  p 
+ p class="flex-caption" Migrating in search of fresh bamboo  p 
+ p Nowadays, only 1,600 giant pandas ( em Ailuropoda melanoleuca  em ) remain in the wild. Their population is very small but, fortunately, growing: today there are 40% more pandas than during the early 1980s, when WWF launched its conservation program in China.  p 
+ p Baby giant pandas are born blind and weigh only 90–130 grams, about the weight of a cellular phone. Reaching adulthood, they weigh up to 100–150 kilograms.  p 
+ p Despite their cute looks, pandas are still bears and can become aggressive to protect themselves if they have to. In addition, though they may seem lazy, they are very capable tree climbers and swimmers. They avoid humans in the forest, and their black and white coat serves as camouflage. Apart from their color, pandas are also distinguished by their pseudo-thumbs: part of their wrist is enlarged, serving just like a sixth digit in holding the bamboo shoots.  p 
+ p Giant pandas feed almost exclusively on leaves, stems and shoots of bamboo. However, like all bears, pandas have the digestive tract of carnivores and thus only absorb few of the nutrients in the bamboo, which has low nutritive value anyway. This is why they need to eat up to 38 kilograms of bamboo every day and spend up to 14 hours a day chewing!  p 
+ p Unlike other bears, giant pandas do not hibernate during the winter. Instead, they go down the mountain to find warmer weather and move back up to the cooler parts of the forest during the summer without ever moving away from the areas where bamboos exist in abundance.  p 
+ p Giant pandas migrate often, following the bamboo life cycle. Depending on its species, the bamboo forest dies off every 10 to 100 years. Pandas are then forced to move through the forest in search of fresh bamboo. While forests were still extensive, pandas were able to migrate normally. In recent years however, road development and deforestation related to logging or agricultural activities has greatly reduced their possibility to adapt. As their habitat shrinks, giant pandas are threatened with extinction despite having very few natural enemies.  p 
+ p Today, giant panda populations live in about 20 different isolated forest fragments. As part of our conservation program, we build “green corridors” of forest to help isolated animals maintain contact.  p 
+ p class="credit" © WWF-Indonesia Supriyanto  p 
+ p We also support local patrols against poaching, illegal logging and encroachment. br 
+  Finally, we assist local communities in making the best of the panda’s presence in a sustainable way through ecotourism.  p 
+ p The Chinese government has developed a program to study and breed giant pandas in captivity. Although this research has provided us with valuable scientific data about the species, at the same time it demonstrates the limits of artificial intervention in species conservation. Releasing pandas that were born in captivity into the wild is very difficult because they are not used to living free in the natural environment and often fail to be integrated into wild panda communities.  p 
+ p Share this   p 
+ p class="credit" © Bernard De Wetter   WWF-Canon  p 
+ p  a class="btn btn-warning btn-block" href="https:  donate.wwf.gr adoption panda-en.php?adopt_what=panda" target="_blank"  Adopt a panda   a   p 
+ p  a href="http:  shop.wwf.gr ProductDetails %CE%A0%CE%AC%CE%BD%CF%84%CE%B1 %CE%A0%CE%B1%CE%B9%CF%87%CE%BD%CE%AF%CE%B4%CE%B9%CE%B1 %CE%9B%CE%BF%CF%8D%CF%84%CF%81%CE%B9%CE%BD%CE%B1.aspx?lang=en" target="_blank" class="btn btn-block" Find it in our e-shop  a   p 
+ p id="contact-footer"  a href="https:  www.google.gr maps place Lempesi+21,+Athina+117+43 @37.9674179,23.7317557,17z data=!3m1!4b1!4m2!3m1!1s0x14a1bd113733643d:0xe188b613d869ca7f?hl=en" target="_blank" 21 Lempesi street, 117 43 Athens  a  - Tel.: 210 3314893 - Fax: 210 3247578 - Email:  span id="cloak80de9f814abbf2c9b6491b1585bf9585" This email address is being protected from spambots. You need JavaScript enabled to view it.  span  script type="text javascript" 
+				document.getElementById('cloak80de9f814abbf2c9b6491b1585bf9585').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy80de9f814abbf2c9b6491b1585bf9585 = 's&#117;pp&#111;rt' + '&#64;';
+				addy80de9f814abbf2c9b6491b1585bf9585 = addy80de9f814abbf2c9b6491b1585bf9585 + 'wwf' + '&#46;' + 'gr';
+				var addy_text80de9f814abbf2c9b6491b1585bf9585 = 's&#117;pp&#111;rt' + '&#64;' + 'wwf' + '&#46;' + 'gr';document.getElementById('cloak80de9f814abbf2c9b6491b1585bf9585').innerHTML += ' a ' + path + '\'' + prefix + ':' + addy80de9f814abbf2c9b6491b1585bf9585 + '\' '+addy_text80de9f814abbf2c9b6491b1585bf9585+' \ a ';
+		  script   p 

@@ -1,0 +1,8 @@
+ p class="btn" style="background: url( Images Uploaded Buttons btn-giraffe.jpg) no-repeat;"  a href=" 153 Buy-tickets.aspx"  strong Buy Tickets Online  strong  br   span Get your day ticket or annual pass here  span   a   p 
+ p class="btn" style="background: url( Images Uploaded Buttons btn-cams.jpg) no-repeat;"  a href=" 17 Webcams.aspx"  strong Animal Cams  strong  br   span Watch penguins &amp; elephants live!  span   a   p 
+ p class="btn" style="background: url( Images Uploaded Buttons btn-sealion.jpg) no-repeat;"  a href=" 67 Adopt-an-Animal.aspx"  strong Adopt an Animal  strong  br   span The ideal gift for someone special.  span   a   p 
+ p class="irish" 
+        Spadán déladhrach
+      p 
+ p The slowest mammals in the world, sloths spend most of their life hanging from branches, eating, sleeping, mating and even giving birth upside down. They sleep for around 15 hours a day and even when awake remain motionless for hours to conserve energy and prevent attention from predators. They have difficulty moving on land but are surprisingly good swimmers and will sometimes drop from the treetops into water.  p 
+ p Sloths have excellent eyesight and, unlike most mammals, can turn their heads nearly 280 degrees.  p 

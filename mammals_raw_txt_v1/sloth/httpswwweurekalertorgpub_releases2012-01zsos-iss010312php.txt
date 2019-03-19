@@ -1,0 +1,25 @@
+ p class="aboutblurb" EurekAlert! provides embargoed and breaking science news you can't afford to miss.  p 
+ p class="aboutblurb" EurekAlert! offers a one-stop science news distribution service you can trust.  p 
+ p class="sub" EurekAlert! is a service of the American Association for the Advancement of Science.  p 
+ p class="meta_institute" Zoological Society of San Diego  p 
+ p Identifying species, separating out closely related species and managing each type on its own, is an important part of any animal management system.  Some species, like the two types of two-toed sloth, are so close in appearance and behavior that differentiation can be challenging. Conservation researchers at San Diego Zoo Global's Institute of Conservation Research have developed a mechanism for identifying these reclusive species from each other.  p 
+ p "Species identification of two-toed sloths has always been problematic in the wild and captivity due to their large overlap in external morphology. " said Oliver Ryder Ph.D., Director of Genetics for San Diego Zoo Global's Institute of Conservation Research. "Through this effort we have described a low-cost easy-to-use molecular tool for species identification that will help to improve management of two-toed sloth species so that we can ensure that they are properly represented on the ark of rare and endangered species."  p 
+ p The study, published in the December 2011 issue of  i Zoo Biology  i , describes a PCR-based technique that allows species identification of two-toed sloths without requiring sequencing, by using a mitochondrial marker (COI gene) and restriction enzyme assay. It also reports intra- and inter-specific patterns of chromosome variation in captive two-toed sloths. The chromosome number in Hoffman's two-toed sloths showed low variation ranging only between 50 and 51. In contrast, Linnaeus's two-toed sloths appeared to vary widely, with diploid numbers ranging from 53 to 67, suggesting distinct geographic groups.   p 
+ p The San Diego Zoo Institute for Conservation Research is dedicated to generating, sharing and applying scientific knowledge vital to the conservation of animals, plants and habitats worldwide. The work of the Institute includes onsite research efforts at the San Diego Zoo and the San Diego Zoo Safari Park (historically referred to as Wild Animal Park), laboratory work at the Arnold and Mabel Beckman Center for Conservation Research, and international field programs involving more than 235 researchers working in 35 countries. In addition to the Beckman Center for Conservation Research, the Institute also operates the Anne and Kenneth Griffin Reptile Conservation Center, the Frozen Zoo® and Native Seed Gene Bank, the Keauhou and Maui Hawaiian Bird Conservation Centers, Cocha Cashu Biological Research Station and the Desert Tortoise Conservation Center. The Zoo also manages the 1,800-acre San Diego Zoo Safari Park, which includes a 900-acre biodiversity reserve, and the San Diego Zoo. The important conservation and science work of these entities is supported in part by The Foundation of the Zoological Society of San Diego.
+  p 
+ p 
+
+
+                p 
+ p  strong Disclaimer:  strong  AAAS and EurekAlert! are not responsible for the accuracy of news releases posted to EurekAlert! by contributing institutions or for the use of any information through the EurekAlert system.  p 
+ p  strong Media Contact  strong   p 
+ p Christina Simmons br 
+ a href="mailto:csimmons@sandiegozoo.org" csimmons@sandiegozoo.org  a  br 
+619-685-3291 br 
+
+
+  p 
+ p  a href="http:  www.sandiegozoo.org" target="_blank" http:  www. wbr sandiegozoo. wbr org  i class="fa fa-sign-out"   i   wbr   wbr   a   p 
+ p class="meta_institute" Zoological Society of San Diego  p 
+ p class="copy hidden-xs" Copyright © 2019 by the American Association for the Advancement of Science (AAAS)  p 
+ p class="copy visible-xs" Copyright © 2019 by the American Association for the Advancement of Science (AAAS)  p 

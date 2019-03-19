@@ -1,0 +1,37 @@
+ p  strong Name  strong   p 
+ p  span style="color: #000000;" African elephants  span   p 
+ p  strong Scientific Name  strong   p 
+ p  span style="color: #000000;"  em Loxodonta africana  em   span   p 
+ p  strong Characteristics  strong   p 
+ p  span style="color: #000000;" The African elephant is bigger than its Asian cousin and is actually the largest animal walking on earth. Present in 37 African countries, they are majestic creatures, easily distinguished by their large ears and trunk.  span   p 
+ p  span style="color: #000000;" The African elephant has two family members – the savanna (or bush) elephant and the forest elephant. The savanna elephant lives in the open plains of Africa, whilst the forest elephant lives in the huge rainforests of Africa.  span   p 
+ p  span style="color: #000000;" The elephant’s great ears help to cool the animal as they circulate blood through a large surface area, helping transfer heat energy away. Elephants also cool themselves down by spraying water over themselves with their trunk and through covering themselves in mud. The mud keeps them cool, stops them from burning in the sun and prevents insect bites.  span   p 
+ p  strong Diet  strong   p 
+ p  span style="color: #000000;" Elephants are herbivores with huge appetites! They eat roots, grasses, bark, leaves and fruit.  span   p 
+ p  strong Size Fact  strong   p 
+ p  span style="color: #000000;" African elephants can grow to 4 meters tall!  span   p 
+ p  strong Food Fact  strong   p 
+ p  span style="color: #000000;" Elephants eat 135kg of food per day!  span   p 
+ p  strong Fun Fact  strong   p 
+ p  span style="color: #000000;" Female elephants are pregnant for 22 months- so it’s a long wait for the baby!  span   p 
+ p  strong IUCN Red list  strong   p 
+ p  span style="color: #000000;" African elephants are classified as Vulnerable on the IUCN red list.  span   p 
+ p  strong Where do I live?  strong   p 
+ p  span style="color: #000000;" African elephants can be found throughout sub-Saharan Africa and the rainforests of central and West Africa.  span   p 
+ p  strong Our animals  strong   p 
+ p  span style="color: #000000;" Our elephants are called Janu, M’changa and Shaka.  span   p 
+ p  strong Daily talk  strong   p 
+ p  span style="color: #000000;" The elephant keeper talk takes place at 1pm daily in Elephant Eden.    span   p 
+ p class="address" Noah's Ark Zoo Farm 
+Clevedon Road 
+Wraxall 
+Bristol 
+BS48 1PG  p 
+ p  a href=" contact-us" target="_blank" class="view-map bold" View on map  a   p 
+ p February - November  br 
+						Monday - Saturday, 10.30am- 5pm. We are open on bank holidays.
+				  p 
+ p December &amp; January  br 
+						Monday - Saturday, 10.30am- 4pm.
+				  p 
+ p class="closed bold" We are closed on Sundays  p 

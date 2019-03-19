@@ -1,0 +1,62 @@
+ p Jennifer has taught elementary levels K-3 and has master's degrees in elementary education and curriculum instruction and educational leadership.  p 
+ p class="nowrap" style="font-style: italic" Want to watch this again later?  p 
+ p  span class="nowrap" Log in or sign up to add this  span   span class="nowrap" lesson to a Custom Course.  span   p 
+ p class="nowrap"  a href=" academy login.html" data-cname="cust_courses_lesson_cta_login" test-id="cust_courses_lesson_cta_login" Login  a   span style="padding: 0 1em; font-size: smaller" or  span   a data-toggle="modal" href="#partialRegFormModal" data-cname="cust_courses_lesson_cta_register" test-id="cust_courses_lesson_cta_register" class="open-reg-form" Sign up  a   p 
+ p What's fuzzy and cuddly and likes to sleep in trees? A koala! These special animals have captured many people's hearts for being so cute! You may know a lot of cool facts about koalas, and maybe you even have a koala poster or stuffed animal. But what do you know about where they live? Let's explore the  b habitat  b , or natural living environment, of a koala.   p 
+ p In order to learn about koala habitats, you will need to travel all the way to Australia. Koalas are native to this island continent. It is believed that the ancestors of koalas emerged from rainforests, but now koalas live in different parts of Australia. Koalas can hang out near beaches and islands, or further inland in wooded areas.   p 
+ p If you could think of the perfect place to live, what would you need? Food and friends? That's exactly what koalas look for in their perfect habitat! Koalas like to be around each other, so they won't live isolated and away from their buddies. They also must have access to trees, because they are  b herbivores  b . This means that they eat only plants. In particular, they love a special type of tree called a  b eucalyptus  b  tree. These types of trees can be found throughout Australia, making it a perfect place for them to live.   p 
+ p Would you think that a tree would make a good bed? You would if you were a koala! Another reason why koalas need trees in their habitats is because they spend much of their time sleeping in trees. In fact, koalas are known to sleep up to 18 hours a day. So, how do they sleep in such a strange bed? They have sharp claws that help them hang on to the tree bark. It's not unusual to walk through a forest in Australia and see many koalas curled up in trees snoozing away.   p 
+ p class="actionMessage" Get access risk-free for 30 days,
+			 br just create an account.  p 
+ p  em No obligation, cancel anytime.  em   p 
+ p  em Select a subject to preview related courses:  em   p 
+ p Sadly, the habitat that koalas love is disappearing. Scientists believe that well over half of their habitat has been destroyed due to human development. In order to build homes and businesses, the trees that provide food and shelter for koalas are being cut down. Even more frightening is that their remaining habitat is not well-protected. However, there are groups and organizations that are working hard to keep koala habitats safe from further development.   p 
+ p Koalas are marsupials that enjoy the  b habitat  b  of coastal and wooded areas of Australia. In order for koalas to choose an area for their habitat, they must have access to other koalas and to trees like  b eucalyptus  b . Koalas are  b herbivores  b , but sadly the trees they depend on for survival habitats are disappearing due to increases in human development.  p 
+ p 
+				    span class="icon-unlock"   span 
+				   To unlock this lesson you must be a Study.com Member.
+				    br class="visible-xs" 
+
+				    a data-toggle="modal" href="#partialRegFormModal" data-cname="transcript_create_your_account" test-id="transcript_create_your_account" data-track-visible class="open-reg-form" Create your account  a 
+			     p 
+ p class="login-text" Already a member?  a data-cname="transcript_log_in" test-id="transcript_log_in" href=" academy login.html" Log In  a   p 
+ p class="login-text" 
+		Already registered?
+		
+		 a href=" academy login.html?cta=teacherPromo" class="standardLink" data-cname="teacher-promo-paywall__login" test-id="teacher-promo-paywall__login" 
+			Login here for access
+		  a 
+	  p 
+ p Did you know… We have over 160 college
+						courses that prepare you to earn
+						credit by exam that is accepted by over 1,500 colleges and universities. You can test out of the
+						first two years of college and save thousands off your degree. Anyone can earn
+						credit-by-exam regardless of age or education level.  p 
+ p To learn more, visit our  a href=" academy try earn-college-credit.html" data-cname="earning_credit_link" test-id="earning_credit_link" Earning Credit Page  a   p 
+ p Not sure what college you want to attend yet? Study.com has thousands of articles about every
+							imaginable degree, area of
+							study
+							and career path that can help you find the school that's right for you.  p 
+ p Get the unbiased info you need to find the right school.  p 
+ p Browse an area of study or degree level.  p 
+ p class="visible-xs"  span class="icon-arrow-left"   span  Back To Course  p 
+ p 
+							  span class="numChapters" 34  span  chapters |
+							  span class="numLessons" 317  span  lessons
+							 
+						  p 
+ p Next Lesson  p 
+ p ©  copyright 2003-2019 Study.com.
+			All other trademarks and copyrights are the property of their respective owners.
+			All rights reserved.
+		  p 
+ p Your Cart is Empty. Please Choose a Product.  p 
+ p Study.com video lessons have helped over  em class="red bold" 30 million  em 
+										students.  p 
+ p "I learned more in  em class="teal bold" 10 minutes  em  than 1 month of chemistry classes"  p 
+ p - Ashlee P.  p 
+ p "I aced the CLEP exam and earned  em class="green bold" 3 college credits!  em "  p 
+ p - Clair S.  p 
+ p test-id="testimonial_control_text" "The videos have changed the way I teach! The videos on Study.com accomplish in
+							 em class="red bold" 5 minutes  em  what would take me an entire class."  p 
+ p - Chris F.  p 

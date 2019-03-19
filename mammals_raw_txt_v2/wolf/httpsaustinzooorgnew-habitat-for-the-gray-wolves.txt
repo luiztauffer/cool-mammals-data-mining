@@ -1,0 +1,36 @@
+ p class="post_categories" Categories:  a href="https:  austinzoo.org category latest-news " rel="category tag" Latest News  a , a href="https:  austinzoo.org category events " rel="category tag" Zoo Archive  a   p 
+ p Gray wolves Aspen, Denali, Ivy, Juno and Lindy have moved into their new larger habitat at the front of the Zoo!  p 
+ p  strong  center PRICING &amp; ONLINE TICKETS  center   strong   p 
+ p  strong  center GIFT CERTIFICATES  center   strong   p 
+ p  strong  center BIRTHDAYS  center   strong   p 
+ p  strong  center CALENDAR OF EVENTS  center   strong 
+  p 
+ p  strong  center WISH LIST  center   strong   p 
+ p  strong  center SPONSOR AN ANIMAL  center   strong   p 
+ p  strong  center MEMBERS  center   strong   p 
+ p  strong  center EDUCATION  center   strong   p 
+ p  big  strong  span style="color: #e5dea0;" OUR HOURS OF OPERATION  span   strong   big  br 
+ strong Regular Hours  strong  from February 1 – October 31 br 
+Open daily from 9:30am – 6:00pm br 
+No one is admitted after 5:00pm.  p 
+ p  strong Please Note:  strong  Austin Zoo closes early the 2nd  span class="aBn" tabindex="0" data-term="goog_1383916424"  span class="aQJ" Saturday  span   span  of May, the final  span class="aBn" tabindex="0" data-term="goog_1383916425"  span class="aQJ" Sunday  span   span  in October and the Friday before Easter. On these days, our admissions office closes at  span class="aBn" tabindex="0" data-term="goog_1383916427"  span class="aQJ" 4pm  span   span  and the Zoo closes at  span class="aBn" tabindex="0" data-term="goog_1383916428"  span class="aQJ" 5pm.  span   span   p 
+ p  font color="#E5DEA0"  big  strong MAP AND DIRECTIONS  strong   big   font   p 
+ p 10808 Rawhide Trail, Austin, TX 78736 br 
+Phone: (512) 288-1490 br 
+Fax: (512) 288-3972  p 
+ p  big  strong  span style="color: #e5dea0;" OUR MISSION STATEMENT  span   strong   big  br 
+The mission of Austin Zoo is to assist animals in need through rescue, rehabilitation and education. At our rescue zoo, children and adults alike can appreciate our Hill Country setting and enjoy a close-up experience with our rescued animals. Austin Zoo is a private, non-profit zoo, with over 300 animals across a hundred different species. Come visit us!  p 
+ p    p 
+ p  big  strong  span style="color: #e5dea0;" MORE GOOD STUFF  span   strong   big  br 
+ a href="https:  austinzoo.org contact-us " CONTACT US  a  br 
+ a href="https:  austinzoo.org employment " EMPLOYMENT  a  br 
+ a href="https:  austinzoo.org volunteerinterns " VOLUNTEERS  a  br 
+ a href="https:  austinzoo.org things-to-know " THINGS TO KNOW BEFORE YOU VISIT  a  br 
+ a href="https:  austinzoo.org wp-content uploads 2018 05 Austin-Zoo-Map-Final-May-2018.pdf" AUSTIN ZOO MAP  a   p 
+ p  big  strong  font color="#E5DEA0" CLICK TO CONTRIBUTE OR GET SOCIAL!  font   strong   big   p 
+ p  a class="twitter-follow-button" href="https:  twitter.com TheAustinZoo" data-show-count="false" data-size="large" Follow @TheAustinZoo  a  br 
+ script !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p= ^http: .test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+':  platform.twitter.com widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');  script   p 
+ p  big  strong  span style="color: #e5dea0;" WHAT’S NEW AT AUSTIN ZOO? SIGN UP HERE TO STAY UP TO DATE!  span   strong   big  br 
+
+                  p 
+ p Austin Zoo © Maintained By  a href="https:  heartoftexasit.com" HOT IT  a   p 
