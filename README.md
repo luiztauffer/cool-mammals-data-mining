@@ -3,6 +3,9 @@ This is the repository for the data mining and visualization part of the Cool Ma
 
 In summary, it aims to run an automatic and unsupervised data mining algorithm to find out where a given mammal lives. It does so by scraping all the pages from a Google search like 'tiger animal habitat'. The text content of these scraped web pages is then saved locally and countries names are identified using Named Entity Recognition funtions.
 
-For example, this is what one could find for sloths:
+For example, this is what one could find for tigers:
+
+![tiger1](https://github.com/luiztauffer/cool-mammals-data-mining/blob/master/tiger_bars.png)
 
 
+![tiger2](https://github.com/luiztauffer/cool-mammals-data-mining/blob/master/tiger_map.JPG)
