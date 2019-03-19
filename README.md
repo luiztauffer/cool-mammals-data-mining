@@ -1,5 +1,5 @@
 # The Cool Mammals Project - Data Mining
-This is the repository for the data mining and visualization part of the Cool Mammals project. A full blog post detailing it can be found at [Guacamole Data Science](https://luiztauffer.github.io/guacamole-data-science/posts/2019-03-16-mammals-data-mining/).
+This is the repository for the data mining and visualization part of the Cool Mammals project. A series of blog posts detailing it can be found at [Guacamole Data Science](https://luiztauffer.github.io/guacamole-data-science/posts/2019-03-17-cool-mammals-project/).
 
 In summary, it aims to run an automatic and unsupervised algorithm to find out where a given mammal lives. It works in three steps:
 1. Scraping all the pages from a Google search like 'tiger animal habitat' with [Scrapy](https://scrapy.org/). The text content of these scraped web pages is then saved locally; 
